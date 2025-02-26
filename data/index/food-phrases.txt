@@ -1,0 +1,2 @@
+// referenced by 'food'
+cat food // 'cat food' would then have its own index file.

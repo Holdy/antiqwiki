@@ -1,5 +1,49 @@
 <html>
+    <head>
+        <script src="./index.js" ></script>
+        <style>
+            #main-row {
+                display:flex;
+                flex-direction: row;
+            }
+            #main-column {
+                display: flex;
+                flex-direction: column;
+            }
+            #main-content {
+                flex:2;
+                margin: 5px;
+            }
+     
+        </style>
+    </head>
     <body>
-        hello!
+            <div id="nav-row">
+            Nav
+            </div>
+            
+            <br/>
+
+            <div id="main-column">
+            <div id="main-top">top</div>
+
+            <div id="main-row">
+
+            <div id="main-left">left</div>
+
+            <div id="main-content">
+                <div id="main-header">Main header</div>
+                <div id="main-body">
+                    stuff
+                </div>
+                <div id="main-footer">Main footer</div>
+            </div>
+
+            <div id="main-right">right</div>
+            </div>
+
+            <div id="main-bottom">bottom</div>
+
+        </div>
     </body>
 </html>

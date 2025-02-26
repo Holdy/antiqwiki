@@ -1,0 +1,9 @@
+// because 'cat' appears in some phrases - this document tells the engine to look at another index file
+// command - see 'cat' phrases
+> cat.phrases
+
+// doc reference.
+s4/l1234-the-truth-about-cats
+s12/l23254-cat-food-facts
+
+> cat.2 // ( the second cat file)

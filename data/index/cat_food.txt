@@ -1,0 +1,6 @@
+// This is an index entry for a phrase
+
+// this document will also be referenced under 'cat' and 'food'
+s9/l1-cat-food-is-yum
+
+
