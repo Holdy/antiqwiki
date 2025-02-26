@@ -1,2 +1,5 @@
+instanceOf: book
 title: The Fairy Mythology
 author: Thomas Keightley
+source: https://www.gutenberg.org/ebooks/41006
+published: 1789-1872

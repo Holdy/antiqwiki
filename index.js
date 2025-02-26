@@ -41,14 +41,16 @@ document.addEventListener("DOMContentLoaded", async () => {
         if (result.ok) {
             const textData = await result.text();
             const contentHtml = `<div><pre>${textData}</pre></div>`;
-            document.getElementById("main-content").innerHTML = contentHtml;
+            document.getElementById("main-body").innerHTML = contentHtml;
         }
     }
 
-    toggleDisplayed('main-left',false);
+    toggleDisplayed("main-left", false);
     toggleDisplayed("main-right", false);
     toggleDisplayed("main-top", false);
     toggleDisplayed("main-bottom", false);
+    toggleDisplayed("main-header", false);
+    toggleDisplayed("main-footer", false);
     toggleDisplayed("nav-row", false);
 
     // lets try a search.
