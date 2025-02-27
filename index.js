@@ -7,6 +7,24 @@ const queryString =
         : decodeURIComponent(window.location.href.substring(qIndex + 1));
 console.log(`queryString: [${queryString}]`);
 
+//#region text prep
+
+const prepareText = (text) => {
+    const preppedLines = [];
+    for (let line of text.split('\n')){
+        const testLine = line.trim();
+        if (testLine && testLine[0]==='_' && testLine[testLine.length-1]==='_') {
+            // looks line the whole line is a title
+            line = `<h2>${line.replace(/_/g,' ').trim()}</h2>`
+        }
+        preppedLines.push(line);
+    }
+
+    return preppedLines.join('\n').replace(/\<\/h2\>\n/g,'</h2>').replace(/\n{2}/g, '<br/><br/>');
+};
+
+//#endregion text prep
+
 const searchWord = async (word) => {
     if (!word || (!word.trim())) {
         return;
@@ -40,7 +58,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         const result = await fetch("./data/content/" + parts[0] + ".txt");
         if (result.ok) {
             const textData = await result.text();
-            const contentHtml = `<div><pre>${textData}</pre></div>`;
+            const contentHtml = prepareText(textData);
             document.getElementById("main-body").innerHTML = contentHtml;
         }
     }
