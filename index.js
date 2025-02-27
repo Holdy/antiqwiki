@@ -54,8 +54,15 @@ const toggleDisplayed = (id, displayed) => {
 
 document.addEventListener("DOMContentLoaded", async () => {
     if (queryString) {
-        const parts = queryString.split("_");
-        const result = await fetch("./data/content/" + parts[0] + ".txt");
+        const contentIdMatch = queryString.match(/s\d+[\/-]l\d+/i);
+
+        if (!contentIdMatch) {
+            return;
+        }
+        contentId = contentIdMatch[0].toLowerCase();
+        console.log("itemId : [" + contentId + "]");
+
+        const result = await fetch("./data/content/" + contentId + ".txt");
         if (result.ok) {
             const textData = await result.text();
             const contentHtml = prepareText(textData);
