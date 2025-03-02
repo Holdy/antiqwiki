@@ -1,0 +1,5 @@
+source: http://gutenberg.org/ebooks/39752
+title: Fairy Legends and Traditions of the South of Ireland
+author: Thomas Crofton Croker
+instanceOf: book
+published: 1844

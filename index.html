@@ -15,8 +15,25 @@
                 margin: 5px;
             }
             #main-header {
+                display:flex;
+                flex-direction:row;
                 padding: 5px;
                 background-color: #ccc
+            }
+            #main-footer-end, #main-header-end {
+                cursor:pointer
+            }
+            #main-footer {
+                display:flex;
+                flex-direction:row;
+                padding: 5px;
+                background-color: #ccc
+            }
+            #main-header-content {
+                flex:2;
+            }
+            #main-footer-content {
+                flex:2;
             }
         </style>
     </head>
@@ -34,14 +51,20 @@
             <div id="main-left"></div>
 
             <div id="main-content">
-                <div id="main-header"></div>
+                <div id="main-header">
+                    <div id="main-header-content"></div>
+                    <div id="main-header-end" onclick="go('previous')">(previous)</div>
+                </div>
                 <div id="main-body">
                     This place is but a whisper of what it will become. <br/>
                     Like an untouched scroll waiting for the storyteller's quill, this page slumbers in quiet anticipation. <br/>
                     Soon, words will weave their magic, paths will unfold, and secrets will stir beneath the surface. <br/>
-                    But for now, be patient - every great tale begins in silence.<br/>
+                    But for now, be patient - every great <a href="/?The_Mermaid_wife_s1-l7410">tale</a> begins in silence.<br/>
                 </div>
-                <div id="main-footer"></div>
+                <div id="main-footer">
+                    <div id="main-footer-content"></div>
+                    <div id="main-footer-end" onclick="go('next')">(next)</div>
+                </div>
             </div>
 
             <div id="main-right"></div>

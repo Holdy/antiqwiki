@@ -1,0 +1,5 @@
+instanceOf:book
+source:https://www.gutenberg.org/ebooks/35862
+title:Celtic Folk and Fairy Tales
+author:Joseph Jacobs and John Dickson Batten
+published: 1895
