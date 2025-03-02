@@ -2,8 +2,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 function looksLikeTitle (text:string): boolean {
-    if (text.match(/^ *[\p{L} \-'’\.]+ *$/u) && text === text.toUpperCase()) {
-
+    if (text.match(/^ *[\p{L} \-'’\.:]+ *$/u) && text === text.toUpperCase()) {
         if (text.match(/^ *[XILV]+. *$/)) {
             return false;
         }
@@ -23,66 +22,59 @@ function looksLikeTitle (text:string): boolean {
     return false;
 }
 
-function looksLikeContentTrailer(line :string): boolean {
-    if (line.indexOf("END OF THE PROJECT GUTENBERG EBOOK") !== -1) {
-        return true;
-    }
-        return line.indexOf("THE FULL PROJECT GUTENBERG LICENSE") !== -1;
-}
-
-function looksLikeBlockEnd(text:string): boolean {
+function looksLikeBlockEnd(text: string): boolean {
     if (text.match(/^[ \*]+$/)) {
         // asterisc separator
         return true;
     }
-    if (text.match(/^FOOTNOTES: {0,}$/)){
+    if (text.match(/^FOOTNOTES: {0,}$/)) {
         return true;
-    } 
+    }
     return false;
 }
 
-function writeBlockFile (directoryName, lines: string[], blockLineStart:number): void {
-    fs.writeFileSync(path.join(directoryName,`l${blockLineStart}.txt`),lines.join('\n'));
+function writeBlockFile(
+    directoryName,
+    lines: string[],
+    blockLineStart: number
+): void {
+    fs.writeFileSync(
+        path.join(directoryName, `l${blockLineStart}.txt`),
+        lines.join("\n")
+    );
 }
 
-function processFile(fileName:string) {
+function processFile(fileName: string) {
     console.log(`Reading file ${fileName}`);
 
-    const directorySep = fileName.lastIndexOf('/');
+    const directorySep = fileName.lastIndexOf("/");
     if (!directorySep) {
-        console.error('Could not find directory separator in file path');
+        console.error("Could not find directory separator in file path");
     }
     const outputDirectory = fileName.substr(0, directorySep);
 
-    const lines = fs.readFileSync(fileName).toString().split('\n');
+    const lines = fs.readFileSync(fileName).toString().split("\n");
 
     let blockStartLine = 0;
-    const blockLines:string[] = [];
+    const blockLines: string[] = [];
     let currentLine = 0;
     for (const line of lines) {
         console.log(line);
         currentLine++;
 
-        if (looksLikeContentTrailer(line)) {
+        if (line.startsWith("!~")) {
             break; // out of loop - no more lines.
         }
 
-        if (looksLikeBlockEnd(line)) {
+        if (line.startsWith("~")) {
+            console.log("title!");
             if (blockStartLine != 0) {
-                writeBlockFile(outputDirectory,blockLines, blockStartLine);
+                writeBlockFile(outputDirectory, blockLines, blockStartLine);
                 blockStartLine = 0;
                 blockLines.length = 0;
             }
-        } 
-        else if (looksLikeTitle(line)) {
-            console.log('title!');
-               if (blockStartLine != 0) {
-                   writeBlockFile(outputDirectory,blockLines, blockStartLine);
-                   blockStartLine = 0;
-                   blockLines.length = 0;
-               }
-               blockStartLine = currentLine;
-               blockLines.push(line);
+            blockStartLine = currentLine;
+            blockLines.push(line.substring(1));
         } else {
             // its a line of the current block (if we're in one)
             if (blockStartLine) {
@@ -94,7 +86,7 @@ function processFile(fileName:string) {
         writeBlockFile(outputDirectory, blockLines, blockStartLine);
     }
 
-    console.log('would output to: ' + outputDirectory);
+    console.log("would output to: " + outputDirectory);
 }
 
 

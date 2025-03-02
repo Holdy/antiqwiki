@@ -1,4 +1,4 @@
-The Project Gutenberg eBook of The Fairy Mythology
+~The Project Gutenberg eBook of The Fairy Mythology
     
 This ebook is for the use of anyone anywhere in the United States and
 most other parts of the world at no cost and with almost no restrictions
@@ -39,7 +39,7 @@ available by The Internet Archive/American Libraries.)
 
 
 
-[Illustration]
+~[Illustration]
 
 
 
@@ -99,7 +99,7 @@ REPRINTED FROM STEREOTYPE PLATES BY WILLIAM CLOWES AND SONS, LIMITED.
 
 
 
-                                  TO
+~                                  TO
 
                          THE RIGHT HONOURABLE
 
@@ -123,7 +123,7 @@ REPRINTED FROM STEREOTYPE PLATES BY WILLIAM CLOWES AND SONS, LIMITED.
 
 
 
-                               PREFACE.
+~                               PREFACE.
 
 
 A preface is to a book what a prologue is to a play--a usual, often
@@ -254,7 +254,7 @@ Whatever errors have been discovered are corrected in this impression.
 
 
 
-                               CONTENTS
+~                               CONTENTS
 
   INTRODUCTION.                                          Page
     Origin of the Belief in Fairies                         1
@@ -469,7 +469,7 @@ Whatever errors have been discovered are corrected in this impression.
 
 
 
-                         THE FAIRY MYTHOLOGY
+~                         THE FAIRY MYTHOLOGY
 
 
 
@@ -484,7 +484,7 @@ Whatever errors have been discovered are corrected in this impression.
                                         CHAUCER.
 
 
-                   ORIGIN OF THE BELIEF IN FAIRIES.
+~                   ORIGIN OF THE BELIEF IN FAIRIES.
 
 
 According to a well-known law of our nature, effects suggest causes;
@@ -570,7 +570,7 @@ whose deeds we propose to record. We write of FAIRIES, FAYS, ELVES,
 _aut alio quo nomine gaudent_.
 
 
-                      ORIGIN OF THE WORD FAIRY.
+~                      ORIGIN OF THE WORD FAIRY.
 
 Like every other word in extensive use, whose derivation is not
 historically certain, the word Fairy has obtained various and opposite
@@ -942,7 +942,7 @@ Fairy-land; and thence, casting a glance at the Faerie Queene, advance
 to the mountains and forests of the North, there to trace the origin
 of the light-hearted, night-tripping elves.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [1] The mark on Adam's Peak in Ceylon is, by the Buddhists, ascribed to
 Buddha; by the Mohammedans, to Adam. It reminds one of the story of the
@@ -1077,7 +1077,7 @@ by the poets.
       To you; a PERI I have ne'er beheld.
 
 
-                           PERSIAN ROMANCE.
+~                           PERSIAN ROMANCE.
 
 The pure and simple religion of ancient Persia, originating, it is
 said, with a pastoral and hunting race among the lofty hills of
@@ -1236,7 +1236,7 @@ legends hereafter to be noticed.[36]
 
 
 
-                           _The Peri-Wife._
+~                           _The Peri-Wife._
 
 The son of a merchant in a city of Hindostan, having been driven from
 his father's house on account of his undutiful conduct, assumed the
@@ -1307,7 +1307,7 @@ from the path of understanding, he remained lost to all the bounties
 of fortune and the useful purposes of life."
 
        *       *       *       *       *
-
+~
 The Peri has been styled "the fairest creation of poetical imagination."
 No description can equal the beauty of the female Peri,[38] and the
 highest compliment a Persian poet can pay a lady is to liken her to one
@@ -1367,7 +1367,7 @@ fabled country and its kings being Arabic. Had we it as it was before
 the Arabs forced their law on Persia, we should doubtless find it more
 consistent in all its parts, more light, fanciful, and etherial.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [22] See D'Herbelot, Richardson's Dissertation, Ouseley's Persian
 Miscellanies, Wahl in the Mines de l'Orient, Lane, Thousand and One
@@ -1474,7 +1474,7 @@ ventured to change it.
 
 
 
-                           ARABIAN ROMANCE.
+~                           ARABIAN ROMANCE.
 
 The Prophet is the centre round which every thing connected with Arabia
 revolves. The period preceding his birth is regarded and designated as
@@ -1602,7 +1602,7 @@ disease; so that to be cured of it men and women assembled, and with
 all their strength cried out, _O mother of Ankood, excuse us! Ankood
 is dead, and we did not mind it!_
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [42] Compare Antar and the Suspended Poems (translated by Sir W.
 Jones) with the later Arabic works. Antar, though written by Asmai the
@@ -1641,7 +1641,7 @@ _seq._
 
 
 
-                         MIDDLE-AGE ROMANCE.
+~                         MIDDLE-AGE ROMANCE.
 
       Ecco quei che le carte empion di sogni,
       Lancilotto, Tristano e gli altri erranti,
@@ -2138,7 +2138,7 @@ Closely connected with the Fairies is the place of their abode, the
 region to which they convey the mortals whom they love, 'the happy
 lond of Faery.'
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [51] On the subjects mentioned in this paragraph, see Tales and
 Popular Fictions, chap. ii. and iii.
@@ -2298,7 +2298,7 @@ analysis.
 
 
 
-                             FAIRY LAND.
+~                             FAIRY LAND.
 
       There, renewed the vital spring,
       Again he reigns a mighty king
@@ -2682,7 +2682,7 @@ From the glimmering of the morning star of English poetry, the
 transition is natural to its meridian splendour, the reign of
 Elizabeth, and we will now make a few remarks on the poem of Spenser.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [74] Avalon was perhaps the Island of the Blest, of Celtic mythology,
 and then the abode of the Fees, through the Breton Korrigan. Writers,
@@ -2760,7 +2760,7 @@ or the region into which Dame Heurodis was taken.
 
 
 
-                       SPENSER'S FAERIE QUEENE.
+~                       SPENSER'S FAERIE QUEENE.
 
       A braver lady never tript on land,
       Except the ever-living Faerie Queene,
@@ -2857,7 +2857,7 @@ doughty champion's dream was evidently the original of Arthur's.
       And at her parting said, she queen of Faries hight.
 
        *       *       *       *       *
-
+~
         From that day forth I cast in carefull mynd
         To seek her out with labor and long tyne,
         And never vow to rest till her I fynd--
@@ -2961,7 +2961,7 @@ and join the Elves of the popular creed, tracing their descent from
 the Duergar of northern mythology, till we meet them enlivening the
 cottage fireside with the tales of their pranks and gambols.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [87] That is, _elfe_ is _alive_.
 
@@ -2981,7 +2981,7 @@ note on B. Jonson, vol. ii. p. 202.
 
 
 
-                           EDDAS AND SAGAS.
+~                           EDDAS AND SAGAS.
 
       En sång om strålende Valhalla,
       Om Gudar och Gudinnar alla.
@@ -3099,7 +3099,7 @@ except that there would appear to be some foundation for a distinction
 between the Dwarfs and the Dark Alfs.[98]
 
 
-                              THE ALFAR.
+~                              THE ALFAR.
 
       Ther ro meth Alfum.
                        BRYNHILDAR QUIDA.
@@ -3186,7 +3186,7 @@ Anglo-Saxon literature. In the English language, Elf, Elves, and their
 derivatives are to be found in every period, from its first formation
 down to this present time.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [90] _Edda_ signifies grandmother. Some regard it as the feminine of
 _othr_, or _odr_, wisdom.
@@ -3273,7 +3273,7 @@ of a belief in analogous classes of spirits.
 
 
 
-                             THE DUERGAR.
+~                             THE DUERGAR.
 
       By ek fur jörth nethan,
       A ek, undir stein, stath.
@@ -3319,7 +3319,7 @@ powers of nature, as occur in the following tale from the Edda.
 
 
 
-                        _Loki and the Dwarf._
+~                        _Loki and the Dwarf._
 
 Loki, the son of Laufeiar, had out of mischief cut off all the hair of
 Sif. When Thor found this out he seized Loki, and would have broken
@@ -3402,7 +3402,7 @@ on a subterranean anvil, may suggest that the natural cause of thunder
 is to be sought in the earth.
 
 
-                      _Thorston and the Dwarf._
+~                      _Thorston and the Dwarf._
 
 When spring came, Thorston made ready his ship, and put twenty-four
 men on board of her. When they came to Vinland, they ran her into a
@@ -3457,7 +3457,7 @@ men, and it was better for him to have made this voyage than to have
 stayed at home.[116]
 
 
-                      _The Dwarf-Sword Tirfing._
+~                      _The Dwarf-Sword Tirfing._
 
 Suaforlami, the second in descent from Odin, was king over Gardarike
 (Russia). One day he rode a-hunting, and sought long after a hart, but
@@ -3539,7 +3539,7 @@ slaughter; but among the slain was found his own brother Laudur. And so
 ends the history of the Dwarf-sword Tirfing.[119]
 
        *       *       *       *       *
-
+~
 Like Alf, the word Duergr has retained its place in the Teutonic
 languages. Dverg[120] is the term still used in the north; the Germans
 have Zwerg, and we Dwarf,[121] which, however, is never synonymous
@@ -3566,7 +3566,7 @@ slipping through the fissures and interstices of rocks and stones.
 Similar observations led to the representation of the wild and awful
 powers of brute nature under the form of huge giants.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [107] Some think, but with little reason, they were originally a part
 of the Finnish mythology, and were adopted into the Gothic system.
@@ -3637,7 +3637,7 @@ lastly, _dwarf_, as in old Swedish.
 
 
 
-                             SCANDINAVIA.
+~                             SCANDINAVIA.
 
       De vare syv og hundrede Trolde,
         De vare baade grumme og lede,
@@ -3698,7 +3698,7 @@ We will divide the Scandinavian objects of popular belief into four
 classes:--1. The Elves; 2. The Dwarfs, or Trolls, as they are usually
 called; 3. The Nisses; and 4. The Necks, Mermen, and Mermaids.[127]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [122] Danske Folkesagn, 4 vols. 12mo. Copenh. 1818-22.
 
@@ -3751,7 +3751,7 @@ write _å_, as o in _more_, _tore_. Aarhuus is pronounced _Ore-hoos_.
 
 
 
-                                ELVES.
+~                                ELVES.
 
       Säg, kännar du Elfvornas glada slägt?
         De bygga ved flodernas rand;
@@ -3887,7 +3887,7 @@ respecting the tone of melancholy connected with the subject of the
 Elves.[136]
 
 
-                    _Sir Olof in the Elve-Dance._
+~                    _Sir Olof in the Elve-Dance._
 
       Sir Olof he rode out at early day,
       And so came he unto an Elve-dance gay.
@@ -3951,7 +3951,7 @@ Elves.[136]
 
 
 
-                    _The Elf-woman and Sir Olof._
+~                    _The Elf-woman and Sir Olof._
 
       Sir Olof rideth out ere dawn,
           Breaketh day, falleth rime;
@@ -4044,7 +4044,7 @@ Elves.[136]
           When the wood it is leaf-green.[138]
 
 
-                   _The Young Swain and the Elves._
+~                   _The Young Swain and the Elves._
 
       I was a handsome young swain,
       And to the court should ride.
@@ -4096,7 +4096,7 @@ Elves.[136]
 
 
 
-                 _Svend Faelling and the Elle-Maid._
+~                 _Svend Faelling and the Elle-Maid._
 
 Svend Fælling was, while a little boy, at service in
 Sjeller-wood-house in Framley; and it one time happened that he had to
@@ -4117,7 +4117,7 @@ him; but it very frequently put him to great inconvenience, for he
 found that along with it he had gotten an appetite for twelve.[140]
 
 
-                          _The Elle-Maids._
+~                          _The Elle-Maids._
 
 There lived a man in Aasum, near Odense, who, as he was coming home
 one night from Seden, passed by a hill that was standing on red
@@ -4134,7 +4134,7 @@ watched him closely to prevent his doing so, he at last lost his
 senses, and died shortly after.[141]
 
 
-                             _Maid Vae._
+~                             _Maid Vae._
 
 There was once a wedding and a great entertainment at Oesterhæsinge.
 The party did not break up till morning, and the guests took their
@@ -4150,7 +4150,7 @@ drinking, snatched up a whip, and replied: "Ten cuts of my whip;" and
 that very moment he dropt down dead on the ground.[142]
 
 
-                    _The Elle-Maid near Ebeltoft._
+~                    _The Elle-Maid near Ebeltoft._
 
 A farmer's boy was keeping cows not far from Ebeltoft. There came to him
 a very fair and pretty girl, and she asked him if he was hungry or
@@ -4181,7 +4181,7 @@ slept for as many days as the enchantment had lasted, but he never
 after recovered the use of his reason.[143]
 
 
-                          _Hans Puntleder._
+~                          _Hans Puntleder._
 
 There are three hills on the lands of Bubbelgaard in Funen, which are
 to this day called the Dance-hills, from the following occurrence. A
@@ -4199,7 +4199,7 @@ not pull off him; and ever after he went by the name of Hans
 Puntleder, i. e. Sole-leather.[144]
 
        *       *       *       *       *
-
+~
 According to Danish tradition, the Elle-kings, under the denomination
 of Promontory-kings, (_Klintekonger_), keep watch and ward over the
 country. Whenever war, or any other misfortune, threatens to come on
@@ -4278,7 +4278,7 @@ The reason is said to have been that that room was floored with elder.
 The linden or lime tree is the favourite haunt of the Elves and
 cognate beings; and it is not safe to be near it after sunset.[149]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [128] That is, Wise People or Conjurors. They answer to the
 Fairy-women of Ireland.
@@ -4387,7 +4387,7 @@ church.
 
 
 
-                           DWARFS OR TROLLS
+~                           DWARFS OR TROLLS
 
       Ther bygde folk i the bärg,
       Quinnor och män, för mycken duerf.
@@ -4471,7 +4471,7 @@ and antiquity they take precedence of the legends.
 
 
 
-                            _Sir Thynne._
+~                            _Sir Thynne._
 
       And it was the knight Sir Thynnè,
         He was a knight so grave;
@@ -4719,7 +4719,7 @@ and antiquity they take precedence of the legends.
         The lady he never had found.[164]
 
 
-                          _Proud Margaret._
+~                          _Proud Margaret._
 
       Proud Margaret's[165] father of wealth had store,
         Time with me goes slow.--
@@ -4927,7 +4927,7 @@ and antiquity they take precedence of the legends.
         But that grief is heavy I know.[168]
 
 
-                          _The Troll Wife._
+~                          _The Troll Wife._
 
 The grandfather of Reor, who dwelt at Fuglekärr (i.e. _Bird-marsh_), in
 the parish of Svartsborg (_Black-castle_), lived close to a hill, and
@@ -4958,7 +4958,7 @@ hill, among whom was the aforesaid Reor. Olaf Stenson also in Stora
 Rijk, who died last year, was Reor's sister's son.[171]
 
 
-                     _The Altar-Cup in Aagerup._
+~                     _The Altar-Cup in Aagerup._
 
 Between the villages of Marup and Aagerup in Zealand, there is said to
 have lain a great castle, the ruins of which are still to be seen near
@@ -5019,7 +5019,7 @@ presented to the church, and the man got in return the best farm-house
 on the lands of Eriksholm.[174]
 
 
-                        _Origin of Tiis Lake._
+~                        _Origin of Tiis Lake._
 
 A Troll had once taken up his abode near the village of Kund, in the
 high bank on which the church now stands; but when the people about
@@ -5059,7 +5059,7 @@ ordered it so that the lake chanced to run out in the great meadow
 where it now flows.[175]
 
 
-                      _A Farmer tricks a Troll._
+~                      _A Farmer tricks a Troll._
 
 A farmer, on whose ground there was a little hill, resolved not to let
 it lie idle, so he began at one end to plough it up. The hill-man, who
@@ -5081,7 +5081,7 @@ which he was well content. They thus lived for a long time on
 extremely good terms with each other.[176]
 
 
-                        _Skotte in the Fire._
+~                        _Skotte in the Fire._
 
 Near Gudmanstrup, in the district of Odd, is a hill called Hjulehöi
 (_Hollow-hill_). The hill-folk that dwell in this mount are well known
@@ -5121,7 +5121,7 @@ spilled; and the same kettle is said to have been a long time to be
 seen in the villages round about there.[177]
 
 
-                       _The Legend of Bodedys._
+~                       _The Legend of Bodedys._
 
 There is a hill called Bodedys close to the road in the neighbourhood
 of Lynge, that is near Soröe. Not far from it lived an old farmer,
@@ -5162,7 +5162,7 @@ straightway to Lynge, where they hung up the piece of the chain in the
 church, as a memorial of the wonderful event that had occurred.[178]
 
 
-                        _Kallundborg Church._
+~                        _Kallundborg Church._
 
 When Esbern Snare was about building a church in Kallundborg, he saw
 clearly that his means were not fully adequate to the task. But a
@@ -5195,7 +5195,7 @@ he went off with the half-pillar through the air, and this is the
 reason that the church has but three pillars and a half.[180]
 
        *       *       *       *       *
-
+~
 The same is told of a far greater than Esbern Snare. As St. Olaf, the
 royal apostle of the North, was one day going over hill and dale,
 thinking how he could contrive to build a splendid church without
@@ -5221,7 +5221,7 @@ the Giant fell with a great crash from the ridge of the roof, and
 broke into a thousand pieces, which were all flintstone.[182]
 
 
-              _The Hill-Man invited to the Christening._
+~              _The Hill-Man invited to the Christening._
 
 The hill-people are excessively frightened during thunder. When,
 therefore, they see bad weather coming on, they lose no time in getting
@@ -5284,7 +5284,7 @@ helped the boy to put the sack on his back, once more charging him to
 give his best respects to the farmer.[183]
 
 
-                       _The Troll turned Cat._
+~                       _The Troll turned Cat._
 
 About a quarter of a mile from Soröe lies Pedersborg, and a little
 farther on is the town of Lyng. Just between these towns is a hill
@@ -5330,7 +5330,7 @@ he scampered off to the hill, to the amazement of honest Plat; and it is
 likely lost no time in making his advances to the young widow.[186]
 
 
-                          _Kirsten's-Hill._
+~                          _Kirsten's-Hill._
 
 There is a hill on the lands of Skjelverod, near Ringsted, called
 Kirsten's-hill (_Kirstens Bjerg_). In it there lived a Hill-troll
@@ -5358,7 +5358,7 @@ spoken the words, when the woman was gone, compelled to return to the
 hill, which has ever since been called Kirsten's Bjerg.[187]
 
 
-                         _The Troll-Labour._
+~                         _The Troll-Labour._
 
 "In the year 1660, when I and my wife had gone to my farm
 (_fäboderne_), which is three quarters of a mile from Ragunda
@@ -5395,7 +5395,7 @@ name. Ragunda, the 12th of April, 1671.
   "PET. RAHM."[188]
 
 
-                          _The Hill-Smith._
+~                          _The Hill-Smith._
 
 Biörn Martinsson went out shooting, one day, with a gamekeeper, on the
 wooded hill of Ormkulla. They there found a hill-smith (_bergsmed_)
@@ -5417,7 +5417,7 @@ Bahus. On the third day, however, he effected his escape out of the
 place in which he was confined.[189]
 
        *       *       *       *       *
-
+~
 The following legend is related in Denmark:--
 
 On the lands of Nyegaard lie three large hills, one of which is the
@@ -5431,7 +5431,7 @@ will find the shilling gone, and the required piece of work lying
 there finished, and ready for use.[190]
 
 
-                    _The Girl at the Troll-Dance._
+~                    _The Girl at the Troll-Dance._
 
 A girl, belonging to a village in the isle of Funen, went out, one
 evening, into the fields, and as she was passing by a small hill, she
@@ -5449,7 +5449,7 @@ elapsed in the external world. The effect on her mind was such that
 she lost her reason, which she never after recovered.[191]
 
 
-                          _The Changeling._
+~                          _The Changeling._
 
 There lived once, near Tiis lake, two lonely people, who were sadly
 plagued with a changeling, given them by the underground-people
@@ -5481,7 +5481,7 @@ himself may stay here now for me!" So saying, he ran off with himself,
 and never more came back again.[192]
 
        *       *       *       *       *
-
+~
 Another changeling was got rid of in the following manner. The mother,
 suspecting it to be such from its refusing food, and being so
 ill-thriven, heated the oven as hot as possible. The maid, as
@@ -5493,7 +5493,7 @@ away her own, saying. "There's your child for you. I have treated it
 better than you treated mine," and in truth it was fat and hearty.
 
 
-               _The Tile-Stove jumping over the Brook._
+~               _The Tile-Stove jumping over the Brook._
 
 Near Hellested, in Zealand, lived a man, who from time to time
 remarked that he was continually plundered. All his suspicions fell on
@@ -5511,7 +5511,7 @@ was this that gave rise to the common saying, "That was a jump for a
 tile-stove!" "_Det var et Spring af en Leerovn!_"[193]
 
 
-              _Departure of the Trolls from Vendsyssel._
+~              _Departure of the Trolls from Vendsyssel._
 
 One evening, after sunset, there came a strange man to the ferry of
 Sund. He engaged all the ferry-boats there to go backwards and
@@ -5541,7 +5541,7 @@ pointed red caps on their heads. Ever since that time there have been
 no Dwarfs seen in Vendsyssel.[194]
 
 
-                          _Svend Faelling._
+~                          _Svend Faelling._
 
 Svend Fælling was a valiant champion. He was born in Fælling, and was
 a long time at service in Aakjær house, Aarhuus, and as the roads were
@@ -5587,7 +5587,7 @@ Svend told his story; but the word of the Troll was accomplished, for
 from that day forth Svend ate and drank as much as any twelve.[195]
 
 
-                        _The Dwarfs' Banquet._
+~                        _The Dwarfs' Banquet._
 
                          A NORWEGIAN TALE.[196]
 
@@ -5911,7 +5911,7 @@ copper vessel, which the underground people left behind them, was
 preserved as a memorial upon the island, which bears the name of House
 Island to the present day.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [150] There is no etymon of this word. It is to be found in both the
 Icelandic and the Finnish languages; whether the latter borrowed or
@@ -6307,7 +6307,7 @@ his head up out of the tub, and cried to the bewildered farmer, "Ha!
 we're moving to-day, you see."[203]
 
 
-                         _The Penitent Nis._
+~                         _The Penitent Nis._
 
 It is related of a Nis, who had established himself in a house in
 Jutland, that he used every evening, after the maid was gone to bed,
@@ -6330,7 +6330,7 @@ the side of the dead cow, where the family found it nest morning, and
 by means of it got into flourishing circumstances.
 
 
-                        _The Nis and the Boy._
+~                        _The Nis and the Boy._
 
 There was a Nis in a house in Jutland; he every evening got his groute
 at the regular time, and he, in return, used to help both the men and
@@ -6369,7 +6369,7 @@ boy tumbled him down into the yard to the dog, crying out at the same
 time, "Look at the whole of him now!"
 
 
-                       _The Nis Stealing Corn._
+~                       _The Nis Stealing Corn._
 
 There lived a man at Thyrsting, in Jutland, who had a Nis in his barn.
 This Nis used to attend to the cattle, and at night he would steal
@@ -6400,7 +6400,7 @@ from the fright down into the well and be drowned. But he was
 disappointed, for the boy came off without injury.
 
 
-                       _The Nis and the Mare._
+~                       _The Nis and the Mare._
 
 There was a man who lived in the town of Tirup, who had a very
 handsome white mare. This mare had for many years gone, like an
@@ -6441,7 +6441,7 @@ From that day forward the circumstances of both the neighbours were on
 an equality, for each now kept his own.
 
 
-                          _The Nis Riding._
+~                          _The Nis Riding._
 
 There was a Nis in a farm-house, who was for ever tormenting the
 maids, and playing all manner of roguish tricks on them, and they in
@@ -6464,7 +6464,7 @@ unknown to them, to smut their faces all over, so that when they got
 up to dance, every one that was there burst out a laughing at them.
 
 
-                       _The Nisses in Vosborg._
+~                       _The Nisses in Vosborg._
 
 There was once an exceeding great number of Nisses in Jutland. Those in
 Vosborg in particular were treated with so much liberality, that they
@@ -6505,7 +6505,7 @@ shout of laughter at him, that it wakened up all the people that were
 in the place.
 
        *       *       *       *       *
-
+~
 In Sweden the Tomte is sometimes seen at noon, in summer, slowly and
 stealthily dragging a straw or an ear of corn. A farmer, seeing him
 thus engaged, laughed, and said, "What difference does it make if you
@@ -6516,7 +6516,7 @@ farmer. Any one who treated the industrious Tomte with respect, and
 set store by the smallest straw, became rich, and neatness and
 regularity prevailed in his household.[204]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [200] Nisse, Grimm thinks (Deut. Mythol. p. 472) is Niels, Nielsen,
 _i. e._ Nicolaus, Niclas, a common name in Germany and the North,
@@ -6637,7 +6637,7 @@ blossoms, and he then went back to communicate the glad tidings to the
 Neck who now joyously played on all the entire night.[208]
 
 
-                       _The Power of the Harp._
+~                       _The Power of the Harp._
 
       Little Kerstin she weeps in her bower all the day;
       Sir Peter in his courtyard is playing so gay.
@@ -6769,7 +6769,7 @@ her staff and made it boil up and cried--
 
 
 
-                    _Duke Magnus and the Mermaid._
+~                    _Duke Magnus and the Mermaid._
 
       Duke Magnus looked out through the castle windów,
       How the stream ran so rapidly;
@@ -6824,7 +6824,7 @@ her staff and made it boil up and cried--
           Say me not nay, but yes, yes![217]
 
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [205] _Berg_ signifies a larger eminence, mountain, hill; _Hög_, a
 height, hillock. The _Hög-folk_ are Elves and musicians.
@@ -6884,7 +6884,7 @@ pervaded the Vasa family for centuries.
 
 
 
-                          NORTHERN ISLANDS.
+~                          NORTHERN ISLANDS.
 
       Här Necken sin Harpa i Glasborgen slår,
       Och Hafsfruar kamma sitt grönskande hår,
@@ -6925,7 +6925,7 @@ religion still to be traced.
 
 
 
-                               ICELAND.
+~                               ICELAND.
 
                         Hvad mon da ei
       Og her lyksalig leves kan? Jeg troer
@@ -7094,12 +7094,12 @@ off, and plunges into the sea with his burden. He can, however, be
 caught in a particular manner, tamed, and made to work.[223]
 
        *       *       *       *       *
-
+~
 The Icelanders have the same notions respecting the seals which we
 shall find in the Feroes and Shetland. It is a common opinion with
 them that King Pharaoh and his army were changed into these animals.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [218] This was plainly a theory of the monks. It greatly resembles the
 Rabbinical account of the origin of the Mazckeen, which the reader
@@ -7147,11 +7147,11 @@ Grimm, _ut sup._, see p. 148.
 
 
 
-                               FEROES.
+~                               FEROES.
 
       Sjûrur touk teâ besta svör
       Sum Dvörgurin heji smuja.
-                      QVÖRFINS THAATTUR.
+~                      QVÖRFINS THAATTUR.
 
       Sigurd took the very best sword
       That the Dwarfs had ever smithed.
@@ -7181,7 +7181,7 @@ their calling, and yet could not answer them; but that when he would not
 be persuaded he was again left at liberty."
 
        *       *       *       *       *
-
+~
 The people of the Feroes call the Nisses or Brownies Niägruisar, and
 describe them as little creatures with red caps on their heads, that
 bring luck to any place where they take up their abode.
@@ -7209,7 +7209,7 @@ The Neck called Nikar is also an object of popular faith in the
 Feroes. He inhabits the streams and lakes, and takes a delight in
 drowning people.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [224] Færoæ et Færoa reserata. Lond. 1676.
 
@@ -7218,7 +7218,7 @@ FOOTNOTES:
 
 
 
-                              SHETLAND.
+~                              SHETLAND.
 
       Well, since we are welcome to Yule,
       Up wi't Lightfoot, link it awa', boys!
@@ -7348,7 +7348,7 @@ become an inhabitant of the supramarine world.
 The following Shetland tales will illustrate this:--
 
 
-                            _Gioga's Son._
+~                            _Gioga's Son._
 
 A boat's-crew landed one time upon one of the stacks[231] with the
 intention of attacking the seals. They had considerable success;
@@ -7407,7 +7407,7 @@ where the skin was, and honourably fulfilled his agreement by restoring
 to Gioga the means of bringing back her son to his dear native land.
 
 
-                         _The Mermaid Wife._
+~                         _The Mermaid Wife._
 
 On a fine summer's evening, an inhabitant of Unst happened to be
 walking along the sandy margin of a voe.[232] The moon was risen, and
@@ -7478,12 +7478,12 @@ him, "and may all good fortune attend you. I loved you well while I
 was with you, but I always loved my first husband better."[233]
 
        *       *       *       *       *
-
+~
 The water-spirit is in Shetland called Shoopiltee; he appears in the
 form of a pretty little horse, and endeavours to entice persons to
 ride on him, and then gallops with them into the sea.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [226] Description of the Shetland Islands. Edinburgh, 1822.
 
@@ -7506,7 +7506,7 @@ Shetlanders respecting this submarine country.
 
 
 
-                               ORKNEYS.
+~                               ORKNEYS.
 
       Harold was born where restless seas
       Howl round the storm-swept Orcades.
@@ -7593,11 +7593,11 @@ and then great moanings and doleful noises are heard in Iceland, and
 Russia, and Norway, for many days after.[236]
 
        *       *       *       *       *
-
+~
 The Water-spirit called Tangie, from Tang, the sea-weed with which he
 is covered, appears sometimes as a little horse, other times as a man.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [234] Description of Orkney, Zetland, &c. Edin. 1703.
 
@@ -7608,7 +7608,7 @@ FOOTNOTES:
 
 
 
-                            ISLE OF RÜGEN.
+~                            ISLE OF RÜGEN.
 
       Des Tagscheins Blendung drückt,
       Nur Finsterniss beglückt;
@@ -7749,7 +7749,7 @@ the Ahlbeck and Mönchgut, where they hold their assemblies, and
 plunder the ships that are wrecked on the coast.
 
        *       *       *       *       *
-
+~
 The Neck is called in Rügen Nickel. Some fishers once launched their
 boat on a lonely lake. Next day when they came they saw it in a high
 beech-tree. "Who the devil has put the boat in the tree?" cried one. A
@@ -7766,7 +7766,7 @@ that relates." we therefore see no reason to doubt of their
 genuineness, though they may be a little embellished.[242]
 
 
-                    _Adventures of John Dietrich._
+~                    _Adventures of John Dietrich._
 
 There once lived in Rambin an honest, industrious man, named James
 Dietrich. He had several children, all of a good disposition,
@@ -8343,7 +8343,7 @@ Twelfth of Sweden, when the Russians came on the island, and the
 Cossacks plundered even the churches, and took away everything.
 
 
-                       _The Little Glass Shoe._
+~                       _The Little Glass Shoe._
 
 A peasant, named John Wilde, who lived in Rodenkirchen, found one time
 a glass shoe on one of the hills where the little people used to
@@ -8464,7 +8464,7 @@ estates for themselves, and became lords and noblemen. But what good
 did all that do poor John Wilde?
 
 
-                       _The Wonderful Plough._
+~                       _The Wonderful Plough._
 
 There was once a farmer who was master of one of the little black
 ones, that are the blacksmiths and armourers; and he got him in a very
@@ -8582,7 +8582,7 @@ see that moderation holds out the longest, and that it is not good to
 covet too much.
 
 
-                           _The Lost Bell_
+~                           _The Lost Bell_
 
 A shepherd's boy belonging to Patzig, about half a mile from Bergen,
 where there are great numbers of the underground people in the hills,
@@ -8727,7 +8727,7 @@ wish that they had met with such an adventure, and had found a little
 silver bell which the underground people had lost.
 
 
-                    _The Black Dwarfs of Granitz._
+~                    _The Black Dwarfs of Granitz._
 
 Not far from the Ahlbeck lies a little mansion called Granitz, just
 under the great wood on the sea-coast called the wood of Granitz. In
@@ -8773,7 +8773,7 @@ ground. And how grand a thing, he added, it is to live under the
 sand-hills with them, and how beautiful their crystal palaces are, no
 one can have any conception who has not been there.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [237] Arndt, Märchen und Jugenderinnerungen. Berlin, 1818.
 
@@ -8807,7 +8807,7 @@ Magazine for June, 1844.
 
 
 
-                               GERMANY.
+~                               GERMANY.
 
       Von wilden getwergen han ich gehöret sagen
       Si sin in holren bergen; unt daz si ze scherme tragen
@@ -8870,7 +8870,7 @@ Kuperan, the ally of the Dragon, the Dwarf flings his Nebelkappe over
 him to protect him.
 
        *       *       *       *       *
-
+~
 But the most celebrated of Dwarfs is Elberich,[251] who aided the
 emperor Otnit or Ortnit to gain the daughter of the Paynim Soldan of
 Syria.
@@ -9188,7 +9188,7 @@ thoughts were of manhood, according to honour, and of combats and war."
 We will divide the objects of German popular belief at the present day,
 into four classes:--1. Dwarfs; 2. Wild-women; 3. Kobolds; 4. Nixes.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [245] The only remnant is _Alp_, the nightmare; the _elfen_ of modern
 writers is merely an adoption of the English _elves_.
@@ -9256,7 +9256,7 @@ and Hassan of Bassora in Trebutien's Arabian Nights.
 
 
 
-                               DWARFS.
+~                               DWARFS.
 
       Fort, fort! Mich schau' die Sonne nicht,
         Ich darf nicht langer harren;
@@ -9294,7 +9294,7 @@ strangers prove agreeable to them, present them with valuable
 gifts.[262]
 
 
-                     _The Hill-Man at the Dance._
+~                     _The Hill-Man at the Dance._
 
 Old people have positively asserted that some years ago, at the
 celebration of a wedding in the village of Glass, a couple of miles from
@@ -9332,7 +9332,7 @@ Hill-man exhorted him to lead a pious and humble life, and being
 landed on the opposite bank, departed speedily from the place.[263]
 
 
-                         _The Dwarf's Feast._
+~                         _The Dwarf's Feast._
 
 There appeared in the night to one of the Counts von Hoya, an
 extremely small little man. The count was utterly amazed at him, but
@@ -9371,7 +9371,7 @@ salamander-cloth, were taken away, but the ring remained with the family
 until they became extinct. What has become of it since is unknown.[264]
 
 
-                        _The Friendly Dwarfs._
+~                        _The Friendly Dwarfs._
 
 Close to the little town of Dardesheim, between Halberstadt and
 Brunswick, is a spring of the finest water called the Smansborn, and
@@ -9388,7 +9388,7 @@ The Dwarfs thought themselves sufficiently compensated if there was
 only some of the festive victuals set down before the hill.
 
 
-                _Wedding Feast of the Little People._
+~                _Wedding Feast of the Little People._
 
 The little people of the Eilenburg in Saxony had occasion to celebrate
 a wedding, and with that intent passed one night through the key-hole
@@ -9428,7 +9428,7 @@ lasted till the present time, and one of six living knights of Eilenburg
 has always died before the seventh was born.[266]
 
 
-                          _Smith Riechert._
+~                          _Smith Riechert._
 
 On the east side of the Dwarf-hill of Dardesheim there is a piece of
 arable land. A smith named Riechert had sown this field with peas; but
@@ -9455,7 +9455,7 @@ time no one has ever heard or seen anything of the Dwarfs in the
 neighbourhood.
 
 
-                       _Dwarfs Stealing Corn._
+~                       _Dwarfs Stealing Corn._
 
 'Tis not very long since there were Dwarfs at Jüne near Göttingen, who
 used to go into the fields and steal the sheaves of corn. This they
@@ -9494,7 +9494,7 @@ pure gold. Others then went to the place, but both hole and horse had
 vanished.[268]
 
 
-              _Journey of the Dwarfs over the Mountain._
+~              _Journey of the Dwarfs over the Mountain._
 
 On the north side of the Hartz there dwelt several thousand Dwarfs in
 the clefts of the rocks, and in the Dwarf-caves that still remain. It
@@ -9532,7 +9532,7 @@ have disappeared out of this country; and it is only now and then that
 a solitary one may be seen.
 
        *       *       *       *       *
-
+~
 The Dwarfs on the south side of the Hartz were, in a similar manner,
 detected plundering the corn-fields. They also agreed to quit the
 country, and it was settled that they should pass over a small bridge
@@ -9592,7 +9592,7 @@ in the old time when the Dwarfs were in the world, but now there's no
 more of them, thirty or forty years ago.[271]
 
 
-                    _The Dwarfs' Borrowing Bread._
+~                    _The Dwarfs' Borrowing Bread._
 
 Albert Steffel, aged seventy years, who died in the year 1680, and
 Hans Kohmann, aged thirty-six, who died in 1679, two honest, veracious
@@ -9617,7 +9617,7 @@ country people, instead of going to church, used to go look at their
 fields, which was altogether sinful.[272]
 
 
-                          _The Changeling._
+~                          _The Changeling._
 
 It was the belief, in some parts of Germany, that if a child that was
 not thriving were taken to a place named Cyriac's Mead, near
@@ -9646,7 +9646,7 @@ place. When the woman reached home she found her own child healthy and
 lively and laughing in its new cradle.
 
        *       *       *       *       *
-
+~
 A Hessian legend tells that as a woman was reaping corn at the
 Dosenberg,[273] with her little child lying near her on the ground, a
 Dwarf-woman (_wichtelweib_) came and took it and left her own lying in
@@ -9770,7 +9770,7 @@ water and pancakes to refresh him when at work in the fields.
 
 
 
-                         _The Dwarf Husband._
+~                         _The Dwarf Husband._
 
 A poor girl went out one day and as she was passing by a hill she
 heard a Dwarf hammering away inside of it, for they are handy smiths,
@@ -9786,7 +9786,7 @@ wealth. She accepted the offer and lived very comfortably with him, as
 he proved an excellent little husband.
 
 
-                          _Inge of Rantum._
+~                          _Inge of Rantum._
 
 The Friesland girls are, however, rather shy of these matches, and if
 they have unwarily been drawn into an engagement they try to get out
@@ -9815,7 +9815,7 @@ grew dark as thunder, but he recollected how he had divulged his
 secret, and saw that the affair was past remedy.[281]
 
        *       *       *       *       *
-
+~
 The Nis of Jutland is called Puk[282] in Friesland. Like him he wears
 a pointed red cap, with a long grey or green jacket, and slippers on
 his feet. His usual abode is under the roof, and he goes in and out
@@ -9829,7 +9829,7 @@ example, their noses when they are asleep, or pulling off the
 bed-clothes. Stories are told of the Puk, similar to some above
 related of the Juttish Nis.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [260] Another term is Wicht and its dim. Wichtlein, answering to the
 Scandinavian Vættr and the Anglo-Saxon _wiht_, English _wight_, all of
@@ -9924,7 +9924,7 @@ Nicolaus, Niclas; see above, p. 139, for this same origin of Nisse.
 
 
 
-                           THE WILD-WOMEN.
+~                           THE WILD-WOMEN.
 
       Ein Mägdlein kam im Abendglanz,
       Wie ich's noch nie gefunden.
@@ -10016,12 +10016,12 @@ married people. Take this shoefull of money from me: go home, and look
 no more about you."
 
        *       *       *       *       *
-
+~
 As the fair maiden who originally possessed the famed Oldenburg Horn
 was probably a Wild-woman, we will place the story of it here.
 
 
-                        _The Oldenburg Horn._
+~                        _The Oldenburg Horn._
 
 In the time of count Otto of Oldenburg, who succeeded his father
 Ulrich in the year 967, a wonderful transaction occurred. For as he,
@@ -10074,7 +10074,7 @@ and the same horn, as it was obtained in so wonderful a manner, was
 preserved as a costly jewel by him, and by all the succeeding reigning
 princes of the house of Oldenburg.[285]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [283] All relating to the Wild-women and the Wunderberg is given by MM.
 Grimm from the Brixener Volksbuch, 1782. For an account of the various
@@ -10649,7 +10649,7 @@ he would return once more when the family would be declined, and that
 it would then flourish anew and increase in consequence.[291]
 
 
-                              _Hödeken._
+~                              _Hödeken._
 
 Another Kobold or House-spirit took up his abode in the palace of the
 bishop of Hildesheim. He was named Hödeken or Hütchen, that is Hatekin
@@ -10695,7 +10695,7 @@ all the swine in Saxony than for one such woman, so many were the
 artifices and plots she devised to blink me."
 
 
-                           _King Goldemar._
+~                           _King Goldemar._
 
 Another celebrated House-spirit was King Goldemar, who lived in great
 intimacy with Neveling von Hardenberg, on the Hardenstein at the Ruhr,
@@ -10727,7 +10727,7 @@ for a long time; but they disappeared in the Lorrain war in 1651. The
 pot still remains built into the wall of the kitchen.[292]
 
 
-                        _The Heinzelmänchen._
+~                        _The Heinzelmänchen._
 
 It is not over fifty years since the Heinzelmänchen, as they are called,
 used to live and perform their exploits in Cologne. They were little
@@ -10764,7 +10764,7 @@ mannikins themselves, who forthwith got into a boat and went away,
 whither no one knows. The good times, however, are said to have
 disappeared from Cologne along with the Heinzelmänchen.[293]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [286] This word is usually derived from the Greek [Greek: kobalos], a
 knave, which is found in Aristophanes. According to Grimm (p. 408) the
@@ -10804,7 +10804,7 @@ ascribed to ventriloquism and to contrivances of servants and others.
 
 
 
-                                NIXES.
+~                                NIXES.
 
       Kennt ihr der Nixen, munt're Schaar?
       Von Auge schwarz und grün von Haar
@@ -10834,7 +10834,7 @@ earthly midwife to assist at their labour. Among the many tales of the
 Nixes we select the following:--
 
 
-                   _The Peasant and the Waterman._
+~                   _The Peasant and the Waterman._
 
 A Water-man once lived on good terms with a peasant who dwelt not far
 from his lake. He often visited him, and at last begged that the peasant
@@ -10856,7 +10856,7 @@ immediately the souls of the drowned people ascended out of the water,
 and recovered their liberty.[294]
 
 
-                          _The Water-Smith._
+~                          _The Water-Smith._
 
 There is a little lake in Westphalia called the Darmssen, from which
 the peasants in the adjacent village of Epe used to hear all through
@@ -10892,7 +10892,7 @@ became as red as blood, and he threw himself into the lake, and never
 was seen more.[295]
 
 
-                       _The Working Waterman._
+~                       _The Working Waterman._
 
 At Seewenweiher, in the Black-Forest, a little Water-man
 (_Seemänlein_) used to come and join the people, work the whole day
@@ -10907,7 +10907,7 @@ must go away. After this day I'll come no more to you." And, unmoved
 by the excuses of the people, he never let himself be seen again.[296]
 
 
-                          _The Nix-Labour._
+~                          _The Nix-Labour._
 
 A midwife related that her mother was one night called up, and desired
 to make haste and come to the aid of a woman in labour. It was dark,
@@ -10949,7 +10949,7 @@ her then the sum she mentioned, and conducted her home honestly. She
 was, however, afraid to go to the pond at the appointed day.
 
        *       *       *       *       *
-
+~
 There are many other tales in Germany of midwives, and even ladies of
 rank, who have been called in to assist at Nix or Dwarf labours. The
 Ahnfrau von Ranzau, for example, and the Frau von Alvensleben--the
@@ -10960,7 +10960,7 @@ usually bestow rings and other articles, which will cause the family
 to flourish. We have seen tales of the same kind in Scandinavia, and
 shall meet with them in many other countries.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [294] This legend seems to be connected with the ancient idea of the
 water-deities taking the souls of drowned persons to themselves. In
@@ -10976,7 +10976,7 @@ by _die frau doctorin_, his wife. The scene of it was the river Mulda.
 
 
 
-                             SWITZERLAND.
+~                             SWITZERLAND.
 
       Denn da hielten auch im lande
       Noch die guten Zwerglein Haus;
@@ -11046,7 +11046,7 @@ As a specimen of Mr. Wyss's manner of narrating these legends, we
 give here a faithful translation of his first Idyll.[304]
 
 
-                         _Gertrude and Rosy._
+~                         _Gertrude and Rosy._
 
                               GERTRUDE.
 
@@ -11255,7 +11255,7 @@ give here a faithful translation of his first Idyll.[304]
       One wink of sleep for thinking of the cloth.[307]
 
 
-                        _The Chamois-Hunter._
+~                        _The Chamois-Hunter._
 
 A chamois-hunter set out early one morning, and ascended the
 mountains. He had arrived at a great height, and was in view of some
@@ -11297,7 +11297,7 @@ ignorant of the quality of it ate up the remainder. Poverty then drove
 him to return to the chamois-hunting, and he was thrown into a chasm
 by the Dwarf.[308]
 
-                      _The Dwarfs on the Tree._
+~                      _The Dwarfs on the Tree._
 
 In the summer-time the troop of the Dwarfs came in great numbers down
 from the hills into the valley, and joined the men that were at work,
@@ -11325,7 +11325,7 @@ a lamentable manner. Full of anger, they cried out, "O wicked world! O
 wicked world!" called aloud for vengeance, and disappeared for ever.
 
 
-                        _Curiosity Punished._
+~                        _Curiosity Punished._
 
 In old times men lived in the valley, and around them, in the clefts and
 holes of the rocks, dwelt the Dwarfs. They were kind and friendly to
@@ -11370,7 +11370,7 @@ the imprudent shepherd who had betrayed them became sickly, and
 continued so to the end of his life.[311]
 
 
-                         _The Rejected Gift._
+~                         _The Rejected Gift._
 
 A Dwarf came down one night from the chesnut woods on the side of the
 mountain over the village of Walchwyl, and enquired for the house of a
@@ -11398,7 +11398,7 @@ woman immediately ran back to where she had shaken out the supposed
 coals, but they were all gone.[312]
 
 
-                    _The Wonderful Little Pouch._
+~                    _The Wonderful Little Pouch._
 
 At noon one day a young peasant sat by the side of a wood, and,
 sighing, prayed to God to give him a morsel of food. A Dwarf suddenly
@@ -11419,7 +11419,7 @@ tone, when instantly the bread and choose broke, and scattered out of
 his hands, and pouch and all vanished.[313]
 
 
-                        _Aid and Punishment._
+~                        _Aid and Punishment._
 
 On the side of Mount Pilatus is a place named the Kastler-Alpe, now
 covered with stones and rubbish, but which once was verdant and
@@ -11447,7 +11447,7 @@ condition.[314]
 
 
 
-                  _The Dwarf in Search of Lodging._
+~                  _The Dwarf in Search of Lodging._
 
 One night, during a tremendous storm of wind and rain, a Dwarf came
 travelling through a little village, and went from cottage to cottage,
@@ -11489,7 +11489,7 @@ owners escaped. The Dwarf then swelled and grew higher and higher till
 he became a monstrous Giant, and vanished in the air, while the old
 people were praying to God and thanking him for their deliverance.[315]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [298] In Swiss _Härdmandle_, pl. _Härdmändlene_.
 
@@ -11598,7 +11598,7 @@ Baucis and Philemon: see also Grimm's Kinder und Hausmärchen, iii.
 
 
 
-                            GREAT BRITAIN.
+~                            GREAT BRITAIN.
 
       In old wives daies that in old time did live,
       To whose odde tales much credit men did give,
@@ -11626,7 +11626,7 @@ FOOTNOTE:
 
 
 
-                               ENGLAND.
+~                               ENGLAND.
 
       Merry elves, their morrice pacing,
       To aërial minstrelsy,
@@ -11658,7 +11658,7 @@ The following curious instances of English superstition, occur in the
 twelfth century.
 
 
-                        _The Green Children._
+~                        _The Green Children._
 
 "Another wonderful thing," says Ralph of Coggeshall,[318] "happened in
 Suffolk, at St. Mary's of the Wolf-pits. A boy and his sister were
@@ -11701,7 +11701,7 @@ them, they wished to fly, but they could not find the entrance of the
 cavern before they were caught."
 
        *       *       *       *       *
-
+~
 This story is also told by William of Newbridge,[319] who places it in
 the reign of King Stephen. He says he long hesitated to believe it,
 but he was at length overcome by the weight of evidence. According to
@@ -11716,7 +11716,7 @@ did not rise there, but that there was a bright country which could be
 seen from theirs, being divided from it by a very broad river.
 
 
-                         _The Fairy Banquet._
+~                         _The Fairy Banquet._
 
 In the next chapter of his history, William of Newbridge relates as
 follows:--
@@ -11759,7 +11759,7 @@ particulars respecting the Fairy Mythology of England in the
 thirteenth century.
 
 
-                          _The Fairy Horn._
+~                          _The Fairy Horn._
 
 "There is," says he,[321] "in the county of Gloucester, a forest
 abounding in boars, stags, and every species of game that England
@@ -11794,7 +11794,7 @@ should be thought to have approved of such wickedness, if he had added
 the rapine of another to the store of his private property."
 
 
-                           _The Portunes._
+~                           _The Portunes._
 
 In another part of this work the Chancellor says,[323]--
 
@@ -11819,7 +11819,7 @@ fixed and floundering in it, the Portune goes off with a loud laugh,
 and by sport of this sort he mocks the simplicity of mankind.
 
 
-                             _The Grant._
+~                             _The Grant._
 
 "There is," says he, again[326] "in England a certain kind of demon
 whom in their language they call Grant,[327] like a yearling foal,
@@ -11833,7 +11833,7 @@ demon, while he terrifies those who see him, puts by his coming the
 ignorant on their guard."
 
        *       *       *       *       *
-
+~
 Thus far the Chancellor of the Holy Roman Empire, and, except in the
 poets, we have met with no further account of, or allusion to,
 fairies, until the reign of Elizabeth, when a little work appeared,
@@ -12025,7 +12025,7 @@ of our placing the desecration of it any higher than the reign of
 Elizabeth, or that of her father at farthest. We will therefore
 introduce its history in this place.
 
-                       _The Luck of Eden Hall._
+~                       _The Luck of Eden Hall._
 
 In this house (Eden Hall, a seat of the Musgraves,) are some good
 old-fashioned apartments. An old painted drinking-glass, called the
@@ -12083,7 +12083,7 @@ put himself in amongst them," is given by Bovet.[342]
 
 
 
-                          _The Fairy-Fair._
+~                          _The Fairy-Fair._
 
 "Reading once the eighteenth of Mr. Glanvil's relations, p. 203,
 concerning an Irishman that had like to have been carried away by
@@ -12140,7 +12140,7 @@ amongst them; for that every one that had done so had received great
 damage by it."
 
 
-                       _The Fairies' Caldron._
+~                       _The Fairies' Caldron._
 
 "In the vestry of Frensham church, in Surrey, on the north side of the
 chancel, is an extraordinary great kettle or caldron, which the
@@ -12159,7 +12159,7 @@ caldron was afterwards carried to the stone, it could not be received,
 and ever since that time no borrowing there."[343]
 
 
-                      _The Cauld Lad of Hilton._
+~                      _The Cauld Lad of Hilton._
 
 "Hilton Hall, in the vale of the Wear, was in former times the resort of
 a Brownie or House-spirit called The Cauld Lad. Every night the servants
@@ -12200,7 +12200,7 @@ servant whom one of the barons of Hilton had killed unintentionally in
 a fit of passion."[344]
 
        *       *       *       *       *
-
+~
 In the beginning of the last century Bourne thus gives the popular
 belief on this subject:
 
@@ -12352,7 +12352,7 @@ Mrs. Bray gives, in addition, the following legends, which we have
 taken the liberty of abridging a little.
 
 
-                          _The Pixy-Labour._
+~                          _The Pixy-Labour._
 
 One night, about twelve o'clock in the morning, as the good folks say,
 who tell this good tale, Dame ---- the _sage femme_ of Tavistock, had
@@ -12422,7 +12422,7 @@ He struck her eye as he spoke, and from that hour till the day of her
 death she was blind of that eye.
 
 
-                          _Pixy-Vengeance._
+~                          _Pixy-Vengeance._
 
 Two serving-girls in Tavistock said that the Pixies were very kind to
 them, and used to drop silver for them into a bucket of fair water
@@ -12449,7 +12449,7 @@ a plant which he held in his hand. He did so, and she was cured and
 became the best dancer in the town.
 
 
-                          _Pixy-Gratitude._
+~                          _Pixy-Gratitude._
 
 An old woman who lived near Tavistock had in her garden a splendid bed
 of tulips. To these the Pixies of the neighbourhood loved to resort,
@@ -12469,7 +12469,7 @@ singing dirges. They suffered not a weed to grow on it; they kept it
 always green, and evermore in spring-time spangled with wild flowers.
 
        *       *       *       *       *
-
+~
 Thus far for the Pixies of Devon; as for the adjoining Somerset, all
 we have to say is, that a good woman from that county, with whom we
 were acquainted, used, when making a cake, always to draw a cross
@@ -12497,7 +12497,7 @@ _wickers_, i. e. neighs, and misleads horses into bogs, etc."
 The following is a Hampshire legend:[350]
 
 
-                         _The Fairy-Thieves._
+~                         _The Fairy-Thieves._
 
 A farmer in Hampshire was sorely distressed by the unsettling of his
 barn. However straightly over-night he laid his sheaves on the
@@ -12548,7 +12548,7 @@ proper name perhaps is Barn-ghaist, or Barn-spirit, keeps without, and
 usually takes the form of some domestic animal.
 
 
-                            _The Boggart._
+~                            _The Boggart._
 
 In the house of an honest farmer in Yorkshire, named George
 Gilbertson, a Boggart had taken up his abode. He here caused a good
@@ -12585,7 +12585,7 @@ turning to his wife, "we may as weel turn back again to t'ould hoose as
 be tormented in another that's not so convenient."[354]
 
 
-                        _Addlers and Menters._
+~                        _Addlers and Menters._
 
 An old lady in Yorkshire related as follows:--My eldest daughter
 Betsey was about four years old; I remember it was on a fine summer's
@@ -12612,7 +12612,7 @@ supposed she saw it, and though a well-informed person, still
 positively asserts the relation to be strictly true.[355]
 
        *       *       *       *       *
-
+~
 Ritson, who was a native of the bishopriek of Durham, tells us[356] that
 the fairies frequented many parts of it; that they were described as
 being of the smallest size, and uniformly habited in green. They could,
@@ -12656,7 +12656,7 @@ will befall them. The children constantly run this number, but nothing
 will induce them to venture a tenth run.
 
 
-                        _The Fary Nurseling._
+~                        _The Fary Nurseling._
 
 A cottager and his wife residing at Nether Witton were one day visited
 by a _fary_ and his spouse with their young child, which they wished
@@ -12674,7 +12674,7 @@ blew on the eyes of the cottager, and instantly blinded him. The child
 was never more seen.
 
 
-                          _The Fary Labour._
+~                          _The Fary Labour._
 
 Another tale relates that a messenger having visited a country midwife
 or _howdie_ requested her professional assistance in a case where so
@@ -12716,7 +12716,7 @@ from the withering breath of her unearthly companion extinguished the
 ill-fated orb for ever, and the hag instantly vanished.
 
        *       *       *       *       *
-
+~
 Another version says the Doctor is presented with a box of eye-salve
 by his conductor; on using it he sees a splendid portico in the side
 of a steep hill, through this he is shown into the faries' hall in the
@@ -12728,7 +12728,7 @@ corn in the market, when similar consequences befal him as those which
 occurred unto the woman.
 
 
-                              _Ainsel._
+~                              _Ainsel._
 
 A widow and her son, a little boy, lived together in a cottage in or
 near the village of Rothley, Northumberland. One winter's evening the
@@ -12757,7 +12757,7 @@ mother, as she kicked her up the chimney, "what's all this noise for:
 there's nyon (_i.e._ no one) to blame."
 
        *       *       *       *       *
-
+~
 Such is the sum of what we have been able to collect respecting the
 popular fairy-lore of England, the largest and most complete
 collection that, to our knowledge, has ever been made. We might
@@ -12963,7 +12963,7 @@ children, but which seems formerly to have been one of the
 appellations of the fairies. Reginald Scott, as we have seen, places
 it in his list, and we find it in the following places of the poets:--
 
-                                    _Urchins_
+~                                    _Urchins_
       Shall for the vast of night that they may work
       All exercise on thee.--_Tempest_, i. 2.
 
@@ -13224,7 +13224,7 @@ Parnassus, distinguishing by a different character such acts and
 attributes as appear properly to belong to the Fairy of popular belief.
 
 
-                       MIDSUMMER-NIGHT'S DREAM.
+~                       MIDSUMMER-NIGHT'S DREAM.
 
                           ACT II.--SCENE I.
 
@@ -13934,7 +13934,7 @@ At length he exclaims,
 
                           ACT III.--SCENE 4.
 
-                  _Dorylas with a bevy of Fairies._
+~                  _Dorylas with a bevy of Fairies._
 
         _Dor._ How like you now, my Grace? Is not my countenance
       Royal and full of majesty? Walk not I
@@ -14307,7 +14307,7 @@ century. But vain are such efforts, the belief is gone, and divested
 of it such poetry can produce no effect. The Fairies have shared the
 fate of the gods of ancient Hellas.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [317] The Anglo-Saxon Dweorg, Dworh, and the English Dwarf, do not
 seem ever to have had any other sense than that of the Latin _nanus_.
@@ -14785,7 +14785,7 @@ this work.
 
 
 
-                          SCOTTISH LOWLANDS.
+~                          SCOTTISH LOWLANDS.
 
       When from their hilly dens, at midnight hour,
         Forth rush the airy elves in mimic state,
@@ -14896,7 +14896,7 @@ frae yere door-step, it pits out our fire." She complied with this
 reasonable request, and prospered ever after.
 
 
-                        _The Fairies' Nurse._
+~                        _The Fairies' Nurse._
 
 The Fairies have a great fondness for getting their babes suckled by
 comely, healthy young women. A fine young woman of Nithsdale was one
@@ -14934,7 +14934,7 @@ breathed on her eyes, and the salve lost its efficacy, and could never
 more endow her eyes with their preternatural power.[420]
 
 
-                          _The Fairy Rade._
+~                          _The Fairy Rade._
 
 The _Fairy Rade_, or procession, was a matter of great importance. It
 took place on the coming in of summer, and the peasantry, by using the
@@ -14964,7 +14964,7 @@ beyont it. We gaed i' the morning to look at the treddit corn; but the
 fient a hoof mark was there, nor a blade broken."
 
 
-                          _The Changeling._
+~                          _The Changeling._
 
 But the Fairies of Scotland were not, even according to Mr. Cromek,
 uniformly benevolent. Woman and child abstraction was by no means
@@ -14998,7 +14998,7 @@ lass. The window flew up, the real child was laid on the mother's lap,
 and the _wee diel_ flew up the chimney laughing.
 
 
-                     _Departure of the Fairies._
+~                     _Departure of the Fairies._
 
 On a Sabbath morning, all the inmates of a little hamlet had gone to
 church, except a herd-boy, and a little girl, his sister, who were
@@ -15024,7 +15024,7 @@ turning for a moment in its saddle, "the people of peace shall never
 more be seen in Scotland."[421]
 
 
-                            _The Brownie._
+~                            _The Brownie._
 
 The Nis, Kobold, or Goblin, appears in Scotland under the name of
 Brownie.[422] Brownie is a personage of small stature, wrinkled visage,
@@ -15122,7 +15122,7 @@ Another name by which the domestic spirit was known in some parts of
 Scotland was Shellycoat, of which the origin is uncertain.[424]
 
        *       *       *       *       *
-
+~
 Scotland has also its water-spirit, called Kelpie, who in some respects
 corresponds with the Neck of the northern nations. "Every lake," says
 Graham,[425] "has its _Kelpie_, or Water-horse, often seen by the
@@ -15141,7 +15141,7 @@ conceive, of the truth of the position of its being deeply founded in
 the religious system originally common to the whole race. We now
 proceed to another, and, perhaps, an older European family, the Celts.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [415] Mr. Cromek. There was, we believe, some false dealing on the
 part of Allan Cunningham toward this gentleman, such as palming on him
@@ -15210,7 +15210,7 @@ Scottish Border, and other works.
 
 
 
-                           CELTS AND CYMRY.
+~                           CELTS AND CYMRY.
 
       There every herd by sad experience knows,
         How winged with fate their elf-shot arrows fly;
@@ -15252,7 +15252,7 @@ though they are perhaps their precursors in Europe.
 
 
 
-                               IRELAND.
+~                               IRELAND.
 
         Like him, the Sprite,
         Whom maids by night
@@ -15478,7 +15478,7 @@ down along the other side. Lightly, one by one, they then jump down on
 the floor, to hold their revels or accomplish their thefts.
 
        *       *       *       *       *
-
+~
 We have never heard of any being, in the parts of Ireland with which
 we are acquainted, answering to the Boggart, Brownie, or Nis. A
 farmer's family still, we believe, living in the county of Wicklow,
@@ -15625,7 +15625,7 @@ Kildare in our boyhood:[441]
 
 
 
-                   _Clever Tom and the Leprechaun._
+~                   _Clever Tom and the Leprechaun._
 
 Oliver Tom Fwich-(i.e. Fitz)pathrick, as people used to call him, was
 the eldest son o' a comfortable farmer, who lived nigh hand to
@@ -15726,7 +15726,7 @@ thought o' the nate turn he sarved him.[444]
 
 
 
-                   _The Leprechaun in the Garden._
+~                   _The Leprechaun in the Garden._
 
 There's a sort o' people that every body must have met wid sumtime or
 another. I mane thim people that purtinds not to b'lieve in things
@@ -15824,7 +15824,7 @@ slipped out o' my fingers jist as iv he was med o' fog or smoke, an'
 the sarra the fut he iver come nigh my garden agin."
 
 
-                       _The Three Leprechauns._
+~                       _The Three Leprechauns._
 
 Mrs. L. having heard that Molly Toole, an old woman who held a few
 acres of land from Mr. L., had seen Leprechauns, resolved to visit
@@ -15938,13 +15938,13 @@ her mother, she knew, was incapable of telling a lie, and yet she had
 her doubts if there ever were such things as Leprechauns.
 
        *       *       *       *       *
-
+~
 The following tale of a Cluricaun, related by the writer of the Legend
 of Bottle Hill, is of a peculiar character. We have never heard
 anything similar of a Leprechaun.
 
 
-                          _The Little Shoe._
+~                          _The Little Shoe._
 
 "Now tell me, Molly," said Mr. Coote to Molly Cogan, as he met her on
 the road one day, close to one of the old gateways of Kilmallock, "did
@@ -15988,7 +15988,7 @@ hand; an' 'twas the purtiest little shoe she ivir seen."--"An' did you
 see it yourself, Molly?"--"Oh! no, my dear, 'twas lost long afore I
 was born; but my mother tould me aftin an' aftin enough."
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [427] Mr. Croker says, that according to the Munster peasantry the
 ordinary attire of the Fairy is a black hat, green coat, white
@@ -16097,7 +16097,7 @@ in the same place, occurs in Poliziano's Stanze i. 64.
 
 
 
-                         SCOTTISH HIGHLANDS.
+~                         SCOTTISH HIGHLANDS.
 
       Huar Prownie coad agus curochd,
       Agus cha dian Prownie opar tullidh.
@@ -16139,7 +16139,7 @@ neighbours, respecting the seals.
 The following legends will illustrate what we have stated.[449]
 
 
-                        _The Fairy's Inquiry._
+~                        _The Fairy's Inquiry._
 
 A clergyman was returning home one night after visiting a sick member
 of his congregation. His way led by a lake, and as he proceeded he was
@@ -16165,7 +16165,7 @@ fairy then gave a cry of despair and flung himself into the loch, and
 the minister resumed his journey.
 
 
-                    _The Young Man in the Shian._
+~                    _The Young Man in the Shian._
 
 A farmer named Macgillivray, one time removed from the neighbourhood
 of Cairngorm in Strathspey to the forest of Glenavon, in which the
@@ -16206,7 +16206,7 @@ the house, at length convince him that in his single reel he had
 danced for a twelvemonth and a day."
 
 
-                         _The Two Fiddlers._
+~                         _The Two Fiddlers._
 
 Nearly three hundred years ago, there dwelt in Strathspey two fiddlers,
 greatly renowned in their art. One Christmas they resolved to go try
@@ -16239,7 +16239,7 @@ bell continued ringing, but the moment that the minister commenced the
 service they crumbled away into dust.
 
 
-                         _The Fairy-Labour._
+~                         _The Fairy-Labour._
 
 Many years ago there dwelt in Strathspey a midwife of great repute.
 One night just as she was going to bed, she heard a loud knocking at
@@ -16261,7 +16261,7 @@ and it continued, it was said, with her great-grandson, at the time
 the collector of these legends wrote.
 
 
-                    _The Fairy borrowing Oatmeal._
+~                    _The Fairy borrowing Oatmeal._
 
 A fairy came one day from one of the turrets of Craig-ail-naic to the
 wife of one of the tenants in Delnabo, and asked her to lend her a
@@ -16276,7 +16276,7 @@ desired, and as she went along she beheld the corn-kiln of an adjacent
 farm all in a blaze.
 
 
-                          _The Fairy-Gift._
+~                          _The Fairy-Gift._
 
 A farmer in Strathspey was one day engaged in sowing one of his fields
 and singing at his work. A fairy damsel of great beauty came up to him
@@ -16298,7 +16298,7 @@ roared out the farmer; "if it were not for your idle talk, that bag
 was worth its weight in gold."
 
 
-                           _The Stolen Ox._
+~                           _The Stolen Ox._
 
 The tacksman (_i. e._ tenant) of the farm of Auchriachan in Strathavon,
 while searching one day for his goats on a hill in Glenlivat, found
@@ -16341,7 +16341,7 @@ both lay untouched, for it was observed that neither cat nor dog would
 put a tooth in either of them.
 
 
-                          _The Stolen Lady._
+~                          _The Stolen Lady._
 
 John Roy, who lived in Glenbroun, in the parish of Abernethy, being out
 one night on the hills in search of his cattle, met a troop of fairies,
@@ -16375,7 +16375,7 @@ long-separated husband and wife, and receiving their most grateful
 acknowledgments.[452]
 
 
-                          _The Changeling._
+~                          _The Changeling._
 
 A couple of Strathspey lads who dealt in whiskey that never paid duty,
 which they used to purchase in Glenlivat, and sell at Badenoch and Fort
@@ -16405,7 +16405,7 @@ at the top he cried out that things would have gone very differently
 with them had it not been for the arrival of their guests.
 
 
-                         _The Wounded Seal._
+~                         _The Wounded Seal._
 
 There once dwelt on the northern coast, not far from Taigh Jan Crot
 Callow (_John o' Groat's House_), a man who gained his living by
@@ -16449,7 +16449,7 @@ reached the fisherman's house. At parting his companion left with him
 such a present as made him think light of giving over his seal-hunting.
 
 
-                           _The Brownies._
+~                           _The Brownies._
 
 Two Brownies, man and woman, were attached to the ancient family of
 Tullochgorm, in Strathspey. The former was named Brownie-Clod, from a
@@ -16475,7 +16475,7 @@ he tells a story of his invisibly directing a person, at Sir Norman
 M'Leod's, who was playing at draughts, where to place his men.
 
 
-                             _The Urisk._
+~                             _The Urisk._
 
 There is also in the Highlands a rough hairy spirit, called the Urisk.
 The following legend will display his nature and character:
@@ -16496,7 +16496,7 @@ tone several of his brethren were heard to cry out, "What's the matter
 with you?" "Oh! he set me on fire!" "Who?" "Myself!" "Then put it out
 yourself," was the reply.[453]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [447] Account of the Highlands, etc. iv. 358.
 
@@ -16533,7 +16533,7 @@ the Quarterly Review for 1825.
 
 
 
-                             ISLE OF MAN.
+~                             ISLE OF MAN.
 
       Mona once hid from those that search the main,
       Where thousand elfin shapes abide.
@@ -16579,7 +16579,7 @@ dirty, the mother on her return found it with a clean face, and its
 hair nicely combed out.
 
 
-                         _The Fairy-Chapman._
+~                         _The Fairy-Chapman._
 
 A man being desirous of disposing of a horse he had at that time no
 great occasion for, and riding him to market for that purpose, was
@@ -16604,7 +16604,7 @@ nothing afterwards happened to give him any disquiet concerning this
 affair. This was told to Waldron by the person to whom it happened.
 
 
-                         _The Fairy-Banquet._
+~                         _The Fairy-Banquet._
 
 A man one time was led by invisible musicians for several miles
 together, and not being able to resist the harmony, followed till it
@@ -16628,7 +16628,7 @@ it to the service of the church, and this very cup, they say, is that
 which is now used for the consecrated wine in Kirk Merlugh.
 
 
-                     _The Fairies' Christening._
+~                     _The Fairies' Christening._
 
 A woman related that being great with child, and expecting every
 moment the good hour, as she lay awake one night in her bed, she saw
@@ -16648,7 +16648,7 @@ her time, and that, according to what child, male or female, they
 brought, such should the woman bring into the world.
 
 
-                        _The Fairy-Whipping._
+~                        _The Fairy-Whipping._
 
 A woman who lived about two miles distant from Ballasalli, and used to
 serve Mr. Waldron's family with butter, made him once very merry with
@@ -16672,7 +16672,7 @@ them was true, for there was a great deal of blood to be seen on the
 stones. This did she aver with all the solemnity possible.
 
 
-                          _The Fairy-Hunt._
+~                          _The Fairy-Hunt._
 
 A young sailor coming off a long voyage, though it was late at night,
 chose to land rather than lie another night in the vessel. Being
@@ -16696,7 +16696,7 @@ safe; "for," said she, "those you saw were _fairies_, and 'tis well
 they did not take you away with them."
 
 
-                     _The Fiddler and the Fairy._
+~                     _The Fiddler and the Fairy._
 
 A fiddler having agreed with a person, who was a stranger, for so much
 money, to play to some company he should bring him to, all the twelve
@@ -16716,7 +16716,7 @@ he was not sensible when or from what hand he received the blows, that
 he got not home without the utmost difficulty.
 
 
-                         _The Phynnodderee._
+~                         _The Phynnodderee._
 
 The Phynnodderee, or Hairy-one, is a Manks spirit of the same kind with
 the Brownie or the Kobold. He is said to have been a fairy who was
@@ -16764,7 +16764,7 @@ And he departed with a melancholy wail, and has never been seen since.
 The old people say, "There has not been a merry world since he lost
 his ground."[456]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [454] Description of the Isle of Man. London, 1731.
 
@@ -16776,7 +16776,7 @@ Border, and in the notes on Peveril of the Peak.
 
 
 
-                                WALES.
+~                                WALES.
 
       It was the Druid's presage, who had long
       In Geirionydd's[457] airy temple marked
@@ -16799,7 +16799,7 @@ the two following, which show that there was a belief in South Wales
 in beings similar to the Fairies and Hobgoblins of England.
 
 
-                         _Tale of Elidurus._
+~                         _Tale of Elidurus._
 
 A short time before our days, a circumstance worthy of note occurred
 in these parts, which Elidurus, a priest, most strenuously affirmed
@@ -16865,7 +16865,7 @@ remained in Greece after the destruction of Troy, became, in many
 instances, similar to the Greek.[459]
 
        *       *       *       *       *
-
+~
 "If," says the learned archdeacon, "a scrupulous inquirer should ask
 my opinion of the relation here inserted, I answer, with Augustine,
 'admiranda fore divina miracula non disputatione discutienda;' nor do
@@ -16912,7 +16912,7 @@ and from injury, not from illusion."[461]
 
 
 
-                          _The Tylwyth Teg._
+~                          _The Tylwyth Teg._
 
 In the mountains near Brecknock, says Davies,[462] there is a small
 lake, to which tradition assigns some of the properties of the fabled
@@ -16957,14 +16957,14 @@ from the midst of the lake, commanding him to desist, or otherwise he
 would drown the country.
 
        *       *       *       *       *
-
+~
 These Tylwyth Têg are, as we see, regarded as Fairies, but we think
 improperly; for diminutive size is an attribute of the Fairies in all
 parts of the British Isles, and Mr. Owen (in his Welsh Dictionary, _s.
 v._) expressly says that such is not the case with these beings.
 
 
-                       _The Spirit of the Van._
+~                       _The Spirit of the Van._
 
 Among the mountains of Carmarthen, lies a beautiful and romantic piece
 of water, named The Van Pools. Tradition relates, that after midnight,
@@ -17038,7 +17038,7 @@ all her flocks and herds. He pursued her, but in vain; his eyes never
 more beheld her.[463]
 
        *       *       *       *       *
-
+~
 As far as we have been able to learn, the belief in Fairies is
 confined in Wales to the southern counties of Glamorgan, Carmarthen,
 and Pembroke, the parts into which the Saxons had penetrated farthest,
@@ -17152,7 +17152,7 @@ in the air. She had heard, too, of a man who had been five-and-twenty
 years with the fairies, and thought he had been away only five minutes.
 
 
-                      _Rhys at the Fairy-Dance._
+~                      _Rhys at the Fairy-Dance._
 
 Rhys and Llewellyn, two farmer's servants, who had been all day
 carrying lime for their master, were driving in the twilight their
@@ -17193,7 +17193,7 @@ edge of the ring quite red, as if trodden down, and I could see the
 marks of little heels, about the size of my thumb-nail."
 
 
-                            _Gitto Bach._
+~                            _Gitto Bach._
 
 Gitto Bach,[467] who was a fine boy, used often to ramble to the top of
 the mountain to look after his father's sheep. On his return, he would
@@ -17235,7 +17235,7 @@ ascended the rock, and went off through the mountains, the sounds of
 their harps dying away as they receded.
 
 
-                       _The Fairies Banished._
+~                       _The Fairies Banished._
 
 One of those old farm-houses, where the kitchen and cow-house are on
 the same floor, with only a low partition between them, was haunted by
@@ -17259,7 +17259,7 @@ must be something wrong in this house, and we will stop here no
 longer." They went away and never returned.
 
        *       *       *       *       *
-
+~
 The fairies are said to take away children, and leave changelings.[468]
 They also give pieces of money, one of which is found every day in the
 same place as long as the finder keeps his good fortune a secret. One
@@ -17285,7 +17285,7 @@ would have carried him. The Pwcca, for it was he, sprang over the
 glen, turned round, held the light above his head, and then with a
 loud laugh put it out and vanished.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [457] A lake, on whose banks Taliesin resided.
 
@@ -17346,7 +17346,7 @@ supplemental volume of the Irish Fairy Legends. We have abridged them.
 
 
 
-                              BRITTANY.
+~                              BRITTANY.
 
       Mut unt este noble Barun
       Cil de Bretaine li Bretun.
@@ -17427,7 +17427,7 @@ chambers of their lovers. Graelent's mistress says to him,[474]
       Or who shall know my privacy,
 
              *       *       *       *       *
-
+~
       Take care now that you do not boast
       Of things by which I may be lost.
 
@@ -17451,7 +17451,7 @@ _nine_ Korrigen, who dance, with flowers in their hair, and robes of
 white wool, around the fountain, by the light of the full moon."[475]
 
 
-                           _Lai D'ywenec._
+~                           _Lai D'ywenec._
 
       I have in thought and purpose too,
       Of Ywenec to tellen you--
@@ -17786,7 +17786,7 @@ from the golden basin which hung from the oak that shaded it, and
 beheld all the marvels.[484]
 
        *       *       *       *       *
-
+~
 Such is the result of our inquiries respecting the Fairy system of
 the "oldè gentil Bretons." Owing to the praiseworthy labours of a
 Breton gentleman of the present day,[485] we are enabled to give the
@@ -17870,7 +17870,7 @@ first of them in the exact measure of the original. All the Breton
 poetry is rimed, very frequently in triads or tercets.
 
 
-                    _Lord Nann and the Korrigan._
+~                    _Lord Nann and the Korrigan._
 
       The Lord Nann and his bride so fair
       In early youth united were,
@@ -18005,7 +18005,7 @@ both countries--and naturalised in the usual manner. It is rather
 strange that there is neither an English nor a Scottish version of it.
 
        *       *       *       *       *
-
+~
 The next lay, which is entirely composed in tercets, is the story of a
 changeling. In order to recover her own child the mother is advised by
 the Virgin, to whom she has prayed, to prepare a meal for ten
@@ -18070,7 +18070,7 @@ burnt our horny feet and made a fine mess of his crockery."
 The following legend will explain the song of the Korred.
 
 
-                 _The Dance and Song of the Korred._
+~                 _The Dance and Song of the Korred._
 
 The valley of Goel was a celebrated haunt of the Korred.[492] It was
 thought dangerous to pass through it at night lest one should be forced
@@ -18141,7 +18141,7 @@ sizun_, "And now the week is ended." They punished Jean for coming so
 near the end and then disappointing them.[493]
 
        *       *       *       *       *
-
+~
 We add the following circumstances from other authorities:
 
 At Carnac, near Quiberon, says M. de Cambry, in the department of
@@ -18200,7 +18200,7 @@ Devil comes over the ocean; but, unable to endure the look of the good
 spirit, he sinks down again, and, the object of the spirit
 accomplished, he vanishes.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [469] Poésies de Marie de France, par De Roquefort. Paris, 1820. If any
 one should suspect that these are not genuine translations from the
@@ -18318,7 +18318,7 @@ Cornwall; in Irish their appellation is Cromleach.
 
 [490]
 
-            WELSH.                            BRETON.
+~            WELSH.                            BRETON.
 
   Gweliz mez ken gwelet derven,    Gweliz vi ken guelet iar wenn,
   Gweliz vi ken gwelet iar wenn,   Gweliz mez ken gwelet gwezen.
@@ -18360,7 +18360,7 @@ Fatuus_.
 
 
 
-                           SOUTHERN EUROPE.
+~                           SOUTHERN EUROPE.
 
       O faretrate Ninfe, o agresti Pani,
       O Satiri e Silvani, o Fauni e Driadi,
@@ -18386,7 +18386,7 @@ him with them to the South of Europe.
 
 
 
-                               GREECE.
+~                               GREECE.
 
           [Greek: Hôs tereina Nympha]
       [Greek: droserôn esôthen antrôn.] EURIPIDES.
@@ -18537,7 +18537,7 @@ loss of sight. Long he abstained, though tempted by the fairest maids
 of Sicily. At length a princess contrived to intoxicate him: he broke
 his vow, and the threatened penalty was inflicted.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [499] See our Mythology of Ancient Greece and Italy, where (p. 237)
 most of what follows will be found, with notes.
@@ -18547,7 +18547,7 @@ most of what follows will be found, with notes.
 
 
 
-                                ITALY.
+~                                ITALY.
 
       Faune Nympharum fugientum amator,
       Per meos fines et aprica rura
@@ -18592,7 +18592,7 @@ Plautus to have been delivered by an "eyas?"
       Of gold, that I, unknown to all, should keep it.
 
              *       *       *       *       *
-
+~
       He has one daughter, who, each day with wine
       Or incense, or with something, worships me.
       She gives me crowns, and I in recompense
@@ -18846,7 +18846,7 @@ book like the Contes de ma Mère l' Oie. It has now become very scarce;
 we could not at Naples meet with a copy of it, or even with any one
 who had read it.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [501] Aulularia, Prologue.
 
@@ -18929,7 +18929,7 @@ in the plays of Calderon.
 
 
 
-                                SPAIN.
+~                                SPAIN.
 
       Duendecillo, duendecillo,
       Quien quiera que seas ó fueras,
@@ -18952,7 +18952,7 @@ celebrated marshall of Champagne, Gervase of Tilbury, who thus
 relates:--
 
 
-                 _The Daughter of Peter De Cabinam._
+~                 _The Daughter of Peter De Cabinam._
 
 In the bishoprick of Gerunda (_i. e._ Gerona), and the province of
 Catalonia, stands a mountain which the natives call Convagum. It is
@@ -18988,7 +18988,7 @@ and which no one could enter but themselves, and those they brought
 thither.[519]
 
 
-                    _Origin of the House of Haro._
+~                    _Origin of the House of Haro._
 
 As Don Diego Lopez, lord of Biscay, was one day lying in wait for the
 wild boar, he heard the voice of a woman who was singing. On looking
@@ -19031,7 +19031,7 @@ seven fairies,[521] for a period of seven years. It is of the same
 character as the fairy-tales of France and Italy.
 
 
-                           _La Infantine._
+~                           _La Infantine._
 
       Á cazar va el caballero,
       Á cazar como solia.--
@@ -19096,7 +19096,7 @@ character as the fairy-tales of France and Italy.
       Y me arrastran por la villa."[524]
 
 
-                        _Pepito el Corcovado._
+~                        _Pepito el Corcovado._
 
 Pepito el Corcovado,[525] a gay lively little hunchback, used to gain
 his living by his voice and his guitar; for he was a general favourite,
@@ -19142,7 +19142,7 @@ assailed with a shower of blows or pinches, and to make his calamity
 the greater, Pepito's hump was added to his own.[526]
 
        *       *       *       *       *
-
+~
 We thus may see that there are beings in Spain also answering to the
 various classes of Fairies. But none of these have obtained the same
 degree of reputation as the House-spirit, whose Spanish name is Duende
@@ -19214,7 +19214,7 @@ Provence, it was converted into Duende in Spain.[529] It is further
 not quite impossible that Duerg may be also the original of Trasgo, a
 word for which we believe no etymon has been proposed.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [519] Otia Imperialia, p. 982. The Demons must have been some kind of
 fairies: see above, p. 4.
@@ -19285,7 +19285,7 @@ our _colonel_ like the Spanish _coronel_.
 
 
 
-                               FRANCE.
+~                               FRANCE.
 
       Pourquoi faut-il s'émerveiller
       Que la raison la mieux sensée,
@@ -19337,7 +19337,7 @@ thrust his finger into it, and he was no longer visible to any
 one."[530]
 
        *       *       *       *       *
-
+~
 Respecting the Dracs, Gervase farther adds:
 
 "There is also on the banks of the Rhone, under a guardhouse, at the
@@ -19804,7 +19804,7 @@ The following is a slight sketch of the story of the fair Melusina.[558]
 
 
 
-                        _Legend of Melusina._
+~                        _Legend of Melusina._
 
 Elinas, king of Albania, to divert his grief for the death of his
 wife, amused himself with hunting. One day, at the chase, he went to a
@@ -19979,7 +19979,7 @@ that they too had seen her at the same time in other places in the
 neighbourhood, and in the same form.
 
        *       *       *       *       *
-
+~
 The old castle of Pirou, on the coast of the Cotentin, in Lower
 Normandy, likewise owes its origin to the Fées.[564] These were the
 daughters of a great lord of the country, who was a celebrated
@@ -20050,7 +20050,7 @@ Madame d'Aulnoy, and their imitators and successors, gave them vogue
 throughout Europe. These tales are too well known to our readers to
 require us to make any observations on them.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [530] _Otia Imperialia_, p. 987: see above p. 302 _et alib_.
 
@@ -20145,7 +20145,7 @@ Taurin drove out of the temple of Diana, says, _Hunc vulgus Gobelinum
 appellat_, and Wace (Roman de Rou, _v_ 9715) says of the familiar of
 bishop Mauger who excommunicated the Conqueror
 
-      _Ne sei s'esteit lutin ou non._
+~      _Ne sei s'esteit lutin ou non._
 
 
 [552] Mothers also threaten their children with him. _Le gobelin vous
@@ -20200,7 +20200,7 @@ languages: see Grimm, Deut. Mythol. p. 802.
 
 
 
-                           EASTERN EUROPE.
+~                           EASTERN EUROPE.
 
       Up the hill I went, and gazed round.
        Hoping golden maids to see;
@@ -20227,7 +20227,7 @@ knowledge of the popular mythology of both races is very limited.
 
 
 
-                                FINNS.
+~                                FINNS.
 
       Bee! thou little mundane bird!
       Fly away to where I bid thee;
@@ -20321,7 +20321,7 @@ little remarkable, rather resembling the French and Italian Fairy tales.
 Several of them, however, are very pleasing. We regret that we have not
 seen the other collection, which is apparently of greater value.[573]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [568] Mnemosyne, Abo 1821, _ap._ Grimm, Deut. Mythol. p. 426.
 
@@ -20340,7 +20340,7 @@ of which tells the Cyclops, whom he blinds, that his name is Nobody?
 
 
 
-                               SLAVES.
+~                               SLAVES.
 
       Whatsoe'er at eve had raised the workmen,
       Did the Vila raze ere dawn of morning.
@@ -20368,7 +20368,7 @@ Whitsuntide that they appear, and the people then singing and dancing,
 weave garlands for them, which they cast into the stream.[576]
 
        *       *       *       *       *
-
+~
 The following is the Polish form of a legend which we have already met
 with in several places:[577]
 
@@ -20411,7 +20411,7 @@ of snakes.
 The following are specimens of these Servian ballads:
 
 
-                               _Vilas_
+~                               _Vilas_
 
       Cherry! dearest Cherry!
       Higher lift thy branches,
@@ -20429,7 +20429,7 @@ The following are specimens of these Servian ballads:
 
 
 
-                           _Deer and Vila._
+~                           _Deer and Vila._
 
       A young deer track'd his way through the lone forest
       One lonely day--another came in sadness--
@@ -20475,7 +20475,7 @@ The swiftness of the Vila also affords a subject of comparison: a
 fleet horse is said to be "Vilaish," or "swift as a Vila."
 
        *       *       *       *       *
-
+~
 The Morlacchi of Dalmatia, as Sir Gardner Wilkinson informs us,[584]
 believe also in the Vila. They describe her as a handsome female, who
 accompanies the man who is her favourite everywhere he goes, and
@@ -20487,7 +20487,7 @@ ordered to bring money, he usually steals it from one of the
 neighbours, and if taxed with his dishonesty, he goes to the sea and
 comes back dripping and with money.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [574] Delrio, Lib. ii. Sect. 2. Boxhorn Resp. Moscov. Pars I.
 
@@ -20520,7 +20520,7 @@ mistaken the sense.
 
 
 
-                         AFRICANS, JEWS, Etc.
+~                         AFRICANS, JEWS, Etc.
 
       Lead from the hills the voice of riot comes,
       Where Yumboes shout and beat their Jaloff drums.
@@ -20536,7 +20536,7 @@ preceding sections.
 
 
 
-                              AFRICANS.
+~                              AFRICANS.
 
       When evening's shades o'er Goree's isle extend,
       The nimble Yumboes from the Paps descend,
@@ -20587,7 +20587,7 @@ will roast his fish. They bury palm-wine, and when it becomes sour
 they drink of it till it intoxicates them, and then make a great
 noise, beating Jaloff drums on the hills.[586]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [585] The Pang (Span. _paño_, cloth) is an oblong piece of cotton cloth,
 which the natives manufacture and wear wrapped round their bodies.
@@ -20600,7 +20600,7 @@ spoke no language but Jaloff.
 
 
 
-                                JEWS.
+~                                JEWS.
 
       [Hebrew: nykbmb vnyqrb l' rmvyqy']
                              PSALM xci. 5. _Chaldaicè_
@@ -20639,7 +20639,7 @@ and Rabbinical writings. We select the following as specimens; and
 according to our usual custom, adhere strictly to our original.
 
 
-                         _The Broken Oaths._
+~                         _The Broken Oaths._
 
 There was a man who was very rich, and who had but one only son. He
 bestowed upon him every kind of instruction, so that he became very
@@ -20917,7 +20917,7 @@ Rabbi; for he is of sufficient ability, as you may see if you will
 examine him. Farewell." So saying, she departed with her army.[593]
 
 
-                            _The Moohel._
+~                            _The Moohel._
 
 There was once a man who was exceedingly rich, but out of all measure
 avaricious, and who never had done a good deed in his life, and never
@@ -21056,7 +21056,7 @@ very long, and spent a great and a happy life with his family, a pattern
 and an example unto the whole world.[595]
 
 
-                           _The Mazik-Ass._
+~                           _The Mazik-Ass._
 
 It came to pass in the countries of Africa, in a particular month,
 during which it is the usage and the custom of the Jews to rise in the
@@ -21071,7 +21071,7 @@ morrow the man was found sitting upon the tower. Now, thou must know
 that this ass was one of the Mazikeen.
 
        *       *       *       *       *
-
+~
 The Jews have, as it were, brought us back to Asia. As we proceed
 eastwards from Persia, where we commenced, India first meets our view,
 but of the numerous beings of its copious and intricate mythology, no
@@ -21093,7 +21093,7 @@ young maidens, sauntering amid rocks and woods by moonlight.[596]
 We do not recollect to have met, in our reading, with any other beings
 bearing a resemblance to what we term Fairies.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [587] [Hebrew: rym] from [Hebrew: rr] to lay waste, Deut. xxxii. 17.
 
@@ -21128,7 +21128,7 @@ to point out its resemblance to German and other tales.
 
 
 
-                             CONCLUSION.
+~                             CONCLUSION.
 
 
 Here, then, we conclude. The task which we imposed on ourselves was to
@@ -21187,7 +21187,7 @@ deemed best suited to the character of the subject and the taste of
 this country; but we trust that this will not lower either our subject
 or ourselves in the eyes of our readers.[598]
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [597] Under the title Similar Legends in the Index, legends of this
 kind are arranged with references to the places where they occur.
@@ -21199,7 +21199,7 @@ English legends are for the most part, also, merely transcribed.
 
 
 
-                              APPENDIX.
+~                              APPENDIX.
 
 
 The following tales are some of those which we contributed to the Irish
@@ -21209,7 +21209,7 @@ are inserted merely to show that the writer could compose well-rimed
 stanzas, while he lays no claim whatever to the title of poet.
 
 
-                        _The Harvest Dinner._
+~                        _The Harvest Dinner._
 
 It was Monday, and a fine October morning. The sun had been some time
 above the mountains, and the hoar frost and the dew-drops on the
@@ -21569,7 +21569,7 @@ o' me? And did ivir any one see me dhrunk, or hear me tell a lie?"
 rightly know what to say to it?"[600]
 
 
-                          _The Young Piper._
+~                          _The Young Piper._
 
 There was livin', it's not very long ago, on the bordhers o' the county
 Wicklow, a dacint honest couple, whose names wor Mick Flanagan and Judy
@@ -21802,7 +21802,7 @@ belief is, that he wint home wid the pipes to his own relations--the
 good people--to make music fur thim.
 
 
-                          _The Soul Cages._
+~                          _The Soul Cages._
 
 Jack Dogherty lived on the coast of the county Clare. Jack was a
 fisherman, as his father and his grandfather before him had been. Like
@@ -22220,7 +22220,7 @@ old fish, or whatever he was, had either died, or had removed away
 from that part of the country.[603]
 
 
-                      _Barry of Cairn Thierna._
+~                      _Barry of Cairn Thierna._
 
 Fermoy, though now so pretty and so clean a town, was once as poor and
 as dirty a village as any in Ireland. It had neither barracks, nor
@@ -22489,7 +22489,7 @@ air is generally known under the name of Robin Adair:--
                   Aileen a roon!
 
 
-                         _Rousseau's Dream._
+~                         _Rousseau's Dream._
 
 These verses are adapted to the well-known air. They were suggested by
 a passage from Rousseau's works, quoted by Alison in his Essay on
@@ -22542,7 +22542,7 @@ purely ideal.
       Homeward he turned, and still mused on his dream.
 
 
-                     _Alexander Selkirk's Dream._
+~                     _Alexander Selkirk's Dream._
 
            COMPOSED ONE DAY WHEN CONFINED TO BED BY A COLD
                          AND UNABLE TO READ.
@@ -22568,7 +22568,7 @@ purely ideal.
         Oft dispelleth in a dream.
 
              *       *       *       *       *
-
+~
       In his view the lively dream sets
         Hills and vales in verdure bright;
       Where the gaily-prattling streamlets
@@ -22630,7 +22630,7 @@ purely ideal.
         Dweller of Eternity!
 
              *       *       *       *       *
-
+~
       Night's dim shades were now retreating,
         Over Andes rose the day,
       On the hills the kids' loud bleating
@@ -22662,7 +22662,7 @@ purely ideal.
         With the night's last shadows fly.
 
 
-                         _A Moonlight Scene_,
+~                         _A Moonlight Scene_,
 
       CONCEIVED AND COMMENCED WHEN PASSING OVER PUTNEY BRIDGE ON
                   A FINE MOONLIGHT NIGHT IN SUMMER.
@@ -22703,7 +22703,7 @@ purely ideal.
         And eager springs to land.
 
 
-                  _Lines Written in a Lady's Album._
+~                  _Lines Written in a Lady's Album._
 
       In those blest days, when free from care
       And happy as the birds in air,
@@ -22769,7 +22769,7 @@ purely ideal.
         My toil far overpaid.
 
 
-                             _To Amanda._
+~                             _To Amanda._
 
     [These are the verses quoted in the Introduction to the "Tales and
     Popular Fictions." The author was very young when he wrote them;
@@ -22844,7 +22844,7 @@ purely ideal.
         To honour thy behest.
 
 
-                            _A Farewell._
+~                            _A Farewell._
 
       Farewell! farewell! the parting hour
         Is come, and I must leave thee!
@@ -22947,7 +22947,7 @@ purely ideal.
         Dispel by rude intrusion.
 
 
-                              _Verses_,
+~                              _Verses_,
 
  WRITTEN AT BATH IN 1840, FOR A LITTLE BOY WHO KEPT AN ALBUM, AND WAS
            A GREAT ADMIRER OF ROBIN HOOD AND HIS MERRY MEN.
@@ -22973,7 +22973,7 @@ purely ideal.
         Of England, Rome, and Greece.
 
 
-                        _Father Cuddy's Song._
+~                        _Father Cuddy's Song._
 
                   IN THE LEGEND OF CLOUGH NA CUDDY.
 
@@ -23009,7 +23009,7 @@ purely ideal.
       The cloth and are thinking of dining.
 
 
-                     _The Praises of Mazenderân._
+~                     _The Praises of Mazenderân._
 
                   FROM THE SHÂH-NÂMEH OF FERDOUSEE.
 
@@ -23045,7 +23045,7 @@ purely ideal.
       Whoe'er hath not dwelt in that region so bright,
       His soul knows no pleasure, his heart no delight.
 
-FOOTNOTES:
+~FOOTNOTES:
 
 [599] As we have above given an etymon of _cobweb_, we will here
 repeat our note on the word _gossamer_ in the Fairy Legends.
@@ -23138,7 +23138,7 @@ beauties of the ladies displayed than they could have desired.
 
 
 
-                                INDEX.
+~                                INDEX.
 
     The words printed in _Italics_ are those whose origin or meaning
     is explained. The word "Fairy" is inclusive of all similar beings.
@@ -23640,7 +23640,7 @@ beauties of the ladies displayed than they could have desired.
 
 
 
-Transcriber's Notes:
+~Transcriber's Notes:
 
 
 Obvious punctuation and spelling errors have been fixed throughout.
@@ -23670,352 +23670,353 @@ original text. They have been reversed in the new text.
 
 
 
-*** END OF THE PROJECT GUTENBERG EBOOK THE FAIRY MYTHOLOGY ***
-
-
-    
-
-Updated editions will replace the previous one—the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for an eBook, except by following
-the terms of the trademark license, including paying royalties for use
-of the Project Gutenberg trademark. If you do not charge anything for
-copies of this eBook, complying with the trademark license is very
-easy. You may use this eBook for nearly any purpose such as creation
-of derivative works, reports, performances and research. Project
-Gutenberg eBooks may be modified and printed and given away—you may
-do practically ANYTHING in the United States with eBooks not protected
-by U.S. copyright law. Redistribution is subject to the trademark
-license, especially commercial redistribution.
-
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg™ mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase “Project
-Gutenberg”), you agree to comply with all the terms of the Full
-Project Gutenberg™ License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project Gutenberg™
-electronic works
-
-1.A. By reading or using any part of this Project Gutenberg™
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg™ electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg™ electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the person
-or entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B. “Project Gutenberg” is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg™ electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg™ electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg™
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation (“the
-Foundation” or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg™ electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg™ mission of promoting
-free access to electronic works by freely sharing Project Gutenberg™
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg™ name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg™ License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg™ work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country other than the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg™ License must appear
-prominently whenever any copy of a Project Gutenberg™ work (any work
-on which the phrase “Project Gutenberg” appears, or with which the
-phrase “Project Gutenberg” is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-    This eBook is for the use of anyone anywhere in the United States and most
-    other parts of the world at no cost and with almost no restrictions
-    whatsoever. You may copy it, give it away or re-use it under the terms
-    of the Project Gutenberg License included with this eBook or online
-    at www.gutenberg.org. If you
-    are not located in the United States, you will have to check the laws
-    of the country where you are located before using this eBook.
-  
-1.E.2. If an individual Project Gutenberg™ electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase “Project
-Gutenberg” associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg™
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg™ electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg™ License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg™.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg™ License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg™ work in a format
-other than “Plain Vanilla ASCII” or other format used in the official
-version posted on the official Project Gutenberg™ website
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original “Plain
-Vanilla ASCII” or other form. Any alternate format must include the
-full Project Gutenberg™ License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg™ works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg™ electronic works
-provided that:
-
-    • You pay a royalty fee of 20% of the gross profits you derive from
-        the use of Project Gutenberg™ works calculated using the method
-        you already use to calculate your applicable taxes. The fee is owed
-        to the owner of the Project Gutenberg™ trademark, but he has
-        agreed to donate royalties under this paragraph to the Project
-        Gutenberg Literary Archive Foundation. Royalty payments must be paid
-        within 60 days following each date on which you prepare (or are
-        legally required to prepare) your periodic tax returns. Royalty
-        payments should be clearly marked as such and sent to the Project
-        Gutenberg Literary Archive Foundation at the address specified in
-        Section 4, “Information about donations to the Project Gutenberg
-        Literary Archive Foundation.”
-    
-    • You provide a full refund of any money paid by a user who notifies
-        you in writing (or by e-mail) within 30 days of receipt that s/he
-        does not agree to the terms of the full Project Gutenberg™
-        License. You must require such a user to return or destroy all
-        copies of the works possessed in a physical medium and discontinue
-        all use of and all access to other copies of Project Gutenberg™
-        works.
-    
-    • You provide, in accordance with paragraph 1.F.3, a full refund of
-        any money paid for a work or a replacement copy, if a defect in the
-        electronic work is discovered and reported to you within 90 days of
-        receipt of the work.
-    
-    • You comply with all other terms of this agreement for free
-        distribution of Project Gutenberg™ works.
-    
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg™ electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from the Project Gutenberg Literary Archive Foundation, the manager of
-the Project Gutenberg™ trademark. Contact the Foundation as set
-forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg™ collection. Despite these efforts, Project Gutenberg™
-electronic works, and the medium on which they may be stored, may
-contain “Defects,” such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
-of Replacement or Refund” described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg™ trademark, and any other party distributing a Project
-Gutenberg™ electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg™ electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg™
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg™ work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg™ work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg™
-
-Project Gutenberg™ is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg™’s
-goals and ensuring that the Project Gutenberg™ collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg™ and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non-profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation’s EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state’s laws.
-
-The Foundation’s business office is located at 809 North 1500 West,
-Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
-to date contact information can be found at the Foundation’s website
-and official page at www.gutenberg.org/contact
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg™ depends upon and cannot survive without widespread
-public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine-readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular state
-visit www.gutenberg.org/donate.
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate.
-
-Section 5. General Information About Project Gutenberg™ electronic works
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg™ concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg™ eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg™ eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our website which has the main PG search
-facility: www.gutenberg.org.
-
-This website includes information about Project Gutenberg™,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
+!~*** END OF THE PROJECT GUTENBERG EBOOK THE FAIRY MYTHOLOGY ***
+!~
+!~
+!~    
+!~
+!~Updated editions will replace the previous one—the old editions will
+!~be renamed.
+!~
+!~Creating the works from print editions not protected by U.S. copyright
+!~law means that no one owns a United States copyright in these works,
+!~so the Foundation (and you!) can copy and distribute it in the United
+!~States without permission and without paying copyright
+!~royalties. Special rules, set forth in the General Terms of Use part
+!~of this license, apply to copying and distributing Project
+!~Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+!~concept and trademark. Project Gutenberg is a registered trademark,
+!~and may not be used if you charge for an eBook, except by following
+!~the terms of the trademark license, including paying royalties for use
+!~of the Project Gutenberg trademark. If you do not charge anything for
+!~copies of this eBook, complying with the trademark license is very
+!~easy. You may use this eBook for nearly any purpose such as creation
+!~of derivative works, reports, performances and research. Project
+!~Gutenberg eBooks may be modified and printed and given away—you may
+!~do practically ANYTHING in the United States with eBooks not protected
+!~by U.S. copyright law. Redistribution is subject to the trademark
+!~license, especially commercial redistribution.
+!~
+!~
+!~START: FULL LICENSE
+!~
+!~THE FULL PROJECT GUTENBERG LICENSE
+!~
+!~PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+!~
+!~To protect the Project Gutenberg™ mission of promoting the free
+!~distribution of electronic works, by using or distributing this work
+!~(or any other work associated in any way with the phrase “Project
+!~Gutenberg”), you agree to comply with all the terms of the Full
+!~Project Gutenberg™ License available with this file or online at
+!~www.gutenberg.org/license.
+!~
+!~Section 1. General Terms of Use and Redistributing Project Gutenberg™
+!~electronic works
+!~
+!~1.A. By reading or using any part of this Project Gutenberg™
+!~electronic work, you indicate that you have read, understand, agree to
+!~and accept all the terms of this license and intellectual property
+!~(trademark/copyright) agreement. If you do not agree to abide by all
+!~the terms of this agreement, you must cease using and return or
+!~destroy all copies of Project Gutenberg™ electronic works in your
+!~possession. If you paid a fee for obtaining a copy of or access to a
+!~Project Gutenberg™ electronic work and you do not agree to be bound
+!~by the terms of this agreement, you may obtain a refund from the person
+!~or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+!~
+!~1.B. “Project Gutenberg” is a registered trademark. It may only be
+!~used on or associated in any way with an electronic work by people who
+!~agree to be bound by the terms of this agreement. There are a few
+!~things that you can do with most Project Gutenberg™ electronic works
+!~even without complying with the full terms of this agreement. See
+!~paragraph 1.C below. There are a lot of things you can do with Project
+!~Gutenberg™ electronic works if you follow the terms of this
+!~agreement and help preserve free future access to Project Gutenberg™
+!~electronic works. See paragraph 1.E below.
+!~
+!~1.C. The Project Gutenberg Literary Archive Foundation (“the
+!~Foundation” or PGLAF), owns a compilation copyright in the collection
+!~of Project Gutenberg™ electronic works. Nearly all the individual
+!~works in the collection are in the public domain in the United
+!~States. If an individual work is unprotected by copyright law in the
+!~United States and you are located in the United States, we do not
+!~claim a right to prevent you from copying, distributing, performing,
+!~displaying or creating derivative works based on the work as long as
+!~all references to Project Gutenberg are removed. Of course, we hope
+!~that you will support the Project Gutenberg™ mission of promoting
+!~free access to electronic works by freely sharing Project Gutenberg™
+!~works in compliance with the terms of this agreement for keeping the
+!~Project Gutenberg™ name associated with the work. You can easily
+!~comply with the terms of this agreement by keeping this work in the
+!~same format with its attached full Project Gutenberg™ License when
+!~you share it without charge with others.
+!~
+!~1.D. The copyright laws of the place where you are located also govern
+!~what you can do with this work. Copyright laws in most countries are
+!~in a constant state of change. If you are outside the United States,
+!~check the laws of your country in addition to the terms of this
+!~agreement before downloading, copying, displaying, performing,
+!~distributing or creating derivative works based on this work or any
+!~other Project Gutenberg™ work. The Foundation makes no
+!~representations concerning the copyright status of any work in any
+!~country other than the United States.
+!~
+!~1.E. Unless you have removed all references to Project Gutenberg:
+!~
+!~1.E.1. The following sentence, with active links to, or other
+!~immediate access to, the full Project Gutenberg™ License must appear
+!~prominently whenever any copy of a Project Gutenberg™ work (any work
+!~on which the phrase “Project Gutenberg” appears, or with which the
+!~phrase “Project Gutenberg” is associated) is accessed, displayed,
+!~performed, viewed, copied or distributed:
+!~
+!~    This eBook is for the use of anyone anywhere in the United States and most
+!~    other parts of the world at no cost and with almost no restrictions
+!~    whatsoever. You may copy it, give it away or re-use it under the terms
+!~    of the Project Gutenberg License included with this eBook or online
+!~    at www.gutenberg.org. If you
+!~    are not located in the United States, you will have to check the laws
+!~    of the country where you are located before using this eBook.
+!~  
+!~1.E.2. If an individual Project Gutenberg™ electronic work is
+!~derived from texts not protected by U.S. copyright law (does not
+!~contain a notice indicating that it is posted with permission of the
+!~copyright holder), the work can be copied and distributed to anyone in
+!~the United States without paying any fees or charges. If you are
+!~redistributing or providing access to a work with the phrase “Project
+!~Gutenberg” associated with or appearing on the work, you must comply
+!~either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+!~obtain permission for the use of the work and the Project Gutenberg™
+!~trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+!~
+!~1.E.3. If an individual Project Gutenberg™ electronic work is posted
+!~with the permission of the copyright holder, your use and distribution
+!~must comply with both paragraphs 1.E.1 through 1.E.7 and any
+!~additional terms imposed by the copyright holder. Additional terms
+!~will be linked to the Project Gutenberg™ License for all works
+!~posted with the permission of the copyright holder found at the
+!~beginning of this work.
+!~
+!~1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+!~License terms from this work, or any files containing a part of this
+!~work or any other work associated with Project Gutenberg™.
+!~
+!~1.E.5. Do not copy, display, perform, distribute or redistribute this
+!~electronic work, or any part of this electronic work, without
+!~prominently displaying the sentence set forth in paragraph 1.E.1 with
+!~active links or immediate access to the full terms of the Project
+!~Gutenberg™ License.
+!~
+!~1.E.6. You may convert to and distribute this work in any binary,
+!~compressed, marked up, nonproprietary or proprietary form, including
+!~any word processing or hypertext form. However, if you provide access
+!~to or distribute copies of a Project Gutenberg™ work in a format
+!~other than “Plain Vanilla ASCII” or other format used in the official
+!~version posted on the official Project Gutenberg™ website
+!~(www.gutenberg.org), you must, at no additional cost, fee or expense
+!~to the user, provide a copy, a means of exporting a copy, or a means
+!~of obtaining a copy upon request, of the work in its original “Plain
+!~Vanilla ASCII” or other form. Any alternate format must include the
+!~full Project Gutenberg™ License as specified in paragraph 1.E.1.
+!~
+!~1.E.7. Do not charge a fee for access to, viewing, displaying,
+!~performing, copying or distributing any Project Gutenberg™ works
+!~unless you comply with paragraph 1.E.8 or 1.E.9.
+!~
+!~1.E.8. You may charge a reasonable fee for copies of or providing
+!~access to or distributing Project Gutenberg™ electronic works
+!~provided that:
+!~
+!~    • You pay a royalty fee of 20% of the gross profits you derive from
+!~        the use of Project Gutenberg™ works calculated using the method
+!~        you already use to calculate your applicable taxes. The fee is owed
+!~        to the owner of the Project Gutenberg™ trademark, but he has
+!~        agreed to donate royalties under this paragraph to the Project
+!~        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+!~        within 60 days following each date on which you prepare (or are
+!~        legally required to prepare) your periodic tax returns. Royalty
+!~        payments should be clearly marked as such and sent to the Project
+!~        Gutenberg Literary Archive Foundation at the address specified in
+!~        Section 4, “Information about donations to the Project Gutenberg
+!~        Literary Archive Foundation.”
+!~    
+!~    • You provide a full refund of any money paid by a user who notifies
+!~        you in writing (or by e-mail) within 30 days of receipt that s/he
+!~        does not agree to the terms of the full Project Gutenberg™
+!~        License. You must require such a user to return or destroy all
+!~        copies of the works possessed in a physical medium and discontinue
+!~        all use of and all access to other copies of Project Gutenberg™
+!~        works.
+!~    
+!~    • You provide, in accordance with paragraph 1.F.3, a full refund of
+!~        any money paid for a work or a replacement copy, if a defect in the
+!~        electronic work is discovered and reported to you within 90 days of
+!~        receipt of the work.
+!~    
+!~    • You comply with all other terms of this agreement for free
+!~        distribution of Project Gutenberg™ works.
+!~    
+!~
+!~1.E.9. If you wish to charge a fee or distribute a Project
+!~Gutenberg™ electronic work or group of works on different terms than
+!~are set forth in this agreement, you must obtain permission in writing
+!~from the Project Gutenberg Literary Archive Foundation, the manager of
+!~the Project Gutenberg™ trademark. Contact the Foundation as set
+!~forth in Section 3 below.
+!~
+!~1.F.
+!~
+!~1.F.1. Project Gutenberg volunteers and employees expend considerable
+!~effort to identify, do copyright research on, transcribe and proofread
+!~works not protected by U.S. copyright law in creating the Project
+!~Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+!~electronic works, and the medium on which they may be stored, may
+!~contain “Defects,” such as, but not limited to, incomplete, inaccurate
+!~or corrupt data, transcription errors, a copyright or other
+!~intellectual property infringement, a defective or damaged disk or
+!~other medium, a computer virus, or computer codes that damage or
+!~cannot be read by your equipment.
+!~
+!~1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+!~of Replacement or Refund” described in paragraph 1.F.3, the Project
+!~Gutenberg Literary Archive Foundation, the owner of the Project
+!~Gutenberg™ trademark, and any other party distributing a Project
+!~Gutenberg™ electronic work under this agreement, disclaim all
+!~liability to you for damages, costs and expenses, including legal
+!~fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+!~LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+!~PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+!~TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+!~LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+!~INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+!~DAMAGE.
+!~
+!~1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+!~defect in this electronic work within 90 days of receiving it, you can
+!~receive a refund of the money (if any) you paid for it by sending a
+!~written explanation to the person you received the work from. If you
+!~received the work on a physical medium, you must return the medium
+!~with your written explanation. The person or entity that provided you
+!~with the defective work may elect to provide a replacement copy in
+!~lieu of a refund. If you received the work electronically, the person
+!~or entity providing it to you may choose to give you a second
+!~opportunity to receive the work electronically in lieu of a refund. If
+!~the second copy is also defective, you may demand a refund in writing
+!~without further opportunities to fix the problem.
+!~
+!~1.F.4. Except for the limited right of replacement or refund set forth
+!~in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+!~OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+!~LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+!~
+!~1.F.5. Some states do not allow disclaimers of certain implied
+!~warranties or the exclusion or limitation of certain types of
+!~damages. If any disclaimer or limitation set forth in this agreement
+!~violates the law of the state applicable to this agreement, the
+!~agreement shall be interpreted to make the maximum disclaimer or
+!~limitation permitted by the applicable state law. The invalidity or
+!~unenforceability of any provision of this agreement shall not void the
+!~remaining provisions.
+!~
+!~1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+!~trademark owner, any agent or employee of the Foundation, anyone
+!~providing copies of Project Gutenberg™ electronic works in
+!~accordance with this agreement, and any volunteers associated with the
+!~production, promotion and distribution of Project Gutenberg™
+!~electronic works, harmless from all liability, costs and expenses,
+!~including legal fees, that arise directly or indirectly from any of
+!~the following which you do or cause to occur: (a) distribution of this
+!~or any Project Gutenberg™ work, (b) alteration, modification, or
+!~additions or deletions to any Project Gutenberg™ work, and (c) any
+!~Defect you cause.
+!~
+!~Section 2. Information about the Mission of Project Gutenberg™
+!~
+!~Project Gutenberg™ is synonymous with the free distribution of
+!~electronic works in formats readable by the widest variety of
+!~computers including obsolete, old, middle-aged and new computers. It
+!~exists because of the efforts of hundreds of volunteers and donations
+!~from people in all walks of life.
+!~
+!~Volunteers and financial support to provide volunteers with the
+!~assistance they need are critical to reaching Project Gutenberg™’s
+!~goals and ensuring that the Project Gutenberg™ collection will
+!~remain freely available for generations to come. In 2001, the Project
+!~Gutenberg Literary Archive Foundation was created to provide a secure
+!~and permanent future for Project Gutenberg™ and future
+!~generations. To learn more about the Project Gutenberg Literary
+!~Archive Foundation and how your efforts and donations can help, see
+!~Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+!~
+!~Section 3. Information about the Project Gutenberg Literary Archive Foundation
+!~
+!~The Project Gutenberg Literary Archive Foundation is a non-profit
+!~501(c)(3) educational corporation organized under the laws of the
+!~state of Mississippi and granted tax exempt status by the Internal
+!~Revenue Service. The Foundation’s EIN or federal tax identification
+!~number is 64-6221541. Contributions to the Project Gutenberg Literary
+!~Archive Foundation are tax deductible to the full extent permitted by
+!~U.S. federal laws and your state’s laws.
+!~
+!~The Foundation’s business office is located at 809 North 1500 West,
+!~Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+!~to date contact information can be found at the Foundation’s website
+!~and official page at www.gutenberg.org/contact
+!~
+!~Section 4. Information about Donations to the Project Gutenberg
+!~Literary Archive Foundation
+!~
+!~Project Gutenberg™ depends upon and cannot survive without widespread
+!~public support and donations to carry out its mission of
+!~increasing the number of public domain and licensed works that can be
+!~freely distributed in machine-readable form accessible by the widest
+!~array of equipment including outdated equipment. Many small donations
+!~($1 to $5,000) are particularly important to maintaining tax exempt
+!~status with the IRS.
+!~
+!~The Foundation is committed to complying with the laws regulating
+!~charities and charitable donations in all 50 states of the United
+!~States. Compliance requirements are not uniform and it takes a
+!~considerable effort, much paperwork and many fees to meet and keep up
+!~with these requirements. We do not solicit donations in locations
+!~where we have not received written confirmation of compliance. To SEND
+!~DONATIONS or determine the status of compliance for any particular state
+!~visit www.gutenberg.org/donate.
+!~
+!~While we cannot and do not solicit contributions from states where we
+!~have not met the solicitation requirements, we know of no prohibition
+!~against accepting unsolicited donations from donors in such states who
+!~approach us with offers to donate.
+!~
+!~International donations are gratefully accepted, but we cannot make
+!~any statements concerning tax treatment of donations received from
+!~outside the United States. U.S. laws alone swamp our small staff.
+!~
+!~Please check the Project Gutenberg web pages for current donation
+!~methods and addresses. Donations are accepted in a number of other
+!~ways including checks, online payments and credit card donations. To
+!~donate, please visit: www.gutenberg.org/donate.
+!~
+!~Section 5. General Information About Project Gutenberg™ electronic works
+!~
+!~Professor Michael S. Hart was the originator of the Project
+!~Gutenberg™ concept of a library of electronic works that could be
+!~freely shared with anyone. For forty years, he produced and
+!~distributed Project Gutenberg™ eBooks with only a loose network of
+!~volunteer support.
+!~
+!~Project Gutenberg™ eBooks are often created from several printed
+!~editions, all of which are confirmed as not protected by copyright in
+!~the U.S. unless a copyright notice is included. Thus, we do not
+!~necessarily keep eBooks in compliance with any particular paper
+!~edition.
+!~
+!~Most people start at our website which has the main PG search
+!~facility: www.gutenberg.org.
+!~
+!~This website includes information about Project Gutenberg™,
+!~including how to make donations to the Project Gutenberg Literary
+!~Archive Foundation, how to help produce our new eBooks, and how to
+!~subscribe to our email newsletter to hear about new eBooks.
+!~

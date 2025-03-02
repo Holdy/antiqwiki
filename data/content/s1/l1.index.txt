@@ -1,0 +1,2 @@
+next: 42
+previous: 0

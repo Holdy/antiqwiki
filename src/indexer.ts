@@ -71,4 +71,4 @@ export function indexItemsIn(directory:string): void {
 
 }
 
-indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s1");;
+indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s2");;
