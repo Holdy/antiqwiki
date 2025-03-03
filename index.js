@@ -26,17 +26,26 @@ const prepareText = (text) => {
             testLine[testLine.length - 1] === "_"
         ) {
             // looks line the whole line is a title
-            line = `<h2>${line.replace(/_/g, " ").trim()}</h2>`;
+            line = `<em>${line.replace(/_/g, " ")}</em>`;
         }
         preppedLines.push(line);
     }
 
-    return preppedLines
-        .map((line) => (line.trim() === "" ? "&nbsp;" : line))
-        .join("\n")
-        .replace(/\[\d+\]/g, "") // footnote ref.
-        .replace(/\<\/h2\>\n/g, "</h2>")
-        .replace(/\n/g, "<br/>");
+    return (
+        preppedLines
+            .map((line) => {
+                if (line.indexOf("  ") !== -1) {
+                    // there's a chance this is a table of contents - so preserve lines
+                    return line.replace(/ /g, "&nbsp;") + "<br/>";
+                }
+                return line;
+            })
+            .join("\n")
+            .replace(/\[\d+\]/g, "") // footnote ref.
+            //        .replace(/\<\/h2\>\n/g, "</h2>")
+            .replace(/\n{2,}/g, "<br/></br>")
+            .replace(/^(&nbsp;)+/, "")
+    );
 };
 
 //#endregion text prep
