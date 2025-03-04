@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         console.log("itemId : [" + contentId + "]");
 
         const itemResult = await fetch(
-            "./data/content/" + contentId + ".index.txt"
+            "./data/content/" + contentId + ".metadata.txt"
         );
         if (itemResult.ok) {
             const text = await itemResult.text();

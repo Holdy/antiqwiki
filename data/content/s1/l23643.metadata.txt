@@ -2,5 +2,5 @@ location: null
 next: 0
 previous: 23141
 storyCount: 0
-summary:  
+summary: The text comprises transcriber's notes detailing corrections and adjustments made to a document during transcription. These adjustments include fixing spelling errors, replacing non-Latin characters, and correcting the order of footnotes without altering inconsistencies in hyphenation or quotes.
 title: 

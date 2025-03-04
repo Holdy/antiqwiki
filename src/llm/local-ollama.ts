@@ -122,7 +122,7 @@ export async function callChatGPTStructured<ZodSchema extends ZodType>(
     targetProse: string,
     zodSchema: ZodSchema
 ): Promise<[Error, null] | [null, z.infer<ZodSchema>]> {
-    const apiKey = "";
+    const apiKey = process.env.OPENAI_COM__SECRET_KEY;
 
     const response_format = {
         type: "json_schema",
