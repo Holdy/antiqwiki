@@ -1,0 +1,6 @@
+location: the wood
+next: 9702
+previous: 8751
+storyCount: 1
+summary: A young girl is mistreated by her stepmother but finds help and fortune from three dwarfs, leading her to marry a king. Her envious stepsister and stepmother's cruel actions ultimately backfire, resulting in their downfall and the girl's happy reunion with her rightful place as queen.
+title: The Three Dwarfs

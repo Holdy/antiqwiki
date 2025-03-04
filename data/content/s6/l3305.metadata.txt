@@ -1,0 +1,6 @@
+location: forest
+next: 3609
+previous: 2677
+storyCount: 1
+summary: A brother and sister escape their cruel stepmother, a witch, and venture into the wilderness where the brother is transformed into a roe. They find a home in the woods until a king discovers the sister and marries her, later saving her from a witch who impersonates her after childbirth. Eventually, the wicked stepmother and her daughter are punished, the brother is magically restored to human form, and the siblings live happily ever after in the king's castle.
+title: Brother and Sister

@@ -1,0 +1,6 @@
+location: forest
+next: 13345
+previous: 12619
+storyCount: 1
+summary: A queen desires a daughter as white as snow, red as blood, and black as ebony, and her wish is granted with Snowdrop, who is soon left under the care of an envious stepmother. This stepmother repeatedly attempts to kill Snowdrop out of jealousy, but Snowdrop is saved each time until, eventually, she and a prince who finds her in a glass coffin fall in love and marry, leading to her stepmother's demise at the wedding. The story is set in a mysterious forest, featuring elements of magic, deceit, and eventual justice as Snowdrop finds happiness with the prince after enduring her stepmother's cruel tricks.
+title: Snowdrop

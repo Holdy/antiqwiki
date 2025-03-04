@@ -1,0 +1,6 @@
+location: the King's palace
+next: 8294
+previous: 7536
+storyCount: 1
+summary: Drakestail, a clever duck, decides to confront the King who owes him money and sets off on a journey, gathering several friends for support. With the help of his friends, Drakestail overcomes the King's attempts to kill him, ultimately becoming the new King himself after the former King and his ministers meet their demise.
+title: Drakestail

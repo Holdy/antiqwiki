@@ -1,0 +1,6 @@
+location: null
+next: 7536
+previous: 7288
+storyCount: 1
+summary: A young man postpones marrying a foolish girl until he finds three people more foolish than her and her family, only to eventually encounter such individuals during his travels. Satisfied with his discovery of greater fools, he returns to marry the girl, and they have many children together.
+title: The Six Sillies

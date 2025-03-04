@@ -1,0 +1,6 @@
+location: Kingdom of the Peacocks
+next: 4258
+previous: 3305
+storyCount: 1
+summary: Princess Rosette, loved by her family but foretold to bring misfortune to her brothers, is tricked by her nurse and almost drowned at sea, but survives with the help of an old man.  Eventually, after overcoming twisted plots and misunderstandings, she reunites with her brothers and marries the King of the Peacocks, bringing joy and forgiveness all around.
+title: Princess Rosette

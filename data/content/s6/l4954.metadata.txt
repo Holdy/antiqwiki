@@ -1,0 +1,6 @@
+location: palace
+next: 5381
+previous: 4716
+storyCount: 1
+summary: A witch impersonates a man's wife and tricks him into killing a sheep, which is actually his transformed wife, leading their daughter to follow her mother's burial wish, which causes a magical birch tree to grow. The witch consistently unfairly burdens the daughter while attending a king's festival and the daughter's visits to the magical birch allow her to attend secretly; the prince finally identifies her through items left behind, and after trials with magic and the witch's daughter, their union is finally restored. The witch transforms the man's real wife into a reindeer, but the prince's attempts to reclaim his wife succeed when he finally witnesses the magical transformations and brings her back to her human form, concluding with the witch fleeing and the prince, his wife, and the child living happily ever after.
+title: The Wonderful Birch

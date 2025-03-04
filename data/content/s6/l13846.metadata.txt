@@ -1,0 +1,6 @@
+location: forest
+next: 14007
+previous: 13526
+storyCount: 1
+summary: A marvellous musician wanders through a forest, encounters various animals whom he tricks with his fiddle into leaving him, until finally meeting a woodman who appreciates his music. When the animals seek revenge, the woodman protects the musician, and the animals flee back into the forest.
+title: The Marvellous Musician

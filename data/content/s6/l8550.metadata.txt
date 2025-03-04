@@ -1,0 +1,6 @@
+location: another village
+next: 8751
+previous: 8294
+storyCount: 1
+summary: Little Golden-hood, formerly Blanchette, journeys to visit her Grandmother, encountering a deceptive Wolf along the way who plans to harm her. However, thanks to her magical hood, the Wolf is defeated and both she and her Grandmother remain safe, with the Wolf's hide promised as a gift to the dogs.
+title: The True History of Little Golden Hood

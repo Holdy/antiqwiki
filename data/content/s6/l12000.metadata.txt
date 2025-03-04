@@ -1,0 +1,6 @@
+location: null
+next: 12619
+previous: 11857
+storyCount: 1
+summary: Minnikin, born into a family steeped in poverty and many children, sets out on a journey to seek his fortune, battling trolls and acquiring magical items along his adventure. He ultimately rescues a princess, gaining recognition and the opportunity to marry her, while also securing his brother King Pippin's marriage to another princess, thus sharing the kingdom.
+title: Minnikin's Journey

@@ -1,0 +1,6 @@
+location: null
+next: 5870
+previous: 5381
+storyCount: 1
+summary: Jack defeats the giant by cutting the beanstalk, leading to the giant's death, and later the giantess also accidentally falls to her demise, allowing Jack to inherit the castle and wealth rightfully belonging to his family. The fairy reveals she orchestrated the entire event as a test of Jack's courage and character, and assures him that he has climbed the Ladder of Fortune.
+title: THE GIANT BREAKS HIS NECK

@@ -1,0 +1,6 @@
+location: Soria Moria Castle
+next: 1701
+previous: 624
+storyCount: 1
+summary: Halvor, a lazy youth, encounters trolls and defeats them using enchanted swords, rescuing princesses held captive in castles. Despite his adventures, Halvor longs for home, but eventually returns to Soria Moria Castle to marry the youngest princess, gaining recognition for his heroic deeds.
+title: Soria Moria Castle

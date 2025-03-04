@@ -1,0 +1,6 @@
+location: a forest
+next: 7047
+previous: 5870
+storyCount: 1
+summary: Princess Graciosa, adored by her father the King but envied by the ugly Duchess Grumbly, faces numerous trials at the hands of the Duchess after her mother, the Queen, passes away. Rescued repeatedly by the handsome Prince Percinet, who loves her deeply, Graciosa ultimately finds love and happiness after enduring the Duchess's cruelty and tests, which leads to her marriage with Percinet.
+title: Graciosa and Percinet

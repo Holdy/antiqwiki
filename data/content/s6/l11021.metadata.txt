@@ -1,0 +1,6 @@
+location: tower in the middle of a great wood
+next: 11186
+previous: 10777
+storyCount: 1
+summary: A childless couple's desire leads the husband to steal rampion from a witch's garden, resulting in their daughter Rapunzel being taken by the witch and trapped in a tower. Years later, a prince discovers Rapunzel, falls in love, and eventually rescues her from exile after overcoming the witch's cruel schemes.
+title: Rapunzel

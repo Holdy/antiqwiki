@@ -1,0 +1,6 @@
+location: Whiteland
+next: 7288
+previous: 6363
+storyCount: 1
+summary: A fisherman promises his newborn child to a mysterious figure in exchange for fish, leading the boy, raised by a King, on an adventure to Whiteland where he assists a princess by defeating trolls. After marrying the youngest princess, the young King breaks a promise and loses his Queen, but eventually, with the help of magical items and creatures, he reunites with her, reclaiming his rightful place as her husband.
+title: The Three Princesses of Whiteland

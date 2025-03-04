@@ -1,0 +1,6 @@
+location: null
+next: 3305
+previous: 2205
+storyCount: 1
+summary: A young man becomes apprenticed to a group of robbers and quickly proves his skill by outsmarting a series of opponents, including stealing three oxen from a farmer through clever deceit. Eventually, he achieves the title of Master Thief after successfully executing a series of increasingly challenging thefts, leading to his marriage with the Governor's daughter.
+title: The Master Thief

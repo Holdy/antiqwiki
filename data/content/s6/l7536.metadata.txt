@@ -1,0 +1,6 @@
+location: null
+next: 8022
+previous: 7428
+storyCount: 1
+summary: After escaping an unkind stepmother with the help of a Blue Bull, a princess disguises herself as Kari Woodengown while living in hiding near a castle. She eventually captures the heart of a prince, revealing her true identity and securing her happy ending as Princess despite obstacles and trials.
+title: Kari Woodengown

@@ -1,0 +1,6 @@
+location: Quesnoy
+next: 11501
+previous: 11021
+storyCount: 1
+summary: In the Flemish town of Quesnoy, a cruel lord named Burchard attempts to force a peasant girl, Renelde, to marry him after she refuses to leave her grandmother to work at his castle. Renelde is later tasked with spinning a shroud for Burchard, whose health declines as she does; after he repents, she completes his shroud, leading to his death and finally, uniting with her true love, Guilbert.
+title: The Nettle Spinner

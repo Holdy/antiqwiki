@@ -1,0 +1,6 @@
+location: Hamel, Germany
+next: 8550
+previous: 8022
+storyCount: 1
+summary: The town of Hamel was plagued by an infestation of rats which was eventually rid by a mysterious ratcatcher, but when the town attempted to avoid payment for his services, he exacted revenge by leading all their children away, never to be seen again. Years later, it was believed that the lost children had settled in a mountainous region of Transylvania, where the inhabitants spoke German amidst a Hungarian-speaking area.
+title: The Ratcatcher

@@ -1,0 +1,6 @@
+location: null
+next: 4954
+previous: 4258
+storyCount: 1
+summary: Three sons of a King attempt to defeat a fearsome beast called the Norka, with only the youngest son succeeding in overcoming the monster after a series of adventures in an underground world. Returning with three magical brides, the youngest son, Prince Ivan, ultimately exposes his brothers' treachery and is reunited with his family, leading to three grand weddings.
+title: The Norka

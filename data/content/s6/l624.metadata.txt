@@ -1,0 +1,6 @@
+location: null
+next: 1264
+previous: 113
+storyCount: 1
+summary: Princess Mayblossom is cursed by the Fairy Carabosse to be unlucky until she is twenty; despite her parents' precautions, Mayblossom falls for the ambassador Fanfaronade and elopes with him, facing subsequent hardships on a deserted island due to his unkindness.  Eventually, Mayblossom is saved by a benevolent Fairy who defeats Carabosse, returns her home, and matches her with the noble and handsome son of King Merlin, leading to a happy ending with a grand wedding celebration.
+title: The Princess Mayblossom

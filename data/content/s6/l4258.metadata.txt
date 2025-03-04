@@ -1,0 +1,6 @@
+location: null
+next: 4716
+previous: 3609
+storyCount: 1
+summary: A king's youngest daughter is doomed to marry a pig due to a prophecy, but through a series of adventures and trials, she discovers that the pig is actually a bewitched prince. After a long journey full of challenges, the princess breaks the spell, they reunite, and return to their kingdoms to rule happily ever after.
+title: The Enchanted Pig

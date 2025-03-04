@@ -1,0 +1,6 @@
+location: Flanders
+next: 10777
+previous: 9702
+storyCount: 1
+summary: Lord Tubby, a lethargic, rotund lord, is puzzled by his slender son, Prince Desire, who rejects local suitors and goes on a journey to find a unique bride as hinted by his dream. After a series of magical challenges, Desire finds a golden-skinned princess, Zizi, transformed from a canary, ultimately exposes an imposter pretending to be her, and marries the true princess.
+title: The Enchanted Canary

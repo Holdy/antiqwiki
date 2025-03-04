@@ -1,0 +1,6 @@
+location: null
+next: 11857
+previous: 11186
+storyCount: 1
+summary: A man named Jack was apprenticed to a magical being called Farmer Weatherbeard, who took Jack into the air without telling his parents where he was going, prompting his father to search for him. Through clever transformations and the help of an eagle, Jack eventually returns home, outsmarting Farmer Weatherbeard, who wants to gain power over him, with the help of a Princess who hides Jack when he turns into a ring, ultimately leading to Farmer Weatherbeard's downfall.
+title: Farmer Weatherbeard

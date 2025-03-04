@@ -1,0 +1,6 @@
+location: null
+next: 28
+previous: 0
+storyCount: 1
+summary: This text provides information about The Red Fairy Book, an eBook that is freely available online through Project Gutenberg. It highlights the editors and the legal terms for using the eBook in different regions.
+title: The Red Fairy Book

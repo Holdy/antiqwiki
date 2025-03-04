@@ -1,0 +1,6 @@
+location: the wood
+next: 11021
+previous: 10124
+storyCount: 1
+summary: A King and Queen have twelve sons and a prophecy that their thirteenth child, if a girl, will be the sole heir, prompting the brothers to flee when their sister is born and live in the woods. Years later, the sister finds her brothers but accidentally turns them into ravens by picking enchanted lilies, and bravely remains silent for seven years to break the curse, ultimately saving them at the brink of being burned at the stake, while proving her innocence to her husband, the King.
+title: THE TWELVE BROTHERS

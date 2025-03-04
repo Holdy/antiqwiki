@@ -1,0 +1,6 @@
+location: null
+next: 86
+previous: 1
+storyCount: 2
+summary: The Red Fairy Book is a compilation of various fairy tales collected by Andrew Lang. It features a diverse range of stories, including classic and lesser-known tales, presented to engage and delight readers of all ages.
+title: The Red Fairy Book

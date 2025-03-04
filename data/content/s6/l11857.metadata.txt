@@ -1,0 +1,6 @@
+location: well
+next: 12000
+previous: 11501
+storyCount: 1
+summary: A hardworking girl, mistreated by her stepmother, accidentally dropped her spindle into a well and found herself in an enchanting land where she aided Mother Holle and was rewarded with gold for her service. When her lazy sister attempted the same journey hoping for similar riches, she scorned the tasks and was instead punished by being covered in pitch.
+title: MOTHER HOLLE

@@ -1,0 +1,6 @@
+location: a town
+next: 13526
+previous: 12909
+storyCount: 1
+summary: A kind-hearted young man named Dullhead finds a golden goose in the forest after sharing his simple meal with a mysterious old man, and inadvertently causes a series of comical events when people attempting to take the goose's golden feathers find themselves stuck to each other as they follow him. Ultimately, Dullhead's ability to make a solemn princess laugh earns him her hand in marriage, and with further assistance from the old man, he completes the king's challenges, eventually becoming the ruler of the kingdom.
+title: The Golden Goose

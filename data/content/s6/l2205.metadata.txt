@@ -1,0 +1,6 @@
+location: Ireland
+next: 2677
+previous: 1701
+storyCount: 1
+summary: A King of Ireland, after losing his first wife and marrying a second one, falls into peril when the new Queen plots to endanger his sons, forcing them to seek the impossible task of bringing back a magical steed to protect their lives at her behest. Aided by the clever and resourceful Black Thief, the princes eventually outwit both the evil Queen and the mysterious Knight of the Glen, securing their safety and returning victorious to their homeland. As they return with the magical steed, the conspiring Queen, realizing her plot has failed, throws herself from the tower in despair, while the princes, alongside their valued ally, the Black Thief, rejoice in their newfound peace.
+title: The Black Thief and Knight of the Glen

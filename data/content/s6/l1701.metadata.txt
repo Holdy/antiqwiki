@@ -1,0 +1,6 @@
+location: a certain kingdom
+next: 2205
+previous: 1264
+storyCount: 1
+summary: Prince Ivan's sisters are married off to magical suitors, leaving him to seek his own adventure, which leads to his meeting and marrying the powerful Princess Marya Morevna. After disobeying Marya's instructions and freeing the dreaded Koshchei the Deathless, Ivan embarks on a perilous journey with the help of magical allies to rescue his wife, ultimately defeating Koshchei and reuniting with Marya.
+title: The Death of Koshchei the Deathless

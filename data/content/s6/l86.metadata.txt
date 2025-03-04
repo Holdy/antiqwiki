@@ -1,0 +1,6 @@
+location: null
+next: 113
+previous: 28
+storyCount: 0
+summary: The Red Fairy Book gathers a collection of fairy tales from various international sources, translated and adapted by different contributors. The tales include works from French, Norse, German, and Russian origins, hoping to present stories that are less familiar to readers.
+title: 

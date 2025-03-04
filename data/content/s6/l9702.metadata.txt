@@ -1,0 +1,6 @@
+location: King's palace
+next: 10124
+previous: 9445
+storyCount: 1
+summary: A young man, seeking his fortune, acquires a magical horse named Dapplegrim, and with its help, succeeds in freeing a kidnapped princess from a troll and fulfills other challenges set by the reluctant king. Ultimately, Dapplegrim's guidance allows the youth to claim the princess as promised, demonstrating that fate is on his side.
+title: Dapplegrim

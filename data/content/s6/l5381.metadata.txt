@@ -1,0 +1,6 @@
+location: a little cottage
+next: 5793
+previous: 4954
+storyCount: 1
+summary: Jack, a kind but thoughtless boy, sells his mother's cow for magic beans, leading to the discovery of a beanstalk reaching a giant's castle in a hidden land. Through courage and perseverance, Jack retrieves treasures from the giant, including a hen that lays golden eggs and a harp, ultimately restoring his family's fortune and reclaiming his legacy.
+title: Jack and the Beanstalk

@@ -1,0 +1,6 @@
+location: a land where there was no death
+next: 7428
+previous: 7047
+storyCount: 1
+summary: A wealthy man, in search of a country without death, moves his family to a land where people disappear after hearing a mysterious voice calling them. Despite instructing his family to ignore the voice, the man and his wife are eventually compelled to heed its call, leading to their disappearances in a mysterious pit.
+title: The Voice of Death

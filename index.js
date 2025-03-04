@@ -7,6 +7,15 @@ const queryString =
         : decodeURIComponent(window.location.href.substring(qIndex + 1));
 console.log(`queryString: [${queryString}]`);
 
+const queryPairs = {};
+for (const possiblePair of queryString.split("&")) {
+    const pair = possiblePair.split("=");
+    if (pair.length === 2) {
+        console.log(`[${pair[0]}] [${pair[1]}]`);
+        queryPairs[pair[0]] = pair[1];
+    }
+}
+
 const contentIdMatch = queryString.match(/s\d+[\/-]l\d+/i);
 const contentId = contentIdMatch
     ? contentIdMatch[0].toLowerCase().replace("-", "/")
@@ -50,15 +59,23 @@ const prepareText = (text) => {
 
 //#endregion text prep
 
-const searchWord = async (word) => {
-    if (!word || !word.trim()) {
+//#region search
+const searchWord = async (rawWord) => {
+    const word = (rawWord || "").trim();
+    if (!word) {
         return;
     }
 
-    const result = await fetch(`./data/index/${word}.txt`);
+    const result = await fetch(
+        `./data/preindex/${word.substring(0, 2)}/${word}.txt`
+    );
     if (!result.ok) {
         return;
     }
+
+    const mainHtml = "search results";
+    document.getElementById("main-body").innerHTML = mainHtml;
+
     const lines = (await result.text()).toString().split("\n");
     for (let line of lines) {
         const commentIndex = line.indexOf("//");
@@ -67,10 +84,32 @@ const searchWord = async (word) => {
         }
         if (line) {
             // Blank lines / comment lines are ignored
-            console.log(line);
+            console.log("splitting:" + line);
+            const [articleRef] = line.split("+");
+            console.log(articleRef);
+            const [source, article] = articleRef.split("-");
+
+            const resultChild = document.createElement("div");
+            resultChild.id = "result-" + articleRef;
+            resultChild.innerHTML = "Loading...";
+            document.getElementById("main-body").appendChild(resultChild);
+
+            fetch(`/data/content/s${source}/l${article}.metadata.txt`).then(
+                async (itemResult) => {
+                    if (itemResult.ok) {
+                        const text = await itemResult.text();
+                        const itemData = parseDataObject(text, {});
+                        document.getElementById(
+                            "result-" + articleRef
+                        ).innerHTML = itemData.title;
+                        //                        console.log("ItemData:" + JSON.stringify(itemData));
+                    }
+                }
+            );
         }
     }
 };
+//#endregion search
 
 const toggleDisplayed = (id, displayed) => {
     const element = document.getElementById(id);
@@ -98,6 +137,7 @@ const parseDataObject = (text, itemData) => {
             itemData[line.substring(0, i)] = line.substring(i + 1).trim();
         }
     }
+    return itemData;
 };
 
 const nonZero = (text) => text && text != "0";
@@ -111,65 +151,62 @@ document.addEventListener("DOMContentLoaded", async () => {
     toggleDisplayed("nav-row", false);
 
     if (queryString) {
-        if (!contentId) {
-            return;
-        }
-        console.log("itemId : [" + contentId + "]");
-
-        const itemResult = await fetch(
-            "./data/content/" + contentId + ".metadata.txt"
-        );
-        if (itemResult.ok) {
-            const text = await itemResult.text();
-            parseDataObject(text, itemData);
-            console.log("ItemData:" + JSON.stringify(itemData));
-        }
-        toggleDisplayed("main-header-end", nonZero(itemData["previous"]));
-        toggleDisplayed("main-footer-end", nonZero(itemData["next"]));
-
-        const result = await fetch("./data/content/" + contentId + ".txt");
-        if (result.ok) {
-            const textData = await result.text();
-            const contentHtml = prepareText(textData);
-            document.getElementById("main-body").innerHTML = contentHtml;
-        }
-
-        const sourceId = contentId.split("/")[0];
-        const sourceMetaResult = await fetch(
-            `./data/content/${sourceId}/${sourceId}.metadata.txt`
-        );
-        if (sourceMetaResult.ok) {
-            const metadataMap = {};
-            const lines = (await sourceMetaResult.text()).split("\n");
-            for (const line of lines) {
-                const colonIndex = line.indexOf(":");
-                if (colonIndex !== -1) {
-                    const parts = [
-                        line.substring(0, colonIndex),
-                        line.substring(colonIndex + 1),
-                    ];
-                    if (parts.length == 2) {
-                        metadataMap[parts[0].trim()] = parts[1].trim();
-                    }
-                }
-            }
-            if (
-                metadataMap.title &&
-                metadataMap.author &&
-                metadataMap.published
-            ) {
-                fillAndShow(
-                    "main-header-content",
-                    `From '${nobr(metadataMap.title)}' by ${nobr(
-                        metadataMap.author
-                    )} - published ${metadataMap.published}`
-                );
-            }
+        if (queryPairs.q) {
+            searchWord(queryPairs.q);
+        } else if (contentId) {
+            loadPageContent();
         }
     }
-
-    // lets try a search.
-    //   searchWord('caegat');
-    //  searchWord('cat');
 });
+
+async function loadPageContent() {
+    console.log("itemId : [" + contentId + "]");
+
+    const itemResult = await fetch(
+        "./data/content/" + contentId + ".metadata.txt"
+    );
+    if (itemResult.ok) {
+        const text = await itemResult.text();
+        parseDataObject(text, itemData);
+        //console.log("ItemData:" + JSON.stringify(itemData));
+    }
+    toggleDisplayed("main-header-end", nonZero(itemData["previous"]));
+    toggleDisplayed("main-footer-end", nonZero(itemData["next"]));
+
+    const result = await fetch("./data/content/" + contentId + ".txt");
+    if (result.ok) {
+        const textData = await result.text();
+        const contentHtml = prepareText(textData);
+        document.getElementById("main-body").innerHTML = contentHtml;
+    }
+
+    const sourceId = contentId.split("/")[0];
+    const sourceMetaResult = await fetch(
+        `./data/content/${sourceId}/${sourceId}.metadata.txt`
+    );
+    if (sourceMetaResult.ok) {
+        const metadataMap = {};
+        const lines = (await sourceMetaResult.text()).split("\n");
+        for (const line of lines) {
+            const colonIndex = line.indexOf(":");
+            if (colonIndex !== -1) {
+                const parts = [
+                    line.substring(0, colonIndex),
+                    line.substring(colonIndex + 1),
+                ];
+                if (parts.length == 2) {
+                    metadataMap[parts[0].trim()] = parts[1].trim();
+                }
+            }
+        }
+        if (metadataMap.title && metadataMap.author && metadataMap.published) {
+            fillAndShow(
+                "main-header-content",
+                `From '${nobr(metadataMap.title)}' by ${nobr(
+                    metadataMap.author
+                )} - published ${metadataMap.published}`
+            );
+        }
+    }
+}
 

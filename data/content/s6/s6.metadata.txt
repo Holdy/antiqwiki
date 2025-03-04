@@ -1,0 +1,5 @@
+instanceOf: book
+title: The Red Fairy Book
+author: Andrew Lang
+source: http://gutenberg.org/ebooks/540
+published: unknown

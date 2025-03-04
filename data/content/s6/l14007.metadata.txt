@@ -1,0 +1,6 @@
+location: Denmark
+next: 0
+previous: 13846
+storyCount: 1
+summary: Sigurd, a young warrior, embarks on a quest to avenge his father's death by defeating the dragon Fafnir, claiming the cursed treasure it guarded, and unknowingly becomes entangled in a tragic love triangle through the influence of a witch's spell. The eventual revelation of betrayal and lost love leads to the tragic downfall of Sigurd, Brynhild, and those around them as the curse of the treasure fulfills its grim prophecy.
+title: The Story of Sigurd

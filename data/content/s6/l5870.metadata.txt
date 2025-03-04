@@ -1,0 +1,6 @@
+location: Joyous Land
+next: 6363
+previous: 5793
+storyCount: 1
+summary: In a land called the Joyous Land, a kind king and queen ruled happily until a jealous king from the Land of Tears attacked, resulting in the king's death and the queen's capture. With the help of a fairy disguised as a mouse, the queen eventually learned her daughter Delicia had been hidden by a wicked fairy but was later found as a turkey-maiden, whom all the kingdom adored and welcomed as their new queen. With the bad king and prince eliminated by the fairy, Delicia was reunited with her mother, and together they returned to the kingdom where Delicia was crowned, promising a reign of joy and merriment, and she married a charming prince brought by the fairy, bringing a happy end to their troubles.
+title: The Little Good Mouse

@@ -1,0 +1,6 @@
+location: a royal palace
+next: 13846
+previous: 13345
+storyCount: 1
+summary: Three brothers each try to secure a kingdom and a princess by watching over a king's seven enchanted foals, but only the youngest, Cinderlad, successfully completes the task by resisting distraction from a deceptive old hag and following the instructions of the foals. Cinderlad's faithful actions transform the foals back into princes, earning him the princess and half the kingdom, while the seven princes can now seek their own realms.
+title: The Seven Foals

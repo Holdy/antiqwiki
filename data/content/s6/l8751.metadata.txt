@@ -1,0 +1,6 @@
+location: the tower and the golden realm
+next: 9445
+previous: 8550
+storyCount: 1
+summary: Prince Curlicue, an ugly but kind-hearted prince imprisoned for defying his father, King Grumpy's marriage plans, discovers a secret in a tower that leads to his transformation into the handsome Prince Peerless. Princess Cabbage-Stalk, initially ensnared by enchantment, meets Prince Peerless after both are transformed from a Grasshopper and Cricket by the mythical Golden Branch, leading them to marry and reign over a golden realm together.
+title: The Golden Branch
