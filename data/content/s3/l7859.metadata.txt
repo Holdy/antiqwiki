@@ -1,0 +1,6 @@
+location: null
+next: 7868
+previous: 7792
+storyCount: 1
+summary: "King O'Toole and His Goose" is a humorous tale emphasizing the importance of keeping one's promises. The story is crafted with such wit and energy that its moral lesson is seamlessly conveyed.
+title: King O'Toole and His Goose

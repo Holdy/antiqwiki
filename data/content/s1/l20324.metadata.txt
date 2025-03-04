@@ -1,0 +1,6 @@
+location: null
+next: 20343
+previous: 20230
+storyCount: 1
+summary: The footnotes reference various folk stories and myths, including one with similarities to Odysseus' encounter with the Cyclops in the Odyssey. It suggests that several versions of a particular story may have a common origin in classic literature.
+title: References to Folk Stories and Myths

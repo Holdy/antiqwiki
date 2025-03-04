@@ -1,0 +1,6 @@
+location: Connaught
+next: 8144
+previous: 7795
+storyCount: 1
+summary: The narrator ventures to Connaught, spurred by advice from a Sligo landlady, and encounters an old cowherd who shares a tale about Manus O’Rourke and the mythical creature Payshtha guarding treasure in the river. Manus dreams of finding treasure at Linn-na-Payshtha, but when he dives into the river, he encounters the creature, who shrinks into a little man, shows him the treasure, warns him away, and ejects him abruptly, leaving Manus to awaken on an island with the experience remaining a vivid memory.
+title: Linn-Na-Payshtha

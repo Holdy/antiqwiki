@@ -1,0 +1,6 @@
+location: Rügen
+next: 8730
+previous: 8467
+storyCount: 1
+summary: A shepherd's boy named Fritz Schlagenteufel finds a silver bell belonging to a creature from the underground people and eventually exchanges it for a magical shepherd's staff offered by the creature in disguise. The staff brings prosperity to Fritz, who rises from being a shepherd to becoming a wealthy landowner, securing his family's prosperity.
+title: The Lost Bell

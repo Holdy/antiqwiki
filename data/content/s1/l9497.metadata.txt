@@ -1,0 +1,6 @@
+location: Quedlinburg
+next: 9535
+previous: 9458
+storyCount: 1
+summary: In the valley between Blenkenburg and Quedlinburg, a baker discovered that his missing loaves were being stolen by Dwarfs, prompting a series of events that led to their departure from the region. To compensate for their theft, the Dwarfs filled a cask with ancient coins before leaving, marking the end of their presence in the area.
+title: Journey of the Dwarfs over the Mountain

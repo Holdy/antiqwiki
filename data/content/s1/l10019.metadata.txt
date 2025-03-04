@@ -1,0 +1,6 @@
+location: null
+next: 10024
+previous: 9927
+storyCount: 1
+summary: The tale revolves around a fair maiden, possibly a Wild-woman, who once owned the legendary Oldenburg Horn. This account delves into the mysterious background of this enigmatic character and her prized possession, the Oldenburg Horn.
+title: The Oldenburg Horn

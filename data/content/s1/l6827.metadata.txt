@@ -1,0 +1,6 @@
+location: Scandinavia
+next: 6887
+previous: 6772
+storyCount: 1
+summary: The text explores Scandinavian folklore, detailing various mythical creatures like the Nökke, a monster said to take people away, and the Strömkarl, whose music can cause inanimate objects and people to dance. It addresses differences in how stories are localized across regions, such as attributing tales about water spirits in Sweden to hill creatures in Denmark.
+title: Scandinavian Folklore and Mythical Creatures

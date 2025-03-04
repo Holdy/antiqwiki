@@ -1,0 +1,6 @@
+location: Castilla
+next: 19099
+previous: 18991
+storyCount: 1
+summary: A knight discovers a princess named Infantina in the forest, bewitched to stay there until a certain period ends. He leaves her to seek his mother's advice, but upon his return, he finds her gone, seized by a grand retinue, lamenting his loss and blaming himself for leaving her alone.
+title: La Infantine

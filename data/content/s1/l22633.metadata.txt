@@ -1,0 +1,6 @@
+location: Andes
+next: 22665
+previous: 22571
+storyCount: 1
+summary: Selkirk wakes up to the serene beauty of a morning on the Andes, greeted by the sounds of nature and the rising sun. As he contemplates the heavenly vision before him, he finds solace and dismisses the earthly concerns as trivial.
+title: Dawn in the Andes

@@ -1,0 +1,6 @@
+location: Diomede Islands
+next: 1390
+previous: 1225
+storyCount: 1
+summary: According to the Eskimo belief, the first humans on the Diomede Islands were a man and a woman who descended from the sky. The man carved ten figures from ivory and wood, which transformed into the first inhabitants of the islands, with the ivory becoming men and the wood becoming women.
+title: What the Eskimo Believes: How Men Were Created

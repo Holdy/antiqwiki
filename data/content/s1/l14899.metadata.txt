@@ -1,0 +1,6 @@
+location: Nithsdale
+next: 14937
+previous: 14788
+storyCount: 1
+summary: A young woman from Nithsdale unknowingly becomes a nurse for a fairy's child, receiving rich gifts and food in return. After being shown a magical realm and given a special salve allowing her to see fairies, the woman loses the ability to see them forever after being confronted by the fairy.
+title: The Fairies' Nurse

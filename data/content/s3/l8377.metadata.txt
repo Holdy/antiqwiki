@@ -1,0 +1,6 @@
+location: null
+next: 8389
+previous: 8352
+storyCount: 1
+summary: The text provides a reference to a story titled "Andrew Coffey," sourced from D. W. Logie and noted by Alfred Nutt. It suggests that this tale is part of a tradition of Celtic folklore, particularly of the gruesome genre, and mentions similar stories by other authors.
+title: Andrew Coffey

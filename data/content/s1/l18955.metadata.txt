@@ -1,0 +1,6 @@
+location: Gerunda
+next: 18991
+previous: 18932
+storyCount: 1
+summary: Peter de Cabinam, having wished his crying daughter to be taken by Demons, realized the power of such words when she vanished and was later found living under the control of Demons near Convagum mountain in Gerunda. After seven years, she was returned safely to Peter after he pleaded with the Demons, leading the Bishop of Gerunda to use the incident as a lesson for the community about the dangers of careless wishes.
+title: The Daughter of Peter De Cabinam

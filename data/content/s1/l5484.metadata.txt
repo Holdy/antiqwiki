@@ -1,0 +1,6 @@
+location: null
+next: 5496
+previous: 5452
+storyCount: 1
+summary: A mother, suspecting her child to be a changeling, prepares to burn it in an oven to provoke the Troll-woman. The Troll-woman, alarmed, returns the real child and takes her own, revealing the switch.
+title: The Changeling's Return

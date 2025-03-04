@@ -1,0 +1,6 @@
+location: Gascony
+next: 20148
+previous: 19982
+storyCount: 1
+summary: In the rich tapestry of European folklore, varied entities such as fairies, house-spirits, and supernatural warriors create a world of mystique and cultural significance. These stories draw from diverse regions, notably featuring locations such as Gascony and Lower Normandy, evoking a deep connection to the local traditions and mythologies.
+title: Mystical Folklore of Europe

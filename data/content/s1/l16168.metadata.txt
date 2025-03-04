@@ -1,0 +1,6 @@
+location: Glenavon
+next: 16209
+previous: 16142
+storyCount: 1
+summary: In the forest of Glenavon, Rory Macgillivray becomes enchanted by a fairy dance within a Shian and is lost to his family for a year and a day. Eventually, his brother Donald courageously ventures into the Shian to rescue him, aided by a rowan-cross and the advice of a wise man, only to find that what Rory thought was a half-hour of dancing had actually lasted twelve months.
+title: The Young Man in the Shian

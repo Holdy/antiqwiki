@@ -1,0 +1,6 @@
+location: null
+next: 7600
+previous: 7509
+storyCount: 1
+summary: Tangie is a water-spirit known for being covered in seaweed, which sometimes appears as a little horse and other times as a man. This mythical creature is associated with the sea and its elusiveness is reflected in its shape-shifting abilities.
+title: The Myth of Tangie

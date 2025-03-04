@@ -1,0 +1,6 @@
+location: Beerhaven
+next: 3667
+previous: 3537
+storyCount: 1
+summary: Morty Sullivan returns to his hometown of Beerhaven, Ireland, thirty years after running away, only to find that his parents have passed away, heartbroken by his absence. As a form of penance, Morty embarks on a pilgrimage to Saint Gobnate's chapel, but along the way encounters a supernatural creature that tests his courage.
+title: THE SPIRIT HORSE

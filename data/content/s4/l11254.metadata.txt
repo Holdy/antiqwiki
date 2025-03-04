@@ -1,0 +1,6 @@
+location: Derbyshire
+next: 11266
+previous: 11241
+storyCount: 1
+summary: The book 'Memorials of Old Derbyshire' is a collection of historical essays edited by Rev. J. Charles Cox and dedicated to the Duke of Devonshire. Contributions from esteemed authors and historians provide insights into the history and heritage of Derbyshire.
+title: Memorials of Old Derbyshire

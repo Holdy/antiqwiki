@@ -1,0 +1,6 @@
+location: Lynge
+next: 5165
+previous: 5084
+storyCount: 1
+summary: An old farmer near Lynge loses contact with his son and fears he is dead, but a Troll at a nearby hill named Bodedys offers to help if the farmer keeps silent about their encounter. Following the Troll's instructions, the farmer finds his son miraculously returned after an unexplained escape from imprisonment, which they commemorate by hanging a piece of the son's chains in the local church.
+title: The Legend of Bodedys

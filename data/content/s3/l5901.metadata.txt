@@ -1,0 +1,6 @@
+location: Llanlavan
+next: 6059
+previous: 5847
+storyCount: 1
+summary: Ivan, who traveled from Llanlavan to find work, returns home after receiving wise counsel from his employer and proves the value of honesty by solving a murder and returning a lost purse. His integrity not only saves innocent merchants but also earns him a favorable position with the local lord, coinciding with a joyous reunion with his wages hidden in a cake.
+title: The Tale of Ivan

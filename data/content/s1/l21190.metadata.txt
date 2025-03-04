@@ -1,0 +1,6 @@
+location: null
+next: 21202
+previous: 21131
+storyCount: 0
+summary: The text is a reference guide discussing how various legends from German and other languages are translated and presented, often in a rudimentary style. There is a specific mention of English legends primarily being transcribed rather than translated.
+title: 

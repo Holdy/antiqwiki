@@ -1,0 +1,6 @@
+location: Dorset
+next: 11446
+previous: 11419
+storyCount: 1
+summary: This book explores twenty old-world manor houses in Dorset, beautifully illustrated and detailed with historical and literary associations. The lavish volume includes drawings and brass rubbings by the author and W. de C. Prideaux, enhancing its appeal to antiquarians and history enthusiasts.
+title: Some Dorset Manor Houses, With Their Literary and Historical Associations

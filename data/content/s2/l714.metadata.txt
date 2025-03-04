@@ -1,0 +1,6 @@
+location: Inchegeela
+next: 869
+previous: 515
+storyCount: 1
+summary: Father Horrigan unknowingly interrupts a gathering of fairies near Inchegeela, County Cork, which causes them to hide and leads to an encounter with Dermod Leary. Dermod, after an unsuccessful attempt to catch a salmon for the priest's supper, is asked by the fairies to inquire whether they will be saved on Judgment Day, but the fairies flee when told to ask the priest themselves, leaving Dermod and the priest with only potatoes for supper.
+title: The Priest's Supper

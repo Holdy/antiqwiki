@@ -1,0 +1,6 @@
+location: Kilmallock
+next: 2776
+previous: 2401
+storyCount: 1
+summary: Molly Cogan recounts a tale to Mr. Coote about her grandfather who once caught a Cluricaune, a mythical fairy shoemaker, but lost his chance at wealth by releasing him too soon. The Cluricaune escaped, leaving behind only a tiny shoe, which became a cherished family memento, although it was lost before Molly was born.
+title: The Little Shoe

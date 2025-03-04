@@ -1,0 +1,6 @@
+location: Dosenberg
+next: 9773
+previous: 9620
+storyCount: 3
+summary: In a legend from Dosenberg, a mother encounters a dwarf-woman who switches her child with an ugly changeling, but the thief returns the baby after the mother offers the changeling human milk. In Prussian Samland, an innkeeper and a smith both receive mysterious help from underground folk but, after gifting them new clothes, the helpers disappear, crying 'Paid off!' and never return.
+title: Tales of Dwarfs and Spirits in European Folklore

@@ -1,0 +1,6 @@
+location: Kent
+next: 11254
+previous: 11233
+storyCount: 1
+summary: The text describes a book titled 'Memorials of Old Kent,' edited by P. H. Ditchfield and George Clinch, focusing on the rich history and beauty of Kent with contributions from various authors. The book combines archaeology, topography, and stories to create an informative and engaging volume dedicated to Lord Northbourne.
+title: MEMORIALS OF OLD KENT

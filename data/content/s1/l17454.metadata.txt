@@ -1,0 +1,6 @@
+location: Caerwent
+next: 17789
+previous: 17430
+storyCount: 1
+summary: An old governor of Caerwent imprisons his young, beautiful wife to keep her faithful, but she falls in love with a mystical knight who visits her disguised as a bird. Their son, Ywenec, grows up to avenge his father's death at the hands of his mother's husband and becomes king, fulfilling a prophecy told by his dying father.
+title: The Lay of Ywenec

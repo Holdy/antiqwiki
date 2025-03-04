@@ -1,0 +1,6 @@
+location: null
+next: 20432
+previous: 20371
+storyCount: 1
+summary: Radisha, accompanied by dew-laden flowers, encounters two Vilas dancing and addresses a third to become his companion. He promises the Vila a place in the cool shade beside his mother, where she can spin soft silk from a golden distaff.
+title: Vilas

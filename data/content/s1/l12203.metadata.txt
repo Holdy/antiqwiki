@@ -1,0 +1,6 @@
+location: Devonshire and Cornwall
+next: 12355
+previous: 12162
+storyCount: 2
+summary: The popular belief in fairies and Pixies, particularly in Devonshire and Cornwall, describes them as small, green-clad beings associated with magical mischief and nocturnal dancing, often leaving evidence of their revelry in the form of fairy rings. Pixies are thought to be the souls of unbaptized infants, involved in pranks such as leading travelers astray or assisting peasants with chores, yet can be appeased or deterred by specific actions, like turning one's coat inside out to break their enchantment.
+title: Fairies and Pixies: Beliefs and Legends

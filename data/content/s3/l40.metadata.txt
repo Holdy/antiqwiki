@@ -1,0 +1,6 @@
+location: null
+next: 92
+previous: 1
+storyCount: 0
+summary: No story is present as the text is a dedication and introduction to a collection of folk and fairy tales. There are illustrations and references to the editors of the collection but no narrative content.
+title: SAY THIS

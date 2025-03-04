@@ -1,0 +1,6 @@
+location: Seewenweiher
+next: 10910
+previous: 10859
+storyCount: 1
+summary: In Seewenweiher, a helpful Water-man worked tirelessly with the locals, disappearing into the lake each evening. He vanished permanently after being offered a new coat, refusing all pleas to stay.
+title: The Working Waterman

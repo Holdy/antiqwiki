@@ -1,0 +1,6 @@
+location: Nyegaard
+next: 5434
+previous: 5398
+storyCount: 1
+summary: In Denmark, a legend speaks of a Troll blacksmith who resides in a hill at Nyegaard, showing his presence by a fire that emerges nightly. Visitors can leave iron and a silver shilling at the hill to return the next day and find their requested ironwork completed.
+title: The Blacksmith Troll of Nyegaard

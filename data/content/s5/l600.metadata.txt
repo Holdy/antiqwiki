@@ -1,0 +1,6 @@
+location: Aggo
+next: 718
+previous: 498
+storyCount: 1
+summary: In the ancient land of Aggo, the men from the house of Exaluq betrayed and killed their hunting companions from the house of Quern, leading to a young boy avenging them at the request of their spirits. As revenge loomed dangerously close, a conjurer among the women used her magic to grow pups into sled dogs and escape, ultimately creating an unpassable ice floe to thwart their pursuers.
+title: The Woman Magician

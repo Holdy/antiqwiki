@@ -1,0 +1,6 @@
+location: Buttevant
+next: 2950
+previous: 2776
+storyCount: 1
+summary: The Reverend Charles Bunworth, a well-respected rector in Buttevant, was known for his benevolent nature and support of itinerant harpers, earning their gratitude and fame beyond his local parish. In the week leading to his death, eerie sounds attributed to the Banshee were heard near his home, foretelling his passing; despite skepticism, several credible witnesses confirmed these ominous occurrences around the time of his demise.
+title: THE BANSHEE

@@ -1,0 +1,6 @@
+location: Italy
+next: 18595
+previous: 18540
+storyCount: 1
+summary: The original Italian mythology and literature, including that of Etruria and Umbria, have largely been lost to history due to the dominant influence of Greek mythology on Roman culture. Ancient Latium, dominated by Pelasgian influence, had a unique mythological belief system that featured solitary deities and lacked nymphs and dwarfish deities seen in Greek mythology.
+title: ITALY.

@@ -1,0 +1,6 @@
+location: Piddletown
+next: 8456
+previous: 7699
+storyCount: 1
+summary: Piddletown, historically a significant parish and capital of its region, has experienced a decline in population and industry since the mid-19th century, following the railway's introduction to nearby Dorchester. Noteworthy for its ancient St. Mary's church and its connection to Thomas Hardy's 'Far from the Madding Crowd,' Piddletown remains a site of cultural and historical interest, linked to its affluent past and notable families like the Martyns of Athelhampton.
+title: Piddletown and Athelhampton

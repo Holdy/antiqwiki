@@ -1,0 +1,6 @@
+location: Glass
+next: 9335
+previous: 9259
+storyCount: 1
+summary: At a wedding celebration in the village of Glass, near the Wunderberg, a Hill-man joined the festivities, danced gracefully, and rewarded the guests and bridal party with unknown coins, advising them to live humbly and charitably. After enjoying the hospitality, he was ferried across the river Satzach by a boatman, whom he gifted magical protection from drowning and urged to live a pious life, before departing abruptly.
+title: The Hill-Man at the Dance

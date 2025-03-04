@@ -1,0 +1,6 @@
+location: Erin
+next: 8440
+previous: 8377
+storyCount: 1
+summary: The Battle of Birds is an ancient folk tale that has many variants across Celtic and Indo-European cultures, reflecting a shared mythological heritage. It involves parallels with the classical myth of Jason and Medea, suggesting it may have originated from a descent to the underworld story common among early Aryan peoples.
+title: Battle of Birds

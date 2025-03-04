@@ -1,0 +1,6 @@
+location: Ringfalla
+next: 6772
+previous: 6519
+storyCount: 2
+summary: Little Kerstin, grief-stricken by a prophecy and past family tragedies, finds herself swept into the Ringfalla flood on her wedding day, but is eventually saved by Sir Peter's enchanting harp music. The magical melodies not only rescue her from drowning but also bring back her two lost sisters, highlighting the harp's powerful influence.
+title: The Power of the Harp

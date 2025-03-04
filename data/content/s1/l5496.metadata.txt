@@ -1,0 +1,6 @@
+location: Hellested
+next: 5514
+previous: 5484
+storyCount: 1
+summary: In Zealand near Hellested, a farmer suspected that the Troll-folk from the nearby hill of Ildshöi were stealing from him. He confirmed his suspicions when he saw a Troll carrying his tile-stove, causing the creation of a local landmark known as Krogbek.
+title: The Tile-Stove Jumping Over the Brook

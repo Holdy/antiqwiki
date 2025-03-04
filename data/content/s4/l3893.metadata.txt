@@ -1,0 +1,6 @@
+location: Wimborne Minster
+next: 4327
+previous: 3295
+storyCount: 1
+summary: Wimborne Minster, a historic town in Dorset, once suffered raids by the Danes but is renowned for its impressive church that evolved over centuries, displaying a unique two-tower structure. The church, originally linked to a Saxon nunnery founded by royal figures, houses notable monuments such as the Beaufort altar-tomb and a rare chained library, embodying the town's rich medieval heritage.
+title: Wimborne Minster

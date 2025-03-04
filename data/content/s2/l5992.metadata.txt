@@ -1,0 +1,6 @@
+location: Ballyhooley
+next: 6329
+previous: 5903
+storyCount: 1
+summary: Charley Culnane, known for his fearless riding, encounters a supernatural figure known as the headless horseman while riding home on a stormy night from Ballyhooley. The encounter, which includes a mysterious race across the countryside, leaves Charley both astonished and amused, yet unable to convince his neighbors of the reality of what he experienced. Though his story of the headless horseman is dismissed as a result of drinking, Charley's mare wins a race with the encouragement of the specter, helping him pocket a cool hundred against the bay filly Desdemona.
+title: THE HEADLESS HORSEMAN

@@ -1,0 +1,6 @@
+location: Yukon River
+next: 2507
+previous: 2287
+storyCount: 1
+summary: An orphan boy who lived with his aunt near the Yukon River was mistreated by villagers when he traveled to seek companionship, leading his aunt to seek revenge by creating a deadly red bear from a wooden figure. The red bear, brought to life by the aunt's tears, wreaked havoc on the villagers who wronged the boy, killing many until the aunt intervened to stop its rampage, resulting in the existence of red bears in the land.
+title: THE RED BEAR

@@ -1,0 +1,6 @@
+location: Lake of Killarney
+next: 7921
+previous: 7496
+storyCount: 1
+summary: Bill Doody laments his financial woes by the Lake of Killarney, fearing eviction due to unpaid rent, until a mysterious gentleman gives him a purse full of gold to pay his dues. Surprisingly, the gold turns into gingerbread cakes in the agent's possession, but Bill's fortunes improve as he believes he has been aided by the spirit of O'Donoghue from the lake.
+title: RENT-DAY

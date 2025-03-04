@@ -1,0 +1,6 @@
+location: Scotland
+next: 15144
+previous: 15027
+storyCount: 2
+summary: The story explains the concept of the Kelpie, a Scottish water-spirit, known to allure people to watery deaths or cause floods. It also touches on the universal aspects of fairy systems in Gotho-Germanic and Celtic traditions.
+title: Scotland's Kelpie and European Fairy Systems

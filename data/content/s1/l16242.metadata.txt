@@ -1,0 +1,6 @@
+location: Strathspey
+next: 16264
+previous: 16209
+storyCount: 1
+summary: A renowned midwife from Strathspey was urgently summoned by a mysterious rider to assist a fairy-lady in childbirth. Upon successfully delivering a fairy child, she was granted the wish that her descendants would also have successful midwifery careers.
+title: The Fairy-Labour

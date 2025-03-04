@@ -1,0 +1,6 @@
+location: Somerset
+next: 12500
+previous: 12452
+storyCount: 2
+summary: In Somerset, a woman crossed her cakes to prevent tiny fairies called Vairies, known for their high-heeled shoes, from dancing on them and leaving marks. Similar folklore appears in neighboring Dorset and Hampshire, where these mythical creatures have different names and mischievous roles.
+title: Folklore of Pixies and Fairies in Southern England

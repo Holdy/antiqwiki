@@ -1,0 +1,6 @@
+location: Salzburg
+next: 10019
+previous: 9832
+storyCount: 1
+summary: The Wild-women of Germany, also known as Wilde Frauen, are mysterious beings who resemble the Elle-maids of Scandinavia, residing within the hollow Wunderberg near Salzburg, interacting with people by occasionally granting bread and sometimes attempting to take children. An encounter with a Wild-woman leads to a local peasant being enchanted by her beauty, particularly her long hair, but he is ultimately advised to remain faithful to his wife, receiving a shoe full of money as a parting gift.
+title: THE WILD-WOMEN

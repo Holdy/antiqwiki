@@ -1,0 +1,6 @@
+location: null
+next: 82
+previous: 1
+storyCount: 0
+summary: This text provides details about the publication of a book titled 'A Treasury of Eskimo Tales' by Clara K. Bayliss. The book is illustrated by George Carlson and was published by Thomas Y. Crowell Company in 1922.
+title: A Treasury of Eskimo Tales

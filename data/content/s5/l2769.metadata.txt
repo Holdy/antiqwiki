@@ -1,0 +1,6 @@
+location: null
+next: 2825
+previous: 2713
+storyCount: 1
+summary: The Raven, tired of being mocked by seabirds for eating dead animals, decides to eat live ones and targets a Marmot. The Marmot cleverly tricks the Raven into dancing with his eyes closed and escapes to safety, mocking the Raven for his foolishness.
+title: THE MARMOT AND THE RAVEN

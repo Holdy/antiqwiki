@@ -1,0 +1,6 @@
+location: null
+next: 5084
+previous: 5022
+storyCount: 1
+summary: A clever farmer made an agreement with a hill-man living in a hill on his land to alternate taking the harvests above and below ground each year. By planting crops strategically—carrots one year and corn the next—the farmer always ensured he received the valuable portion of the crops, much to the unsuspecting hill-man's contentment.
+title: A Farmer tricks a Troll

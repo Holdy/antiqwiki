@@ -1,0 +1,6 @@
+location: null
+next: 217
+previous: 179
+storyCount: 1
+summary: The poem invites a lady to explore the enchanting and mystical world of Fairy-land, filled with mythical creatures like the Banshee and Phooka. It describes a fantastical journey led by imagination where even spirits dwell in serene, everlasting beauty.
+title: CASTLE MAHON

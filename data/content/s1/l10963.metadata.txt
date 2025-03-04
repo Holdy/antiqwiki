@@ -1,0 +1,6 @@
+location: river Mulda
+next: 10979
+previous: 10952
+storyCount: 2
+summary: The text contains footnotes referencing legends and tales about water-deities, particularly focusing on the idea of these deities taking the souls of drowned persons. These references are drawn from sources including the Edda and stories like those told in Luther's Table-talk, specifically mentioning the river Mulda as a location in one tale.
+title: Water-Deities and Tales of Souls

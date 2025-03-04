@@ -1,0 +1,6 @@
+location: Isle of Man
+next: 11419
+previous: 11354
+storyCount: 2
+summary: M. L. Solon's book provides an authoritative and artistic exploration of Old English porcelain, featuring a comprehensive examination of its craftsmanship and aesthetics, highlighted by numerous illustrative plates. P. M. C. Kermode's detailed work on Manx Crosses offers a thorough account of the inscribed and sculptured monuments of the Isle of Man, supported by precise illustrations and limited edition publishing.
+title: N/A

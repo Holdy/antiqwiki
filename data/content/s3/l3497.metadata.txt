@@ -1,0 +1,6 @@
+location: Dunlavin
+next: 3785
+previous: 3104
+storyCount: 1
+summary: Jack, a poor widow's son, sets out to seek his fortune with his mother's blessing and is joined by a talking ass, dog, cat, and cock, who help him along the way. They stumble upon a group of robbers, scare them away, and return the stolen treasure to its rightful owner, the Lord of Dunlavin, who rewards Jack and his companions generously.
+title: Jack and His Comrades

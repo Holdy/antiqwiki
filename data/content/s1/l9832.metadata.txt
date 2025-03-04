@@ -1,0 +1,6 @@
+location: Lusatia
+next: 9927
+previous: 9818
+storyCount: 1
+summary: Several tales collected by Grimm provide insights into the fairy mythology of Germany, including stories about Dwarfs being perceived as fallen angels in Lusatia. These tales often involve the underground folk, such as the story of a dwarf who borrowed a silk gown for a wedding, only to return it late with spots that could have been diamonds.
+title: Dwarfs and Underground Folk in German Mythology

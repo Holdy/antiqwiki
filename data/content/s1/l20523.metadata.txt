@@ -1,0 +1,6 @@
+location: null
+next: 20539
+previous: 20490
+storyCount: 1
+summary: The passage is a miscellaneous section of a larger work, not confined to a particular race or geographic location, including noteworthy matters that could not be fitted into previous sections. It mentions riotous voices and drums from the hills, illustrating diverse cultural scenes, notably with references like 'Yumboes' and 'Jaloff drums.'
+title: AFRICANS, JEWS, Etc.

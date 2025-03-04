@@ -1,0 +1,6 @@
+location: Ballyhooley
+next: 4121
+previous: 3667
+storyCount: 1
+summary: Peggy Barrett, once a lively dancer and house-wife from Ballyhooley, recounts a spine-chilling encounter with a supernatural creature, the Phooka, which left her back permanently crooked after it landed on her one May-eve night. Despite her condition, Peggy continues to lead a fulfilling life, sharing her stories with family and friends, thereby captivating and sometimes unnerving her audience with tales of her mysterious experience.
+title: The Crookened Back

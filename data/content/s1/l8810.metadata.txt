@@ -1,0 +1,6 @@
+location: null
+next: 8873
+previous: 8776
+storyCount: 1
+summary: In ancient German legends, dwarfs are portrayed as significant figures who possess magical items like the Tarn-kappe, which grants invisibility and protection. Dwarf-king Laurin, after a series of conflicts and betrayals, is eventually defeated and reconciled with humans, but ends up losing his power and treasures.
+title: Germany's Enchanted Dwarfs

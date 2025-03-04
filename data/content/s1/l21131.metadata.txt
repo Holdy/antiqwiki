@@ -1,0 +1,6 @@
+location: null
+next: 21190
+previous: 21096
+storyCount: 1
+summary: The book compiles and analyzes various ideas and legends about fairies and similar beings from different cultures, emphasizing the academic and philosophical significance of these myths. The work positions itself not just as entertainment but as a serious contribution to understanding the historical influence of ancient religious systems on modern folklore.
+title: Conclusion

@@ -1,0 +1,6 @@
+location: null
+next: 15947
+previous: 15827
+storyCount: 1
+summary: The tale describes a Cluricaun, a mischievous spirit similar to a Leprechaun, who possesses unique traits and behaviors compared to its more commonly known counterpart. The story highlights the peculiar aspects of the Cluricaun as relayed by the author of the Legend of Bottle Hill.
+title: The Cluricaun of Bottle Hill

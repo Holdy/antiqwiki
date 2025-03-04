@@ -1,0 +1,6 @@
+location: Gudmanstrup
+next: 5124
+previous: 5062
+storyCount: 1
+summary: A farmer witnessing a troll banquet at Hjulehöi hears a cry that sends the trolls into a panic, ending their festivities abruptly. Meanwhile, a troll at the farmer's home flees in fear upon overhearing the farmer recounting the event, leaving behind a copper kettle.
+title: Skotte in the Fire

@@ -1,0 +1,6 @@
+location: null
+next: 15255
+previous: 15144
+storyCount: 1
+summary: The inhabitants of regions such as Ireland, the Highlands of Scotland, and the Isle of Man, along with those from Wales and Brittany, have experienced significant cultural intersections, primarily due to the influence of the Gotho-German race. Despite original religious beliefs being somewhat obscure, the presence of beings like Dwarfs and Fairies in their folklore suggests Scandinavian contributions to their mythologies.
+title: Celts and Cymry

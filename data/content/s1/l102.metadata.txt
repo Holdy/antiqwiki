@@ -1,0 +1,6 @@
+location: null
+next: 126
+previous: 42
+storyCount: 0
+summary: The text is dedicated to the Right Honourable Francis Earl of Ellesmere, acknowledging his virtues and contributions to literature and the arts. It highlights the author's respect for his public and private virtues, literary taste and talent.
+title: Dedication to Francis Earl of Ellesmere

@@ -1,0 +1,6 @@
+location: Shetland Islands
+next: 7509
+previous: 7481
+storyCount: 1
+summary: This text contains footnotes referencing descriptions and views of the Shetland Islands from various authors and dates. It notes the challenges faced by Dr. Hibbert in acquiring detailed information about a supposed submarine country in this region.
+title: Footnotes on the Shetland Islands

@@ -1,0 +1,6 @@
+location: Dorset
+next: 231
+previous: 118
+storyCount: 0
+summary: The text is a table of contents for a book featuring chapters on various historical and cultural aspects of Dorset. These include topics like historic sites, architectural landmarks, superstitions, and literary associations, written by various authors.
+title: Contents of a Dorset Book

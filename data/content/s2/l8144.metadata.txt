@@ -1,0 +1,6 @@
+location: null
+next: 8157
+previous: 7921
+storyCount: 0
+summary: The passage describes forms that emerge ominously, becoming shapeless and nameless as they obscure vision. These forms appear to envelop the observer, becoming gigantic and merging with surrounding gloom.
+title: ROCKS AND STONES

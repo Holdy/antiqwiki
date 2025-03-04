@@ -1,0 +1,6 @@
+location: Brecknock
+next: 16960
+previous: 16868
+storyCount: 1
+summary: A mysterious door near a lake in Brecknock opened annually, granting access to an enchanted island inhabited by fairies, where visitors were treated to music and secrets but forbidden from taking anything. After one visitor attempted to steal a flower, the fairies concealed their realm forever, closing the door and leaving the visitors and local people unfortunate, with the magical world hidden away.
+title: The Tylwyth Teg

@@ -1,0 +1,6 @@
+location: Dorset
+next: 1463
+previous: 918
+storyCount: 1
+summary: The Roman occupation of Dorset lasted nearly four hundred years, during which Roman legions subjugated native tribes and established a combination of military and civil rule. Dorset's hill forts and ancient roads provide evidence of the Roman dominance, with notable campaigns led by Vespasian and subsequent improvements in infrastructure and trade.
+title: THE ROMAN OCCUPATION

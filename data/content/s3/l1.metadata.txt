@@ -1,0 +1,6 @@
+location: null
+next: 40
+previous: 0
+storyCount: 1
+summary: This text is a preface to 'Celtic Folk and Fairy Tales', an eBook compiled by Joseph Jacobs and illustrated by John Dickson Batten, which is available for free through Project Gutenberg. The eBook offers a collection of stories from Celtic tradition, and while mainly accessible in the United States, users elsewhere need to check local laws for online access.
+title: Celtic Folk and Fairy Tales

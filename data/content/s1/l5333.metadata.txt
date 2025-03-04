@@ -1,0 +1,6 @@
+location: Ringsted
+next: 5361
+previous: 5287
+storyCount: 1
+summary: A man from Englerup discovered that his three wives, kidnapped by a troll named Skynd, were dancing with trolls near Kirsten's Hill. After pleading with the troll, he was allowed to return home with his favorite wife, Kirsten, under the condition he never hurried her, a condition he eventually broke, causing her to vanish back to the hill.
+title: Kirsten's Hill

@@ -1,0 +1,6 @@
+location: Fort-field
+next: 2656
+previous: 2121
+storyCount: 1
+summary: Billy Mac Daniel becomes the servant of a mischievous fairy after a drunken encounter, leading to a series of nightly adventures through Ireland's wine cellars on magical rush horses. In a twist of fate during a wedding, Billy saves the bride from being claimed by the fairy, thus ending his servitude with a comical dismissal.
+title: Master and Man

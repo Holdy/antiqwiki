@@ -1,0 +1,6 @@
+location: null
+next: 3276
+previous: 3102
+storyCount: 1
+summary: The text provides an analysis of various terms and legends from Norse mythology, discussing different interpretations and origins of figures like Edda, Æser, and the distinctions between entities such as Dark Alfs and Duergar. It highlights how the myths might have influenced and been influenced by other cultures, mentioning the probable connections of divine terms with Asian origins and how Christianity shifted the language used for mythological beings.
+title: Analysis of Norse Mythological Terms

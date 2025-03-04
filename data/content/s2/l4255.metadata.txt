@@ -1,0 +1,6 @@
+location: Lough Corrib
+next: 4325
+previous: 4145
+storyCount: 1
+summary: Cormac, haunted by the loss of Mary, believes she is trapped beneath Lough Corrib, ensnared by unholy spells, and not laid to rest. After witnessing a spectral parade on the lake, Cormac breaks the enchantment with a prayer, and Mary is miraculously restored to him.
+title: Cormac and Mary

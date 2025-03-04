@@ -1,0 +1,6 @@
+location: Möen
+next: 4281
+previous: 4184
+storyCount: 2
+summary: In Danish folklore, powerful Elle-kings protect various regions like Möen, Stevns, and Rügen, resisting earthly monarchs and transforming landscapes with their presence. There is a mystical relationship between the Elle-kings, elves, and trees, suggesting that certain trees could transform into Elle soldiers or beings at night, leading to deep-rooted superstitions about them.
+title: The Elle-kings and the Mystical Trees of Denmark

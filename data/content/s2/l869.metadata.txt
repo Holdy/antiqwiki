@@ -1,0 +1,6 @@
+location: null
+next: 993
+previous: 714
+storyCount: 1
+summary: Mrs. Sullivan, believing her son was replaced by a fairy changeling, sought advice from a cunning woman who told her to brew egg-shells to reveal the truth. During the process, the fairy revealed itself, and just as Mrs. Sullivan prepared to burn it, she found her real child peacefully asleep, restoring her happiness.
+title: The Brewery of Egg-Shells

@@ -1,0 +1,6 @@
+location: Somerset
+next: 11224
+previous: 11203
+storyCount: 1
+summary: The book offers a comprehensive portrayal of Somerset's life through a blend of legend, romance, and history, crafted by fifteen writers. This narrative creates a vivid and enthusiastic picture of the county's rich heritage.
+title: MEMORIALS OF OLD SOMERSET

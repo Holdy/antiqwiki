@@ -1,0 +1,6 @@
+location: Innisfallen
+next: 8676
+previous: 8442
+storyCount: 1
+summary: Father Cuddy, enchanted by Margery's fried eggs, spends a night chasing an apparition and wakes to find a century has passed and the world transformed.  Realizing he has slept for a hundred years, Cuddy accepts the changes and leaves for Malaga, where he peacefully ends his days in a monastery.
+title: THE FRIAR’S SONG

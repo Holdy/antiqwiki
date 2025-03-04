@@ -1,0 +1,6 @@
+location: Glenlivat
+next: 16408
+previous: 16344
+storyCount: 1
+summary: Two young traders from Strathspey discovered that fairies swapped a child with a changeling while they were in Glenlivat. Eventually, they returned the real child to its parents, who then witnessed the changeling escaping through the smoke-hole.
+title: The Changeling

@@ -1,0 +1,6 @@
+location: Molly Toole's residence
+next: 15941
+previous: 15729
+storyCount: 1
+summary: Mrs. L. visits Molly Toole to learn about her alleged encounter with Leprechauns and listens to Molly's story of seeing them in a field. Molly explains that she was too afraid to catch the Leprechauns and believes they, along with Fairies, have disappeared from the country.
+title: The Three Leprechauns

@@ -1,0 +1,6 @@
+location: Sweden
+next: 6519
+previous: 6467
+storyCount: 1
+summary: The stubborn disapproval of the Tomte led to the loss of prosperity for the disrespectful farmer but brought fortune to his respectful neighbor. Respect for the industrious Tomte brought wealth and order to households that valued even the smallest contributions.
+title: The Fortune of the Tomte

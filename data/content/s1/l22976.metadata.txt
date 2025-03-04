@@ -1,0 +1,6 @@
+location: Clough Na Cuddy
+next: 23012
+previous: 22950
+storyCount: 1
+summary: A delightful song from Clough Na Cuddy praises the beauty and taste of fresh eggs collected and cooked by a cheerful girl named Margery. The eggs, compared to daisies glistening in the sun, are a joy when served with bacon for a satisfying meal.
+title: Father Cuddy's Song

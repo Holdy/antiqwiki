@@ -1,0 +1,6 @@
+location: null
+next: 5457
+previous: 5148
+storyCount: 1
+summary: The text presents excerpts from traditional songs and poems, referencing headless figures and the legendary Dullahan, a mythical creature in Irish folklore. These references suggest a recurring theme of headless beings in both literature and everyday life, inviting the reader to ponder their symbolic significance.
+title: THE DULLAHAN

@@ -1,0 +1,6 @@
+location: Oldenburg
+next: 10077
+previous: 10019
+storyCount: 1
+summary: Count Otto of Oldenburg experienced a mysterious encounter when a mystical maiden offered him a gilded horn, promising prosperity if he drank from it. He refused to drink, instead taking the horn back to Oldenburg, where it became a valued heirloom of the ruling family.
+title: The Oldenburg Horn

@@ -1,0 +1,6 @@
+location: Osteröe
+next: 7184
+previous: 7150
+storyCount: 1
+summary: In Osteröe, a bridegroom was abducted by Trolls just before his wedding and encountered a beautiful, richly dressed spirit trying to convince him to break his engagement. Despite not being seen or heard by the searchers, he resisted the spirit's persuasion and was eventually released to return to his village.
+title: QVÖRFINS THAATTUR

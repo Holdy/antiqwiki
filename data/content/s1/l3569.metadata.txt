@@ -1,0 +1,6 @@
+location: null
+next: 3640
+previous: 3542
+storyCount: 2
+summary: Ymir, a giant from Norse mythology, represents chaos and his body was used by the sons of Börr to create the world, including the seas and mountains. The Berserkers were fierce warriors known for entering a frenzy that allowed them to perform extraordinary feats in battles.
+title: Mythical Tales of the Norse

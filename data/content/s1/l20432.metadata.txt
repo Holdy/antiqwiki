@@ -1,0 +1,6 @@
+location: forest
+next: 20478
+previous: 20414
+storyCount: 1
+summary: A young deer in the forest shares his sorrow with the Vila, lamenting the disappearance of his beloved fawn who entered the water and never returned. He wonders if she lost her way, met with a huntsman, or perhaps left him for another, wishing for either her return or retribution on her captor.
+title: Deer and Vila

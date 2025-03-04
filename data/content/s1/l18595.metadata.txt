@@ -1,0 +1,6 @@
+location: Naples
+next: 18849
+previous: 18550
+storyCount: 2
+summary: In Naples, a being known as the Monaciello, described as short and monk-like, is believed to lead those who follow him to hidden treasures, creating sudden riches for the brave. Meanwhile, another tale from Sicily tells of a young man who drags a mute sea maiden ashore; they have a son, but when he pressures her to speak, she vanishes, leaving their child behind, who is later drowned by his mother in the sea.
+title: Italian Folk Beliefs and Tales

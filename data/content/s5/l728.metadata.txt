@@ -1,0 +1,6 @@
+location: land of the birds
+next: 865
+previous: 718
+storyCount: 1
+summary: Itajung, jilted by a woman, ventures to the land of birds, where he tricks a goose-woman into becoming his wife, but she eventually abandons him, transforming back into a goose with their child. Determined to reunite with his family, Itajung embarks on a perilous journey, eventually finding them only to see them again transform into geese and fly away.
+title: The Bird Wife

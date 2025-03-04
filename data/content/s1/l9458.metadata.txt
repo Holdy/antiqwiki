@@ -1,0 +1,6 @@
+location: Jüne, near Göttingen
+next: 9497
+previous: 9431
+storyCount: 2
+summary: Dwarfs in Jüne near Göttingen used invisible caps to steal corn until a farmer devised a plan to catch them and received a peck of money by retrieving it before sunrise, thanks to a friend's advice on timing. Similarly, another farmer trapped a dwarf and was promised a waggon-load of money, but found only a dead horse, which turned into pure gold on his return home.
+title: Dwarfs Stealing Corn

@@ -1,0 +1,6 @@
+location: null
+next: 9789
+previous: 9649
+storyCount: 1
+summary: A poor girl, enchanted by a singing Dwarf hidden within a hill, wishes to live and sing like him underground. Upon expressing her desire, she is offered marriage and wealth by the Dwarf, which she accepts, finding happiness in her new life.
+title: The Dwarf Husband

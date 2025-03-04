@@ -1,0 +1,6 @@
+location: Switzerland
+next: 11049
+previous: 10963
+storyCount: 1
+summary: In Switzerland, benevolent and lively Dwarfs are believed to roam the valleys, assisting locals by driving home stray lambs and leaving gifts of brushwood and berries for children. These Dwarfs are thought to have originated from early mountain inhabitants who, over time, became revered as mythical beings by the new settlers.
+title: Swiss Dwarfs and Legends

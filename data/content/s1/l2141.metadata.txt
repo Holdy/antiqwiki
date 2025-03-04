@@ -1,0 +1,6 @@
+location: null
+next: 2301
+previous: 1644
+storyCount: 1
+summary: The text discusses the rich tradition of French romances of chivalry, highlighting works by authors like Chrestien de Troyes, and the transitions these stories underwent from verse to prose. Emphasis is given to the mythical and fantastical elements prevalent in these stories, such as enchanted figures and lands, and how these narratives evolved over centuries in European literature.
+title: Romances of Chivalry and Mythical Elements

@@ -1,0 +1,6 @@
+location: Adam's Peak, Sri Lanka
+next: 1080
+previous: 573
+storyCount: 1
+summary: The text explores various historical and mythical interpretations of footprints on Adam's Peak in Sri Lanka, contrasting Buddhist and Mohammedan views with an anecdote about two observers interpreting celestial sightings differently. It also discusses interpretations of fairies and fate in literature, with references to works like the Faerie Queene and etymological origins from different cultures including Celtic and Italian influences.
+title: Interpretations of Myths and Symbols

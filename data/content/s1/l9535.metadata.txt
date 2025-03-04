@@ -1,0 +1,6 @@
+location: Hesse
+next: 9595
+previous: 9497
+storyCount: 2
+summary: The Dwarfs from different regions, including Neuhof and Hesse, were forced to leave due to their intrusion into human affairs, leading them to deposit portions of their wealth at transit points during their departure. While some humans profited greatly from assisting the Dwarfs, such as the farmer at Singlis who became rich after transporting them, the Dwarfs disappeared entirely from the land, leaving only stories and wealth behind.
+title: The Departure of the Dwarfs

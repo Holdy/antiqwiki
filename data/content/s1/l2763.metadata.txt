@@ -1,0 +1,6 @@
+location: null
+next: 2860
+previous: 2685
+storyCount: 1
+summary: During the sixteenth century, both classical literature and romantic chivalric tales like Lancelot du Lac and Mort d'Arthur were influential, with romance and allegory maintaining a strong presence in storytelling. Spenser drew upon these influences to create the Faerie Queene, a fantastical realm inspired by numerous classic and romantic sources, blending real events with fairy-tale elements to celebrate Elizabethan glories.
+title: Spenser's Faerie Queene

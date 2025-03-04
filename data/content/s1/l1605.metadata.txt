@@ -1,0 +1,6 @@
+location: null
+next: 1644
+previous: 1477
+storyCount: 1
+summary: The text discusses various cultural beliefs and features ancient texts that reference supernatural entities like the Jinn, particularly noting their appearances in works such as the Kurân and Antar. It mentions similarities and differences in beliefs about magical creatures across different cultures, including the Arabian Jinnee and the Irish peasantry's views on fairies.
+title: Cultural Beliefs and Supernatural Entities in Ancient Texts

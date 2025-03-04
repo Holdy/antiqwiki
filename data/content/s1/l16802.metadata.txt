@@ -1,0 +1,6 @@
+location: null
+next: 16868
+previous: 16779
+storyCount: 1
+summary: Elidurus, a young boy, discovers a hidden world of pygmy-like people who live in a dimly lit land devoid of sunlight and sustain themselves on a milk diet flavored with saffron. After stealing a golden ball and losing it during his escape to the upper world, he is unable to return to the subterranean realm and eventually becomes a priest, reflecting on his experiences with sorrow.
+title: Tale of Elidurus

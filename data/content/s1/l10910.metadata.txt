@@ -1,0 +1,6 @@
+location: null
+next: 10952
+previous: 10895
+storyCount: 1
+summary: The midwife is taken by a mysterious man to assist a woman in labor, realizing she's with a Water-man who eats their child on the third day. Following the woman's advice, the midwife returns home safely with her usual pay and is too frightened to return to the pond to witness the grim fate of the children.
+title: The Nix-Labour

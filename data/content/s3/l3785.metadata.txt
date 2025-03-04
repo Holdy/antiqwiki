@@ -1,0 +1,6 @@
+location: Erin
+next: 4064
+previous: 3497
+storyCount: 1
+summary: The Shee an Gannon seeks the daughter of the king of Erin but must first discover why the jubilant Gruagach Gaire has stopped laughing, lest he face execution like previous suitors. After uncovering the tragic tale behind the Gruagach’s silence and defeating deadly challenges, the Shee an Gannon succeeds in winning the princess's hand in marriage, restoring laughter to the Gruagach.
+title: The Shee an Gannon and the Gruagach Gaire

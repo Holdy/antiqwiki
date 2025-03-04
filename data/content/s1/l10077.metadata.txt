@@ -1,0 +1,6 @@
+location: Hudemühlen, Lüneburg
+next: 10652
+previous: 10024
+storyCount: 2
+summary: The Kobold Hinzelmann haunted the castle of Hudemühlen in Lüneburg with his playful yet sometimes mischievous antics, helping around the house as long as he was not vexed. Despite his friendly demeanor, Hinzelmann frightened suitors away from the master's daughters and left the household with mysterious gifts before his departure, claiming they'd bring prosperity if kept together.
+title: Hinzelmann the Kobold

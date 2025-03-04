@@ -1,0 +1,6 @@
+location: null
+next: 42
+previous: 0
+storyCount: 1
+summary: The text provides information about the availability and usage rights of 'The Fairy Mythology' eBook by Thomas Keightley, which is part of Project Gutenberg. This book can be freely accessed and distributed under the terms of the Project Gutenberg License, although users outside of the United States must verify compliance with local laws.
+title: The Fairy Mythology

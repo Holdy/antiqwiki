@@ -1,0 +1,6 @@
+location: Milton, Dorset
+next: 3893
+previous: 2683
+storyCount: 1
+summary: Milton Abbey, originally founded by King Athelstan in 938 and rebuilt after a devastating fire in 1309, stands as a historic site in Dorset with a rich blend of architectural styles and a tumultuous history of renovations and preservations. The abbey's extensive history includes its transformation from a monastery for secular canons to a Benedictine abbey, its survival through the Dissolution under Sir John Tregonwell, and subsequent restorations that preserved its historical and spiritual significance.
+title: Milton Abbey

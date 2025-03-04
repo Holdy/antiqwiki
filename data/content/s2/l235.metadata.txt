@@ -1,0 +1,6 @@
+location: Tipperary
+next: 515
+previous: 217
+storyCount: 2
+summary: A herdsman on the hill of Knocksheogowna in Tipperary becomes the target of fairies displeased by his cattle disturbing their grounds, and the terror they inflict causes the herds to suffer until a brave piper named Larry Hoolahan confronts the fairy queen and secures peace for the hill. In County Limerick, the bold Carroll O'Daly disregards warnings about fairies on Knockfierna and ends up severely injured by a mysterious force in the fairy's domain, learning the hard way that some boundaries are best respected.
+title: Legends of the Shefro

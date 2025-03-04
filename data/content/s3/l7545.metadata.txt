@@ -1,0 +1,6 @@
+location: Slievenamon, Tipperary
+next: 7570
+previous: 7529
+storyCount: 1
+summary: In a tale involving supernatural elements, a woman's household is troubled by a group of horned women, likely fairies, who come to haunt her and create disturbances. The story concludes with a method being found to rid the household of these otherworldly visitors using a shouted warning about a fire.
+title: Horned Women

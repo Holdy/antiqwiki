@@ -1,0 +1,6 @@
+location: Dwarfs' hole
+next: 9620
+previous: 9535
+storyCount: 1
+summary: A dwarf-woman borrowed fresh-baked bread from a field worker, promising to replace it by noon, which she did, expressing gratitude and annoyance over the nearby forges and profanity ruining her village. She lamented the need to relocate due to the disruptive activities and irreverence of the local people, which made her stay unbearable.
+title: The Dwarfs' Borrowing Bread

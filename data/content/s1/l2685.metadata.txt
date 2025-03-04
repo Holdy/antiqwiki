@@ -1,0 +1,6 @@
+location: Avalon
+next: 2763
+previous: 2301
+storyCount: 1
+summary: Ogier arrives at a magical castle named Avalon, surrounded by mystical figures like Morgue and enchanted Faes who welcome him with melodic singing. Engulfed in a world of joy and music, Ogier spends what feels like an eternity in bliss, where time seems to vanish amidst the festive and divine creation of the Faes.
+title: The Enchanted Island of Avalon

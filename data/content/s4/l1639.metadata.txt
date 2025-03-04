@@ -1,0 +1,6 @@
+location: Dorchester
+next: 1692
+previous: 1463
+storyCount: 1
+summary: Dorchester is a modern town rich in remnants of the Roman period, notably the well-preserved amphitheatre, aqueduct, and other artifacts scattered throughout the town and museum. These artifacts highlight the extensive Roman influence in Dorchester, providing historical insight into the daily lives of Romans who once inhabited the area.
+title: Remnants of Roman Dorchester

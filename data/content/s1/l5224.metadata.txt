@@ -1,0 +1,6 @@
+location: null
+next: 5287
+previous: 5198
+storyCount: 1
+summary: A farmer needed to invite a hill-man living on his land to his child's christening but was concerned about offending the village and the priest. With the help of his pig-boy, the farmer was able to secure a generous christening gift from the hill-man while convincing him not to attend the event due to the presence of drums, which the hill-man feared.
+title: The Hill-Man invited to the Christening

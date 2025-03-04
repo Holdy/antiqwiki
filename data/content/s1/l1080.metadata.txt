@@ -1,0 +1,6 @@
+location: Jinnestân
+next: 1239
+previous: 945
+storyCount: 1
+summary: In the ancient Persian religion, a cosmic battle unfolds between the forces of light, led by Ormuzd, and the forces of darkness, ruled by Aherman. This spiritual conflict inspired a vibrant folklore involving Peries and Deevs, with heroic figures like Tahmuras and Roostem embarking on adventures in mystical realms such as Jinnestân to aid the Peries in their battles against Deevs.
+title: Persian Romance

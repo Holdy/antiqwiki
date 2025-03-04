@@ -1,0 +1,6 @@
+location: null
+next: 2122
+previous: 1975
+storyCount: 1
+summary: The Eskimo story serves as a cultural explanation for the very long nights experienced in the far north during certain times of the year. This narrative reflects the way different cultures interpret and respond to natural phenomena.
+title: Eskimo's Explanation of Long Nights

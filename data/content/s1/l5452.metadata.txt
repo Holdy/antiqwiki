@@ -1,0 +1,6 @@
+location: Tiis lake
+next: 5484
+previous: 5434
+storyCount: 1
+summary: In the story, a changeling living near Tiis lake torments a family with his bizarre behavior until a clever girl tricks him into leaving by feeding him an unusual pudding. The changeling finds the peculiar pudding so unsettling that he decides to leave and never returns.
+title: The Changeling

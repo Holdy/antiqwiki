@@ -1,0 +1,6 @@
+location: Scotland
+next: 15027
+previous: 14967
+storyCount: 1
+summary: One Sabbath morning, a herd-boy and his sister witnessed a procession of fairies emerging from a ravine and passing by their cottage in a small hamlet, while the rest of the villagers were at church. The fairies, characterized by their strange and dwarfish appearance, declared they were not of Adam's race and would no longer be seen in Scotland.
+title: Departure of the Fairies

@@ -1,0 +1,6 @@
+location: null
+next: 8460
+previous: 8340
+storyCount: 1
+summary: A monk dreams of living a simple life where he can enjoy breakfast wherever he goes, even if he ends up in small, unremarkable places. He also hopes to receive an egg from a charming girl, highlighting a desire for gentle kindness and uncomplicated pleasures.
+title: Cantat Monachus

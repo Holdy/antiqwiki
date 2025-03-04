@@ -1,0 +1,6 @@
+location: Weymouth
+next: 5668
+previous: 5083
+storyCount: 1
+summary: The text chronicles the historical ownership, development, and events surrounding the borough of Weymouth, including its transfer of ownership through noble families and its role in significant military and political events across centuries. From hosting royal visitors like Margaret of Anjou and contributing ships to military campaigns, to its amalgamation with Melcombe through Parliament, Weymouth's history also touches on its economic struggles, royal visits, and architectural changes over the years.
+title: The Historical Evolution of Weymouth

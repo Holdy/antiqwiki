@@ -1,0 +1,6 @@
+location: null
+next: 13937
+previous: 12966
+storyCount: 2
+summary: Puck warns a Fairy to keep Queen Titania away from King Oberon due to a conflict over a stolen child, causing the fairies to hide in fear of their constant disputes. Puck's mischievous reputation as Robin Good-fellow is confirmed, as he performs pranks and jestful tricks on those who encounter him in the night.
+title: Midsummer-Night's Dream & Other Fairy Tales

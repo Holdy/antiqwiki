@@ -1,0 +1,6 @@
+location: Nestved
+next: 8810
+previous: 8730
+storyCount: 2
+summary: A Danish legend recounts how a Troll attempted to destroy the sand-hills of Nestved by carrying sand in a leaking wallet, resulting in the formation of many sand-hills along his path. A separate tale from Lusatia involves a mystical Fairy-sabbath with enchanted caps and a journey within a mountain by boat, showcasing the region's Vendish influences.
+title: Trolls and Fairy-Sabbaths: Legends of Denmark and Lusatia

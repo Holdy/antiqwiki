@@ -1,0 +1,6 @@
+location: Inverness
+next: 16242
+previous: 16168
+storyCount: 1
+summary: Two fiddlers from Strathspey traveled to Inverness to seek fortune and, after being approached by an old man, were led to a mysterious dwelling where they played music for a night of extraordinary dancing. The next day, they discovered they had traveled a hundred years into the future, and upon entering a church, they turned into dust as the service began.
+title: The Two Fiddlers

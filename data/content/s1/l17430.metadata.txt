@@ -1,0 +1,6 @@
+location: null
+next: 17454
+previous: 17349
+storyCount: 2
+summary: Lanval is instructed by a lady to never boast or share their encounters, as she will appear wherever and whenever he wishes to be with him without anyone knowing. The text also references an ancient poem describing the mystical Korrigan, who dance around a fountain under the moonlight.
+title: The Lady's Command and the Dance of Korrigan

@@ -1,0 +1,6 @@
+location: Cumberland Sound
+next: 978
+previous: 865
+storyCount: 1
+summary: In the past, the Inuit shared their hunting grounds with the much stronger Tornit, who occasionally stole Inuit kayaks, causing tension between the two tribes. After a young Tornit took and damaged an Inuit kayak, leading to his murder in revenge, the Tornit, fearing further retaliation, decided to leave the area entirely.
+title: The Tornit

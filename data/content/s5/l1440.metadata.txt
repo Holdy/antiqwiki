@@ -1,0 +1,6 @@
+location: beach
+next: 1554
+previous: 1411
+storyCount: 1
+summary: The first man came into existence from a pea pod on a soft beach and soon encountered a Raven that transformed into a man. Raven, who created the pea vine, taught the Man about berry eating and created various animals from clay, explaining their roles and habitats on Earth.
+title: The First Man

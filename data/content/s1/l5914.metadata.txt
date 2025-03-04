@@ -1,0 +1,6 @@
+location: Zealand
+next: 6310
+previous: 5590
+storyCount: 1
+summary: The Nis, a folklore creature akin to dwarfs, lives in farmhouses, assisting with chores during the night but punishing any irregularities. Despite attempts to move away, a man discovers the Nis still trying to accompany him, showing its determination to stay connected to the household.
+title: The Mischievous Nis

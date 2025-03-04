@@ -1,0 +1,6 @@
+location: Dorset
+next: 1196
+previous: 364
+storyCount: 1
+summary: Dorset is rich in prehistoric burial mounds, known as barrows, which reveal insights into the lives and practices of ancient Neolithic and Bronze Age communities. Despite their number and historical importance, these barrows have not been extensively examined, leaving much about their builders still unknown.
+title: The Barrows of Dorset

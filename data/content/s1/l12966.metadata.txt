@@ -1,0 +1,6 @@
+location: null
+next: 13227
+previous: 12760
+storyCount: 1
+summary: The text explores the historical evolution of the term 'urchin' and its association with mythical creatures like elves and fairies in English lore. It discusses literary references illustrating these creatures’ characteristics, detailing how they transformed from large, powerful beings to their more modern diminutive forms through works by poets like Chaucer and Shakespeare.
+title: Urchins

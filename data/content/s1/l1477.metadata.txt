@@ -1,0 +1,6 @@
+location: Bagdad
+next: 1605
+previous: 1370
+storyCount: 1
+summary: In the rich and diverse tapestry of Arabian literature, the tales of the thousand and one nights were influenced by Persian stories and the cultural exchanges in Bagdad, a center of emerging Arabian literary marvels after the Prophet's time. Central to many of these tales are the Jinn, supernatural beings with origins predating humanity, who play roles that blur the edges between myth and the natural world, cementing their place in Arabian folklore and reflecting on the region's spiritual beliefs and history.
+title: Arabian Romance

@@ -1,0 +1,6 @@
+location: Caermarthen
+next: 573
+previous: 472
+storyCount: 1
+summary: Throughout history, unusual natural phenomena have led humans to attribute their causes to supernatural beings, such as fairies, dwarfs, and gods, which vary across cultures and religions. These beings, often seen as more powerful and knowledgeable than humans, are believed to inhabit earth or water and have been reshaped by changes in religious beliefs, gaining varying characteristics from benign to malevolent.
+title: Origin of the Belief in Fairies

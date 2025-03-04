@@ -1,0 +1,6 @@
+location: Dorset
+next: 118
+previous: 1
+storyCount: 1
+summary: The book 'Memorials of Old Dorset' is a comprehensive collection of historical and antiquarian insights into Dorset, edited by Thomas Perkins and Herbert Pentin. It is dedicated to Lord Eustace Cecil, past president of the Dorset Natural History and Antiquarian Field Club, with the editors drawing on their expertise and local affiliations to enrich the content.
+title: Memorials of Old Dorset

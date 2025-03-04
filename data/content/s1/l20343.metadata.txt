@@ -1,0 +1,6 @@
+location: Eastern Russia
+next: 20371
+previous: 20324
+storyCount: 1
+summary: In Eastern Russia, a demon disguised as a widow would harm workmen in the fields unless they prostrated themselves upon seeing her, though healing bark could cure the injuries. The Russians also believe in Rusalki, water and wood spirits that interact with nature, particularly during Whitsuntide festivities.
+title: SLAVES.

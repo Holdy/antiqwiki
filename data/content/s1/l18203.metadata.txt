@@ -1,0 +1,6 @@
+location: L'Isle des Saints
+next: 18321
+previous: 18144
+storyCount: 1
+summary: The footnotes provide various insights into ancient European folklore, including interpretations of Breton poetry and connections to mythological figures. References are made to geographical locations such as L'Isle des Saints near Brest, as well as literary sources like Marie de France's translations, showing links to both historical and legendary narratives.
+title: Footnotes to European Folklore

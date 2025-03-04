@@ -1,0 +1,6 @@
+location: null
+next: 18008
+previous: 17789
+storyCount: 1
+summary: Lord Nann, attempting to fulfill his wife's craving for venison, encounters a Korrigan who curses him to die within three days unless he pledges his faith to her. He refuses, and despite his disbelief in the curse, dies three days later; his wife, upon learning of his death, dies of heartbreak, and the couple is symbolically transformed into two oak trees with doves that ascend to heaven.
+title: Lord Nann and the Korrigan

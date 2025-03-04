@@ -1,0 +1,6 @@
+location: Ireland
+next: 7505
+previous: 7165
+storyCount: 1
+summary: Connla, the eldest son of the Irish king Conn, encounters a mysterious fairy maiden who offers him an apple of gold and entices him to travel to the earthly paradise of Tir na n-Og. Fascinated by her and the promise of eternal youth, Connla eventually succumbs to her allure and disappears, leaving behind his royal lineage for the mystical island.
+title: Connla and the Fairy Maiden

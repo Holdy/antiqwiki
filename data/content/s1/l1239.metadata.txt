@@ -1,0 +1,6 @@
+location: Hindostan
+next: 1310
+previous: 1080
+storyCount: 1
+summary: A merchant's son in Hindostan, turned wandering Derweesh, encounters four Peries bathing and demands one marry him in exchange for their stolen garments. After ten years of marriage and children, the Peri retrieves her raiment with the help of the merchant's caretaker and returns to the sky, leaving him in profound despair.
+title: The Peri-Wife

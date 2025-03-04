@@ -1,0 +1,6 @@
+location: Innisfallen
+next: 8442
+previous: 8236
+storyCount: 1
+summary: Father Cuddy, a joyful monk from Innisfallen, journeyed to the abbey of Irelagh to oversee the importation of wine and was warmly welcomed by the brethren. After a hearty feast and partaking in the grace-cup, Cuddy sang songs, enhancing his reputation for melody and mirth among the monks.
+title: CLOUGH NA CUDDY

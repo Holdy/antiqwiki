@@ -1,0 +1,6 @@
+location: England
+next: 12966
+previous: 12731
+storyCount: 1
+summary: The story explores the diminishing presence of fairy lore in England, attributing their disappearance to industrial advancements such as railway trains which have overshadowed their traditional haunts. Puck, a mischievous spirit in English folklore, is examined in terms of his origins and various regional names, emphasizing his role as both a domestic and woodland entity whose name has evolved through language and culture.
+title: The Fade of Fairies and the Tale of Puck: An Exploration of English Folklore

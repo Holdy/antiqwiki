@@ -1,0 +1,6 @@
+location: a little village
+next: 11492
+previous: 11422
+storyCount: 1
+summary: During a stormy night, a dwarf sought shelter in a village but was turned away by all except a kind old couple who offered him food and rest. The grateful dwarf later saved the couple's home from a disastrous landslide by magically using a rock to divert the rushing waters, revealing his true form as a giant before vanishing.
+title: The Dwarf in Search of Lodging

@@ -1,0 +1,6 @@
+location: Kiviung's village
+next: 456
+previous: 218
+storyCount: 1
+summary: A grandmother uses her magical powers to transform her grandson into a seal in order to seek revenge on cruel villagers, leading to their demise in a storm; only the kind-hearted Kiviung survives the ordeal, embarking on an adventurous journey across treacherous seas. After many encounters, including escaping from a sorceress and a family with a mystical seal-hunting log, Kiviung finally returns to his homeland to reunite with his grown son and wife, who rejoices at his return.
+title: Kiviung's Adventures and Return

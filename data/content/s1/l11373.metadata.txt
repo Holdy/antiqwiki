@@ -1,0 +1,6 @@
+location: Walchwyl
+next: 11401
+previous: 11328
+storyCount: 1
+summary: A midwife from the village of Walchwyl helped the queen of the Dwarfs give birth and was gifted what seemed like black coals which turned out to be precious stones. Despite her initial disappointment and discarding most of the coals, the two she retained turned into valuable jewels, leaving her to regret her hasty actions.
+title: The Rejected Gift

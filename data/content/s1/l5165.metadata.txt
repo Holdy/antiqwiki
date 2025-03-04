@@ -1,0 +1,6 @@
+location: Kallundborg
+next: 5198
+previous: 5124
+storyCount: 1
+summary: Esbern Snare, in his quest to build a church in Kallundborg, received help from a Troll under the condition that he must guess the Troll's name upon the church's completion, or lose his eyes and heart. Just as construction neared its end, Esbern overheard the Troll's name, Fin, and upon using it, the outraged Troll departed without completing the work, leaving the church with only three and a half pillars.
+title: Kallundborg Church

@@ -1,0 +1,6 @@
+location: Feroes
+next: 7212
+previous: 7154
+storyCount: 2
+summary: A man finds a female seal's skin, forcing her to remain in human form and he marries her, but she eventually discovers her skin and returns to the sea. In the Feroes, the supernatural creatures like Niägruisar and Nikar inhabit the folklore, bringing both luck and danger to the islanders.
+title: 

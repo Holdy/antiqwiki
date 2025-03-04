@@ -1,0 +1,6 @@
+location: Vale of Neath
+next: 17238
+previous: 17155
+storyCount: 2
+summary: Gitto Bach, a boy who often played on the mountain, disappeared for two years and returned believing he had only been away for a day, telling tales of dancing with little children who gave him clothes made of white paper. Another tale shared was of a narrator using a four-leaved clover to see fairies dancing on Craig y Dinis, and an old man who claimed to see fairies near waterfalls in the Vale of Neath.
+title: Gitto Bach and Fairy Sightings

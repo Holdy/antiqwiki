@@ -1,0 +1,6 @@
+location: null
+next: 20203
+previous: 20053
+storyCount: 1
+summary: In a French tale, to deceive a fairy named Fée, a man dressed in his wife's clothes and attempted to care for a child. The fairy noticed the deception and turned roasting apples into peas as a form of punishment.
+title: Lutin and the Deceptive Man

@@ -1,0 +1,6 @@
+location: Sherborne
+next: 3295
+previous: 2236
+storyCount: 1
+summary: Sherborne owes its existence as a town to being chosen in 705 as the site for the bishop-stool of St. Ealdhelm, the first bishop of Western Wessex. It has experienced significant historical events, including the dissolution of its bishopric in 1075 and its Abbey in 1539, and retains important historical sites like the Abbey Church and Sherborne School.
+title: Sherborne

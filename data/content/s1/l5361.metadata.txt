@@ -1,0 +1,6 @@
+location: Ragunda
+next: 5398
+previous: 5333
+storyCount: 1
+summary: In 1660, a farmer's wife in Ragunda helped a Troll's wife through childbirth and received pieces of silver as gratitude, which were left in their sitting-room. The encounter with the Troll, described as a small, darkly-dressed man, occurred when the couple was alone at their farm, illustrating the mysterious nature of the Vettar spirits in local folklore.
+title: The Troll-Labour

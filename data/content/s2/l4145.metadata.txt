@@ -1,0 +1,6 @@
+location: Cork
+next: 4255
+previous: 4134
+storyCount: 1
+summary: King Core's selfish decision to restrict access to the pure spring water in his palace courtyard leads to a catastrophic event when his daughter, Fior Usga, accidentally unleashes the water by falling into the well. The water fills the valley, creating the lough of Cork, while the palace and its occupants continue eternally dancing underwater, waiting for someone to retrieve the lost golden vessel.
+title: The Lough of Cork

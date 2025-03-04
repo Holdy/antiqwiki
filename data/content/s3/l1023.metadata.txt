@@ -1,0 +1,6 @@
+location: field of boliauns
+next: 1145
+previous: 437
+storyCount: 1
+summary: Tom Fitzpatrick encounters a leprechaun while walking through a field and, hoping to find a crock of gold, marks the hiding spot under a boliaun with a red garter. Returning with a spade, Tom discovers the leprechaun has tricked him, as all the boliauns in the field now have red garters tied around them, making it impossible to identify the right one.
+title: The Field of Boliauns

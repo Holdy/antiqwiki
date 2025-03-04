@@ -1,0 +1,6 @@
+location: Saddell
+next: 2129
+previous: 1941
+storyCount: 1
+summary: A sprightly tailor, dared by the laird Macdonald, sews trews overnight in a haunted church for a handsome reward. Despite an apparition's attempts to intimidate him, the tailor completes his work and escapes swiftly, earning his prize.
+title: The Sprightly Tailor

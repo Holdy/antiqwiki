@@ -1,0 +1,6 @@
+location: null
+next: 3954
+previous: 3754
+storyCount: 1
+summary: Sir Olof encounters a group of elves inviting him to join their dance, but he refuses because he is to be married the next day. Tragically, Sir Olof, his bride, and his mother die, leaving three corpses in his house by the next day.
+title: Sir Olof in the Elve-Dance

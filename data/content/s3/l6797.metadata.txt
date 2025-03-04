@@ -1,0 +1,6 @@
+location: Treneglwys
+next: 6855
+previous: 6216
+storyCount: 1
+summary: In Treneglwys, a woman becomes suspicious of her twins after encountering elves, prompting her to consult the Wise Man of Llanidloes who suggests a test involving boiling pottage in an eggshell. Upon hearing the twins speak of ancient matters, the woman throws them into Lake Elvyn, causing the goblins to return her real children, thus resolving the mysterious strife.
+title: Brewery of Eggshells

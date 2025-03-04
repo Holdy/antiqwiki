@@ -1,0 +1,6 @@
+location: null
+next: 3549
+previous: 2950
+storyCount: 1
+summary: The text references various mythical creatures, including the _Pouke_, known as the Phooka, a legendary figure in folklore. These creatures, along with witches and hobgoblins, are mentioned as entities that should not be feared despite their presence in myths and tales.
+title: Legends of the Phooka

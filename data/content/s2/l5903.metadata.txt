@@ -1,0 +1,6 @@
+location: Cork
+next: 5992
+previous: 5759
+storyCount: 1
+summary: One night, a mysterious headless coach and its similarly headless occupants race through the streets of Cork, using a variety of morbid body parts to construct their eerie vehicle. Their chilling journey ends at a churchyard where they declare their origin and their continued quest for the Old Head of Kinsale, adding to the macabre tale of these Dullahans.
+title: THE DEATH COACH

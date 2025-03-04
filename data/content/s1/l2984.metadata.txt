@@ -1,0 +1,6 @@
+location: Scandinavia
+next: 3102
+previous: 2964
+storyCount: 1
+summary: The ancient Scandinavian religion, illustrated through the poetic and prose Eddas, encompassed a complex mythology including gods, spirits, and legendary tales, preserved in Icelandic texts. Compiled by Sæmund and Snorro Sturleson, these Eddas provide insights into myths through historical narratives and the depiction of a pantheon inhabited by gods, Alfs, and Dwarfs, revealing the spiritual beliefs of the Gotho-Germanic peoples.
+title: Eddas and Sagas

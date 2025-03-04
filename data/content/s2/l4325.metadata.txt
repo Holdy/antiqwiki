@@ -1,0 +1,6 @@
+location: Lough Gur
+next: 4402
+previous: 4255
+storyCount: 1
+summary: Larry Cotter's prosperous farming life near Lough Gur takes a turn when mysterious cattle ruin his meadow repeatedly, leading him to stake out with neighbors to catch the culprits. Though he briefly captures seven supernatural heifers, they vanish back into the lake, leaving Larry to spiral into despair and alcoholism, ultimately leading to his demise.
+title: The Legend of Lough Gur

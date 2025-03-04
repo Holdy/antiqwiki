@@ -1,0 +1,6 @@
+location: Bangor
+next: 11459
+previous: 11430
+storyCount: 0
+summary: The book by E. Alfred Jones showcases a collection of historical church plates from the Diocese of Bangor, including rare and significant pieces from different eras. It features illustrations of around one hundred pieces, such as a pre-Reformation Silver Chalice and several Elizabethan items, highlighting their historical importance.
+title: The Church Plate of the Diocese of Bangor

@@ -1,0 +1,6 @@
+location: Ballyheigh Bay
+next: 5040
+previous: 4632
+storyCount: 1
+summary: Connor Crowe discovers the truth behind the Cantillon family's burial custom when he witnesses sea creatures taking Flory Cantillon's coffin to their underwater cemetery. This event marks the end of the tradition, as the sea beings declare they will no longer handle the burials of the Cantillons after being seen by a human.
+title: FLORY CANTILLON’S FUNERAL

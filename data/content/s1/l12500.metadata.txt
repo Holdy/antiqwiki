@@ -1,0 +1,6 @@
+location: Hampshire
+next: 12551
+previous: 12472
+storyCount: 2
+summary: A farmer in Hampshire discovered that his barn was being disturbed by a host of tiny elves, who played with the straw and attempted to steal the crop, but when he confronted them, they fled and never returned. Elsewhere, locals in Suffolk and Norfolk shared tales of fairies and supernatural beings, with fairies, known as 'farisees' or 'Frairies,' believed to be riding animals at night or living underground, while in Yorkshire, ghostly creatures like the Boggart were part of folklore.
+title: The Fairy-Thieves

@@ -1,0 +1,6 @@
+location: Tavistock
+next: 12472
+previous: 12425
+storyCount: 1
+summary: Pixies, who cherished a woman's tulip garden in Tavistock, used their magic to enhance the blooms, ensuring their beauty and fragrance remained unparalleled. Upon the old woman’s death, the Pixies transferred their care to her grave, leaving the garden barren but her resting place ever-green and adorned with wildflowers.
+title: Pixy-Gratitude

@@ -1,0 +1,6 @@
+location: Derby
+next: 11491
+previous: 11459
+storyCount: 2
+summary: A. R. Sennett's work on Garden Cities delves into the theoretical and practical aspects of urban planning with detailed plates and illustrations. A. W. Davison's book charts the history and development of Derby, offering insights into its progress over time.
+title: .

@@ -1,0 +1,6 @@
+location: Scottish Highlands
+next: 16142
+previous: 15991
+storyCount: 1
+summary: In the Scottish Highlands, Gothic Fairies, known locally as Daoine Shi', engage in nightly festivities and mysterious antics, often kidnapping humans to attend their revels where time seems to stand still for mortals. These fairies share the landscape with other mythic creatures like Brownies and water-Kelpies, who are known for luring and deceiving unsuspecting travelers.
+title: SCOTTISH HIGHLANDS

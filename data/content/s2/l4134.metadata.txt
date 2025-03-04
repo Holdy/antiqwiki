@@ -1,0 +1,6 @@
+location: Lough-Neagh
+next: 4145
+previous: 4121
+storyCount: 1
+summary: A fisherman gazes upon the reflections of ancient round towers in the waters of Lough-Neagh as evening sets in. This serene moment evokes a sense of history and mystery beneath the lake's surface.
+title: THIERNA NA OGE

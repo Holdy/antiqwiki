@@ -1,0 +1,6 @@
+location: Vale of Goel
+next: 18363
+previous: 18203
+storyCount: 1
+summary: In the vale of Goel, stories are told of hidden treasures concealed beneath ancient stones, believed to be deliberately placed to mislead seekers. A supposed calculation, key to finding the treasure, is rumored to be housed in the Tower of London.
+title: Legends of Hidden Treasures in the Vale of Goel

@@ -1,0 +1,6 @@
+location: null
+next: 7154
+previous: 7102
+storyCount: 1
+summary: Sjûrur took the finest sword. It was a weapon crafted by the Dwarf.
+title: FEROES

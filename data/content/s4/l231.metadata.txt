@@ -1,0 +1,6 @@
+location: Dorchester
+next: 364
+previous: 178
+storyCount: 0
+summary: The text is a detailed index of illustrations found in a historical or architectural publication, showcasing various locations and artifacts primarily in Dorset, England. These illustrations include drawings, photographs, and engravings of notable sites such as Dorchester, Milton Abbey, and Weymouth, highlighting their historical significance and architectural details.
+title: 

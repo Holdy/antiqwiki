@@ -1,0 +1,6 @@
+location: Cologne
+next: 10767
+previous: 10698
+storyCount: 1
+summary: Mysterious little creatures called the Heinzelmänchen performed various household chores unnoticed, helping the people of Cologne, especially favoring a tailor and his family. Out of curiosity, the tailor's wife attempted to catch a glimpse of these helpers, leading to their departure and the end of good times for the city.
+title: The Heinzelmänchen

@@ -1,0 +1,6 @@
+location: Ireland
+next: 2640
+previous: 2041
+storyCount: 1
+summary: Deirdre, prophesied to bring tragedy to her family, grows in isolation until she encounters Naois, whom she falls in love with, prompting them to flee together. Pursued by King Connachar who desires Deirdre, a series of tragic events lead to the deaths of Naois, his brothers, and ultimately Deirdre, uniting them in death as their intertwined fates are symbolized by fir trees growing from their graves.
+title: The Story of Deirdre

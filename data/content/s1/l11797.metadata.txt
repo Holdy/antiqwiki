@@ -1,0 +1,6 @@
+location: England
+next: 11822
+previous: 11762
+storyCount: 1
+summary: In England, small creatures known as Portunes, resembling old men, secretly assist farmers at night by helping with their chores. While generally helpful, these mischievous beings sometimes trick lone horsemen by leading them into marshes before disappearing with laughter.
+title: The Portunes

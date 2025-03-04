@@ -1,0 +1,6 @@
+location: ocean
+next: 4632
+previous: 4534
+storyCount: 1
+summary: Legends of the Merrow explores the mysterious and ancient forms hidden in the depths of the ocean. Richly described through sea-themed literary references, the text invites readers to ponder oceanic mythology.
+title: LEGENDS OF THE MERROW

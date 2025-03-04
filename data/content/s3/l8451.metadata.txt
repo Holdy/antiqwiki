@@ -1,0 +1,6 @@
+location: Ireland
+next: 8473
+previous: 8440
+storyCount: 1
+summary: The story revolves around a young lad wearing a goat-skin who embarks on various adventures, culminating in a 'cure by laughing' incident, a well-known theme in Indo-European folklore. The lad's tale includes encounters with mythical characters, reflecting Celtic influences and connections to wider folklore, such as the Finn-Saga and figures like Sisyphus.
+title: The Adventures of Gilla na Chreck an Gour

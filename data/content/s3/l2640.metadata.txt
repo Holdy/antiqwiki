@@ -1,0 +1,6 @@
+location: null
+next: 2759
+previous: 2129
+storyCount: 1
+summary: Munachar sought various items to prepare a rod to hang Manachar, who had eaten all his raspberries. After successfully obtaining each item through a sequence of exchanges, Munachar discovered that Manachar had already burst, rendering his efforts futile.
+title: Munachar and Manachar

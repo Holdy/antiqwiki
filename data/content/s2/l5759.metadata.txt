@@ -1,0 +1,6 @@
+location: Ballyduff
+next: 5903
+previous: 5457
+storyCount: 1
+summary: Michael Noonan experiences eerie noises and sights during his walk through the ruins of Hanlon's mill, including an unseen hunt and a mysterious black coach. The following day, he learns that the local squire has died, and despite efforts to save him, the night ends with mourning in Ballygibblin.
+title: Hanlon's Mill

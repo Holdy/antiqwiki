@@ -1,0 +1,6 @@
+location: Corfe
+next: 11154
+previous: 9302
+storyCount: 2
+summary: Prince Albert and Queen Anne, dubbed 'Good', played notable roles by applying strategic measures against the Armada at Weymouth and London, respectively. An ancient link to King Alfred and King Cnut also threads through historic locations including the castle at Corfe and Sherborne, highlighting key victories of the period.
+title: Key Figures and Events of the English Historical Landscape

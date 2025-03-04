@@ -1,0 +1,6 @@
+location: null
+next: 18550
+previous: 18389
+storyCount: 0
+summary: There is no story present in the text, as it consists solely of references and citations to other sources. The text mentions a mythology reference guide and a chapter from Parthenius Erotica.
+title: References and Citations

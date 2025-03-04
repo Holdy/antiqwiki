@@ -1,0 +1,6 @@
+location: Eskimo village
+next: 1177
+previous: 978
+storyCount: 1
+summary: Quadjaq, a neglected and abused orphan boy in an Eskimo village, receives help from the Man in the Moon who strengthens him with moonlight, allowing him to defeat the villagers' torment and their fears. Empowered and grown, Quadjaq defends the village from bears, enacts revenge on his tormentors leaving only the kind-hearted girl who helped him to become his wife, transforming his life.
+title: What the Man in the Moon Did

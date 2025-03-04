@@ -1,0 +1,6 @@
+location: Giant's Stairs
+next: 8914
+previous: 8460
+storyCount: 1
+summary: Young Philip Ronayne was kidnapped by the giant Mahon Mac Mahon, and after seven years appeared in a dream to the blacksmith, Robert Kelly, asking to be rescued. Guided by a dream and armed with a plough-iron, Robin ventured to the Giant's Stairs, successfully identified and returned Philip, earning the gratitude and a handsome reward from the Ronaynes.
+title: The Giant's Stairs

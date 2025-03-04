@@ -1,0 +1,6 @@
+location: a cliff near the sea
+next: 2713
+previous: 2507
+storyCount: 1
+summary: Raven tricks a whale into swallowing him, leading to an interesting encounter with the whale's spirit inside the creature. After accidentally killing the whale, Raven escapes when villagers begin cutting it up, using his cunning to scare them away and claim the whale's meat for himself.
+title: Raven Makes an Ocean Voyage

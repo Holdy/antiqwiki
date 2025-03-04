@@ -1,0 +1,6 @@
+location: Morocco
+next: 20642
+previous: 20590
+storyCount: 1
+summary: The Hebrew tradition describes the Shedeem or Mazikeen as beings similar to the Arabian Jinn, believed to be involved in magic and enchantment. These entities are said to have traits of both angels and humans, capable of transforming their forms and predicted to die, yet possessing knowledge of the future.
+title: Jews and the Mazikeen

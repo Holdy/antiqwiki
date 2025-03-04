@@ -1,0 +1,6 @@
+location: Bubbelgaard, Funen
+next: 4202
+previous: 4153
+storyCount: 1
+summary: Hans, a young servant in Bubbelgaard, Funen, stumbled upon enchanting festivities at the Dance-hills one night. After receiving a kiss from a mesmerizing maiden, he became uncontrollable, leading to his nickname, Hans Puntleder, due to his unique sole-leather attire.
+title: Hans Puntleder

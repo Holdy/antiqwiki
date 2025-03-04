@@ -1,0 +1,6 @@
+location: Beaucaire
+next: 19340
+previous: 19217
+storyCount: 1
+summary: The fairy mythology of Southern France includes tales of Dracs, water spirits who lure people to their underwater lairs, with one such story involving a woman taken from the Rhone River to be a nurse for a Drac's child. After seven years, the woman returned to her village with tales of her life under water, gaining vision from an eel-pasty fat but losing sight in one eye after a chance encounter with the Drac in Beaucaire.
+title: FRANCE

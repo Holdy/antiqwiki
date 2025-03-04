@@ -1,0 +1,6 @@
+location: Douglas
+next: 16699
+previous: 16651
+storyCount: 1
+summary: A young sailor lands at Douglas late at night after a long voyage and chooses to walk to his sister's house at Kirk-Merlugh, encountering a mysterious, green-clad fairy hunt along the way. His sister expresses relief at his safe arrival, explaining that the enchanting spectacle was a group of fairies who could have taken him away.
+title: The Fairy-Hunt

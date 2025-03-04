@@ -1,0 +1,6 @@
+location: Dorset
+next: 2683
+previous: 1692
+storyCount: 1
+summary: Dorset is relatively lacking in monumental brasses compared to the rest of England, with many churches in the county having seen their brasses lost or altered over time. Despite this scarcity, the surviving brasses in Dorset have preserved significant historical details, and examples are found across various locations, including St. Peter’s Church in Dorchester and Moreton, with some dating back to the 14th and 15th centuries.
+title: The Memorial Brasses of Dorset

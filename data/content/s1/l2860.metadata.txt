@@ -1,0 +1,6 @@
+location: null
+next: 2964
+previous: 2763
+storyCount: 1
+summary: Spenser invents a unique origin for Fairies in his works, blending ancient myths and elements of Jinnestân to create beings like Elfes and Farys, as depicted in his poem 'The Faerie Queene'. Despite some confusion over the terminology and blend of classes, Sir Walter Scott and others have observed parallels between Spenser's fantastical creations and traditional fairy tales, as seen in various incidents within his work.
+title: The Fairies of Spenser's Imagination

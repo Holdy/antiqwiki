@@ -1,0 +1,6 @@
+location: England
+next: 11836
+previous: 11797
+storyCount: 1
+summary: In England, a demon known as the Grant appears in the streets resembling a yearling foal on its hind legs. The Grant warns inhabitants of impending danger by provoking dogs to bark, thus alerting people to be cautious, especially about fires.
+title: The Grant

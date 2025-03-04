@@ -1,0 +1,6 @@
+location: Dorset
+next: 2236
+previous: 1639
+storyCount: 1
+summary: The main churches of architectural importance in Dorset are the collegiate church of Wimborne Minster, the Benedictine Abbey Church at Sherborne, and the Abbey Church at Milton, now used as parish churches. Despite the architectural value of some churches and remnants, many Dorset religious buildings have been heavily restored or replaced, often resulting in a loss of historical authenticity and richness.
+title: The Churches of Dorset

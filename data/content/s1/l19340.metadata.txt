@@ -1,0 +1,6 @@
+location: Arles
+next: 19807
+previous: 19288
+storyCount: 2
+summary: In the city of Arles, the Dracs, mythical creatures, appeared as humans on bright nights near the Rhone, luring a young man into the depths from which he never returned, signaling the end of their appearances. Meanwhile, in a separate tale, a sailor who wounded a porpoise in the Mediterranean faced a tempest but sacrificed himself to appease a mystical knight, ensuring the safety of his crew and later finding forgiveness and return to his ship.
+title: Tales of the Mediterranean Mystics and the Dracs of Arles

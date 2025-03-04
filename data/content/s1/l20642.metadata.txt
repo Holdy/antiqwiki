@@ -1,0 +1,6 @@
+location: India
+next: 20920
+previous: 20603
+storyCount: 1
+summary: Despite the rich man's oath to his father to never leave his country, he sets out on a journey for wealth and survives a shipwreck, eventually finding himself in a new kingdom where he becomes a respected figure and marries the princess. Years later, longing to see his family from his previous life, he returns home, only to break his oath to his princess wife, who then exacts revenge by taking his life, ensuring his son from their marriage is cared for as a learned Rabbi.
+title: The Broken Oaths

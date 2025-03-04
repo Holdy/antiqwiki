@@ -1,0 +1,6 @@
+location: null
+next: 7974
+previous: 7936
+storyCount: 1
+summary: The story revolves around Shee an Gannon and Gruagach Gaire and explores themes similar to "The Sea-Maiden" and "Fionn's Enchantment." It discusses the precedence of folk-tales like this one over hero-tales and suggests that such stories may have inspired the legend of the Holy Grail.
+title: Shee an Gannon and Gruagach Gaire

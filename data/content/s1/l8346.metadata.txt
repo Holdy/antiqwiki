@@ -1,0 +1,6 @@
+location: Rodenkirchen
+next: 8467
+previous: 7769
+storyCount: 1
+summary: John Wilde finds a valuable glass shoe at Rodenkirchen and cunningly negotiates with an underground merchant for a magic arrangement that turns each furrow he ploughs into gold ducates. Despite his wealth, John's obsession with ploughing leads to physical decline and isolation, ultimately resulting in his death, though his family later benefits from his amassed fortune.
+title: The Little Glass Shoe

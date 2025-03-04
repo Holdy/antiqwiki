@@ -1,0 +1,6 @@
+location: Frensham, Surrey
+next: 12162
+previous: 12086
+storyCount: 1
+summary: In Frensham, Surrey, there is a legendary caldron in the church vestry, said to have been brought by fairies from Borough-hill. The tradition mentions a magical rock where villagers could request loans from fairies, as long as they returned them on time, but one failure to return the caldron broke the cycle forever.
+title: The Fairies' Caldron

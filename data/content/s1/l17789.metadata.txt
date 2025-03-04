@@ -1,0 +1,6 @@
+location: Brittany
+next: 17873
+previous: 17454
+storyCount: 1
+summary: The Breton fairies, divided into Fays and Dwarfs known as Korrigans and Korreds, are mythical beings that are both revered and feared for their magical abilities and aversion to Christianity. They are known to steal children, unite with young men, and celebrate nocturnal festivals, dwelling near springs and crafting treasures, while exhibiting a strong dislike towards religious symbols and figures.
+title: The Fairy System of the Old Breton

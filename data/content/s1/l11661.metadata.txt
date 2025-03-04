@@ -1,0 +1,6 @@
+location: Suffolk
+next: 11704
+previous: 11629
+storyCount: 1
+summary: Two mysterious green-skinned children appeared near a pit in Suffolk, unable to eat local food until shown beans, after which the boy died but the girl adapted and lived in service of a local knight. The girl recounted coming from a green-colored land devoid of sunlight, reached by wandering through a cavern upon hearing enchanting bells.
+title: The Green Children

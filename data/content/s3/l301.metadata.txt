@@ -1,0 +1,6 @@
+location: null
+next: 335
+previous: 237
+storyCount: 0
+summary: The page lists various story titles along with their corresponding page numbers, suggesting a collection of tales in a book. The document also mentions illustrations and cuts provided by J. C. Drummond & Co., indicating a visually enriched publication.
+title: Illustration in Storybook Titles

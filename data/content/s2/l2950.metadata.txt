@@ -1,0 +1,6 @@
+location: County Tipperary
+next: 3537
+previous: 2789
+storyCount: 1
+summary: Charles Mac Carthy, a once reckless young man from an ancient Irish family, has a supernatural experience after a near-death illness, claiming to have been given three years to repent for his sins. On the night before his twenty-seventh birthday, after a series of dramatic events involving a banshee and an accidental shooting, he dies, fulfilling the prophecy of his vision.
+title: Legends of the Banshee

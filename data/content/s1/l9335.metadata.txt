@@ -1,0 +1,6 @@
+location: null
+next: 9374
+previous: 9297
+storyCount: 1
+summary: A mysterious little man visits Count von Hoya, requesting the use of his hall and kitchen for a feast, promising no harm will come to the Count's family. In gratitude, the dwarfs gift the Count with three magical items meant to ensure peace, but disaster strikes when two are lost, leaving only the ring as a token of the past.
+title: The Dwarf's Feast

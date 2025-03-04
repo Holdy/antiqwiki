@@ -1,0 +1,6 @@
+location: Lombardy
+next: 9191
+previous: 8810
+storyCount: 1
+summary: In the tale of Otnit, the Lombard king seeks the daughter of the Paynim Soldan of Syria with the help of the dwarf Elberich, who provides him with enchanted armor and guidance. Through battles and guidance from Elberich, Otnit succeeds in winning over the princess, marrying her after converting her to Christianity, thus bringing the tale of adventure and mythical elements to a close.
+title: The Tale of Otnit and Elberich

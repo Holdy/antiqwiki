@@ -1,0 +1,6 @@
+location: null
+next: 179
+previous: 59
+storyCount: 0
+summary: The text consists of a table of contents for a collection of folklore stories organized into sections based on different types of mythical creatures such as fairies, banshees, and merrow. The stories feature various characters and settings, including legends and ballads from Irish folklore, but no singular narrative is present in the text.
+title: 

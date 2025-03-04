@@ -1,0 +1,6 @@
+location: Shropshire
+next: 11241
+previous: 11224
+storyCount: 0
+summary: The book 'Memorials of Old Shropshire' is edited by Thomas Auden, M.A., F.S.A., and focuses on the region of Shropshire. It is praised by 'Tribune' as the best volume in a high-quality series.
+title: Memorials of Old Shropshire

@@ -1,0 +1,6 @@
+location: Longton Hall
+next: 11387
+previous: 11336
+storyCount: 2
+summary: William Bemrose provides further insights into the Longton Hall porcelain in an elaborately illustrated work, valuable for collectors. Additionally, J. W. Caldicott offers a detailed guide on the values of old English silver and Sheffield plate, helping both novices and advanced students understand auction values.
+title: Longton Hall Porcelain and Values of Old English Silver

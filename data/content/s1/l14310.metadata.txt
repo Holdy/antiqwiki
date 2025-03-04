@@ -1,0 +1,6 @@
+location: null
+next: 14788
+previous: 13937
+storyCount: 0
+summary: The text is a thorough exploration of historical references and variations of folklore and language pertaining to fairies, dwarfs, and mythical creatures like Puck in various languages and cultures. It delves into the origins of these myths and their representation across different regions, highlighting the linguistic ties and cultural significance of these figures in history and popular belief.
+title: 

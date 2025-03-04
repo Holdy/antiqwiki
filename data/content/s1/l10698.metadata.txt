@@ -1,0 +1,6 @@
+location: Hardenstein
+next: 10730
+previous: 10652
+storyCount: 1
+summary: King Goldemar, an unseen yet tactile house spirit, lived intimately with Neveling von Hardenberg at Hardenstein, playing the harp beautifully and maintaining a mysterious presence with invisible meals and horse rides. After a curious attempt to reveal him led to a gruesome encounter, King Goldemar vanished, leaving behind a prophecy of misfortune until three Hardenbergs once again inhabited Hardenstein simultaneously.
+title: King Goldemar

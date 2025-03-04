@@ -1,0 +1,6 @@
+location: Isle of Purbeck
+next: 6378
+previous: 5668
+storyCount: 1
+summary: The Isle of Purbeck in Dorset is a geographically distinct region with unique cultural practices, anchored by Corfe Castle and notable for its historical significance and quarrying heritage. Not only does this area feature landmarks like Wareham, famous for King Alfred's victory over the Danes, and Lulworth Cove with its intriguing historical anecdotes, but it is also famed for its distinct geological and archaeological features, including the renowned Purbeck Marble and ancient traditions of smuggling and quarrying.
+title: THE ISLE OF PURBECK

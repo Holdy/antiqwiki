@@ -1,0 +1,6 @@
+location: the sea
+next: 1720
+previous: 1554
+storyCount: 1
+summary: Raven guided three men who emerged from a pea-pod to a new land by the sea, teaching them survival skills such as hunting, fire-making, and constructing homes, ensuring they could thrive with the resources available. He returned to the First Man, enhancing their barren land with trees and showing them similar skills to lead a self-sufficient life, balancing the benefits between the two groups he had created.
+title: Other Men

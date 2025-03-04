@@ -1,0 +1,6 @@
+location: Highlands
+next: 16499
+previous: 16452
+storyCount: 1
+summary: A Highland miller encounters the mischievous spirit Urisk, who disrupts his mill at night. When one of the miller's men tricks Urisk into believing 'Myself' set him on fire, Urisk's brethren refuse to help, leaving him to deal with the consequences alone.
+title: The Urisk

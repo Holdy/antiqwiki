@@ -1,0 +1,6 @@
+location: Ireland
+next: 59
+previous: 1
+storyCount: 0
+summary: There is no detailed story provided in the text, only the title and publication details of a collection of fairy legends. The text primarily outlines the bibliographic information about "Fairy Legends and Traditions of the South of Ireland."
+title: Fairy Legends and Traditions of the South of Ireland

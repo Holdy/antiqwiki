@@ -1,0 +1,6 @@
+location: valley
+next: 11328
+previous: 11258
+storyCount: 2
+summary: The Dwarfs, who liked to watch and help with hay-making from a maple-tree branch, were tricked by mischievous people who sawed the branch, causing it to break and the Dwarfs to fall. On another occasion, these same Dwarfs were burned by a heated rock when they tried to sit on it, leading them to disappear forever after vowing vengeance.
+title: The Dwarfs on the Tree

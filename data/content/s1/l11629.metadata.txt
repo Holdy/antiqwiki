@@ -1,0 +1,6 @@
+location: England
+next: 11661
+previous: 11601
+storyCount: 1
+summary: The Fairy Mythology of England explores the rich traditions and folklore surrounding fairies, distinguished between the mystical tales of the people and poetic accounts from prominent English poets. English fairies are likened to German and Northern Dwarfs, divided into rural and domestic types, reflecting a deep-rooted supernatural belief system that has evolved over time.
+title: The Fairy Mythology of England

@@ -1,0 +1,6 @@
+location: Durham
+next: 12659
+previous: 12588
+storyCount: 1
+summary: In the bishopric of Durham, fairies, described as small beings in green, were believed to inhabit the area along with other folkloric creatures like the Barguest, a shape-shifting terrifying figure. Sightings and experiences with fairies and supernatural entities, such as in Northumberland and near Nether Witton, often involved specific people or items like clover that allowed some to see them, while others could not.
+title: Fairy Beliefs and Legends in Northern England

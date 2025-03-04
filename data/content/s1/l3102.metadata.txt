@@ -1,0 +1,6 @@
+location: null
+next: 3189
+previous: 2984
+storyCount: 1
+summary: The Nornir, similar to the classical Parcæ, are mythological figures in Scandinavian lore associated with shaping the destinies of individuals, with good or bad fortunes attributed to their influence. Central to this mythology are the Light Alfs and Dark Alfs, residing in different realms, whose actions and appearances contrast significantly.
+title: The Alfar

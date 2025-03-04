@@ -1,0 +1,6 @@
+location: Spain
+next: 18955
+previous: 18849
+storyCount: 1
+summary: The fairy-system of Spain is said to have been eradicated by the Inquisition, although evidence of such efforts is scanty. Despite diligent research, the collection of Iberian fairy tales remains limited, with historical references being scarce.
+title: Spain's Elusive Fairies

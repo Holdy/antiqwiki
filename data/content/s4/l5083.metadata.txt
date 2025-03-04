@@ -1,0 +1,6 @@
+location: Weymouth
+next: 5190
+previous: 4775
+storyCount: 1
+summary: Weymouth's history dates back well before George III's favor, with evidence of ancient Roman and Saxon settlements despite modern constructions overshadowing its past. The town's name, from Saxon "Waegemuth," suggests its origins linked to the sea, and early records indicate a significant past with links to notable English monarchs and religious figures.
+title: Weymouth

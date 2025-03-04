@@ -1,0 +1,6 @@
+location: Goree
+next: 20590
+previous: 20523
+storyCount: 1
+summary: The Yumboes, described as white, fairy-like beings, are believed by the Jaloff inhabitants near Goree to inhabit the Paps and engage in nightly escapades, including stealing coos-coos meal from native huts. These two-foot-tall beings, thought to be spirits of the dead or 'Good People', live in opulent underground dwellings and are known for their mischievous yet secretive interactions with humans, such as fishing at night and retrieving palm-wine.
+title: AFRICANS

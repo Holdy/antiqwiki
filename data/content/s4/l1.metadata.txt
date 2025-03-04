@@ -1,0 +1,6 @@
+location: Dorset
+next: 58
+previous: 0
+storyCount: 1
+summary: 'Memorials of Old Dorset' is an anthology exploring the rich historical and cultural heritage of Dorset, England, through various perspectives and stories. It provides vivid descriptions of the landscapes and history, exemplified by scenes such as the solitary walks along the picturesque coast portrayed in William Pye's artwork.
+title: Memorials of Old Dorset

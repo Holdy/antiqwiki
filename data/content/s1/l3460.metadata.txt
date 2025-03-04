@@ -1,0 +1,6 @@
+location: Gardarike (Russia)
+next: 3542
+previous: 3405
+storyCount: 1
+summary: Suaforlami, a king descended from Odin, coerces two dwarfs into forging a magical sword named Tirfing, which is destined to commit great atrocities, including the demise of its wielders. Through various generations, the cursed sword wreaks havoc as it passes through the hands of warriors such as Angantyr and Hervor, leading to betrayal, murder, and tragedy before being ultimately wielded by Heidreker, whose life ends in betrayal by his own slaves.
+title: The Dwarf-Sword Tirfing

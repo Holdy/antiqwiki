@@ -1,0 +1,6 @@
+location: seashore
+next: 3103
+previous: 2949
+storyCount: 1
+summary: Raven accompanies his wife's family of geese across the sea but struggles to keep up during the flight, using the excuse of an imagined arrow-head injury to justify his lagging. After barely making it to shore, Raven transforms back into a man, vowing never to join the geese again.
+title: Raven's Transformation and Flight Struggle

@@ -1,0 +1,6 @@
+location: Mountbally, Gumbletonmore
+next: 7219
+previous: 6509
+storyCount: 1
+summary: Ned Sheehy, a servant known for his excuses and delays, is tasked by his employer, Mr. Gumbleton of Mountbally, to have a horse looked at but ends up disappearing until the next day, causing chaos at a planned dinner party. Making his way back with an elaborate story involving encounters with the supernatural, Ned faces his furious master but manages to secure forgiveness by promising to abstain from drinking, despite skepticism regarding his tales.
+title: Ned Sheehy's Excuse

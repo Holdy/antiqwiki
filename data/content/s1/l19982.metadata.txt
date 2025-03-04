@@ -1,0 +1,6 @@
+location: Normandy
+next: 20053
+previous: 19807
+storyCount: 2
+summary: The legend of the old castle of Pirou tells of Fées who turned into wild geese to escape invasions, yet return annually to reclaim their nests, marking births in the house of Pirou. In a similar tale, the lord of Argouges marries a Fée with the condition not to utter the word 'Death,' but upon breaking this promise, the Fée vanishes, leaving her handprint on the castle gate.
+title: Fées and Their Castles in Normandy

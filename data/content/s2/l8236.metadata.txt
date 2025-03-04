@@ -1,0 +1,6 @@
+location: Carrigogunnel
+next: 8340
+previous: 8157
+storyCount: 1
+summary: The story describes Carrigogunnel castle's grim history and the tale of the hag Grana, whose enchanted candle brought death to those who glanced at its light. Regan, a hero from the Finnii of Erin, extinguished the candle by hurling it into the river Shannon, ending Grana's terror; the stone thrown by the hag remains as a testament to this legend.
+title: The Rock of the Candle

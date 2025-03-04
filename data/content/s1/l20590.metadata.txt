@@ -1,0 +1,6 @@
+location: Gorce
+next: 20603
+previous: 20539
+storyCount: 1
+summary: The footnotes provide information about the Pang, a cotton cloth used by natives, and a story about Yumboes from a young lady's recollections. The Yumboes story was relayed by the young lady's maid, who was a Jaloff woman, during her childhood in Gorce.
+title: Footnotes and Recollections from Gorce

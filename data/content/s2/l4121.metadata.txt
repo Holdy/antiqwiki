@@ -1,0 +1,6 @@
+location: null
+next: 4134
+previous: 3931
+storyCount: 1
+summary: The Irish Phooka, similar to the German spirit found among reeds and alder bushes, leaps onto the backs of nighttime passersby, not releasing them until they collapse. This phenomenon draws a direct parallel with an eerie tradition of the Brothers Grimm.
+title: The Irish Phooka and the German Spirit

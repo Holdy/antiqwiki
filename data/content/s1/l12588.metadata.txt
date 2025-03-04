@@ -1,0 +1,6 @@
+location: Yorkshire
+next: 12615
+previous: 12551
+storyCount: 1
+summary: A young girl named Betsey claimed to have seen elves and fairies dancing in the old parlour of her Yorkshire home, led by a little man in a green coat. Her mother investigated but found no trace of the supposed fairy vision, though Betsey maintains the experience was true.
+title: Addlers and Menters

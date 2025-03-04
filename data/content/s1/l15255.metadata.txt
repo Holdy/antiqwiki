@@ -1,0 +1,6 @@
+location: Ireland
+next: 15481
+previous: 15213
+storyCount: 1
+summary: The story explores Ireland's rich folklore, particularly focusing on the fairy legends and their cultural significance in various regions, recounting tales of fairies' interactions with locals and changes experienced over time. Characters like the courageous piper and the unfortunate hunchback highlight the enchanting yet unpredictable nature of these mystical beings. Many of these fairy tales emphasize their whimsical yet sometimes perilous influence on the Irish people, from tales of good fortune and hardships involving fairies to stories of changelings and supernatural happenings, showcasing the deep-rooted belief in and fascination with the 'Good People.'
+title: Irish Fairy Legends

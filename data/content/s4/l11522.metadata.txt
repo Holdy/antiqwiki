@@ -1,0 +1,6 @@
+location: Dorset
+next: 0
+previous: 11491
+storyCount: 1
+summary: The historical text references various documents, sites, and inscriptions related to the antiquities of Dorset, discussing excavation findings at Cranborne Chase and the architectural heritage at Milton Abbey. Additionally, it details notable figures associated with Dorset, such as literary connections to Thomas Hardy and historical narratives of local religious and secular developments.
+title: The Historical Chronicles of Dorset

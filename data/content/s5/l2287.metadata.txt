@@ -1,0 +1,6 @@
+location: Yukon
+next: 2410
+previous: 2280
+storyCount: 1
+summary: In a village near the lower Yukon, an orphan boy transforms into a raven and journeys to retrieve the sun and moon, which have been hidden by a mysterious man, plunging his village into darkness. After a daring escapade, the raven boy brings back light by tearing chunks from a blazing ball of fire to create day and night, proving the shamans wrong in front of everyone.
+title: Chunks of Daylight

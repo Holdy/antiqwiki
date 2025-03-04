@@ -1,0 +1,6 @@
+location: County Mayo
+next: 1023
+previous: 335
+storyCount: 1
+summary: Guleesh, a young boy from County Mayo, becomes involved with a fairy group and travels to France where he meets the daughter of the king, who is being forced into an unwanted marriage. Intending to save the girl, Guleesh uses a magical herb to restore her voice, leading to their eventual marriage after overcoming various obstacles together.
+title: Guleesh

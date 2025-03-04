@@ -1,0 +1,6 @@
+location: Darmssen
+next: 10895
+previous: 10837
+storyCount: 1
+summary: A mysterious smith who dwelled in the Darmssen lake in Westphalia produced unmatched plough-irons for the nearby village of Epe until a villager took his child from the reeds, causing him to disappear. The smith's son, known as the Roughy, lived with a farmer until he was called back to the lake after the farmer purchased a sword without haggling, upon which the Roughy vanished into the water forever.
+title: The Water-Smith

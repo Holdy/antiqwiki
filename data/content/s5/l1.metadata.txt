@@ -1,0 +1,6 @@
+location: null
+next: 46
+previous: 0
+storyCount: 0
+summary: This text provides information about the availability of the Project Gutenberg eBook, 'A Treasury of Eskimo Tales', which is accessible at no cost to most of the world. It emphasizes the need for legal consideration based on one's location outside of the United States.
+title: A Treasury of Eskimo Tales

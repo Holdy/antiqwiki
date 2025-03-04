@@ -1,0 +1,6 @@
+location: northern seas
+next: 600
+previous: 456
+storyCount: 1
+summary: Kalopaling, a mysterious sea creature feared by the Inuit, once took a boy at his grandmother's request, who later regretted her decision when she received an abundance of seal meat and wanted him back. A persistent hunter and his wife eventually rescued the boy, who happily stayed with them, growing up to become a renowned hunter within the tribe.
+title: Kalopaling

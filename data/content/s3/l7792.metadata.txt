@@ -1,0 +1,6 @@
+location: null
+next: 7859
+previous: 7737
+storyCount: 2
+summary: Munachar and Manachar embark on a turbulent journey marked by a rhythmic series of events, drawing from both Irish and Scotch folklore. Meanwhile, Gold-tree and Silver-tree's story unveils themes of jealousy and survival, echoing the widespread influence of the Snow White tale across cultures.
+title: X. MUNACHAR AND MANACHAR; XI. GOLD-TREE AND SILVER-TREE

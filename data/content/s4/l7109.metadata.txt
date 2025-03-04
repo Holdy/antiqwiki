@@ -1,0 +1,6 @@
+location: Poole
+next: 7438
+previous: 7051
+storyCount: 1
+summary: The town of Poole, while appearing modern to visitors, holds a rich history evidenced by ancient documents and its harbor, which has seen Roman ships and Newfoundlanders alike, highlighting its long-standing significance as a seaport. Steeped in both historic battles such as those involving Captain Francis Sydenham during the Civil War, and rich maritime trade including its notable connections with Newfoundland, Poole's heritage is intertwined with both domestic and international events.
+title: Poole

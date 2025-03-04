@@ -1,0 +1,6 @@
+location: the country
+next: 11258
+previous: 10979
+storyCount: 1
+summary: Gertrude tells her daughter Rosy the story of how the friendly Dwarfs gifted her great-great-grandfather a meal while he was ploughing, leaving behind a magical table-cloth as proof of their generosity. Rosy, intrigued and excited by the tale, eagerly anticipates seeing the table-cloth her mother has kept safe as an heirloom.
+title: Gertrude and Rosy

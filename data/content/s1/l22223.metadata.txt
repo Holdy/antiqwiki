@@ -1,0 +1,6 @@
+location: Fermoy
+next: 22492
+previous: 21805
+storyCount: 2
+summary: A weary soldier from a marching regiment billeted on Barry of Cairn Thierna experiences a magical night at an enchanted house on the mountain that vanishes by morning, revealing the event as an illusion. The billet-master Mr. Consadine who arranged the prank, learns the consequence when the soldier returns with a cowhide, which turns out to be the hide of Mr. Consadine's cow, taken by Barry during the night as a playful punishment.
+title: Barry of Cairn Thierna

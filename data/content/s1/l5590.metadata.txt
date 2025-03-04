@@ -1,0 +1,6 @@
+location: Drontheim
+next: 5914
+previous: 5544
+storyCount: 1
+summary: Aslog, a beautiful young woman from near Drontheim, Norway, flees with her love Orm to escape her father's demand that she marry by the festival of the great Winter-night, seeking refuge in a remote mountain cave, and later embarking on a perilous sea voyage that lands them on an enchanted island inhabited by magical beings. On the island, they live in a house prepared by a giantess named Guru, under the condition of not baptizing their child or using Christian symbols; despite breaking this rule accidentally, they are forgiven and live wealthily after Guru gifts them the house and its riches before vanishing.
+title: The Dwarfs' Banquet

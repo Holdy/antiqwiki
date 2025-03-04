@@ -1,0 +1,6 @@
+location: Tethertown
+next: 6797
+previous: 6059
+storyCount: 1
+summary: A wren helps a king's son in a series of challenges set by a giant to win the hand of the giant's daughter, Auburn Mary. Auburn Mary aids the king's son to overcome her father's obstacles, ultimately leading to their marriage, but the son faces consequences after fulfilling a promise to a giant.
+title: The Battle of the Birds

@@ -1,0 +1,6 @@
+location: Isle of Man
+next: 16779
+previous: 16719
+storyCount: 1
+summary: The text provides references to works about the Isle of Man and fairies, suggesting historical and literary interest in these topics. Specific authors and titles are mentioned, pointing to detailed historical records and literary works.
+title: References to Works on the Isle of Man and Fairies

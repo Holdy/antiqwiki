@@ -1,0 +1,6 @@
+location: Ballyrahenhouse
+next: 7482
+previous: 6754
+storyCount: 1
+summary: In the kitchen of Ballyrahenhouse in Ireland, a young woman named Ellen Connell recounts a family tale about the visitations of a mischievous fairy, the Fir Darrig, who, despite initial fear, brought prosperity to her family every night he was welcomed. However, after being forced to leave their land by an envious landlord, Ellen's family never saw the Fir Darrig again, leading them to face hardship, and eventually leaving Ellen alone as her family either died or migrated.
+title: The Lucky Guest

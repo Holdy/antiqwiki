@@ -1,0 +1,6 @@
+location: Sledge Island
+next: 3295
+previous: 3023
+storyCount: 1
+summary: A grass plant dissatisfied with its fate transforms itself repeatedly into various entities, ultimately becoming a man seeking companionship. Upon meeting his human brother, who also mysteriously came to existence, they decide to live together to combat loneliness.
+title: Even a Grass Plant Can Become Someone if It Tries

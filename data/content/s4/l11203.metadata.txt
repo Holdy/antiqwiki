@@ -1,0 +1,6 @@
+location: Hampshire
+next: 11212
+previous: 11188
+storyCount: 1
+summary: The text discusses the book 'Memorials of Old Hampshire,' edited by Rev. G. E. Jeans. The book is part of the 'Memorials of the Counties of England' series and is dedicated to the Duke of Wellington.
+title: Memorials of Old Hampshire

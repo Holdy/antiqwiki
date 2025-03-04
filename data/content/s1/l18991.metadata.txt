@@ -1,0 +1,6 @@
+location: Biscay
+next: 19034
+previous: 18955
+storyCount: 2
+summary: Don Diego Lopez, lord of Biscay, married a mysterious and beautiful woman who stipulated he never utter a holy name, but when he did, she disappeared with one of their children. Years later, their son Iniguez Guerra, seeking to free his father captured by Moors, finds his fairy-mother who aids him with a magical horse to accomplish this task, though she never returns again.
+title: Origin of the House of Haro

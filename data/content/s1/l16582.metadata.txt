@@ -1,0 +1,6 @@
+location: the mountains
+next: 16607
+previous: 16536
+storyCount: 1
+summary: A man, while trying to sell his horse, encounters a mysterious little man who offers to buy it and seemingly vanishes into the ground with the horse after the purchase is complete. After consulting with the parish parson, the man is reassured that he was not deceived and is safe, allowing him to return home without further incident.
+title: The Fairy-Chapman

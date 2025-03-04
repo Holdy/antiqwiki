@@ -1,0 +1,6 @@
+location: Vendsyssel
+next: 5544
+previous: 5496
+storyCount: 1
+summary: One evening, a mysterious man hired ferrymen to transport an unseen heavy cargo from Sund to Vendsyssel throughout the night. In the morning, a perceptive ferryman used a special method to discover that they had been transporting Trolls, leading to their disappearance from Vendsyssel thereafter.
+title: Departure of the Trolls from Vendsyssel

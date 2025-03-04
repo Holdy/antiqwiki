@@ -1,0 +1,6 @@
+location: the loch
+next: 4798
+previous: 4064
+storyCount: 1
+summary: An old fisherman strikes a deal with a sea-maiden, promising his first son in exchange for abundant fish if his son reaches the age of twenty. Years later, the fisherman’s brave son encounters various magical creatures and challenges, ultimately defeating a sea-maiden and rescuing the king’s daughter, whom he marries, but later must save from the sea-maiden’s clutches using aid from his animal companions.
+title: The Sea-Maiden

@@ -1,0 +1,6 @@
+location: Kirk Merlugh
+next: 16631
+previous: 16582
+storyCount: 1
+summary: A man, entranced by invisible music, is led to a gathering of fairies who offer him a drink; a familiar fairy warns him not to partake, or he will never return to his family. He discreetly discards the drink and later donates the mysterious cup he received to the church in Kirk Merlugh.
+title: The Fairy-Banquet

@@ -1,0 +1,6 @@
+location: null
+next: 472
+previous: 126
+storyCount: 1
+summary: The text is a table of contents outlining various mythological and fairy-tale stories from different cultures and regions, including Persia, Arabia, Scandinavia, Germany, and more. It categorizes tales related to fairies, dwarfs, trolls, mermaids, kobolds, and other mythological beings across numerous countries.
+title: CONTENTS

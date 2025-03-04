@@ -1,0 +1,6 @@
+location: Spain
+next: 19217
+previous: 19099
+storyCount: 1
+summary: The story explores the concept of Duende, or House-spirit, in Spanish folklore through various literary references and analyses. The Duende, depicted as a playful and mischievous entity, is associated with both charm and deception, reflecting cultural myths similar to fairies in other traditions.
+title: The Duende: Spain's Mysterious House-Spirit

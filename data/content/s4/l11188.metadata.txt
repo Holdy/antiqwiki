@@ -1,0 +1,6 @@
+location: Hertfordshire
+next: 11203
+previous: 11176
+storyCount: 1
+summary: The book 'Memorials of Old Hertfordshire', edited by Percy Cross Standing, is praised for its illustrations and engaging historical content about Hertfordshire. It serves as an essential collection for those interested in preserving the county's heritage amidst rising suburban influences.
+title: Memorials of Old Hertfordshire

@@ -1,0 +1,5 @@
+instanceOf:book
+source:https://www.gutenberg.org/ebooks/68128
+title:Memorials of Old Dorset
+author:Rev. Thomas Perkins and Herbert Pentin
+published: 1907

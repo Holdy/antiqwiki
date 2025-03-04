@@ -1,0 +1,6 @@
+location: Strathspey
+next: 16301
+previous: 16264
+storyCount: 1
+summary: A fairy grants a farmer in Strathspey a magical blessing on his corn, making it never run out after he sings her a song and shares his seeds with her. However, the magic dissipates when his wife questions him about the full bag, causing it to become empty instantly.
+title: The Fairy-Gift

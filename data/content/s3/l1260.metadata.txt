@@ -1,0 +1,6 @@
+location: Erin
+next: 1638
+previous: 1145
+storyCount: 1
+summary: Conall Yellowclaw, a tenant in Erin with three sons, becomes embroiled in a royal conflict when his sons kill the king's son, and to prevent their execution, he is tasked with stealing a prized horse from the king of Lochlann. Through a series of dangerous adventures and clever tales, Conall not only gains the king's forgiveness but also secures the lives of his sons and earns the horse, showcasing both his bravery and cunning.
+title: Conall Yellowclaw

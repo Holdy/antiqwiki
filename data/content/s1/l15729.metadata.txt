@@ -1,0 +1,6 @@
+location: Failey's village
+next: 15827
+previous: 15628
+storyCount: 1
+summary: Failey Mooney, despite his skeptical bravado, listens quietly to Mary Hogan's tale of encountering a Leprechaun in her garden while villagers scoff at his disbelief. Mary recounts how she almost captured the tiny cobbler working in her beans, only for him to escape with a clever trick, proving to her (and the doubtful) the existence of such mystical beings.
+title: The Leprechaun in the Garden

@@ -1,0 +1,6 @@
+location: Scotland
+next: 15125
+previous: 15001
+storyCount: 2
+summary: Brownie, a helpful household spirit in Scottish folklore, would secretly assist families with chores but leave if acknowledged or offered overt gifts. Various tales exist about Brownie, including his departure from Leithin-hall after being offered new clothes and a similar occurrence at Bodsbeck Ha', resulting in their fortunes reversing.
+title: The Brownie

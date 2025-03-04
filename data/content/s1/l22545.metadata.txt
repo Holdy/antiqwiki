@@ -1,0 +1,6 @@
+location: Juan Fernandez
+next: 22571
+previous: 22492
+storyCount: 1
+summary: Stranded on the island of Juan Fernandez, Alexander Selkirk reflects on his solitary existence before falling asleep and experiencing a comforting dream from a divine source. The dream offers him solace from his difficult circumstances, providing a moment of reprieve from his loneliness.
+title: Alexander Selkirk's Dream

@@ -1,0 +1,6 @@
+location: Iceland
+next: 7150
+previous: 7097
+storyCount: 1
+summary: In Icelandic folklore, there is a tale about Eve washing her children when God calls her, and in a moment of fear, she hides the dirty ones. God decrees that these hidden children will be invisible to man, leading to their transformation into mythical underground-people.
+title: The Origin of the Underground People

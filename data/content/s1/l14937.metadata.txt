@@ -1,0 +1,6 @@
+location: Nithsdale
+next: 14967
+previous: 14899
+storyCount: 1
+summary: The Fairy Rade, an enchanting procession occurring as summer approaches, captivated the peasantry who watched safely by placing a branch of rowan over their doors. An old woman from Nithsdale recounted witnessing the fairy procession with Marion, where they saw wee folk on white ponies and a beam of light more beautiful than moonshine.
+title: The Fairy Rade

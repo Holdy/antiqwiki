@@ -1,0 +1,6 @@
+location: null
+next: 7545
+previous: 7505
+storyCount: 1
+summary: A story from T. Crofton Croker's collection features a gnome, traditionally known as a Cluricaune, but also recounted as a Lepracaun, a mythical shoemaker figure from Irish folklore. The legend revolves around the Lepracaun, frequently depicted mending a single shoe, reflecting the cultural etymology and regional lore associated with these mystical beings.
+title: Field of Boliauns

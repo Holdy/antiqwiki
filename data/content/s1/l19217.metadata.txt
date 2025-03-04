@@ -1,0 +1,6 @@
+location: null
+next: 19288
+previous: 19145
+storyCount: 0
+summary: The text provides various linguistic and cultural footnotes related to Spanish and other European languages, discussing etymology and historical connections. It mentions Spain as the main location for some of the cultural references, although there is no coherent narrative or story present.
+title: 

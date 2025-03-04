@@ -1,0 +1,6 @@
+location: Taigh Jan Crot Callow (John o' Groat's House)
+next: 16452
+previous: 16378
+storyCount: 1
+summary: A fisherman known for killing seals is taken to an underwater world by a mysterious visitor after wounding a seal. There, he is asked to heal the injured seal, which turns out to be the father of his guide, in exchange for never hunting seals again.
+title: The Wounded Seal

@@ -1,0 +1,6 @@
+location: North America
+next: 1411
+previous: 1370
+storyCount: 1
+summary: A great flood covered the earth, leaving only one mountain peak where some animals and a few survivors in boats found refuge. As the waters receded, survivors and animals repopulated the earth, forming the land's current mountains and valleys.
+title: THE FLOOD

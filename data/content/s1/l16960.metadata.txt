@@ -1,0 +1,6 @@
+location: British Isles
+next: 16967
+previous: 16915
+storyCount: 1
+summary: The Tylwyth Têg are often considered as fairies, but this is disputed due to their lack of diminutive size, which is a common fairy attribute throughout the British Isles. Mr. Owen notes in his Welsh Dictionary that these beings do not share the small stature typically associated with fairies.
+title: The Nature of Tylwyth Têg

@@ -1,0 +1,6 @@
+location: Van Pool
+next: 17349
+previous: 17262
+storyCount: 1
+summary: The tale revolves around a spirit known as the 'Spirit of the Van,' whose departure from Van Pool was marked by a significant event involving a ploughshare, leaving her family legacy of skilled doctors behind. This legend contributes to the Welsh fairy lore, with a focus on the Jones family of Muddfi, who were renowned for producing exceptional doctors, believed to originate from the tradition of the seventh son being destined for healing.
+title: The Spirit of the Van: A Welsh Legend

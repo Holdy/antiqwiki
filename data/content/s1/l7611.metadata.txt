@@ -1,0 +1,6 @@
+location: Isle of Rügen
+next: 7752
+previous: 7600
+storyCount: 1
+summary: On the Isle of Rügen, a rich mythology of Dwarfs exists, categorized as White, Brown, and Black, each with unique attributes and behaviors that blend into the island's folklore. The White and Brown Dwarfs are known for their skill in crafting and mischief, while the Black Dwarfs specialize in malevolent deeds, living primarily in the hills of Rügen.
+title: ISLE OF RÜGEN

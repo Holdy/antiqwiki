@@ -1,0 +1,6 @@
+location: Dorset
+next: 9302
+previous: 8456
+storyCount: 1
+summary: Dorset has been a significant literary hub, with its distinct culture and dialect immortalized by poets like William Barnes and Thomas Hardy, whose works capture the essence of the region. The county's rich literary history also includes figures like Matthew Prior and Thomas Wordsworth, highlighting their connections to local places such as Wimborne and Racedown, which influenced their writings and are essential to understanding their legacies.
+title: The Literary Associations of Dorset

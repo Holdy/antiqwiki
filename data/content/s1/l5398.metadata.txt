@@ -1,0 +1,6 @@
+location: Ormkulla
+next: 5420
+previous: 5361
+storyCount: 1
+summary: Biörn Martinsson captured a sleeping hill-smith on the wooded hill of Ormkulla despite warnings of the consequences. Although Biörn brought him captive to Bahus, the hill-smith managed to escape after three days, and the foretold decline of Biörn's lineage was indeed realized.
+title: The Hill-Smith

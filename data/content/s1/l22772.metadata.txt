@@ -1,0 +1,6 @@
+location: null
+next: 22847
+previous: 22706
+storyCount: 2
+summary: The first poem demonstrates how the sight of Amanda can lift the narrator's spirits, replacing gloom with joy and suggesting a united future through marriage. The second poem reflects on the passage of time and how it has diminished the narrator's once-vibrant imagination, contrasting past poetic inspiration with a present struggle.
+title: To Amanda and Lines

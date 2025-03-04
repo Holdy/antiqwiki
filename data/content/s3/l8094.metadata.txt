@@ -1,0 +1,6 @@
+location: Knockmany
+next: 8117
+previous: 8034
+storyCount: 1
+summary: The story is a parody involving the legendary heroes Finn and Cuchulain, whose timelines do not historically align, yet they are brought together in a humorous narrative. The tale incorporates fantastical elements such as Finn's wisdom-tooth and Cucullin's power-finger, akin to a life-index, reflecting the grotesque instead of heroic qualities.
+title: Legend of Knockmany

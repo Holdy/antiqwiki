@@ -1,0 +1,6 @@
+location: Scottish Lowlands
+next: 14899
+previous: 14310
+storyCount: 1
+summary: In the Scottish Lowlands, fairies, often mischievous but generous, are central to folklore, living in hills and recognizable in green attire, with their monarchic society respected by locals, unlike their more poetic English counterparts. Numerous tales, such as those of encountering Fairy banquets or benefiting from their magical items, illustrate how humans often prosper through kind interactions with these 'good neighbours'.
+title: Scottish Lowlands

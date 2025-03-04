@@ -1,0 +1,6 @@
+location: null
+next: 728
+previous: 600
+storyCount: 1
+summary: The text explores the origin of the birthday tradition of giving 'one for each year and one to grow on' by comparing it to an ancient superstition. It suggests that this ritual may have evolved from the tale of the Man in the Moon and the woman beating pups and a boy with sticks to make them grow.
+title: A Birthday Superstition Connection

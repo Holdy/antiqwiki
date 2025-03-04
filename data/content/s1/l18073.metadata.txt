@@ -1,0 +1,6 @@
+location: Goel
+next: 18144
+previous: 18008
+storyCount: 1
+summary: In the valley of Goel, a man named Peric joins the mythical Korred in their dance and, after impressing them, is rewarded with the removal of his hump and a change in his hair color. A fellow tailor, Jean, attempts the same feat but demands riches; however, he is punished by being given Peric's old hump and red hair for his lack of creativity and greed.
+title: The Dance and Song of the Korred

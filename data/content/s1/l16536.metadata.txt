@@ -1,0 +1,6 @@
+location: Isle of Man
+next: 16582
+previous: 16499
+storyCount: 1
+summary: The Isle of Man, nestled between greater islands, is rich in Fairy-lore with tales of Fairies fond of riding large English and Irish horses, often leaving them exhausted by morning. These Fairies, referred to as the Good People, avoided the vices of towns and blessed homes they visited, though they were known to swap human children with changelings, one of which was observed by Waldron, characterized by mysterious behavior and signs of fairy companionship.
+title: Isle of Man

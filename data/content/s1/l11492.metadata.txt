@@ -1,0 +1,6 @@
+location: Bern
+next: 11601
+previous: 11450
+storyCount: 1
+summary: A man and boy ploughing in a field smell roast beef, which miraculously appears before them, leading the grateful boy but not the man to thank the fairies, resulting in misfortune for the man. The tale highlights beliefs about the supernatural's reaction to human actions, echoing similar legends in Switzerland, Scotland, and Ireland, with Bern as the main location linked to these stories.
+title: The Enchanted Meal

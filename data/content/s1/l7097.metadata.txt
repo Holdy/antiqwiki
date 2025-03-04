@@ -1,0 +1,6 @@
+location: Iceland
+next: 7102
+previous: 6928
+storyCount: 1
+summary: In Iceland, there is a belief that King Pharaoh and his army were transformed into seals. This notion is shared among the people in the Faroe Islands and Shetland as well.
+title: The Myth of Pharaoh's Transformation

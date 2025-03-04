@@ -1,0 +1,6 @@
+location: Friesland
+next: 9832
+previous: 9789
+storyCount: 1
+summary: The Puk, akin to the Nis of Jutland, is a mythical creature in Friesland known for aiding households when left offerings of buttered groute. He is also known to play tricks on sleeping servants, exhibiting a mischievous yet helpful nature.
+title: The Puk of Friesland

@@ -1,0 +1,6 @@
+location: Cornwall
+next: 8377
+previous: 8142
+storyCount: 1
+summary: The story of Ivan revolves around the tale of 'The Three Advices', a narrative with roots traced to various sources including the Cornish language, Irish versions, and the 'Gesta Romanorum'. This narrative has been mirrored in various cultures, prominently featuring as a Welsh proverb and is woven into the so-called 'Irish Odyssey'.
+title: Story of Ivan

@@ -1,0 +1,6 @@
+location: Africa
+next: 21074
+previous: 20920
+storyCount: 1
+summary: In Africa, a servant riding an ass around to wake people up for prayer witnessed the ass grow to an enormous height, depositing him atop a church tower. The next morning, it was revealed that the extraordinary ass was one of the Mazikeen.
+title: The Mazik-Ass

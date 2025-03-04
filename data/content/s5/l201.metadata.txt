@@ -1,0 +1,6 @@
+location: null
+next: 218
+previous: 123
+storyCount: 1
+summary: A man demonstrates incredible strength by lifting a boulder effortlessly and uses magical powers to transform into a raven. A powerful gale brings along reindeer, trees, and bushes, showcasing the presence of otherworldly elements.
+title: ILLUSTRATIONS

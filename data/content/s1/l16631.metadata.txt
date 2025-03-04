@@ -1,0 +1,6 @@
+location: null
+next: 16651
+previous: 16607
+storyCount: 1
+summary: A pregnant woman, expecting to give birth soon, witnessed a group of fairies performing a mock christening in her room, using beer for the baptism of a fairy infant named Joan. This event led her to anticipate the birth of a daughter, which was confirmed a few days later when she delivered a baby girl.
+title: The Fairies' Christening

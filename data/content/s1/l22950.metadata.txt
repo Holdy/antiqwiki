@@ -1,0 +1,6 @@
+location: Bath
+next: 22976
+previous: 22847
+storyCount: 1
+summary: The poem reflects a wish to write imaginative verses about Robin Hood and his merry men but concedes to the limitations of fate. Instead of adventurous tales, the speaker is destined to write about historical events in England, Rome, and Greece.
+title: Verses

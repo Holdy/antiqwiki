@@ -1,0 +1,6 @@
+location: Clydesdale
+next: 15213
+previous: 15125
+storyCount: 1
+summary: In Clydesdale, ploughmen believed that reciting a fairy rhyme would result in magically prepared food at the end of their plowing task. The folklore surrounding fairies includes practices and beliefs that attribute supernatural events and objects to these mythical beings.
+title: Folklore Beliefs in Scotland

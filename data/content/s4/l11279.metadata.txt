@@ -1,0 +1,6 @@
+location: Warwickshire
+next: 11289
+previous: 11266
+storyCount: 1
+summary: The book 'Memorials of Old Warwickshire' is edited by Alice Dryden and includes contributions from various authors. It collects historical accounts and stories about Warwickshire from experts in different fields.
+title: Memorials of Old Warwickshire

@@ -1,0 +1,6 @@
+location: Ireland
+next: 8131
+previous: 8094
+storyCount: 1
+summary: The latter half of the story "Fair, Brown, and Trembling" resembles the second part of the Sea-Maiden, while the earlier portion is a variant of a Cinderella tale. Numerous versions of Cinderella stories are known across England, Ireland, and Scotland, highlighting the tale's widespread representation.
+title: FAIR, BROWN, AND TREMBLING

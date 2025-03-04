@@ -1,0 +1,6 @@
+location: null
+next: 14310
+previous: 13227
+storyCount: 2
+summary: In an orchard, the princely Oberon and his fairies attempt to steal apples, a scene interrupted by Jocastus and his man Bromius, who marvel at Oberon's royal presence. Despite this, the fairies celebrate and share the stolen fruit with Queen Mab, while other verses describe fairy dances and mischief throughout pastoral England, intertwining with poetry and folklore.
+title: Dorylas with a bevy of Fairies.

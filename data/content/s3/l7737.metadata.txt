@@ -1,0 +1,6 @@
+location: Erin
+next: 7792
+previous: 7717
+storyCount: 1
+summary: The story of Deirdre, considered one of the most sorrowful tales of Erin, portrays a narrative steeped in romance and tragedy, centering around themes of elopement and heroism. This tale, maintained through a strong tradition of oral storytelling among the Celts, survives in several versions dating from the twelfth century to recent times, demonstrating the enduring nature of Celtic folklore.
+title: Story of Deirdre

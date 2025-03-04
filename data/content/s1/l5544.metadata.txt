@@ -1,0 +1,6 @@
+location: Aarhuus
+next: 5590
+previous: 5514
+storyCount: 1
+summary: Svend Fælling, a valiant champion from Fælling, was granted the strength of twelve men by a Troll after assisting him in a combat, with the condition that revealing his secret would result in an appetite equal to his strength. Despite his prowess and the fame it garnered, Svend revealed the source of his strength to his master in exchange for food, thereafter living with the appetite of twelve men.
+title: Svend Faelling

@@ -1,0 +1,6 @@
+location: Charminster, Dorset
+next: 8759
+previous: 8218
+storyCount: 1
+summary: Wolfeton House, a historical manor in Charminster, Dorset, was rebuilt by Sir Thomas Trenchard during the reign of Henry VII, incorporating parts of an older Norman structure. The house has witnessed notable historical events, including the visit of the King and Queen of Castile, who famously inspired the rise of the Duke of Bedford's family.
+title: Wolfeton House

@@ -1,0 +1,6 @@
+location: Southern Europe
+next: 18389
+previous: 18321
+storyCount: 1
+summary: The text discusses the folklore and mythological elements of Southern Europe, encompassing Greece, Italy, Spain, and France, noting the absence of a Fairy-system in Portugal. The only Nordic influence identified is the presence of the hob-goblin figure, which appears in regions historically settled by Northmen and Visigoths.
+title: Southern Europe

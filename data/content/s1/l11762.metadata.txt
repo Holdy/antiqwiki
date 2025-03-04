@@ -1,0 +1,6 @@
+location: Gloucester
+next: 11797
+previous: 11719
+storyCount: 1
+summary: In the forest of Gloucester, there exists a mystical mount where weary hunters could summon a cupbearer to provide a horn full of enchanting nectar to rejuvenate them. However, the tradition was broken when a knight stole the horn, leading to his execution by the Earl of Gloucester, who then presented the horn to King Henry the Elder to avoid the appearance of condoning the theft.
+title: The Fairy Horn

@@ -1,0 +1,6 @@
+location: null
+next: 237
+previous: 40
+storyCount: 1
+summary: The preface discusses the challenges faced in selecting Celtic folk-tales for a volume intended to attract English children, emphasizing the collection's aim to showcase both the romantic and comedic aspects of Celtic folklore. The author, Joseph Jacobs, acknowledges the contributions of various collectors and translators, aiming to adapt these tales while maintaining their unique Celtic essence, and highlights the role of cultural exchange through storytelling.
+title: Preface to Celtic Folk-Tales

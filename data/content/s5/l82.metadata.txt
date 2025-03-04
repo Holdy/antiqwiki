@@ -1,0 +1,6 @@
+location: American archipelago
+next: 123
+previous: 46
+storyCount: 0
+summary: The Central Eskimo endure a tough life in the icy lands of the American archipelago, surviving on meat from local wildlife due to the inhospitable climate. Their cultural practices, including superstitions and rituals, add to the challenge of living in such a harsh environment.
+title: The Central Eskimo

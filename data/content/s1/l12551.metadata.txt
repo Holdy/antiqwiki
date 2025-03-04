@@ -1,0 +1,6 @@
+location: Yorkshire
+next: 12588
+previous: 12500
+storyCount: 1
+summary: In Yorkshire, a farmer named George Gilbertson and his family are tormented by a mischievous Boggart that causes havoc by disturbing their children and household items. The family decides to move out to escape the Boggart's pranks, only to find out as they leave that the Boggart plans to accompany them, prompting the farmer to consider staying put.
+title: The Boggart

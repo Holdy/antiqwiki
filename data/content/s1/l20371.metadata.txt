@@ -1,0 +1,6 @@
+location: null
+next: 20414
+previous: 20343
+storyCount: 2
+summary: A nobleman unknowingly hires Iskrzycki, a supernatural being, who serves invisibly despite efforts to dismiss him, resulting in the nobleman accepting his presence until the contract concludes. In Servian legends, Vilas are beautiful mountain-nymphs with powers to either harm or bewilder humans and are depicted in various roles within traditional ballads.
+title: The Legend of Iskrzycki and the Vilas

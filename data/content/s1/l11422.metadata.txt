@@ -1,0 +1,6 @@
+location: Mount Pilatus
+next: 11450
+previous: 11401
+storyCount: 1
+summary: A wealthy but unkind farmer refuses aid to his impoverished sister, wishing instead to see his fertile land covered with stones. A compassionate Dwarf aids his sister's daughter with medicinal herbs and a block of cheese that turns out to be gold, soon after which a storm ravages the farmer's land.
+title: Aid and Punishment

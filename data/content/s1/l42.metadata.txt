@@ -1,0 +1,6 @@
+location: null
+next: 102
+previous: 1
+storyCount: 0
+summary: The text is a bibliographic entry for 'The Fairy Mythology' by Thomas Keightley, which explores the romance and superstition of various cultures related to fairies. It is a revised and enlarged edition published by George Bell & Sons in London and New York in 1892.
+title: The Fairy Mythology

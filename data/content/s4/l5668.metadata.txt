@@ -1,0 +1,6 @@
+location: Portland
+next: 5974
+previous: 5190
+storyCount: 1
+summary: Modern Portland, with its barracks and quarries, makes it challenging for visitors to fully appreciate its historical and natural charm, which requires time and a willingness to explore its depths. Historical landmarks, such as the earthworks on Verne Hill and the tales of Viking landings, highlight the island's rich, though fading, history in contrast to ongoing modern developments.
+title: The Isle of Portland

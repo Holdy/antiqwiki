@@ -1,0 +1,6 @@
+location: null
+next: 201
+previous: 82
+storyCount: 2
+summary: This is a table of contents for a collection of Eskimo and Bering Strait tales. The collection includes stories about mythical creatures, elements of nature, and cultural beliefs, showcasing the rich folklore of the Eskimo and Bering Strait regions.
+title: Central Eskimo Tales and Bering Strait Tales

@@ -1,0 +1,6 @@
+location: Neuhausen
+next: 9649
+previous: 9595
+storyCount: 1
+summary: A woman carrying a constantly crying child that never seemed to grow was advised by a traveling student to throw the child into a stream because it was a changeling and not her true offspring. After doing so reluctantly, she returned home to find her real child healthy and lively, confirming the student's warning.
+title: The Changeling

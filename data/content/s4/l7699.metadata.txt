@@ -1,0 +1,6 @@
+location: Shaftesbury
+next: 8218
+previous: 7438
+storyCount: 1
+summary: Shaftesbury, once a thriving city known for its historical significance and ancient architecture, including a grand abbey, has fallen into a state of quiet decline, with few of its original structures and splendor remaining after the dissolution of the abbey. Despite its diminished status, the town offers breathtaking views and a rich history tracing back over a thousand years, although much of its former glory and lively activity have long since faded.
+title: SHAFTESBURY

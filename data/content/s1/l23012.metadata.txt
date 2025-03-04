@@ -1,0 +1,6 @@
+location: Mazenderân
+next: 23048
+previous: 22976
+storyCount: 1
+summary: The poem "The Praises of Mazenderân" extols the beauty and richness of Mazenderân, describing its perpetual spring, fragrant gardens, and abundant wildlife. The land is depicted as a paradise, with plentiful resources and an atmosphere of perpetual joy, drawing a picture of an idyllic homeland revered by its people.
+title: The Praises of Mazenderân

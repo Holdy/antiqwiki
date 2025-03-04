@@ -1,0 +1,6 @@
+location: Caermarthenshire
+next: 2041
+previous: 1638
+storyCount: 1
+summary: In the Black Mountains of Caermarthenshire, the shepherd of Myddvai fell in love with a mystical maiden from Lyn y Van Vach, marrying her despite a condition that he never strike her thrice without cause.  Years later, after unwittingly fulfilling this condition during moments of misunderstood levity, his enchanted wife returned to the lake, taking her magical cattle with her and leaving only healing gifts to their sons.
+title: The Shepherd of Myddvai

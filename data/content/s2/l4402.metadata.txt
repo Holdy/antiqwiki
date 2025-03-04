@@ -1,0 +1,6 @@
+location: west of Ireland
+next: 4534
+previous: 4325
+storyCount: 1
+summary: Paddeen, a supposedly half-witted man, retrieves a lost wedding ring from an enchanted lake filled with young men who were presumed drowned but found working under the lake's surface. Despite being offered a comfortable life by a magical, corpulent woman living in the lake, Paddeen returns the ring to Roderick Keating and chooses not to marry her.
+title: THE ENCHANTED LAKE

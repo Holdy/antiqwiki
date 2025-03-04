@@ -1,0 +1,6 @@
+location: secluded dell
+next: 2121
+previous: 1879
+storyCount: 1
+summary: A mischievous elf-like creature, the Cluricaune, secretly indulges in a cellar's wine supply, treating it as if it were his own endless fortune. After his excessive revelry and drinking, he retreats to a secluded area to reflect on his wasteful antics.
+title: LEGENDS OF THE CLURICAUNE

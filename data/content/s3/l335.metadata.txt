@@ -1,0 +1,6 @@
+location: Usna
+next: 437
+previous: 301
+storyCount: 1
+summary: Connla, the son of King Conn, encounters a mysterious Fairy Maiden who invites him to join her in the land of the Ever Living, a place of eternal youth and pleasure. Despite King Conn's attempts to protect him using the Druid Coran's magic, Connla's growing longing for the maiden leads him to leave his home and sail away with her, never to be seen again.
+title: Connla and the Fairy Maiden

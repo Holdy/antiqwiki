@@ -1,0 +1,6 @@
+location: Lahore
+next: 1370
+previous: 1239
+storyCount: 1
+summary: In Persian mythology, Peris are depicted as ethereal and beautiful beings, often used in poetry to describe a woman's beauty, standing out from other mythical creatures due to their airy and graceful nature. Conversely, Deevs are portrayed as hideous entities, filling artistic depictions with terrifying features, illustrating the contrasting imagery in Persian folklore, especially under Islamic influence.
+title: The Peri and the Deevs in Persian Mythology

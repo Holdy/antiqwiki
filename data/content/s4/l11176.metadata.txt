@@ -1,0 +1,6 @@
+location: Herefordshire
+next: 11188
+previous: 11166
+storyCount: 1
+summary: The book 'Memorials of Old Herefordshire' is a compilation of papers on the history, topography, and families of Herefordshire, edited by Rev. Compton Reade. It is similar to the 'Memorials of Old Devonshire' and includes photographs and illustrations to enrich the readers' understanding of the county.
+title: MEMORIALS OF OLD HEREFORDSHIRE

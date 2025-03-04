@@ -1,0 +1,6 @@
+location: null
+next: 1643
+previous: 1440
+storyCount: 1
+summary: Raven created the first woman as a companion for Man and went on to populate the lands with animals and insects for food and livelihood, teaching Man about their uses. He cautioned Man about the fierce bear he created, and as the earth grew populated, Raven returned to the sky while Man and Woman raised children who matured quickly to inhabit the world.
+title: The First Woman

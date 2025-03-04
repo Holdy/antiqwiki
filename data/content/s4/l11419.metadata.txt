@@ -1,0 +1,6 @@
+location: null
+next: 11430
+previous: 11387
+storyCount: 0
+summary: The text describes a book about Derbyshire charters compiled by Isaac Herbert Jeayes. It highlights the book's value for researchers and as an addition to historical libraries.
+title: Derbyshire Charters in Public and Private Libraries and Muniment Rooms

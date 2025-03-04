@@ -1,0 +1,6 @@
+location: Delnabo
+next: 16279
+previous: 16242
+storyCount: 1
+summary: A fairy from Craig-ail-naic asked a tenant's wife from Delnabo to lend her a firlot of oatmeal, promising to repay it soon. After receiving hospitality, the fairy informed the woman she could take back her meal as the fairy had now received an ample supply, which coincided with a nearby farm's corn-kiln catching fire.
+title: The Fairy Borrowing Oatmeal

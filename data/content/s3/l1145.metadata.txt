@@ -1,0 +1,6 @@
+location: Slievenamon
+next: 1260
+previous: 1023
+storyCount: 1
+summary: A rich woman, while working late one night, was visited by twelve horned witches demanding a cake, casting a spell to freeze her in fear. With the guidance of a spirit, she cleverly banished the witches by performing rituals, securing her home from future enchantments, and preserving peace for her family.
+title: The Horned Women

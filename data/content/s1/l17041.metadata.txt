@@ -1,0 +1,6 @@
+location: Glamorgan
+next: 17155
+previous: 16967
+storyCount: 2
+summary: In South Wales, the belief in fairies, or Y Dynon Bach Têg, persists in places like Glamorgan, where locals report numerous sightings and interactions, suggesting these creatures might be ancient Druids' souls. Multiple stories recount visions of fairies appearing as sheep, dancers, or riders on tiny horses, as well as tales of individuals mysteriously joining their otherworldly gatherings.
+title: The Fairy Beliefs of South Wales

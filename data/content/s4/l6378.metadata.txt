@@ -1,0 +1,6 @@
+location: Corfe Castle
+next: 7051
+previous: 5974
+storyCount: 1
+summary: The dramatic history of Corfe Castle spans from its suspected founding during the reign of King Alfred to its final siege and demolition after a brave defense by Lady Bankes during the English Civil War. Key events include the murder of King Edward the Martyr orchestrated by Queen Elfrida, the imprisonment of Princess Eleanor by King John, and the steadfast resistance led by Lady Bankes against parliamentary forces, culminating in betrayal from within and the eventual destruction of the castle.
+title: Corfe Castle

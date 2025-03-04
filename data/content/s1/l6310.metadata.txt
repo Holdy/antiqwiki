@@ -1,0 +1,6 @@
+location: Jutland
+next: 6333
+previous: 5914
+storyCount: 1
+summary: In Jutland, a Nis who lived in a household became enraged after thinking that his nightly groute lacked butter, resulting in him killing the family's best cow. Upon realizing the butter had simply sunk to the bottom of the bowl, he felt remorse and left a chest of money in the cow-house, which greatly benefited the family's fortunes.
+title: The Penitent Nis

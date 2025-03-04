@@ -1,0 +1,6 @@
+location: Puget Sound
+next: 1440
+previous: 1390
+storyCount: 2
+summary: A mystical story describes reindeer that can only be seen by priests and are impervious to ordinary weapons, another tells of the Aurora Borealis being a group of boys playing football with a walrus skull. Additionally, there is a belief among Puget Sound and coastal populations that birds can transform into humans by adjusting their beaks, the stories convey cultural interpretations of natural phenomena and mythological beings.
+title: Sky Worlds and Shape-Shifters

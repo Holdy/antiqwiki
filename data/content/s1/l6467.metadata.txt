@@ -1,0 +1,6 @@
+location: Vosborg
+next: 6508
+previous: 6444
+storyCount: 1
+summary: In Vosborg, the Nisses, small fairies of Jutland, diligently cared for a farmer's calves during a harsh winter, showcasing their gratitude for being treated with kindness. However, when provoked by a farm boy, a Nis enacted playful revenge by repeatedly tossing the boy over the house, demonstrating their mischievous nature when annoyed.
+title: The Nisses in Vosborg

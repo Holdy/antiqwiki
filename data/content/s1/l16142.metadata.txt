@@ -1,0 +1,6 @@
+location: lake
+next: 16168
+previous: 16100
+storyCount: 1
+summary: While returning home one night, a clergyman encounters mysterious music leading him to meet a fairy who inquires about the fate of his kind on Judgment Day. The fairy's inability to satisfy the minister's theological questions leads to his despairing cry and subsequent disappearance into the loch.
+title: The Fairy's Inquiry

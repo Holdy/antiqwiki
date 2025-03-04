@@ -1,0 +1,6 @@
+location: Shetland Islands
+next: 7351
+previous: 7212
+storyCount: 1
+summary: In the Shetland Islands, folklore speaks of fairy-like creatures called Trows, who inhabit both land and sea, living elaborate lives in golden-adorned hills, and sometimes interacting with humans by sharing magical ointments or availing remedies. Sea-Trows are believed to live at the ocean's floor, entering the human world by transforming into mermen or seals, needing to protect their sea skins, and if lost, they remain trapped in the human realm.
+title: Shetland

@@ -1,0 +1,6 @@
+location: null
+next: 16100
+previous: 15947
+storyCount: 0
+summary: The text is a collection of footnotes discussing various aspects of Irish folklore, language, and comparisons with other cultural legends. It covers topics such as Irish fairy attire descriptions, language rules, and comparisons with legends from regions like Brittany and Spain, but does not constitute a standalone story.
+title: 

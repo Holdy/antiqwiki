@@ -1,0 +1,6 @@
+location: skyland
+next: 2114
+previous: 1802
+storyCount: 1
+summary: Raven, unhappy with humans overhunting animals, took away the sun, causing darkness and despair on Earth, until his compassionate brother tricked him to return the sun permanently. Afterward, the people welcomed Raven's brother, who had restored balance, but he found he could not return to the skyland and eventually settled on Earth, spawning ordinary ravens.
+title: Taking Away the Sun

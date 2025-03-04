@@ -1,0 +1,6 @@
+location: Morristown-Lattin
+next: 15729
+previous: 15481
+storyCount: 1
+summary: Tom catches a leprechaun who promises to lead him to a crock of gold, but after marking the spot, Tom returns to find every similar plant marked the same, ruining his chances. Despite his efforts, Tom is tricked by the leprechaun and learns a lesson about greed and vigilance.
+title: Clever Tom and the Leprechaun

@@ -1,0 +1,6 @@
+location: London
+next: 257
+previous: 102
+storyCount: 1
+summary: The author reflects on the creation and reception of their work, noting its favorable reception by notable figures like Goethe and noting it as the genesis of subsequent writings. They discuss the breadth of study required, including the reading of ancient texts in various languages, and express hope for the work's continued influence in the study of popular lore.
+title: Preface to the Tales and Popular Fictions

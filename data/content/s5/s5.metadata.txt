@@ -1,0 +1,5 @@
+instanceOf:book
+source:https://www.gutenberg.org/ebooks/24569
+title:A Treasury of Eskimo Tales
+author:Clara Kern Bayliss
+published: 1922

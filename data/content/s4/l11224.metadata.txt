@@ -1,0 +1,6 @@
+location: Wiltshire
+next: 11233
+previous: 11212
+storyCount: 1
+summary: The text discusses a series of County Memorials, highlighting the significance of the volume dedicated to Wiltshire. The Daily Telegraph praises it as a particularly interesting entry in the series.
+title: MEMORIALS OF OLD WILTSHIRE

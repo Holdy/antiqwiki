@@ -1,0 +1,6 @@
+location: St. Michael
+next: 2230
+previous: 2122
+storyCount: 1
+summary: In a tale explaining cultural differences, a shrewd young man from the north marries a lone woman from the southern region, only for the two to be torn apart and each half transformed into a new woman. The resulting women from the north and south inherit distinct traits from their wooden replacements, leading to northern women becoming expert needlewomen and southern women becoming skilled dancers.
+title: What Happened to the Lone Woman of St. Michael

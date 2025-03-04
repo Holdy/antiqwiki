@@ -1,0 +1,6 @@
+location: Cwm Pwcca
+next: 17288
+previous: 17238
+storyCount: 1
+summary: In Welsh folklore, mischievous fairies are believed to replace children with changelings and provide secret, magical money, while Puck, known as Pwcca, is also said to possess the power to lead travelers astray. A man was nearly led to his doom by a mysterious light in Cwm Pwcca, only to discover it was a trick of the Pwcca, who vanished with a laugh after revealing the danger.
+title: Legends of Welsh Fairies and Puck

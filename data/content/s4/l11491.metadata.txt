@@ -1,0 +1,6 @@
+location: England and Wales
+next: 11522
+previous: 11471
+storyCount: 2
+summary: The text describes two publications focused on historical and antiquarian topics, including the insignia of English and Welsh towns and an antiquarian magazine. These works are praised for their meticulous research and contribution to various branches of historical and artistic studies.
+title: The Corporation Plate and Insignia: Antiquarian Publications of England and Wales

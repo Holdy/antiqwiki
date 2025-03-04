@@ -1,0 +1,6 @@
+location: Builth
+next: 7936
+previous: 7859
+storyCount: 1
+summary: Kilhwch embarks on a quest to win the love of Olwen, facing numerous formidable tasks set by her father, Yspyddadon. The story blends mythological elements with adventure, highlighting the significance of legendary figures and ancient traditions.
+title: The Wooing of Olwen

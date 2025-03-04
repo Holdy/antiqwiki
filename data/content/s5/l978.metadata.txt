@@ -1,0 +1,6 @@
+location: the Moon
+next: 1071
+previous: 913
+storyCount: 1
+summary: A conjurer, aided by his bear mascot, magically travels to the Moon where he encounters the Man in the Moon and his peculiar household filled with animals and mysteries. Despite the hazardous threats and warnings not to laugh during a dance, the conjurer navigates through these challenges, learns about the Moon's magical inhabitants, and safely returns to his hut on Earth with gifts from the Man in the Moon.
+title: The Flight to the Moon

@@ -1,0 +1,6 @@
+location: Dorset
+next: 918
+previous: 231
+storyCount: 1
+summary: The geological formations and isolated natural defenses of Dorset influenced its historical development, from the settlement by Iberians to the Celtic and then Saxon occupations. Dorset played a role in significant historical events such as the Saxon invasions, Roman occupation, and the Monmouth Rebellion, with its unique landscape and isolation helping preserve its cultural heritage over time.
+title: Dorset's Historic Influence Through Natural Isolation

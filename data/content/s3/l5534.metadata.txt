@@ -1,0 +1,6 @@
+location: Townland of Mischance
+next: 5847
+previous: 5149
+storyCount: 1
+summary: The clever and resourceful Jack eventually outsmarts the cruel Grey Churl by adhering closely to their agreement, forcing him to pay double wages and compensation for his brothers. Through his cunning actions and ability to turn the Churl's words to his advantage, Jack earns the nickname 'Skin Churl Jack' and brings prosperity back home.
+title: Jack and His Master

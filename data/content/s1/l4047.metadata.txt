@@ -1,0 +1,6 @@
+location: grove
+next: 4099
+previous: 3954
+storyCount: 1
+summary: A handsome young swain falls asleep in a grove and is visited by elf maidens who invite him to join their dance. He narrowly escapes being enchanted to stay with them all night, thanks in part to the crowing of a cock.
+title: The Young Swain and the Elves

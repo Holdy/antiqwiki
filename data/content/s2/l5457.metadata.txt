@@ -1,0 +1,6 @@
+location: White Knight’s country
+next: 5759
+previous: 5441
+storyCount: 1
+summary: Larry Dodd, a respected farmer and horse-breaker from the White Knight’s country, encounters a mysterious woman as he travels home one evening. His attempt to interact with her leads him into a bizarre encounter with headless dancing figures, leaving him terrified and causing him to later recount the night to his skeptical wife. After losing his horse in the strange ordeal and receiving a jealous reprimand from his wife, he tries to deflect the blame by jesting that a woman without a head must also lack a tongue, thus portraying her as 'a Good Woman.'
+title: The Good Woman

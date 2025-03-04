@@ -1,0 +1,6 @@
+location: null
+next: 1941
+previous: 1260
+storyCount: 1
+summary: Hudden and Dudden, two envious farmers, tried to eliminate their neighbor, Donald O'Neary, by killing his cow Daisy, hoping he would leave the area. However, Donald used the situation to trick them with tales of magical hides and a land of promise, ultimately gaining cattle and prosperity while Hudden and Dudden met their downfall by jumping into a lake in search of wealth.
+title: Hudden and Dudden and Donald O'Neary

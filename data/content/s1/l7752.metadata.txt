@@ -1,0 +1,6 @@
+location: Rügen
+next: 7769
+previous: 7611
+storyCount: 2
+summary: A group of fishers on Rügen discover their boat inexplicably relocated into a high beech tree. A mysterious voice identifies itself as Nickel, claiming to be responsible for the boat's strange position.
+title: The Neck of Rügen and Other Tales

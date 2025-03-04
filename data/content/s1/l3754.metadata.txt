@@ -1,0 +1,6 @@
+location: Odense
+next: 3890
+previous: 3701
+storyCount: 1
+summary: In Scandinavian folklore, elves are mystical creatures with distinct classes such as the Good Elves, who dwell in nature and are playful, and the Evil Elves, believed to live underground and bring harm to humans. The tales and traditions from regions like Odense in Denmark highlight the elves' interaction with humans, ranging from granting magical tokens to featuring in mischievous events, often leaving a melancholic tone in their stories.
+title: Scandinavian Elves

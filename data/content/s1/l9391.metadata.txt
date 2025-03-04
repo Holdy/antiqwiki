@@ -1,0 +1,6 @@
+location: Eilenburg
+next: 9431
+previous: 9374
+storyCount: 1
+summary: The little people of Eilenburg invaded the castle to celebrate a wedding, inviting the old count on the condition that no one else should look upon the festivities. However, when the countess inadvertently observed the event, the little people cursed the count's family, ensuring their lineage would never exceed seven members at any time.
+title: Wedding Feast of the Little People

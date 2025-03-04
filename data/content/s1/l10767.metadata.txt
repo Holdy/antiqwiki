@@ -1,0 +1,6 @@
+location: Hanover
+next: 10807
+previous: 10730
+storyCount: 1
+summary: The text delves into the etymology and historical references of different European folklore figures like Kobold and Will-o'-the-wisp. It discusses their characteristics and variations across regions, citing sources from German and Italian literature.
+title: Folklore of Kobolds and Will-o'-the-wisp

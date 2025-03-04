@@ -1,0 +1,6 @@
+location: null
+next: 3104
+previous: 2759
+storyCount: 1
+summary: King O'Toole, an old ruler once fond of hunting, finds amusement in his goose which dives to catch fish for him after he becomes unable to hunt.  A disguised Saint Kavin offers to rejuvenate the ailing goose in exchange for land, and after honoring the agreement, the king's life improves until a tragic accident claims the loyal goose.
+title: King O'Toole and His Goose

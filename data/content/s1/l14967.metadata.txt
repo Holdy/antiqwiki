@@ -1,0 +1,6 @@
+location: Caerlaveroc, Nithsdale
+next: 15001
+previous: 14937
+storyCount: 1
+summary: In Caerlaveroc, Nithsdale, a child believed to be a changeling due to its unusual behavior is left with a servant who discovers its supernatural abilities. To rid the household of the impostor, the servant girl places the changeling on hot coals, prompting the Fairies to return the real child unharmed.
+title: The Changeling

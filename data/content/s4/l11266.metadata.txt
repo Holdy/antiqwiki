@@ -1,0 +1,6 @@
+location: Dorset
+next: 11279
+previous: 11254
+storyCount: 1
+summary: This book is a collection of writings about the historical and cultural heritage of Dorset, edited by Thomas Perkins and Herbert Pentin. With contributions from various authors, it is dedicated to Lord Eustace Cecil and supported by the Dorset Natural History and Antiquarian Field Club.
+title: MEMORIALS OF OLD DORSET

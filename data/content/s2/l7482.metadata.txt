@@ -1,0 +1,6 @@
+location: null
+next: 7496
+previous: 7219
+storyCount: 0
+summary: The text includes two quotations that suggest the allure of treasure and the idea that it might be a deceptive fantasy. Without additional context or narrative, it does not form a complete story, but rather hints at themes of ambition and caution.
+title: Treasure Legends

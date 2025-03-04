@@ -1,0 +1,6 @@
+location: Bedd Gellert
+next: 8352
+previous: 8131
+storyCount: 1
+summary: The story revolves around the legend of Beth Gellert, a greyhound bestowed upon Prince Llewellyn by King John, which was killed by the prince under a wrongful assumption of harming his child, only to find out later that it had actually saved him from a wolf. This tale of mistaken judgment and regret became a traditional moral allegory in Wales, tracing its literary roots back to Buddhist stories in India, but gained particular prominence from Spencer's 1800 publication and later adaptations.
+title: Beth Gellert

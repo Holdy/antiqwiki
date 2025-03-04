@@ -1,0 +1,6 @@
+location: Isle of Man
+next: 11471
+previous: 11446
+storyCount: 1
+summary: The book by E. Alfred Jones provides a descriptive account of various ecclesiastical plate pieces found on the Isle of Man. It features illustrations of significant silver and pewter artifacts, including a pre-Reformation chalice and Elizabethan beaker.
+title: THE OLD CHURCH PLATE OF THE ISLE OF MAN

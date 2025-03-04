@@ -1,0 +1,6 @@
+location: null
+next: 2287
+previous: 2230
+storyCount: 0
+summary: The text is a brief footnote reference probably related to the Milky Way. There is no substantial story content present in the text.
+title: Footnote Reference Analysis

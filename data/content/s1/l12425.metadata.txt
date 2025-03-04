@@ -1,0 +1,6 @@
+location: Tavistock
+next: 12452
+previous: 12355
+storyCount: 1
+summary: Two serving-girls in Tavistock had been receiving silver from kind Pixies, who became upset when their customary water bucket was not put out one night. As a result, one of the girls was cursed with a lame leg for seven years, until a mysterious boy cured her, allowing her to become the best dancer in town.
+title: Pixy-Vengeance

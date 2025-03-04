@@ -1,0 +1,6 @@
+location: Ireland
+next: 7666
+previous: 7570
+storyCount: 1
+summary: The story of Hudden and Dudden is a classic Celtic folktale involving witty schemes and the trading of worthless items, featuring a clever character who cleverly escapes from a sack. The tale shows remarkable similarity with various versions across different cultures, suggesting a shared narrative tradition that stretches from Europe to the East.
+title: Hudden and Dudden

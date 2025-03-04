@@ -1,0 +1,6 @@
+location: County Cork
+next: 15628
+previous: 15255
+storyCount: 2
+summary: In County Wicklow, a farmer's family claimed that their ancestors had help from the Good People in cleaning dishes during the night, while in County Cork, a Cluricaun named Wildbean haunted a cellar and moved with his family, only to remain with them, causing the owner to change his mind about relocating. The Fear Dearg, resembling the Red Man, brought prosperity to a girl's family until they were evicted, and stories of various mythical creatures like Merrows, Pookas, and Leprechauns, each with distinct behaviors and legends, are also recounted, emphasizing the rich tapestry of Irish folklore.
+title: Irish Folklore and Legends

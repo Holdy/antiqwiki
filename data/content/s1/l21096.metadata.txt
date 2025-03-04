@@ -1,0 +1,6 @@
+location: null
+next: 21131
+previous: 21074
+storyCount: 0
+summary: The footnotes contain references to various Hebrew and Arabic texts, discussing terminologies and narratives associated with spiritual beings like Jinns in different historical and religious contexts. Moses Edrehi mentions the reliability of stories from rabbinical books, emphasizing the scrutiny they undergo before being accepted as true by the Jewish community.
+title: 

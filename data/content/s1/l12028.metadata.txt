@@ -1,0 +1,6 @@
+location: Eden Hall
+next: 12086
+previous: 11836
+storyCount: 3
+summary: The renowned Luck of Eden Hall, an ancient glass supposedly obtained from fairies and believed to bring fortune, resides at Eden Hall, where it is carefully preserved. Legends of fairy interactions, including curious encounters experienced by individuals like Mr. Hart and Anne Jefferies, are intertwined with the folklore of the region, depicting fairies as enigmatic, sometimes mischievous beings.
+title: The Luck of Eden Hall

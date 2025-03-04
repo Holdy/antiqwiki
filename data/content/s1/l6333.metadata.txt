@@ -1,0 +1,6 @@
+location: Jutland
+next: 6372
+previous: 6310
+storyCount: 1
+summary: A mischievous boy in a house in Jutland annoys a helpful Nis by hiding butter at the bottom of his groute, leading Nis to retaliate by dragging the boy up and down his bed all night. Ultimately, the boy gets the better of the Nis by pushing him out of the window, where he falls into the yard, delighting the house dog that despises the Nis.
+title: The Nis and the Boy

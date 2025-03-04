@@ -1,0 +1,6 @@
+location: Saddell Castle
+next: 7737
+previous: 7666
+storyCount: 1
+summary: The story is about the Macdonald of Saddell Castle, a man of significant stature, known for his proud declaration about his position at a dinner with the Lord-Lieutenant. Several parallels to this story exist in the form of Gaelic versions and other regional tales, indicating its wide cultural impact.
+title: The Sprightly Tailor

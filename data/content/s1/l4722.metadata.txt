@@ -1,0 +1,6 @@
+location: the hill
+next: 4930
+previous: 4474
+storyCount: 1
+summary: Proud Margaret, wooed by many including kings and a hill-king, ultimately enters a mystical hill where she marries the hill-king and bears him children over eight years, but longs to return to her mother. Upon returning home briefly, the hill-king forces her back to the hill despite her resistance, where she struggles with her separation from her family, symbolized by forgetfulness potions that fail to erase her memory of her mother.
+title: Proud Margaret

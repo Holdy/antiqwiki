@@ -1,0 +1,6 @@
+location: Granitz
+next: 8776
+previous: 8585
+storyCount: 1
+summary: Von Scheele, a nobleman residing in Granitz, withdrew from society after the mysterious disappearance of his three daughters, finding solace in the company of mythical black dwarfs he claimed to see on the coast. He often shared tales of his interactions with these underground people, alleging they were his friends and responsible for saving his home from fire, while secretly securing treasures from sunken ships.
+title: The Black Dwarfs of Granitz

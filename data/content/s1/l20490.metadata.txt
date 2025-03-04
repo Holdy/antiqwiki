@@ -1,0 +1,6 @@
+location: null
+next: 20523
+previous: 20478
+storyCount: 0
+summary: There is no narrative in the provided footnotes as they mainly reference academic writings and translations related to mythology and historical texts. The text includes bibliographic references and locations such as Dalmatia and Montenegro without narrating an actual story.
+title: Footnotes and References

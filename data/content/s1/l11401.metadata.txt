@@ -1,0 +1,6 @@
+location: wood
+next: 11422
+previous: 11373
+storyCount: 1
+summary: A young peasant receives a magical pouch from a Dwarf, which provides unlimited food and drink, on the condition he shares it with those who ask for help. The peasant lives luxuriously until he selfishly refuses to share with a needy old man, leading to the pouch’s disappearance.
+title: The Wonderful Little Pouch

@@ -1,0 +1,6 @@
+location: Dardesheim
+next: 9458
+previous: 9391
+storyCount: 1
+summary: Smith Riechert discovered a dwarf stealing from his pea field, catching the little creature only after accidentally hitting it with his flail, which caused the dwarf to become visible. Despite Riechert's encounter, the dwarfs eventually left the area due to the mockery and ingratitude they faced from the local inhabitants.
+title: Smith Riechert

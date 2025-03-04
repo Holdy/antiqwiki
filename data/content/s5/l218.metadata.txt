@@ -1,0 +1,6 @@
+location: northern British America
+next: 259
+previous: 201
+storyCount: 1
+summary: Eskimo babies in northern British America face a challenging start to life, born in snow huts and subjected to a series of rituals that dictate their names and life customs. If a child dies, there are specific mourning practices that the mother must follow, including wearing a cap, carrying the child's boots, and visiting the grave to offer food.
+title: The Baby Eskimo

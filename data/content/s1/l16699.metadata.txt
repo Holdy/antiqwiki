@@ -1,0 +1,6 @@
+location: null
+next: 16719
+previous: 16675
+storyCount: 1
+summary: A fiddler unknowingly makes a deal with the Devil to play music for a company during the twelve days of Christmas. Following a clergyman's advice, he plays only psalms, angering the company who vanish, leaving him injured on a high hill.
+title: The Fiddler and the Fairy

@@ -1,0 +1,6 @@
+location: Cape Prince of Wales
+next: 2769
+previous: 2595
+storyCount: 1
+summary: A poor orphan boy in a Cape Prince of Wales village is sent out on a cold night and witnesses a fiery skeleton that causes the deaths of all the men in the kashim. The tracks of this red skeleton lead the surviving villagers to the grave of the boy's father.
+title: The Red Skeleton

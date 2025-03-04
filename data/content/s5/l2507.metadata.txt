@@ -1,0 +1,6 @@
+location: Sabotnisky
+next: 2595
+previous: 2410
+storyCount: 1
+summary: In a world where only one pair of legendary thunderbirds remained, these giant eagles terrorized the villagers near Sabotnisky by snatching people from the river, including a hunter's wife. Devastated, the hunter bravely climbed the mountain to their nest, killed the young eagles, and fought both parent birds, eventually driving them away forever and avenging his wife’s death.
+title: The Last of the Thunderbirds

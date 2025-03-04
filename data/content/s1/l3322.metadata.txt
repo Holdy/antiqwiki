@@ -1,0 +1,6 @@
+location: Asgard
+next: 3405
+previous: 3276
+storyCount: 1
+summary: Loki cuts off Sif's hair and to avoid Thor's wrath, he gets the dwarfs, sons of Ivallda, to make golden hair and other treasures which include a spear, a hammer, and a magical ring. The dwarf Brock wins a wager against Loki but spares his head, instead sewing Loki's lips together, illustrating a myth about the creation of natural elements and the role of divine beings.
+title: Loki and the Dwarf

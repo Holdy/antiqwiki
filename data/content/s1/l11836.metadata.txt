@@ -1,0 +1,6 @@
+location: null
+next: 12028
+previous: 11822
+storyCount: 1
+summary: Robin Goodfellow, a mischievous fairy, discovers his magical abilities and uses them to both punish the unrighteous and aid lovers while transforming into various forms, like a horse or a hare, to achieve his aims. His adventures continue as he becomes a helper at a farmer’s house, meets his fairy father Oberon, and performs tricks on unsuspecting humans before being called back to Fairyland, highlighting his role as both a trickster and a helper in folklore.
+title: The Merry Pranks of Robin Goodfellow

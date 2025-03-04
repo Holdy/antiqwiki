@@ -1,0 +1,6 @@
+location: null
+next: 8585
+previous: 8346
+storyCount: 1
+summary: A farmer discovers a magical little blacksmith enchanted and trapped in an insect form near a cross, and after capturing him and demanding to know his identity, the farmer bargains for a unique iron plough. The blacksmith creates a plough so efficient that even a small foal can pull it, which brings prosperity to the farmer, emphasizing the value of moderation over greed.
+title: The Wonderful Plough

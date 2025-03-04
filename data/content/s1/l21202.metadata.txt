@@ -1,0 +1,6 @@
+location: Ireland
+next: 21212
+previous: 21190
+storyCount: 2
+summary: The appendix introduces tales from Irish Fairy Legends as well as verses written by the author to please friends. The author emphasizes their ability to write well-rhymed stanzas but does not claim the title of poet.
+title: Appendix

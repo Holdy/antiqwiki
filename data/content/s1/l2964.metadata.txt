@@ -1,0 +1,6 @@
+location: null
+next: 2984
+previous: 2860
+storyCount: 1
+summary: The text provides footnotes and commentary on the depiction of fairies and nymphs in historical literature, particularly referencing Spenser's use of such characters. It critiques the naming and portrayal of fairies in works like Spenser's 'Fairy Queen' as not being representative of the true fairy nation.
+title: Fairies and Nymphs in Literature

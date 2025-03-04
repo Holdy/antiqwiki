@@ -1,0 +1,6 @@
+location: lake
+next: 10859
+previous: 10807
+storyCount: 1
+summary: A peasant befriends a Water-man who lives under a lake and is invited to see his water palace where souls of drowned people are kept in pots. Later, when the Water-man is away, the peasant secretly returns to the underwater house and releases the trapped souls by overturning the pots.
+title: The Peasant and the Waterman

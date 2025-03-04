@@ -1,0 +1,6 @@
+location: Asia
+next: 21096
+previous: 21059
+storyCount: 1
+summary: The text explores various mythological beings from different Asian cultures, such as the Yakshas from India and Shinseën from China, comparing them to mythological entities like Dwarfs and Fairies. These beings are described as having mystical attributes and influence over human affairs, often residing in remote, enchanted locations.
+title: Exploring Asian Mythological Beings

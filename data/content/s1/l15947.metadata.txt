@@ -1,0 +1,6 @@
+location: Kilmallock
+next: 15991
+previous: 15941
+storyCount: 1
+summary: Molly recounts to Mr. Coote the tale of her grandfather who once caught a Cluricaun making a shoe in the stable, hoping to secure his purse of gold, but the Cluricaun escaped, leaving only a tiny shoe behind. The story, passed down through generations, tells how Molly's mother often saw the shoe, though it was lost before Molly was born.
+title: The Little Shoe

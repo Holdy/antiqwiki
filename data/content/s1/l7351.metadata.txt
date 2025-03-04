@@ -1,0 +1,6 @@
+location: Papa Stour
+next: 7410
+previous: 7221
+storyCount: 1
+summary: After a successful hunt, a group of men leaves behind one crew member who becomes stranded on a skerry during a storm, only to witness seals transforming into Sea-Trows lamenting their lost skins. A Sea-Trow named Gioga offers to rescue the stranded man in exchange for retrieving her son's seal-skin, allowing her son to return to his underwater home.
+title: Gioga's Son

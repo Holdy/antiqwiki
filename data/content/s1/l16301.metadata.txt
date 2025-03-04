@@ -1,0 +1,6 @@
+location: Auchriachan
+next: 16344
+previous: 16279
+storyCount: 1
+summary: A tacksman from Auchriachan finds himself in a fairy abode after getting lost in a fog while searching for his goats, where he learns that the fairies plan to steal his favorite ox for dinner. He manages to escape and returns home, only to find that his ox, a fairy illusion, has been slaughtered by his own hand as foretold by the fairies in the enchanted house.
+title: The Stolen Ox

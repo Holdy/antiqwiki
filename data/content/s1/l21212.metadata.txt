@@ -1,0 +1,6 @@
+location: null
+next: 21572
+previous: 21202
+storyCount: 1
+summary: After a successful harvest season, the workers at a farm were invited for a grand celebration by their generous mistress, which included a meal, music, and dance, occurring in a large barn near their place of work. The countryside gathering was followed by an encounter with fairy-like figures on the way home, where the narrator witnessed a fantastical procession of headless figures and a coach with horses exhibiting supernatural feats near a moat, ending the day with an otherworldly experience.
+title: The Harvest Dinner

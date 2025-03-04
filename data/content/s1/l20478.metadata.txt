@@ -1,0 +1,6 @@
+location: Dalmatia
+next: 20490
+previous: 20432
+storyCount: 1
+summary: In Dalmatia, there exists a belief in supernatural beings such as the Vila, a beautiful woman who brings prosperity to her favorite, and the mischievous Maçieh, who obeys those who command him. These beings are rooted in local folklore, with the Vila enhancing the lives of her chosen, while Maçieh humorously fulfills requests, often through dubious methods.
+title: Folklore of Dalmatia: The Vila and the Maçieh

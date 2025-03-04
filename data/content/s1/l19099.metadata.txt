@@ -1,0 +1,6 @@
+location: Sierra Morena
+next: 19145
+previous: 19034
+storyCount: 1
+summary: Pepito el Corcovado, a joyful hunchback, enhances a song performed by mystical beings in the Sierra Morena and is rewarded by having his hump removed. A second hunchback, Cirillo, attempts the same but disrupts the song and suffers misfortune as his hump is doubled.
+title: Pepito el Corcovado

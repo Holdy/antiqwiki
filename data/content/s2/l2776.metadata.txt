@@ -1,0 +1,6 @@
+location: null
+next: 2789
+previous: 2656
+storyCount: 1
+summary: The tale discusses a figure on the heath, described with tattered robes who intermittently cries out in a sad, haunting manner. These cries, full of sorrow and eeriness, contribute to the mysterious and somber mood of the narrative.
+title: LEGENDS OF THE BANSHEE

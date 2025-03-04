@@ -1,0 +1,6 @@
+location: Great Britain
+next: 11629
+previous: 11492
+storyCount: 1
+summary: The text discusses the influence of Gotho-German origins on the understanding of mythical creatures like elves and dwarfs in parts of Great Britain, specifically England and the Lowlands of Scotland. It highlights how these tales, passed down through old wives' stories, closely correspond with Scandinavian and German beliefs about fairies and goblins.
+title: Great Britain

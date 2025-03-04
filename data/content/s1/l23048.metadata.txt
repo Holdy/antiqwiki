@@ -1,0 +1,6 @@
+location: Cork
+next: 23141
+previous: 23012
+storyCount: 1
+summary: William Cody, while returning home late at night near Cork, witnessed a procession of horsemen dressed in green, led by a mysterious horseman who halted him until the riders had passed by. The account of this supernatural event, claimed to be true, was linked to the area's reputation for being 'airy' or eerie.
+title: The Night Riders near Cork

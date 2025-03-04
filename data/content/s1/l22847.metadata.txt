@@ -1,0 +1,6 @@
+location: null
+next: 22950
+previous: 22772
+storyCount: 1
+summary: The narrator bids farewell to their beloved, expressing deep admiration and sorrow as they must part ways. Despite the distance that will separate them, the narrator hopes that memories and the beauty of nature will keep the beloved close in spirit.
+title: A Farewell

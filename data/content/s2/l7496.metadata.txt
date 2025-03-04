@@ -1,0 +1,6 @@
+location: Balledehob
+next: 7795
+previous: 7482
+storyCount: 1
+summary: Tim Jarvis, a hardworking man from Balledehob, dreams of finding a crock of gold on London Bridge, only to return and dig fruitlessly in Ireland, prompted by a stranger's tale. Upon waking to find no treasure, Tim gives up his dreams and drinking, returning to his honest labor to rebuild his life, while another local mysteriously disappears.
+title: Dreaming Tim Jarvis

@@ -1,0 +1,6 @@
+location: Yukon River
+next: 2280
+previous: 2181
+storyCount: 1
+summary: In a village by the Yukon River, a lazy boy, who was the companion of his sister, witnesses her ascending a ladder to the sky after he is denied food by her, leading him to follow her; she becomes the sun and he becomes the moon, forever chasing but never reaching her. This celestial chase results in the moon's waxing and waning, as it starves when distant from the sun and is fed when closer, explaining the lunar phases.
+title: Why the Moon Waxes and Wanes

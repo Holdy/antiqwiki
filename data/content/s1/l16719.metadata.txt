@@ -1,0 +1,6 @@
+location: Rushen
+next: 16767
+previous: 16699
+storyCount: 1
+summary: The Phynnodderee, a Manks spirit expelled from fairy society for courting a human, is known in the Isle of Man for helping with chores, such as moving large stones and gathering hay, until made to disappear after receiving clothes as a reward. This spirit, who originally played in the merry glen of Rushen, left with a lament when given clothes, signifying his loss of connection to his cherished Glen Rushen.
+title: The Phynnodderee

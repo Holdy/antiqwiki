@@ -1,0 +1,6 @@
+location: Penbroch
+next: 16915
+previous: 16802
+storyCount: 1
+summary: In the region of Penbroch, unclean spirits reportedly interacted with humans by mocking and causing damage, such as tearing garments, in the homes of Stephen Wiriet and William Not. Despite attempts to use holy water and other sacramentals, these spiritual distresses persisted, indicating that such illusions cannot be mitigated by ecclesiastical means.
+title: Unclean Spirits in Penbroch

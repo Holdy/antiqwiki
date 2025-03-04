@@ -1,0 +1,6 @@
+location: South Wales
+next: 16802
+previous: 16767
+storyCount: 2
+summary: Giraldus Cambrensis provided one of the earliest accounts of Welsh Fairies during his 1188 journey through Wales with Archbishop Baldwin to rally support for the Crusades. In his writings, Giraldus shares narratives showcasing a belief in creatures akin to England's Fairies and Hobgoblins.
+title: WALES

@@ -1,0 +1,6 @@
+location: South of Ireland
+next: 33
+previous: 0
+storyCount: 1
+summary: This eBook contains a collection of fairy legends and traditions from the South of Ireland, authored by Thomas Crofton Croker. It is freely available through Project Gutenberg, but usage may vary by location due to legal restrictions.
+title: Fairy Legends and Traditions of the South of Ireland

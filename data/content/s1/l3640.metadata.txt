@@ -1,0 +1,6 @@
+location: Scandinavia
+next: 3701
+previous: 3569
+storyCount: 1
+summary: The text explores the shared cultural and mythological heritage of Scandinavian countries, focusing on fairy mythology and ballads. The ballads, characterized by their simplicity and unique rhyme, are drawn from Swedish and Danish collections reflecting a strong similarity with English and Scottish ballads, suggesting a historical connection.
+title: Scandinavian Fairy Mythology and Ballads

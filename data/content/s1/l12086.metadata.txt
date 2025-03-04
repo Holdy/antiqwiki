@@ -1,0 +1,6 @@
+location: Black-down
+next: 12143
+previous: 12028
+storyCount: 1
+summary: In the area near Black-down hill, between Pittminster and Chestonford, locals have reported seeing fairies, who appear at times dancing and at others like a bustling market fair with various commodities. One man who attempted to ride into this eerie fair experienced severe physical symptoms after the encounter, suggesting the fair's spectral nature.
+title: The Fairy-Fair

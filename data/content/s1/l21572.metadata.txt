@@ -1,0 +1,6 @@
+location: Wicklow
+next: 21805
+previous: 21212
+storyCount: 1
+summary: Mick Flanagan and Judy Muldoon's eldest son, a mischievous and peculiar child, surprises everyone with his extraordinary talent for playing the pipes, suggesting he might be of fairy origin. Eventually, the child dramatically disappears into the river with his pipes, believed to return to the fairies, after years of causing trouble and bewilderment among his family and community.
+title: The Young Piper

@@ -1,0 +1,6 @@
+location: Vinland
+next: 3460
+previous: 3322
+storyCount: 1
+summary: Thorston embarked on a journey to Vinland where he encountered a Dwarf lamenting the loss of his son to a dragon. After saving the child, Thorston was rewarded with magical gifts including a protective shirt, a wealth-providing ring, and an enchanted stone with weather-controlling powers.
+title: Thorston and the Dwarf

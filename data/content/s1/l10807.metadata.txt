@@ -1,0 +1,6 @@
+location: near Leipzig
+next: 10837
+previous: 10767
+storyCount: 2
+summary: The Nixes, or Water-people, are mythical creatures who inhabit lakes and rivers, appearing as beautiful maids or men with green teeth often seen at markets or shores. A notable story involves a girl from a village near Leipzig who worked for a Nix, where everything was good except for the lack of salt in the food.
+title: Nixes

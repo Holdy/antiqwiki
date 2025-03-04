@@ -1,0 +1,6 @@
+location: Ballasalli
+next: 16675
+previous: 16631
+storyCount: 1
+summary: A young girl from near Ballasalli encounters a group of little men who initially prevent her from passing and then whip her when a quarrel ensues. After the incident, townspeople accompany her to the site, where they find evidence supporting her story, including small handprints and bloodstains.
+title: The Fairy-Whipping

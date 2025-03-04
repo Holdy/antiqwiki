@@ -1,0 +1,6 @@
+location: null
+next: 8034
+previous: 7948
+storyCount: 1
+summary: The tale involves the recounting of an air-ladder trick, famously performed by Indian jugglers, where animals appear to vanish as they ascend a chain seemingly attached to the sky, suggesting the use of hypnotism on spectators. The story's origins, debated by scholars, mix Eastern influence with local allusions, highlighting its framework structure characteristic of late imports and incorporating Gaelic folk-tale elements known as 'runs'.
+title: The Story-Teller at Fault

@@ -1,0 +1,6 @@
+location: Mount Elburz
+next: 1477
+previous: 1310
+storyCount: 1
+summary: Sâm abandons his white-haired newborn son, Zâl, on Mount Elburz, thinking him of Deev origin, until the compassionate Seemurgh rescues him. The mythical bird Seemurgh raises Zâl and instructs him to use her feather for help in dire times, as Zâl eventually returns to his father.
+title: The Legend of Zâl and the Seemurgh

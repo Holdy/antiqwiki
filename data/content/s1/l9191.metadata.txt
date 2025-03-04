@@ -1,0 +1,6 @@
+location: null
+next: 9259
+previous: 8873
+storyCount: 0
+summary: This text is a collection of footnotes explaining historical and linguistic aspects of Germanic and French mythology, including terms like 'Alp', 'Tarnkappe', and the origins of names such as 'Oberon' from 'Elberich'. While it references various mythical figures and literary works such as the Nibelungen Lied, it provides etymological insights rather than a narrative story.
+title: /

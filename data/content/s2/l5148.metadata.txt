@@ -1,0 +1,6 @@
+location: Iveragh
+next: 5441
+previous: 5040
+storyCount: 1
+summary: Maurice Connor, a talented blind piper from Munster, had a magical tune that made everything dance, including people and fish. During a lively event on the beach, a mysterious lady from the sea enchanted Maurice to join her underwater, promising to make him king of the fish, resulting in Maurice vanishing into the ocean forever.
+title: The Wonderful Tune

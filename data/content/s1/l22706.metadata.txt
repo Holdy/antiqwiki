@@ -1,0 +1,6 @@
+location: null
+next: 22772
+previous: 22665
+storyCount: 1
+summary: The narrator reminisces about youthful days spent imagining idyllic scenes with castles and romantic encounters, inspired by visions of graceful women and knights in shining armor. Despite years passing without finding his dream woman, a chance evening encounter matches the image of his Ideal, prompting him to dedicate these lines to her.
+title: Lines Written in a Lady's Album

@@ -1,0 +1,6 @@
+location: null
+next: 4722
+previous: 4390
+storyCount: 1
+summary: Sir Thynnè, a brave knight, encounters Ulva, the Dwarf's daughter, who enchants him with her music but ultimately cannot accept his advances due to her betrothal to a Dwarf king. With the help of Thora, Ulva's mother, Sir Thynnè is freed from enchantment, defeats rival champions, and rescues the Lady Hermolin to live happily with her, expressing gratitude to Ulva for leading him to his love.
+title: Sir Thynne

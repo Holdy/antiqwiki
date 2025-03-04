@@ -1,0 +1,6 @@
+location: Greece
+next: 18540
+previous: 18363
+storyCount: 1
+summary: In Greek mythology, Nymphs were personifications of nature's beauty, dwelling in picturesque locations like trees, mountains, and water bodies, and they often interacted with mortals and gods, participating in both beneficial and punitive actions. Stories such as that of Rhoecus and the Hamadryas Nymph illustrate the Nymphs' power, as their relationships with humans could result in rewards or severe punishments, including loss of sight or personal misfortune.
+title: Grecian Mythological Nymphs

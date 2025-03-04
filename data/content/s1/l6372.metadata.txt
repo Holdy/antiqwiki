@@ -1,0 +1,6 @@
+location: Thyrsting, Jutland
+next: 6403
+previous: 6333
+storyCount: 1
+summary: In Jutland, a Nis living in a barn helps a farmer by stealing fodder from neighbors, ensuring the farmer's cattle are the best fed in the region. The relationship between the Nis and a boy sours, leading to a vengeful prank by the Nis, though it ultimately fails to cause harm to the boy.
+title: The Nis Stealing Corn

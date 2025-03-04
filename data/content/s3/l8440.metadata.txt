@@ -1,0 +1,6 @@
+location: null
+next: 8451
+previous: 8389
+storyCount: 1
+summary: A woman suspects her child has been replaced by a changeling when he displays unusual behavior and refuses to grow. Upon following the advice of a wise man, she brews eggshells as if they were beer, causing the changeling to reveal himself, leading to the return of her real child.
+title: Brewery of Eggshells

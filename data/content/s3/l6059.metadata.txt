@@ -1,0 +1,6 @@
+location: the barony
+next: 6216
+previous: 5901
+storyCount: 1
+summary: Andrew Coffey finds himself lost in a familiar area and takes refuge in a mysterious cabin, where he hears disembodied voices demanding a story, leading to an unsettling encounter with the ghost of Patrick Rooney. Fleeing from danger, Coffey ends up back at the cabin, only to sleep and awaken on a hillside with his horse nearby, questioning the night’s eerie events as a dream or reality.
+title: Andrew Coffey

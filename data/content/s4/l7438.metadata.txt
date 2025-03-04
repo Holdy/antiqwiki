@@ -1,0 +1,6 @@
+location: Bridport
+next: 7699
+previous: 7109
+storyCount: 1
+summary: In medieval times, Bridport developed as a strategic inland port, protected from sea attacks and later becoming renowned for its rope, sailcloth, and nets industries. Despite various historical challenges, including being targeted during the Duke of Monmouth's rebellion, Bridport flourished and maintained its historical and civic records, marking its importance within Dorset.
+title: Bridport

@@ -1,0 +1,6 @@
+location: Borum Es
+next: 4120
+previous: 4047
+storyCount: 1
+summary: Svend Fælling, while returning home from Ristrup through Borum Es, encounters Elle-maids who offer him a mysterious drink that he wisely discards. After a daring escape, Svend makes a deal with an Elle-maid, trading her horn for twelve men's strength, a gift that comes with a voracious appetite.
+title: Svend Faelling and the Elle-Maid

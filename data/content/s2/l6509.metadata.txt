@@ -1,0 +1,6 @@
+location: Carrigrohan
+next: 6754
+previous: 6329
+storyCount: 1
+summary: John Sheehan encounters a mysterious voice taunting him at the haunted manor-house of Carrigrohan, and, scared, he decides to leave, convinced that the voice knows a secret of his. Despite attempts by the residents and guests, including Colonel Pratt, to identify the source, Teigue, the unseen prankster, evades capture, leaving the mystery unsolved.
+title: Teigue of the Lee

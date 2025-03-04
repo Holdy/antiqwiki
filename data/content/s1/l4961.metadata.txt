@@ -1,0 +1,6 @@
+location: Aagerup
+next: 5022
+previous: 4930
+storyCount: 1
+summary: A farmer's servant in Aagerup, after being invited to dance with Trolls on Christmas Eve, cleverly manages to escape with a golden cup by riding his horse across a ploughed field, outsmarting the Trolls chasing him. Despite the Trolls' attempt to stop him, he safely returns to Aagerup and gifts the cup to the church, securing a reward of the best farm-house on Eriksholm lands.
+title: The Altar-Cup in Aagerup

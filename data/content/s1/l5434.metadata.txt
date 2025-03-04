@@ -1,0 +1,6 @@
+location: Funen
+next: 5452
+previous: 5420
+storyCount: 1
+summary: A girl from a village on the isle of Funen attended a Troll-banquet and unknowingly spent many years there, thinking it was just a few hours. Upon returning to her village, she found herself out of time, as her family was gone and her home belonged to strangers, leading to her losing her sanity permanently.
+title: The Girl at the Troll-Dance

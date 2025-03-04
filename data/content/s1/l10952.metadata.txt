@@ -1,0 +1,6 @@
+location: Germany
+next: 10963
+previous: 10910
+storyCount: 1
+summary: In Germany, there are numerous tales of midwives and noblewomen being summoned to aid in the childbirth of mystical creatures like Nix and Dwarfs, often receiving gifts that bring prosperity to their family. Despite the danger associated with touching anything in the realms of these mystical beings, similar stories of interaction exist in Scandinavia and beyond.
+title: Tales of Mystical Midwifery

@@ -1,0 +1,6 @@
+location: Hilton Hall
+next: 12203
+previous: 12143
+storyCount: 1
+summary: The Cauld Lad of Hilton was a Brownie who caused mischief at Hilton Hall by rearranging items in the kitchen, much to the chagrin of the servants. To rid themselves of the spirit, the servants offered him a green cloak and hood, leading to his joyful departure, but his melancholy voice could still be heard singing at midnight.
+title: The Cauld Lad of Hilton

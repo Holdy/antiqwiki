@@ -1,0 +1,6 @@
+location: Arthur's court
+next: 3497
+previous: 2931
+storyCount: 1
+summary: Kilhuch, guided by prophecy, seeks the hand of Olwen and enlists King Arthur's help, facing multiple challenges set by Olwen's father, Yspathaden Penkawr, who demands impossible tasks including retrieving rare items and mythical beasts. With determination and Arthur's warriors, Kilhuch completes the tasks, leading to Yspathaden's demise, and finally wins Olwen as his bride.
+title: The Wooing of Olwen

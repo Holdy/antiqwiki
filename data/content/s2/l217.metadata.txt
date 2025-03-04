@@ -1,0 +1,6 @@
+location: forest
+next: 235
+previous: 181
+storyCount: 1
+summary: The Shefro is part of a collection of fairy legends that explore the magical and mysterious activities of fairy elves at night. These tales often describe how peasants encounter or dream of these mythical beings under a moonlit sky.
+title: The Shefro

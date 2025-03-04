@@ -1,0 +1,6 @@
+location: Strathspey
+next: 16478
+previous: 16408
+storyCount: 2
+summary: In Strathspey, two Brownies named Brownie-Clod and Maug Vuluchd, served the Tullochgorm family; Brownie-Clod flung clods at passersby and was overreached by servants, while Maug managed housekeeping tasks invisibly with strict oversight of the maids. Despite being tricked into receiving payment early, Brownie-Clod was sometimes able to outwit the servants, a theme similarly depicted in another story on the Western Isles where a Brownie helped a person playing draughts at Sir Norman M'Leod’s.
+title: The Brownies

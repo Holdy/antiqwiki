@@ -1,0 +1,6 @@
+location: Carrigaphooka
+next: 3931
+previous: 3549
+storyCount: 1
+summary: Daniel O'Rourke recounts his surreal adventure, which began after getting tipsy at a local event and ended up with him being carried by an eagle to the moon, only to be saved by a flock of geese.  After a series of unfortunate events and odd encounters, including the Man in the Moon, Daniel wakes up on the ground, having fallen asleep under the walls of Carrigaphooka tower, realizing it was all just a drunken dream.
+title: The Adventures of Daniel O'Rourke

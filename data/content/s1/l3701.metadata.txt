@@ -1,0 +1,6 @@
+location: Copenhagen
+next: 3754
+previous: 3640
+storyCount: 1
+summary: The text discusses various Danish and Swedish folklore collections, mentioning specific works and details about the languages used in these folk songs. It provides examples of verses and pronunciation guides for those interested in legends and ballads from these regions.
+title: Footnotes on Scandinavian Folklore and Language

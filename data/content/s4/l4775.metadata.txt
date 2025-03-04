@@ -1,0 +1,6 @@
+location: Dorchester
+next: 5083
+previous: 4327
+storyCount: 1
+summary: Dorchester's heritage is marked by its resilience through historical upheavals, from Roman times to Saxon conquests, Danish invasions, and Civil War skirmishes, all contributing to its rich tapestry of culture and fortitude. By the nineteenth century, Dorchester had evolved into a unique town with its beautiful Walks, intellectual tradition, and a deep historical connection, enduring even after events like the Bloody Assizes under Judge Jeffreys left their somber mark.
+title: The Enduring Heritage of Dorchester

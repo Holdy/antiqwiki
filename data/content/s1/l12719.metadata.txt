@@ -1,0 +1,6 @@
+location: null
+next: 12731
+previous: 12677
+storyCount: 1
+summary: A doctor is taken to a fairy hall inside a mountain, where he performs a task and is given eye-salve that allows him to see the world as it truly is. Attempting to use the salve to gain advantage, he later witnesses the fairy's husband stealing corn with unexpected consequences.
+title: The Doctor and the Fairy's Gift

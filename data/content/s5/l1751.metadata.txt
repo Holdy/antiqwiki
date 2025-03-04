@@ -1,0 +1,6 @@
+location: null
+next: 1802
+previous: 1720
+storyCount: 1
+summary: Man tried to catch seals along the seashore but failed, leading to the first human tears and cries. Later, Man and his family learned to craft clothes and tools, leading to new developments for the village, but not before accidentally setting mosquitoes on humans forever.
+title: The Origin of Tears and Mosquitoes

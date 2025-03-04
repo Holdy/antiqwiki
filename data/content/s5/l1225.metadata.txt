@@ -1,0 +1,6 @@
+location: a small hut
+next: 1370
+previous: 1177
+storyCount: 1
+summary: In a small hut long ago, a blind boy named by his unkind mother was revitalized with sight after a loon helped him under the water, empowering him to confront the deceit where his bear hunting success was concealed as his mother and sister secretly ate the meat while he starved. Vowing to rid himself of his mother's cruelty, the boy exacted a non-lethal revenge, which led to her transformation into a narwhal as the sea claimed her during his white whale hunt.
+title: The Origin of the Narwhal

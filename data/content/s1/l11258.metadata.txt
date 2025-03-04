@@ -1,0 +1,6 @@
+location: null
+next: 11300
+previous: 11049
+storyCount: 1
+summary: The chamois-hunter encounters a Dwarf who accuses him of poaching chamois and out of mercy, offers to provide him with one chamois every week if he stays away from the mountains. After initially accepting the Dwarf's offer for a passive livelihood, the hunter grows restless, returns to hunting chamois, and ultimately meets his demise at the hands of the vengeful Dwarf upon breaking his promise.
+title: The Chamois-Hunter

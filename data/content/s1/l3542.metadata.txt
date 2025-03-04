@@ -1,0 +1,6 @@
+location: null
+next: 3569
+previous: 3460
+storyCount: 1
+summary: The text explores the origins and cultural interpretations of Dwarfs in various traditions, particularly focusing on their association with metallurgy and their depiction as crafty, small beings capable of navigating through rocks and stones. It contrasts different theories, including one suggesting that Dwarfs symbolize the Finns forced into the mountains by Scandinavians, and another linking them to Odin's followers from the Chalybes region.
+title: The Origin and Role of Dwarfs in Teutonic Traditions

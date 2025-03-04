@@ -1,0 +1,6 @@
+location: Finland
+next: 20324
+previous: 20203
+storyCount: 2
+summary: The relationship between Finnish and neighboring mythologies is evident in shared beliefs in mystical beings like Dwarfs, Kobolds, and Kirkonwaki, reflecting mutual cultural influences. Finnish folklore features magical creatures and unique legends, such as the Para, who steals milk, and the Näkki, identified by its fish's teeth, showcasing a rich tapestry of ancient beliefs.
+title: FINNS

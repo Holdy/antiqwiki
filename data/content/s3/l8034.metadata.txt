@@ -1,0 +1,6 @@
+location: Ireland
+next: 8094
+previous: 7974
+storyCount: 1
+summary: The story involves the heroic character Cuchulain, who saves the daughter of Ruad from the monstrous Fomori by defeating them in battle. This tale has connections to both Celtic and continental folklore, and traces back to ancient Irish sagas, highlighting the motif of the Sea-Maiden and similar themes across cultures.
+title: SEA-MAIDEN

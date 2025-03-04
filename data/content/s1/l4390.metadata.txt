@@ -1,0 +1,6 @@
+location: Ebeltoft
+next: 4474
+previous: 4281
+storyCount: 1
+summary: Trolls, also known as Hill-people, are mythical beings that inhabit hills and mounds, often seen as rich and living in grand homes inside these hills. They interact with humans through lending and borrowing but are notorious for stealing and can become invisible or transform themselves into various shapes.
+title: Dwarfs or Trolls

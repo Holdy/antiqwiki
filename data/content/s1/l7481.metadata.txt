@@ -1,0 +1,6 @@
+location: Shetland
+next: 7486
+previous: 7410
+storyCount: 1
+summary: In Shetland folklore, the water-spirit known as Shoopiltee disguises itself as a small, attractive horse. It lures individuals to mount it only to carry them off into the sea.
+title: The Shoopiltee of Shetland

@@ -1,0 +1,6 @@
+location: Oxford and Cambridge
+next: 11354
+previous: 11289
+storyCount: 1
+summary: The book provides numerous illustrations and descriptions of rare and historically valuable specimens of Old English Gold Plate. These specimens are sourced from notable collections, including those of His Majesty the King and various dukes and earls.
+title: OLD ENGLISH GOLD PLATE

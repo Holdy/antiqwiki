@@ -1,0 +1,6 @@
+location: null
+next: 2685
+previous: 2141
+storyCount: 2
+summary: In the tale of Ogier and Morgue la Faye, Ogier, blessed with gifts from fairies at birth, spends time in the idyllic castle of Avalon, a realm filled with never-ending joy and beautiful fairy beings, until he's called back to the mortal world to fend off invaders before ultimately returning to the mystical faerie land. The romance of Orfeo and Heurodis tells of Queen Heurodis, who is taken by a fairy king to a celestial realm resembling a paradise after she dreams of him, leading her husband Orfeo to abandon his kingdom and rescue her through the enchanting power of his music.
+title: FAIRY LAND

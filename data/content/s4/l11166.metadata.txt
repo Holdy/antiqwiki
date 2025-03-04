@@ -1,0 +1,6 @@
+location: Devonshire
+next: 11176
+previous: 11154
+storyCount: 1
+summary: The text refers to a book titled 'Memorials of Old Devonshire,' which is edited by F. J. Snell and dedicated to Viscount Ebrington. The book is highly valued by people from Devon and includes rare engravings, highlighting its richness in content.
+title: Memorials of Old Devonshire

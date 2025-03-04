@@ -1,0 +1,6 @@
+location: Snowdon
+next: 5901
+previous: 5534
+storyCount: 1
+summary: Prince Llewelyn mistakenly kills his loyal greyhound, Gellert, believing it had harmed his child, only to discover afterward that Gellert had heroically protected the child from a wolf. Filled with regret, Llewelyn buries Gellert near Snowdon, and the site is forever known as 'Beth Gellert' as a reminder of the tragedy.
+title: Beth Gellert

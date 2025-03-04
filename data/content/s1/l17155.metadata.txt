@@ -1,0 +1,6 @@
+location: null
+next: 17196
+previous: 17041
+storyCount: 1
+summary: Rhys follows enchanting music he claims to have danced to many times before and gets lost in a fairy circle, only to be found much later, confused and believing he had only been gone for five minutes. Despite being rescued, Rhys becomes melancholic, eventually succumbing to an unexplained illness, leaving behind only strange markings at the fairy-ring where he danced.
+title: Rhys at the Fairy-Dance

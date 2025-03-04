@@ -1,0 +1,6 @@
+location: Etterick
+next: 0
+previous: 8676
+storyCount: 1
+summary: Walter Scott writes a letter praising the author's work on Irish fairy legends, noting similarities between Irish and Scottish folklore and sharing a recent account of an encounter with fairy-like figures near Etterick.  Upon investigation, these figures turned out to be stolen puppets from a local show, which led to a amusing incident involving curious townspeople and a small fine as punishment.
+title: Letter from Sir Walter Scott

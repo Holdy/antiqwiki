@@ -1,0 +1,6 @@
+location: Bury St. Edmund's
+next: 11719
+previous: 11661
+storyCount: 1
+summary: According to William of Newbridge, in the reign of King Stephen, two children with a green hue mysteriously appeared near Bury St. Edmund's from the Wolf-pits. The girl eventually acclimated, learned English, and married in Lenna, while the boy died shortly after arriving.
+title: The Green Children of Wolf-Pits

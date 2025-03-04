@@ -1,0 +1,6 @@
+location: Hildesheim
+next: 10698
+previous: 10077
+storyCount: 1
+summary: Hödeken, a house spirit residing in the bishop's palace in Hildesheim, was helpful but dangerous when provoked, going so far as to kill a disrespectful scullion and terrorize the bishop's cook. Committed to protecting a local man's unfaithful wife while he was away, Hödeken thwarted her infidelities, but found the task so exhausting that he refused to do it again.
+title: Hödeken

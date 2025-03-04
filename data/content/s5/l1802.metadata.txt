@@ -1,0 +1,6 @@
+location: null
+next: 1975
+previous: 1751
+storyCount: 1
+summary: Raven takes Man on a journey to the sky and the sea, showing him a magical land and transforming him into a polar bear for four years. Upon returning home, Man finds his village transformed and becomes its Headman, sharing his new knowledge of the sea and its creatures.
+title: Up to the Top of the Sky, and Down to the Bottom of the Sea

@@ -1,0 +1,6 @@
+location: Kund
+next: 5062
+previous: 4961
+storyCount: 1
+summary: A Troll, irritated by the incessant church bell-ringing in Kund, moved to Funen and later attempted to avenge himself by sending a cursed letter to Kund. The letter accidentally was opened near a meadow, releasing a lake that became Tiis Lake, sparing the church from destruction.
+title: Origin of Tiis Lake

@@ -1,0 +1,6 @@
+location: Putney Bridge
+next: 22706
+previous: 22633
+storyCount: 1
+summary: A man observes a boat advancing towards shore on a moonlit lake, his heart filled with hope as he anticipates meeting his lover. Though dark clouds threaten to obscure the moon, a beam breaks through, guiding the boat safely to shore as the lovers reunite.
+title: A Moonlight Scene

@@ -1,0 +1,6 @@
+location: Knockgrafton
+next: 714
+previous: 235
+storyCount: 1
+summary: Lusmore, a kind-hearted hunchback, had his hump magically removed by fairies after he cleverly added to their song, transforming him into a well-shaped man. Later, another man named Jack Madden who tried the same feat without understanding the tune's rhythm ended up with Lusmore's old hump added to his own, leading to his demise.
+title: The Legend of Knockgrafton

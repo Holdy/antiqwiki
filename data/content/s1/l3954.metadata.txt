@@ -1,0 +1,6 @@
+location: Borgya
+next: 4047
+previous: 3890
+storyCount: 1
+summary: Sir Olof, while riding through Borgya, encounters an Elve-king's daughter who invites him to dance, but he refuses due to his upcoming wedding. In retaliation for his refusal, the Elve-king's daughter curses him, leading to his illness and ultimate demise before his wedding.
+title: The Elf-woman and Sir Olof

@@ -1,0 +1,6 @@
+location: Dorset
+next: 178
+previous: 58
+storyCount: 1
+summary: After the passing of Rev. Thomas Perkins, Rev. Herbert Pentin completed editing a comprehensive volume about Dorset, highlighting its historical and natural beauty. The work includes contributions from various experts and covers topics such as the county's ancient history, churches, literary associations, and notable manor-houses.
+title: The Completion of the Dorset Volume

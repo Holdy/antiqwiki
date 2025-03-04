@@ -1,0 +1,6 @@
+location: Europe
+next: 2141
+previous: 1605
+storyCount: 1
+summary: European romance, especially from the middle ages, is markedly influenced by Eastern fictions and myths, with tales from the Thousand and One Nights being a significant point of reference. Throughout history, romance stories incorporated elements of magic and enchantment, with Western adaptations of fairies and enchanted creatures drawing from a blend of Eastern tales and Celtic mythology.
+title: Middle-Age Romance

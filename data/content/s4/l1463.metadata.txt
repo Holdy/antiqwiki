@@ -1,0 +1,6 @@
+location: Dorchester
+next: 1639
+previous: 1196
+storyCount: 1
+summary: This period of Roman occupation in Dorset is characterized by a shift from military operations to a peaceful and prosperous settlement, evidenced by the lavish villas with intricate mosaic floors left by colonists or potentially wealthy British landowners.  Numerous Roman relics have been unearthed throughout Dorset, including sites like Dorchester, Preston near Weymouth, and Fifehead Neville, revealing the extensive and rich Roman settlement in the region.
+title: The Roman Legacy Unearthed in Dorset

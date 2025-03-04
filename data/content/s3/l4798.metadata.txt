@@ -1,0 +1,6 @@
+location: Knockmany Hill
+next: 5149
+previous: 4507
+storyCount: 1
+summary: Feeling threatened by the formidable giant Cuhullin, Fin M'Coul, aided by his clever wife Oonagh, deceives Cuhullin into believing their home's bread and child are far more formidable than they are. Through wit and strategic trickery, including a staged display of strength and a clever finger trap, Fin manages to vanquish his powerful nemesis without a fight, highlighting the theme of brains over brawn.
+title: A Legend of Knockmany

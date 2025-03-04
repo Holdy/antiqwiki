@@ -1,0 +1,6 @@
+location: null
+next: 1751
+previous: 1643
+storyCount: 1
+summary: Man and his son, after the Raven's departure, attempted hunting techniques and caught a seal and a reindeer. They used the reindeer skin for a bed and discovered that cooking its meat over a fire was delicious.
+title: Man's First Grief

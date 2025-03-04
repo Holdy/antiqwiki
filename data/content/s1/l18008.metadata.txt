@@ -1,0 +1,6 @@
+location: Brézal
+next: 18073
+previous: 17873
+storyCount: 2
+summary: In a story set in Brézal, a mother follows the Virgin's advice to recover her child from a changeling by preparing a meal for ten in an eggshell, which causes the changeling to reveal itself, leading to the return of her own child. This tale is paralleled by a Welsh legend and highlights a common motif within British folklore, while another ballad humorously recounts how Long-Paskou the tailor escapes from the mischievous Korred, who pursue him after he steals their treasure.
+title: The Legend of the Changeling and the Korred

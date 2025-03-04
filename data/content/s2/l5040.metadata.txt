@@ -1,0 +1,6 @@
+location: Dunkerron
+next: 5148
+previous: 4887
+storyCount: 1
+summary: The lord of Dunkerron, O'Sullivan More, wanders the coastline at night, drawn by the allure of a beautiful ocean spirit he longs to wed. Despite capturing her affection, the spirit's attempt to seek permission from her underwater realm's monarch ends tragically in her death, leaving O'Sullivan devastated on the shore.
+title: THE LORD OF DUNKERRON

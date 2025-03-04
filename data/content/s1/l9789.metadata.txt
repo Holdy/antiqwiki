@@ -1,0 +1,6 @@
+location: Rantum
+next: 9818
+previous: 9773
+storyCount: 1
+summary: Inge of Rantum cleverly escaped an engagement with an Underground being by overhearing his true name just in time, as part of a traditional release condition. On her wedding day, she confronted the creature using his name, Ekke Nekkepem, successfully freeing herself from the unwanted marriage.
+title: Inge of Rantum

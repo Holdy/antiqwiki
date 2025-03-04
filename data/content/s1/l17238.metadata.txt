@@ -1,0 +1,6 @@
+location: null
+next: 17262
+previous: 17196
+storyCount: 1
+summary: In an old farmhouse where the kitchen and cow-house shared a wall, troublesome fairies constantly disrupted the lives of the occupants by causing chaos whenever the family had meals or tended to their cows. Following advice from an old woman, the house mistress cleverly tricked the fairies into leaving by making an improbable dinner, prompting the fairies to announce that something was amiss before they left and never came back.
+title: The Fairies Banished

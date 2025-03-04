@@ -1,0 +1,6 @@
+location: Sweden
+next: 6640
+previous: 6508
+storyCount: 2
+summary: In Nordic folklore, water spirits like the Neck play music by rivers and lakes, but are persistently mournful due to a belief they are denied salvation. In Sweden, a story is told about children reassuring a weeping Neck of salvation, which makes him play joyously, contrasting a Danish version where a priest's harsh words lead to a tragic end for hill-dwelling dwarfs.
+title: Necks, Mermen, and Mermaids

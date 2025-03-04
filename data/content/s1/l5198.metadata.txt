@@ -1,0 +1,6 @@
+location: null
+next: 5224
+previous: 5165
+storyCount: 1
+summary: St. Olaf struck a deal with a giant to build a magnificent church without taxing his people, risking the sun and moon or himself as payment. By discovering the giant's name, Wind-and-Weather, Olaf saved himself and completed the church, causing the giant to break into pieces of flintstone.
+title: St. Olaf and the Church Construction

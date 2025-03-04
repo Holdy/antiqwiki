@@ -1,0 +1,6 @@
+location: null
+next: 8142
+previous: 8117
+storyCount: 1
+summary: The story of "Jack and His Master" is a popular European droll involving a bet centered around 'the loss of temper.' This tale appears in various versions across different cultures, highlighting its widespread appeal and adaptability.
+title: Jack and His Master

@@ -1,0 +1,6 @@
+location: Mallow
+next: 1373
+previous: 869
+storyCount: 1
+summary: Mick Purcell, a poor farmer near Mallow, encounters a mysterious man who trades him a magical bottle in exchange for his cow, promising that it will bring him wealth. Despite initially gaining prosperity, Mick’s greed leads to his downfall, illustrating the peril of prioritizing riches over wise decisions and moderation.
+title: Legend of Bottle Hill

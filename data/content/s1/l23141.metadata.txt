@@ -1,0 +1,6 @@
+location: null
+next: 23643
+previous: 23048
+storyCount: 0
+summary: The text is an index listing various mythical creatures and terms related to folklore from different cultures. There is no specific narrative or story within the text, as it serves as a reference guide rather than a story-based content.
+title: Folklore Index

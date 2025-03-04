@@ -1,0 +1,6 @@
+location: glen
+next: 2931
+previous: 2640
+storyCount: 1
+summary: Silver-tree, jealous of her daughter Gold-tree's beauty, plots to kill her but fails multiple times due to Gold-tree's cunning and the intervention of her second wife. Ultimately, Silver-tree's treacherous plans backfire, leading to her own demise, while Gold-tree and her family live peacefully thereafter.
+title: Gold-Tree and Silver-Tree

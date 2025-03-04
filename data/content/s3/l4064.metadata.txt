@@ -1,0 +1,6 @@
+location: Leinster
+next: 4507
+previous: 3785
+storyCount: 1
+summary: A kingdom's story-teller, who was accustomed to crafting new tales every night for the king of Leinster, finds himself at a loss for a story and meets a mysterious beggar who challenges him to a series of wagers, resulting in the storyteller losing everything, including his wife. Ultimately, the beggar reveals himself as a magical figure named Angus of the Bruff, returning the storyteller's possessions and providing him with a rich tale for the king, who finds endless amusement in the recounting of the tale and requests its telling every night henceforth.
+title: The Story-Teller at Fault

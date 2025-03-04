@@ -1,0 +1,6 @@
+location: Ford Abbey
+next: 4775
+previous: 3893
+storyCount: 1
+summary: Ford Abbey, originally established in 1140 in Devon and later part of Dorset, was founded by Adeliza for Cistercian monks and is renowned for its historical significance and architectural evolution. Despite its trials during the dissolution of the monasteries, the Abbey largely survived, with many parts rebuilt and embellished by Thomas Chard, its last abbot, making it one of the most prominent abbeys in England's history.
+title: FORD ABBEY

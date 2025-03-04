@@ -1,0 +1,6 @@
+location: Nether Witton
+next: 12677
+previous: 12615
+storyCount: 1
+summary: A cottager and his wife from Nether Witton were entrusted by a fairy and his spouse to care for their child with the condition of using a special ointment, avoiding touching themselves with it to prevent misfortune. The cottager's curiosity led him to use the ointment on his own eyes, resulting in his blindness when he encountered the fairy again, and the child was never seen again.
+title: The Fary Nurseling

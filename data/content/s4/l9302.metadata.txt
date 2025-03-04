@@ -1,0 +1,6 @@
+location: Dorset
+next: 9720
+previous: 8759
+storyCount: 1
+summary: The story explores the persistence of superstitions, particularly witchcraft, in Dorset, despite modernization and education. Instances of supposed supernatural events and community beliefs are shared, illustrating the complex interplay of fear, tradition, and explanation in local culture.
+title: Some Dorset Superstitions

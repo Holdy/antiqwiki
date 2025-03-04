@@ -1,0 +1,6 @@
+location: Scandinavia
+next: 16536
+previous: 16478
+storyCount: 2
+summary: A smith in Scandinavia saves a woman from a Troll using a red-hot iron and discovers that a changeling had taken her place at home. After cleaving the changeling's skull, the smith reunites the woman with her husband and their twins, to the husband's relief.
+title: The Changeling and the Smith

@@ -1,0 +1,6 @@
+location: Oxford
+next: 11166
+previous: 9720
+storyCount: 1
+summary: The book provides a comprehensive history of Oxford, fondly remembered by many scholars and politicians. It is edited by Rev. P. H. Ditchfield and is noted for its compelling narrative, as highlighted by the Spectator.
+title: MEMORIALS OF OLD OXFORDSHIRE

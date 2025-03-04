@@ -1,0 +1,6 @@
+location: Inuit village
+next: 498
+previous: 259
+storyCount: 1
+summary: In an Inuit village by a large inlet, a giant man effortlessly helped his tribe by catching whales with his bare hands and protecting them from threats. Despite warnings of bears, the giant remained unfazed, dismissing them as insignificant and easily dealt with them single-handedly.
+title: The Giant

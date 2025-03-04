@@ -1,0 +1,6 @@
+location: Norfolk
+next: 11336
+previous: 11279
+storyCount: 1
+summary: The text lists several volumes edited by various authors, each focusing on memorials of different regions in the UK. Notable editors and contributors include historians and academics such as H. J. Dukinfield Astley and A. Clifton Kelway, among others.
+title: MEMORIALS OF OLD NORFOLK

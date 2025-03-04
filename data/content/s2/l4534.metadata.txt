@@ -1,0 +1,6 @@
+location: Killarney
+next: 4623
+previous: 4402
+storyCount: 1
+summary: In ancient times, the chieftain O'Donoghue, known for his wisdom and justice, mysteriously vanished into the lake of Killarney after prophesying future events to his court. Every May-dew morning, O'Donoghue is believed to return, and his appearance is considered a harbinger of good fortune, highlighting the timeless legend cherished by generations.
+title: THE LEGEND OF O'DONOGHUE

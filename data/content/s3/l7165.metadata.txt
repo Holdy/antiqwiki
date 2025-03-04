@@ -1,0 +1,6 @@
+location: Ireland
+next: 7412
+previous: 6855
+storyCount: 1
+summary: Celtic folk-tales are numerous and ancient, surpassing those of many European countries, largely due to J. F. Campbell's extensive work, and they include fairy tales, hero-tales, folk-tales proper, and droll anecdotes. While Ireland and Scotland are rich sources of these tales, their continuity and similarity are attributed to shared language and culture; these tales may provide significant insights into both historical practices and the diffusion of European folklore.
+title: The Rich Heritage of Celtic Folk-Tales

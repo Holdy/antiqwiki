@@ -1,0 +1,6 @@
+location: Oesterhæsinge
+next: 4153
+previous: 4120
+storyCount: 1
+summary: During a wedding celebration at Oesterhæsinge, guests were discussing their bridal presents late into the night. A mysterious maiden named Vae approached one boastful guest, and upon his rude response, he suddenly fell dead.
+title: Maid Vae

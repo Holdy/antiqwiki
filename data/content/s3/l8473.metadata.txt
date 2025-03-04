@@ -1,0 +1,6 @@
+location: null
+next: 8509
+previous: 8451
+storyCount: 0
+summary: This text is a list of fairy tale books and collections from various authors and illustrators such as Joseph Jacobs and John D. Batten. The genres covered include English, Celtic, European, Indian folklore, and fairy tales, as well as other collections such as "The Book of Wonder Voyages."
+title: Folk and Fairy Tales from Many Lands

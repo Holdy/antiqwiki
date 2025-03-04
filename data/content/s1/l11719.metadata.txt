@@ -1,0 +1,6 @@
+location: Yorkshire
+next: 11762
+previous: 11704
+storyCount: 1
+summary: In Yorkshire, a peasant encountered a mysterious banquet inside a barrow and managed to escape with a unique cup, which eventually became a valuable royal possession. This story highlights how ancient legends can persist over centuries, particularly in areas like Yorkshire influenced by early Danish settlements.
+title: The Fairy Banquet

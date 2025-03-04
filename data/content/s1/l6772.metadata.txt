@@ -1,0 +1,6 @@
+location: castle
+next: 6827
+previous: 6640
+storyCount: 1
+summary: Duke Magnus encounters a mermaid who offers him riches and gifts in exchange for his promise to marry her, but he refuses due to her nature as a sea-troll. Despite her attempts to persuade him, Duke Magnus remains steadfast, valuing his duties and heritage over a life with the mermaid.
+title: Duke Magnus and the Mermaid

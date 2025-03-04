@@ -1,0 +1,6 @@
+location: Eastern Europe
+next: 20230
+previous: 20148
+storyCount: 1
+summary: The Finns and Slavs, two extensive races, inhabit regions from the Frozen Ocean to the Adriatic Sea, with Finns settling around northern Scandinavia and parts of Hungary. Due to limited knowledge of their mythology, cultural insights about these groups remain sparse despite their broad dispersion across Eastern Europe.
+title: Eastern Europe

@@ -1,0 +1,6 @@
+location: Fuglekärr
+next: 4961
+previous: 4722
+storyCount: 1
+summary: A man from Fuglekärr intercepted a comely maiden from a hill, married her after making arrangements with her father, and had her christened. During their wedding, her father gifted them a large bag of money and later provided her with a dowry of copper pots.
+title: The Troll Wife

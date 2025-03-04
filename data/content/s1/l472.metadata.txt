@@ -1,0 +1,6 @@
+location: Britain
+next: 487
+previous: 257
+storyCount: 1
+summary: The text is an introduction discussing the pervasive presence of fairies in ancient Britain, particularly during the reign of King Arthur, as celebrated in legends. This time, nostalgically recounted by Chaucer, highlights the joy and magical dances of elf queens and their companions in the green meadows.
+title: The Fairy Mythology

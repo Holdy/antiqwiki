@@ -1,0 +1,6 @@
+location: Italy
+next: 18932
+previous: 18595
+storyCount: 2
+summary: The footnotes provide detailed references and insights into the cultural and literary connections between various European and mythological narratives. They explore linguistic etymologies of terms like 'Ogre' and analyze Italian romantic poetry and its overlooked beauty and thematic consistency.
+title: European Mythological Footnotes

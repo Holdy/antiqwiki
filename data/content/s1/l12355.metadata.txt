@@ -1,0 +1,6 @@
+location: Tavistock
+next: 12425
+previous: 12203
+storyCount: 1
+summary: Dame, a midwife from Tavistock, is summoned by a squint-eyed fellow to assist with a birth, only to find herself in a bizarre fairyland scene after applying a mysterious ointment to her eye. Later, when she identifies the same man pilfering at the market, he blinds her said eye for using the ointment that revealed his world, rendering her partially sighted for the rest of her life.
+title: The Pixy-Labour

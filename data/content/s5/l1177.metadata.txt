@@ -1,0 +1,6 @@
+location: null
+next: 1225
+previous: 1071
+storyCount: 1
+summary: An old witch attempts to poison a visiting hunter with a deadly soup made from wolf and man's brains out of envy. However, the hunter cleverly tricks her into eating the soup herself, leading to her death.
+title: The Guest

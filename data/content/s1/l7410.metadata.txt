@@ -1,0 +1,6 @@
+location: Unst
+next: 7481
+previous: 7351
+storyCount: 1
+summary: A man from Unst finds a seal-skin left by sea-people and uses it to compel a mermaid to marry him, but despite the marriage and their children, she remains melancholic and secretly yearns for the sea. Years later, their child discovers the hidden seal-skin, allowing her to return to the ocean, where she reunites with a large seal, her first husband, leaving her human family behind.
+title: The Mermaid Wife

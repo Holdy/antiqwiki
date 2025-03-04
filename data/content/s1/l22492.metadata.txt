@@ -1,0 +1,6 @@
+location: Lake Leman
+next: 22545
+previous: 22223
+storyCount: 1
+summary: While rowing on Lake Leman, a sage falls into a dream where he is visited by a spirit offering him solace and urging him to seek peace in nature. Awakening from the dream, the sage feels enlightened to find comfort in the beauty around him if ever troubled by the world again.
+title: Rousseau's Dream

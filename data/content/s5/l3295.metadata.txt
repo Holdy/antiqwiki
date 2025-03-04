@@ -1,0 +1,6 @@
+location: null
+next: 0
+previous: 3103
+storyCount: 1
+summary: Through relentless ambition, a mere grass plant transforms into a man. This symbolic story highlights themes of aspiration and transformation.
+title: A Treasury of Eskimo Tales

@@ -1,0 +1,6 @@
+location: null
+next: 301
+previous: 92
+storyCount: 0
+summary: The text appears to be a table of contents with various titles listed. There are no discernible stories provided in the text content itself.
+title: Assorted Mythical Stories

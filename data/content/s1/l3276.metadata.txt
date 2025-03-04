@@ -1,0 +1,6 @@
+location: null
+next: 3322
+previous: 3189
+storyCount: 1
+summary: The Duergar, small mythical beings from Gotho-German mythology, are known for their exceptional skills in metallurgy and are believed to be personifications of the earth's subterranean powers. According to the Edda, the Duergar originated as maggots in the flesh of Ymir, later gaining human knowledge and form, yet they remain within the earth, crafting unmatched weapons and treasures for gods and heroes.
+title: The Duergar

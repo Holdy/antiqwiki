@@ -1,0 +1,6 @@
+location: Yukon
+next: 2949
+previous: 2769
+storyCount: 1
+summary: A childless couple creates a doll from a tree trunk in the Yukon village, bringing unexpected animation to it at night. The doll embarks on a celestial journey to regulate the six winds of the earth, bringing varied climates to humanity.
+title: Origin of the Winds

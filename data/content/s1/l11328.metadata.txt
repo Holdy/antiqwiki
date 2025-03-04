@@ -1,0 +1,6 @@
+location: valley
+next: 11373
+previous: 11300
+storyCount: 1
+summary: In a valley where dwarfs secretly helped people by doing their work at night, a shepherd's curiosity about their well-hidden feet led him to scatter ashes and discover marks shaped like goose-feet, revealing the dwarfs' secret. Angered by the shepherd's betrayal, the dwarfs disappeared into the mountains, leaving humanity without their aid, and the shepherd fell ill for the rest of his life.
+title: Curiosity Punished

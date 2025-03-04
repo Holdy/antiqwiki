@@ -1,0 +1,6 @@
+location: null
+next: 181
+previous: 92
+storyCount: 1
+summary: Lady Chatterton receives correspondence that hints at upcoming social events and personal engagements. The anticipation of visiting socialite circles highlights the nuances of aristocratic life in her community.
+title: To The Dowager Lady Chatterton

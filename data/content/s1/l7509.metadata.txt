@@ -1,0 +1,6 @@
+location: Orkneys
+next: 7596
+previous: 7486
+storyCount: 1
+summary: Orkney's folklore tells of fairies, particularly Brownies, who were believed to assist families with household chores in exchange for offerings, though discontinuation of sacrifices reportedly led to trouble in domestic tasks until the practice resumed or was firmly abandoned.  Luridan, an astral genius once residing in Orkney, was said to have moved from his historical residences in Jerusalem and Wales, ultimately predicting his place would be succeeded by Balkin, a satyr-like figure leading Northern Fairies against fiery mountain spirits.
+title: Orkneys

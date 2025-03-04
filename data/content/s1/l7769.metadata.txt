@@ -1,0 +1,6 @@
+location: Rambin
+next: 8346
+previous: 7752
+storyCount: 1
+summary: John Dietrich, a boy fascinated by tales of the underground people, gains control over them by capturing a magical cap, leading him to their hidden world. After years underground, he orchestrates an escape with Elizabeth, his love from the same village, using a toad to overpower the little people, and returns home to a prosperous and charitable life.
+title: Adventures of John Dietrich

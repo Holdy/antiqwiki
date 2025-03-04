@@ -1,0 +1,6 @@
+location: Northern Islands
+next: 6928
+previous: 6827
+storyCount: 1
+summary: During the ninth century, nobles from Norway and Denmark settled in the northern islands, such as Iceland and the Feroes, seeking independence from monarchs Harald Fairhair and Gorm the Old. These settlers brought their pagan beliefs with them, which persisted even after the introduction of Christianity.
+title: Northern Islands

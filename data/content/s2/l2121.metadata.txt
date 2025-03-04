@@ -1,0 +1,6 @@
+location: Ballinacarthy
+next: 2401
+previous: 2106
+storyCount: 1
+summary: Justin Mac Carthy of Ballinacarthy known for his hospitality and grand wine cellar, struggles to keep a butler due to strange occurrences in the cellar. Young Jack Leary bravely attempts the job and discovers a little mischievous Cluricaune causing the disturbances, leading to Mr. Mac Carthy's realization that moving house won't rid him of the supernatural guest.
+title: The Haunted Cellar

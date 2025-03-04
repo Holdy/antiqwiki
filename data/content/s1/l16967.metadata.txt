@@ -1,0 +1,6 @@
+location: Carmarthen
+next: 17041
+previous: 16960
+storyCount: 1
+summary: A young farmer in Carmarthen becomes obsessed with The Spirit of the Van, a mystical being appearing on New Year’s Eve, eventually winning her over with gifts and marrying her with a warning never to strike her thrice.  After three incidents leading to minor altercations, he forgets her warning, and when he strikes her a third time, she leaves him forever, disappearing along with all her dowry into the Van Pools.
+title: The Spirit of the Van

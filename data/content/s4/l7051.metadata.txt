@@ -1,0 +1,6 @@
+location: Corfe Castle
+next: 7109
+previous: 6378
+storyCount: 1
+summary: Mistress Hawtrey taught her daughters to cook from an early age, insisting they make mince-pies each Christmas for every year of her marriage; upon her 60th anniversary, her daughters presented a large, elaborate pie instead of individual ones. The unexpected change shocked Mistress Hawtrey, causing her distress and ultimately leading to her untimely death before the pie had cooled.
+title: The Christmas Pie Tragedy at Corfe Castle

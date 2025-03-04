@@ -1,0 +1,6 @@
+location: null
+next: 7623
+previous: 7545
+storyCount: 1
+summary: Conall Yellowclaw is a Celtic tale that uses a framework storytelling method, similar to the Arabian Nights, where three stories told by Conall are enclosed within a primary narrative. While the tale draws influences from the ancient story of Polyphemus and possibly other foreign sources, it remains a quintessential part of Gaelic folklore, highlighted by its connection to both Scottish and Irish variants.
+title: Conall Yellowclaw

@@ -1,0 +1,6 @@
+location: Tir Conal
+next: 5534
+previous: 4798
+storyCount: 1
+summary: Trembling was kept at home while her sisters went to church in fine dresses, fearing she would marry first due to her beauty, but an old henwife secretly provided her magical attire and transport to attend church where she captivated everyone, including the prince of Emania. Through a series of events involving a missing shoe and a contest among suitors, Trembling became recognized as the prince’s chosen bride, narrowly escaping her sister's treachery, and eventually living happily with her family and cherished cowboy rescuer.
+title: Fair, Brown, and Trembling

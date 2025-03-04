@@ -1,0 +1,6 @@
+location: null
+next: 6467
+previous: 6403
+storyCount: 1
+summary: In a farmhouse, a mischievous Nis constantly tormented the maids, who tried various ways to retaliate; one night, the Nis rode a Juttish ox, leading to an embarrassing and terrifying incident for him. Although the maids laughed heartily at his misfortune, the Nis got his revenge by smutting their faces when they went to a dance, causing everyone to laugh at them.
+title: The Nis Riding

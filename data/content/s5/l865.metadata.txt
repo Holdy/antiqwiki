@@ -1,0 +1,6 @@
+location: an Eskimo village
+next: 913
+previous: 728
+storyCount: 1
+summary: A curious woman in an Eskimo village attempts to see the spirit rumored to reside in the singing house despite warnings of danger. Upon touching the spirit's boneless, hairless head, the woman suddenly falls dead.
+title: The Spirit of the Singing House

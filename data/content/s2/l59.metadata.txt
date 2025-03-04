@@ -1,0 +1,6 @@
+location: Ireland
+next: 92
+previous: 33
+storyCount: 1
+summary: The preface of the 'Fairy Legends' explains the need for the revised and condensed edition, which compresses the original three volumes into one with selected tales. Forty tales are included instead of the original fifty, removing superfluous annotations and repetitions, to enhance the focus on Irish superstitions without sacrificing essential content.
+title: Fairy Legends: A Condensed Edition

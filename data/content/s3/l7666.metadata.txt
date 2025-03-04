@@ -1,0 +1,6 @@
+location: Myddvai
+next: 7717
+previous: 7623
+storyCount: 1
+summary: The legend recounts the tale of a Swan-Maiden whose marriage to a mortal leads to the rise of the historic Physicians of Myddvai, renowned for their exceptional medical skills and knowledge of herbs, attributed to their supernatural ancestress. This folklore ties the mystical origins of their healing abilities to a local divinity and reflects a widespread Old World narrative theme about such enchantresses, paralleling similar stories found globally, yet localized in Wales.
+title: Shepherd of Myddvai

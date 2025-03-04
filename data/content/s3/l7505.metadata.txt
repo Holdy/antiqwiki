@@ -1,0 +1,6 @@
+location: null
+next: 7529
+previous: 7412
+storyCount: 1
+summary: Guleesh, a character immersed in Irish folklore, experiences a mystical journey entwined with themes of stolen brides and encounters with the supernatural. Known for his distinctive untended feet, the tale weaves a narrative paralleling other Irish legends, reflecting the rich landscape and mystical elements inherent in traditional Irish storytelling.
+title: Guleesh

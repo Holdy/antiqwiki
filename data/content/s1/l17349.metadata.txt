@@ -1,0 +1,6 @@
+location: Brittany
+next: 17430
+previous: 17288
+storyCount: 1
+summary: In Brittany, a region rich in Celtic history and closely connected with Wales and Cornwall, the traditions and poetry of the Celto-Cymric race are vividly expressed through the Breton Lais, which often incorporate fairy-like characters and mystical elements. These Lais, many of which were translated into French by Marie de France, explore themes of supernaturalism and romance, drawing connections between human and magical worlds, as demonstrated in stories like those of Gugemer and Lanval, where communication and travel between realms reflect the cultural lore of the time.
+title: Brittany

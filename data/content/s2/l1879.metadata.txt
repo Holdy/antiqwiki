@@ -1,0 +1,6 @@
+location: Ballybegmullinahone
+next: 2106
+previous: 1373
+storyCount: 1
+summary: John Mulligan, a devout believer in fairies, excitedly shares his sighting of them near an oak tree, only to be later embarrassed when his fairy spectacle is revealed to be merely a gathering of mushrooms. Despite his encounter being debunked, the incident earns him the nickname 'musharoon Jack' among the locals, reflecting both the humor and disbelief surrounding his fairy tale.
+title: FAIRIES OR NO FAIRIES

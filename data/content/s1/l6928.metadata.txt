@@ -1,0 +1,6 @@
+location: Iceland
+next: 7097
+previous: 6887
+storyCount: 1
+summary: The text explores the rich folklore and beliefs about semigods and mythical creatures in Iceland, an area overshadowed by more visible attractions like geysers and volcanoes in travel literature. It shares intriguing tales of elves, dwarfs, and water-spirits, including their societal structures, interactions with humans, and the perceived mystical attributes they possess.
+title: ICELAND

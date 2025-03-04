@@ -1,0 +1,6 @@
+location: the wilderness
+next: 21059
+previous: 20642
+storyCount: 1
+summary: A miserly Moohel is taken on a mysterious journey to circumcise a child in an underground city of the Mazikeen, where he learns the importance of generosity through a magical experience. Upon returning home, the Moohel becomes generous, sharing his wealth with the poor, and leads a long and happy life, inspiring others to follow his example.
+title: The Moohel

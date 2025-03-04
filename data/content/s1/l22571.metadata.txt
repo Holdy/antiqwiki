@@ -1,0 +1,6 @@
+location: Sion
+next: 22633
+previous: 22545
+storyCount: 1
+summary: A pastoral scene unfolds as a congregation gathers at a temple, responding to the call of the holy bell for a worship service in the serene early light. The worshippers, filled with devotion, listen attentively to the teachings about divine mercy and eternal life, culminating in hymns of praise and thanksgiving.
+title: The Gathering at the Temple

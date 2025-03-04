@@ -1,0 +1,6 @@
+location: Glenbroun
+next: 16378
+previous: 16301
+storyCount: 1
+summary: John Roy of Glenbroun rescues an English lady from fairies by exchanging his bonnet, and she lives with him for many years. Years later, during the construction of roads by soldiers, an officer and his son stay with John and recognize the lady as their long-lost wife and mother, leading to a joyful reunion.
+title: The Stolen Lady

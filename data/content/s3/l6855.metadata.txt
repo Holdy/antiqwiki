@@ -1,0 +1,6 @@
+location: Dublin
+next: 7165
+previous: 6797
+storyCount: 1
+summary: Tom, a poor young man from Enniscorth, receives magical gifts after defeating giants while gathering firewood, and later wins the princess of Dublin's hand in marriage by making her laugh through a series of adventures involving his flute, a wolf, and a devilish flail. His bravery and wits allow him to transform from a widow's son wearing only a goat-skin to a respected hero in the city, ensuring a prosperous life for his mother and himself.
+title: The Lad with the Goat-skin

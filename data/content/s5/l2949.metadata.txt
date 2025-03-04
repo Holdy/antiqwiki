@@ -1,0 +1,6 @@
+location: null
+next: 3023
+previous: 2825
+storyCount: 1
+summary: Raven, tired of living alone, disguises himself to win the affection of a young goose and transforms into a handsome young man to marry her, joining her goose family on their migratory journey south. Despite the admiration of his graceful flight from the geese, Raven struggles with the long flights, causing the relationships with his new wife and in-laws to strain as envy builds among the brothers.
+title: Raven and the Geese

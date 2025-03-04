@@ -1,0 +1,6 @@
+location: Smerwick Harbour
+next: 4887
+previous: 4623
+storyCount: 1
+summary: Dick Fitzgerald, a lonely man longing for companionship, encounters a beautiful mermaid on the shores of Smerwick Harbour and seizes her enchanted cap, preventing her from returning to the sea. After convincing a priest to marry them, they live happily and have children, but their happiness ends when she discovers her cap and returns to the sea, leaving Dick to wait forever for her return.
+title: The Lady of Gollerus

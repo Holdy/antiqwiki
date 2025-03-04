@@ -1,0 +1,6 @@
+location: Carnac
+next: 18203
+previous: 18073
+storyCount: 2
+summary: In Carnac, near Quiberon, stands the Temple of Carnac, a mysterious Celtic monument composed of thousands of stones believed by locals to be the work of supernatural dwarves, who are said to dance around the stones at night and ensnare unsuspecting travelers. Various folklore in Brittany speaks of numerous mythical beings, including the malignant Courils who compel unlucky individuals to dance until dawn, and the Night-washers who punish those who refuse to help them wash the linen of the dead.
+title: Breton Supernatural Folklore

@@ -1,0 +1,6 @@
+location: Jamaica
+next: 6509
+previous: 5992
+storyCount: 1
+summary: Patrick Burke and his family, gathered in their cozy cabin on a stormy night, are startled by a visitor who turns out to be the young squire seeking shelter from the storm. Patrick recounts a tale of Judy's grandfather, Diarmid Bawn, who was transformed into a horse by a mischievous leprechaun called Fir darrig during a moonlit encounter with the fairy folk.
+title: The Fir Darrig
