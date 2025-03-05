@@ -94,14 +94,16 @@ const searchWord = async (rawWord) => {
             resultChild.innerHTML = "Loading...";
             document.getElementById("main-body").appendChild(resultChild);
 
-            fetch(`/data/content/s${source}/l${article}.metadata.txt`).then(
+            const articleFragment = `s${source}/l${article}`;
+
+            fetch(`/data/content/${articleFragment}.metadata.txt`).then(
                 async (itemResult) => {
                     if (itemResult.ok) {
                         const text = await itemResult.text();
                         const itemData = parseDataObject(text, {});
                         document.getElementById(
                             "result-" + articleRef
-                        ).innerHTML = itemData.title;
+                        ).innerHTML = `<a href='./?${articleFragment}'>${itemData.title}</a>`;
                         //                        console.log("ItemData:" + JSON.stringify(itemData));
                     }
                 }

@@ -3,23 +3,33 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script src="./index.js" ></script>
         <style>
-            body {
+            html,body {
+                height: 100%;
+                background-color: #FCF5E5;
                 margin:0
             }
             #main-body {
                 font-family: "Courier New", monospace;
-                padding: 0.5em
+                padding: 0.5em;
+                flex:1;
+                overflow: auto;
             }
             #main-row {
                 display:flex;
                 flex-direction: row;
+                flex: 1;
             }
             #main-column {
+                max-width: 100vw; 
+                max-height: 100vh; 
                 display: flex;
                 flex-direction: column;
+                height:100vh;
             }
             #main-content {
-                flex:2;
+                display:flex;
+                flex-direction: column;
+                flex:1;
             }
             #main-header {
                 display:flex;
@@ -49,13 +59,13 @@
             </div>
             
             <div id="main-column">
-            <div id="main-top"></div>
+                <div id="main-top"></div>
 
-            <div id="main-row">
+                <div id="main-row">
 
-            <div id="main-left"></div>
+                    <div id="main-left"></div>
 
-            <div id="main-content">
+                    <div id="main-content">
                 <div id="main-header">
                     <div id="main-header-content"></div>
                     <div id="main-header-end" onclick="go('previous')">(previous)</div>
@@ -70,12 +80,12 @@
                     <div id="main-footer-content"></div>
                     <div id="main-footer-end" onclick="go('next')">(next)</div>
                 </div>
-            </div>
+                    </div>
 
-            <div id="main-right"></div>
-            </div>
+                    <div id="main-right"></div>
+                </div>
 
-            <div id="main-bottom"></div>
+                <div id="main-bottom"></div>
 
         </div>
     </body>
