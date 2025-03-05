@@ -37,6 +37,19 @@ const prepareText = (text) => {
             // looks line the whole line is a title
             line = `<em>${line.replace(/_/g, " ")}</em>`;
         }
+
+        while (true) {
+            const match = line.match(/_[\p{L} \.]+_/u);
+            if (match) {
+                line = line.replace(
+                    match[0],
+                    "<em>" + match[0].replace(/_/g, "") + "</em>"
+                );
+            } else {
+                break;
+            }
+        }
+
         preppedLines.push(line);
     }
 
