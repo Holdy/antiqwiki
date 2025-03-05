@@ -1,0 +1,6 @@
+location: Gubbio
+next: 4289
+previous: 4196
+storyCount: 1
+summary: Saint Francis, known for his compassion towards all living creatures, tenderly released a frightened baby hare back into the woods, demonstrating his gentle nature. The hare, which sought safety with Saint Francis, was comforted by him before being reunited with its natural habitat.
+title: Francis and the Little Brother Leveret

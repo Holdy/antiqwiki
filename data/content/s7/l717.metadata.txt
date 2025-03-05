@@ -1,0 +1,6 @@
+location: Gower peninsula
+next: 921
+previous: 377
+storyCount: 1
+summary: A young Welsh prince named Keneth, abandoned at sea by his unloving mother, is rescued and cared for by a flock of sea-gulls and a kind forest doe who provide him with a safe nest and nourishment on rocky cliffs. Years later, Keneth becomes a revered saint in the Gower peninsula, respected for his bond with the wild creatures that raised him, and is healed and loved by both nature and the human community he eventually joins.
+title: Saint Keneth of the Gulls

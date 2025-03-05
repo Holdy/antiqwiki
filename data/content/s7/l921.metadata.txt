@@ -1,0 +1,6 @@
+location: Chartres, France
+next: 1411
+previous: 717
+storyCount: 2
+summary: Saint Launomar had a beloved cow, Mignon, which was stolen by a band of robbers but led them around in circles all night and returned safely to the monastery, where Launomar forgave the thieves. Saint Werburgh punished a flock of geese for stealing, only to discover the Steward had eaten her favorite goose, Grayking, whom she miraculously resurrected.
+title: Saint Launomar's Cow and Saint Werburgh's Goose

@@ -1,0 +1,6 @@
+location: River Jordan
+next: 717
+previous: 189
+storyCount: 1
+summary: Saint Gerasimus encounters a limping lion by the River Jordan, removes a thorn from its paw, and the lion follows him back to the monastery where it becomes a beloved member, learning to eat porridge and greens like the monks. Later, when falsely accused of eating a donkey, the lion redeems itself by finding and helping reclaim the stolen donkey, thus rekindling its bond with Gerasimus, and they live happily until their peaceful passing, buried side by side in the monastery garden.
+title: Saint Gerasimus and the Lion

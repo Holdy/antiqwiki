@@ -1,0 +1,6 @@
+location: Rome
+next: 3387
+previous: 3042
+storyCount: 1
+summary: Saint Prisca, a courageous young Christian martyr in ancient Rome, defied Emperor Claudius by refusing to renounce her faith and offer sacrifice to the Roman gods, showcasing her bravery in the face of immense pressure and harsh treatment. Ultimately, her steadfastness led to her execution outside the Ostian gate, but not before a wondrous lion and eagle symbolically protected her, signifying her unwavering spirit and the divine protection she inspired.
+title: SAINT PRISCA, THE CHILD MARTYR

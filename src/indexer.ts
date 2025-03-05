@@ -225,6 +225,7 @@ async function go() {
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s4");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s5");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s6");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s7");
 }
 
 go();

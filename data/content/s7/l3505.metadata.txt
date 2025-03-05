@@ -1,0 +1,6 @@
+location: the forest
+next: 3686
+previous: 3387
+storyCount: 1
+summary: In the forest, the hermit Saint Giles befriended a gentle deer and sacrificed himself to protect her from hunters, which led the pagan King to convert to Christianity after tending to the wounded saint. The King's conversion ensured the safety of Saint Giles and his deer, allowing them to live peacefully under the monarch's protection.
+title: The Ballad of Saint Giles and the Deer

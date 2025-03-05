@@ -1,0 +1,6 @@
+location: Monte Alverno
+next: 4345
+previous: 4264
+storyCount: 1
+summary: Saint Francis of Assisi received a mountain top retreat as a gift from a nobleman, where he went with his brethren to find rest and solace among nature. Upon arriving, the birds of the mountain joyfully welcomed him, underscoring the saint's deep connection with all living creatures and his enduring influence on the world.
+title: Saint Francis' Retreat on Monte Alverno

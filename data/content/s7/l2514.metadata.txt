@@ -1,0 +1,6 @@
+location: Brittany
+next: 2895
+previous: 2296
+storyCount: 1
+summary: Hyvarnion, a minstrel in King Childebert's palace, dreams of a maiden, Rivanone, whom he eventually finds and marries, but their joy is marred by their son Hervé being born blind, soon followed by Hyvarnion's death. Despite hardships, Hervé becomes a famed minstrel guided by his loyal animals, eventually creating a sanctuary of music and love, symbolizing the kingdom of song inherited from his parents.
+title: The Blind Singer, Saint Hervé

@@ -1,0 +1,6 @@
+location: Lough Cara
+next: 1800
+previous: 921
+storyCount: 2
+summary: Saint Athracta, the daughter of a prince, chose a life of service in a hut by Lough Cara, where she and her maid helped travelers with their horses until the burden of serving a king became too heavy. Showing compassion and creativity, Athracta called upon wild stags to replace their worn-out horses, proving her power and grace, which earned her the autonomy to reign over her peaceful realm without feudal obligations. Saint Kentigern, a gifted student, faced jealousy and trickery from his peers, who plotted to tarnish his reputation by extinguishing a fire under his watch and killing Saint Servan’s pet robin. With divine help, Kentigern miraculously reignites the fire and resurrects the robin, proving his innocence and enhancing his esteemed position within the school.
+title: The Ballad of Saint Athracta's Stags & Saint Kentigern and the Robin

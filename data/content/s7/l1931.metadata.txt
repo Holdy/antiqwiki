@@ -1,0 +1,6 @@
+location: Farne
+next: 2145
+previous: 1800
+storyCount: 1
+summary: Saint Cuthbert, once a Scotch shepherd boy along the river Tweed, grew up to become a revered monk known for his love of nature and charity towards people and animals alike. After becoming the head of Melrose Abbey, he chose a hermit's life on the island of Farne, where he lived with and protected birds, ensuring their safety through a legacy known as Saint Cuthbert's Peace.
+title: SAINT CUTHBERT'S PEACE

@@ -1,0 +1,6 @@
+location: Gubbio
+next: 4264
+previous: 4172
+storyCount: 1
+summary: Saint Francis encountered a savage wolf terrorizing the town of Gubbio and used his gentle influence to make the wolf promise not to harm anyone in exchange for being fed by the townspeople. The wolf kept his promise, became a beloved member of the community, and lived peacefully until his death, highlighting the transformative power of Saint Francis's compassion.
+title: Saint Francis and the Wolf of Gubbio

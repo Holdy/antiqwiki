@@ -1,0 +1,6 @@
+location: Alvia
+next: 4196
+previous: 4068
+storyCount: 1
+summary: Saint Francis, while preaching in the town of Alvia, calmed the noisy swallows, allowing him to deliver his sermon in peace. On another occasion, he preached a special sermon to a congregation of birds, praising their creator and blessing them.
+title: Saint Francis and the Birds

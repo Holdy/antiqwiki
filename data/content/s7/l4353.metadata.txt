@@ -1,0 +1,6 @@
+location: null
+next: 4404
+previous: 4345
+storyCount: 0
+summary: The text is a list of saints and their feast days, organized by month throughout the year. It does not contain a narrative story, but rather serves as a religious calendar.
+title: A Calendar: Saints and Their Feast Days

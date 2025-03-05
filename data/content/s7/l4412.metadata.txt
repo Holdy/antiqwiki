@@ -1,0 +1,6 @@
+location: null
+next: 0
+previous: 4404
+storyCount: 0
+summary: The text provided does not contain a narrative but rather editorial notes regarding transcription adjustments and corrections to a document, such as punctuation repairs and insertion of a paragraph break. Main focus is on correcting a word split across pages and ensuring readability of the text.
+title: Transcriber's Notes

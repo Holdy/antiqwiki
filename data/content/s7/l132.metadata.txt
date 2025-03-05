@@ -1,0 +1,6 @@
+location: null
+next: 184
+previous: 110
+storyCount: 1
+summary: The text lists various stories of saints and their interactions with animals, such as 'Saint Bridget and the King's Wolf' and 'Saint Francis of Assisi.' Each story highlights the unique miracles and tales associated with different saints from various times and locations.
+title: Table of Contents for Stories of Saints and Animals

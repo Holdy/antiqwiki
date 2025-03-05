@@ -1,0 +1,6 @@
+location: Assisi
+next: 4172
+previous: 3851
+storyCount: 1
+summary: Saint Francis of Assisi, known for his profound love and compassion, wandered the world barefoot and bareheaded, offering smiles that opened the hearts of men and animals alike and preached lessons of charity and peace to all creatures. Despite his own poverty, Francis inspired many through his gentle ways and founded the Society of Little Brothers, drawing followers to aid his mission and teaching through sermons conducted under the open sky of Assisi.
+title: Saint Francis of Assisi

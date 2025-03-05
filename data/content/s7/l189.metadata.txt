@@ -1,0 +1,6 @@
+location: Kildare
+next: 377
+previous: 184
+storyCount: 1
+summary: Saint Bridget, the kind-hearted little girl saint of Ireland, intervened to save a countryman who accidentally killed the King's tame wolf, by presenting the King with a newly tamed wild white wolf as a replacement. Through her clever and compassionate negotiation, Bridget secured the man's release, earning the King's favor and ensuring the new wolf lived happily in the palace park, visited often by Bridget.
+title: Saint Bridget and the King's Wolf

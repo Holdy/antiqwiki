@@ -1,0 +1,6 @@
+location: null
+next: 4353
+previous: 4289
+storyCount: 0
+summary: There is no story present in the text.
+title: The Book of Saints & Friendly Beasts

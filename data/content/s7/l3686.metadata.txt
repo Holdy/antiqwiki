@@ -1,0 +1,6 @@
+location: Emly
+next: 3851
+previous: 3505
+storyCount: 1
+summary: A cruel couple abandoned their baby, Ailbe, in the mountains, where he was adopted by a mother wolf, growing up with her cubs until a hunter took him to be raised by a Prince and Princess. Years later, as Bishop of Emly, Ailbe saved his wolf-mother from hunters and ensured her safety, allowing her and her cubs to dine with him daily in gratitude for her care during his infancy.
+title: THE WOLF-MOTHER OF SAINT AILBE

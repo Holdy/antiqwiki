@@ -1,0 +1,6 @@
+location: Glendalough
+next: 3209
+previous: 2895
+storyCount: 1
+summary: As a young monk in Glendalough, Saint Berach showcased his benevolent powers by mediating between a cow and a wolf that had killed its calf, turning the predator into a protective companion for the cow. Years later, during a trip to the King's court while seeking protection for his monastery, Berach demonstrated his divine abilities by freezing a group of rude boys in place and igniting a fire from snow, thus gaining the King’s favor and protection.
+title: The Wonders of Saint Berach

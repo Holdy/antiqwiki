@@ -1,0 +1,6 @@
+location: null
+next: 110
+previous: 1
+storyCount: 1
+summary: In 'The Book of Saints and Friendly Beasts', stories are depicted where saints interact harmoniously with animals, showing their kindness and spiritual connection. The narrative emphasizes how living a life following God's teachings leads to peaceful coexistence with nature, where even the wild beasts become friendly.
+title: The Book of Saints and Friendly Beasts

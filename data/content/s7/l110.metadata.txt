@@ -1,0 +1,6 @@
+location: Crowland
+next: 132
+previous: 80
+storyCount: 1
+summary: The story reflects on old legends where saints, like St. Guthlac of Crowland, befriended animals, embodying a universal truth recognized even today. These tales, similar to those of St. Francis and St. Cuthbert, sometimes require imaginative embellishment to revive them for modern audiences.
+title: SAINT GUTHLAC OF CROWLAND

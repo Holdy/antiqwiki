@@ -1,0 +1,6 @@
+location: Egypt
+next: 2514
+previous: 2145
+storyCount: 1
+summary: Saint Fronto led seventy monks into the Egyptian desert to serve God in solitude but they faced severe starvation, testing their faith. Just as hope diminished, a caravan of camels loaded with provisions, sent by a rich merchant named Glaucus, arrived miraculously without a guide, restoring the monks' faith and forming an annual tradition of aid.
+title: Saint Fronto's Camels

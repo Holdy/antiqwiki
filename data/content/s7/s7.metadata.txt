@@ -1,0 +1,5 @@
+instanceOf: book
+title:The Book of Saints and Friendly Beasts
+author:Abbie Farwell Brown
+published: 1900
+source:https://www.gutenberg.org/ebooks/28990

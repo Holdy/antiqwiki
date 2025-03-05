@@ -1,0 +1,6 @@
+location: Nola, Campania
+next: 2296
+previous: 1931
+storyCount: 1
+summary: During a time of religious persecution in Nola, Italy, Saint Felix evades capture by disguising himself as a pilgrim and outwitting soldiers with the help of a spider's web concealing his hiding place. He survives many months hidden in a well, secretly aided by a Christian woman, until peace returns and he can safely reunite with his people.
+title: The Ballad of Saint Felix

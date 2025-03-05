@@ -1,0 +1,6 @@
+location: Welsh coast
+next: 3505
+previous: 3209
+storyCount: 1
+summary: Saint Gudwall and his pupil sought refuge in a cave on a small island off the coast of Wales, only to be threatened by a violent winter sea storm that nearly swept them away. In response to Gudwall’s prayers, a shoal of fish built a protective sandbar, allowing them to continue living safely on the island even during the fierce winter months.
+title: The Fish Who Helped Saint Gudwall

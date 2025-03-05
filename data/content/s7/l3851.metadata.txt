@@ -1,0 +1,6 @@
+location: Rheims
+next: 4068
+previous: 3686
+storyCount: 1
+summary: Saint Rigobert and his serving lad, Pierre, travel to Rheims while hungry, unable to afford food due to the Bishop's poverty, expecting to return home dinnerless until a goose given to them for a meal flies away but unexpectedly returns, earning the Bishop's mercy and friendship. The unexpected return and reprieve of the goose also inspires the local villagers to generously provide a meal for Saint Rigobert and Pierre, and ensure their ongoing care, highlighting the rewards of compassion and kindness.
+title: SAINT RIGOBERT'S DINNER

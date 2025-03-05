@@ -1,0 +1,6 @@
+location: null
+next: 80
+previous: 0
+storyCount: 0
+summary: This ebook, titled 'The Book of Saints and Friendly Beasts' by Abbie Farwell Brown, is freely accessible to most parts of the world and can be copied or distributed under the Project Gutenberg License. The ebook includes illustrations by Fanny Y. Cory and is available through the Project Gutenberg website.
+title: The Book of Saints and Friendly Beasts

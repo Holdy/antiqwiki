@@ -1,0 +1,6 @@
+location: Bangor
+next: 3042
+previous: 2514
+storyCount: 1
+summary: Saint Comgall, known for his bond with animals, successfully called swans to him at Bangor, despite his students' failed attempts. He later punished the selfish Prince Croadh by sending mice to consume his hoarded grain during a famine, effectively feeding the people Comgall cared for.
+title: Saint Comgall and the Mice

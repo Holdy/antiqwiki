@@ -1,0 +1,6 @@
+location: null
+next: 189
+previous: 132
+storyCount: 1
+summary: The story describes various interactions between saints and animals, highlighting the unique bond and understanding they share. These tales often depict animals aiding the saints or being transformed by their presence and kindness.
+title: THE BOOK OF SAINTS AND FRIENDLY BEASTS

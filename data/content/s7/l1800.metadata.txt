@@ -1,0 +1,6 @@
+location: Sebaste
+next: 1931
+previous: 1411
+storyCount: 1
+summary: Saint Blaise, a compassionate Christian in the Armenian town of Sebaste, was loved by both people and animals for his healing abilities. Despite his kind nature, he was martyred during Emperor Licinius's reign, with animals mourning his loss. Blaise's special bond with animals saved him from the arena as beasts refused to harm him, and his walk on water added to his legend before his eventual execution.
+title: Saint Blaise and His Beasts
