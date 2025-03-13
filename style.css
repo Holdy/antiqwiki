@@ -6,7 +6,7 @@ html,body {
 
 #main-body {
     font-family: "Courier New", monospace;
-    padding: 0.5em;
+    padding: 3.5em;
     flex:1;
     overflow: auto;
 }
