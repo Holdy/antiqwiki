@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 7192
+previous: 7103
+storyCount: 1
+summary: In Wales, the Teulu, or Goblin Funeral, is considered a death-portent where shadowy processions resembling real funerals precede actual ones, often with individuals experiencing prophetic encounters with these ghostly apparitions. Various accounts, including those by Rees Thomas and Rev. Howel Prosser, describe personal interactions with these omens, such as unseen touches or vanishing processions, revealing the traditional belief in impending death foretold by these spectral marches.
+title: The Goblin Funeral of Wales

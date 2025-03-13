@@ -1,0 +1,6 @@
+location: Montgomeryshire
+next: 2300
+previous: 2193
+storyCount: 1
+summary: In a secluded area of Montgomeryshire, a woman left her twin children briefly, despite fearing goblins known to haunt the area. Upon discovering that her twins were actually changelings after overhearing their supernatural discussion, she returned them to the Llyn, restoring peace with her husband when their real children were returned by the goblins.
+title: The Changeling Twins of Trefeglwys

@@ -1,0 +1,6 @@
+location: Tintern Abbey
+next: 12391
+previous: 12211
+storyCount: 2
+summary: The text provides a detailed list of folkloric concepts and phenomena, primarily focusing on legends, ghosts, fairies, and the devil from Welsh tradition. Various items are categorized under each main title, offering insights into their cultural significance and historical interpretations within the context of Welsh mythology.
+title: Welsh Folklore and Legends

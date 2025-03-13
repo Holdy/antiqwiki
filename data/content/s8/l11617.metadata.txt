@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 11651
+previous: 11590
+storyCount: 1
+summary: The cromlechs of Wales, ancient stone structures, are shrouded in folklore, with tales suggesting that fairies gather around these sites, playing music and dancing under the moonlight. In Glamorganshire near St. Nicholas, a notable cromlech named 'Castle Correg' carries the legacy of such fairy beliefs, akin to those found in Brittany and other parts of France.
+title: The Fairy Frolic at the Cromlech

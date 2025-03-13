@@ -1,0 +1,6 @@
+location: Pontypool
+next: 2017
+previous: 1953
+storyCount: 1
+summary: Juan 'Shuï' White is a figure from childhood stories in Monmouthshire, believed to have lived in a now-ruined cottage on Lasgarn hill near Pontypool. According to local lore, she was said to appear at midnight carrying her head under her arm.
+title: The Legend of Juan 'Shuï' White

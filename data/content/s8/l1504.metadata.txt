@@ -1,0 +1,6 @@
+location: Wales
+next: 1517
+previous: 1495
+storyCount: 10
+summary: The text elaborates on various legends and tales focused on lake fairies and supernatural beings, specifically highlighting Welsh folklore like that of the Gwragedd Annwn, the Elfin Cow of Llyn Barfog, and the Meddygon Myddfai. These stories explore themes of enchanted islands, mythical races, and legendary events tied to Wales, with particular emphasis on the region's rich fairy lore and cultural narratives.
+title: Welsh Folklore: Tales of Lake Fairies and Legends

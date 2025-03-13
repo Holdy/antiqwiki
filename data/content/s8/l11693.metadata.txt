@@ -1,0 +1,6 @@
+location: Llanboidy
+next: 11711
+previous: 11661
+storyCount: 1
+summary: An old man named John Jones related a superstitious tale about the supernatural events that occurred when ten men attempted to move a cromlech stone in Parc-y-Bigwrn, near Llanboidy, Carmarthenshire. The story describes how the road was supernaturally torn apart, and how such attempts are often accompanied by goblin displeasure manifesting as broken wagons or fierce storms.
+title: The Supernatural Safeguards of the Cromlech at Llanboidy

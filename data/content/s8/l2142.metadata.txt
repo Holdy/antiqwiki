@@ -1,0 +1,6 @@
+location: Monmouthshire
+next: 2193
+previous: 2132
+storyCount: 1
+summary: The Tylwyth Teg, a mythical Welsh fairy race, are notorious for swapping human infants with their own changelings, known as "plentyn-newid," who are initially indistinguishable but soon reveal a terrifying and often diabolical nature. These changelings are subjected to cruel tests and treatments in various European cultures, such as exposure to fire or water, in attempts to reveal their true nature or force the fairies to return the human child, reflecting a widespread historical belief that borders on infanticide.
+title: The Tylwyth Teg and Their Changeling Plentyn-Newid

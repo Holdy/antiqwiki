@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 9623
+previous: 9391
+storyCount: 1
+summary: In the Welsh tradition of the Horse-Wedding, a lively custom observed in parts of Wales including Carmarthenshire and Glamorganshire, guests race on horseback to the church, with the first arrival gaining a special privilege at the marriage feast. Occasionally, this event leads to comical or dramatic incidents such as brides willingly being 'stolen' by true lovers amid playful contests and challenges on the route to the wedding ceremony.
+title: The Welsh Horse-Wedding Tradition

@@ -1,0 +1,6 @@
+location: Ireland
+next: 6993
+previous: 5855
+storyCount: 1
+summary: Bendigeid Vran, the king, faces challenges after his sister Branwen is mistreated by the Irish King Matholwch, leading to an eventual war between the Island of the Mighty and Ireland. Despite attempts at peace and extravagant compensations, the conflict results in significant losses for both sides, with only a few survivors from the Island of the Mighty and a new beginning in Ireland as five new chiefs arise.
+title: Branwen the Daughter of Llyr

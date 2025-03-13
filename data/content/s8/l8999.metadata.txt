@@ -1,0 +1,6 @@
+location: Wales
+next: 9030
+previous: 8976
+storyCount: 1
+summary: The Plygain is a traditional custom in Wales where people gather at church or at home early on Christmas morning for a candlelit service or celebration, often staying up all night to welcome the dawn. Another tradition involves Welsh colliers carrying 'the Star,' a board with candles, from house to house while singing carols, similar to a Belgian custom among children, to receive Christmas gifts.
+title: Traditional Welsh Customs on Christmas

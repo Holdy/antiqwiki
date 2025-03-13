@@ -1,0 +1,6 @@
+location: null
+next: 4078
+previous: 4021
+storyCount: 1
+summary: The story explores how belief in fairies and superstitions influenced virtues such as hospitality, generosity, and neatness, highlighting how fairies were thought to reward good behavior with money left on a well-kept hearth. The expectation of fairy rewards, despite being unreliable, encouraged perseverance in maintaining cleanliness and order, showing a cultural mechanism for promoting positive values.
+title: Superstitions and Virtues

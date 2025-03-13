@@ -1,0 +1,6 @@
+location: Llandaff
+next: 6574
+previous: 6540
+storyCount: 1
+summary: The text describes various Welsh death-portents, including supernatural entities like the Corpse-Bird, the Tan-Wedd, and the Cyhyraeth, believed to presage death through their ominous appearances and sounds. Locations like Llandaff and St. Mellons are noted as places associated with specific apparitions and their eerie manifestations.
+title: Cambrian Death-Portents

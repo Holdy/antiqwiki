@@ -1,0 +1,6 @@
+location: Turkistan
+next: 10013
+previous: 9902
+storyCount: 1
+summary: In the regions of Turkistan, an iskatchi is a character devoted to taking on the sins of the deceased and praying for their souls, similar to the Sin-eater of the Welsh border. Eugene Schuyler notes the presence of such a character, highlighting the cultural parallels in practices related to dealing with the sins of the dead.
+title: .

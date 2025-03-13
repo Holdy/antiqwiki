@@ -1,0 +1,6 @@
+location: Penllyn
+next: 9537
+previous: 8416
+storyCount: 1
+summary: In ancient Penllyn, a woman named Caridwen brewed a cauldron of Inspiration to grant her son Avagddu wisdom, but the boy Gwion Bach accidentally consumed the potion, gaining its powers, which led him on a transformative escape from Caridwen's wrath. Eventually, Gwion was reborn as the renowned bard Taliesin, discovered by the unfortunate Elphin, who Taliesin later saved from imprisonment by outwitting King Maelgwn's court and proving Elphin's earlier boastfulness about his wife and bard true.
+title: Taliesin and the Cauldron of Inspiration

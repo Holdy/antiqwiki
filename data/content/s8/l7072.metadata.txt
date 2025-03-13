@@ -1,0 +1,6 @@
+location: Llangurig
+next: 7103
+previous: 7038
+storyCount: 2
+summary: In the parish of Llangurig, Edward Lloyd heard a mysterious voice foretelling the breaking of a beam in his house, which coincided with his death. John of Mynyddyslwyn chose consumption from a voice in a cloud that offered him a choice of fatal illnesses, leading to his death a year later.
+title: The Voices That Foretell Death

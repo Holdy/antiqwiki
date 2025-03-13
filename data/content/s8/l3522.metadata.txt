@@ -1,0 +1,6 @@
+location: Vale of Neath
+next: 3550
+previous: 3515
+storyCount: 1
+summary: In Welsh fairy tales, fairies are often depicted riding little white horses, sometimes seen by villagers in areas like the Vale of Neath. There is a local tradition of a fairy battle between Merthyr and Aberdare, where armies on milk-white and jet-black horses clashed, with the white-mounted army emerging victorious.
+title: V.

@@ -1,0 +1,6 @@
+location: Pontypridd
+next: 11617
+previous: 11565
+storyCount: 1
+summary: In Wales, rocking stones, believed to be haunted by fairies and spirits, have fascinated many with their mysterious ability to be moved with minimal force from observers, drawing parallels to religious artifacts like the aerolite at Mecca. These stones are often tied to legends, such as the one involving an altar associated with St. Illtyd, and local folklore warns of supernatural retribution against those who attempt to damage or destroy them.
+title: The Enigmatic Rocking Stones of Wales

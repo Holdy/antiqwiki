@@ -1,0 +1,6 @@
+location: Wales
+next: 1257
+previous: 1212
+storyCount: 1
+summary: The Coblynau are fairy-like creatures in Welsh mines, known for their small size, ugly appearance, yet helpful nature, as they indicate rich veins of ore with peculiar knocking sounds. Miners believe these tiny fairies are good-natured and bring good fortune, mimicking their work without accomplishing anything tangible, and avoid provoking them to continue receiving their luck.
+title: Coblynau

@@ -1,0 +1,6 @@
+location: Ardudwy
+next: 1904
+previous: 1847
+storyCount: 1
+summary: In these Welsh legends, supernatural water-maidens, initially symbolizing clouds or mists, play central roles in narratives featuring themes of love, betrayal, and transformation into natural landmarks. Set in locations like Ardudwy and the Vale of Clwyd, tales such as the creation of Maidens' Lake and a misty river spirit underscore the connection between folklore and ancient mythology.
+title: The Legends of Water-Maidens in Welsh Mythology

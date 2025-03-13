@@ -1,0 +1,6 @@
+location: Monmouthshire
+next: 3496
+previous: 3421
+storyCount: 1
+summary: In Monmouthshire, tales of fairies dancing in reddish circles under female oak trees were commonly recounted, with sightings mostly occurring on Friday evenings by individuals like the schoolmaster, William Jenkins. The fairies, who favored dry places and were often seen in uneven numbers, were described as a noisy and disputatious group, leading to local proverbs about their frequent disagreements.
+title: The Fairy Circles of Monmouthshire

@@ -1,0 +1,6 @@
+location: null
+next: 6949
+previous: 6886
+storyCount: 1
+summary: The text elaborates on various mythical and supernatural occurrences in Welsh folklore, such as the Tolaeth death portent and spectral figures. It discusses specific legends, including Ewythr Jenkin's Tolaeth and the tale of Pwyll, highlighting eerie phenomena like the Goblin Funeral and the Wraith of Llanllwch.
+title: The Tolaeth and Other Welsh Supernatural Tales

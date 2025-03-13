@@ -1,0 +1,6 @@
+location: Wales
+next: 10322
+previous: 10249
+storyCount: 1
+summary: In Welsh tradition, graves have been historically adorned with flowers, illustrating the enduring connection between death and floral life. A custom where mourners throw rosemary into graves symbolizes resurrection, contrasting with the ancient Pagan ritual of using cypress to signify the annihilation of the body.
+title: Welsh Burial Traditions and Floral Symbolism

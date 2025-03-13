@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 2238
+previous: 2142
+storyCount: 1
+summary: In Glamorganshire, a tale is told of a mother advised to prepare a meal for ten using only an egg-shell to reveal a changeling baby, resulting in the fairy returning her real child. Remarkably, this story's rhymed triad aligns with a Breton legend, suggesting its origins predate the seventh-century separation of Welsh and Armorican Britons.
+title: The Changeling and the Egg-Shell: A Welsh and Breton Folktale

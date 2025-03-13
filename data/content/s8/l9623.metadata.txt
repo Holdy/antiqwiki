@@ -1,0 +1,6 @@
+location: Wales
+next: 9725
+previous: 9517
+storyCount: 1
+summary: Welsh wedding customs among the wealthier classes include rich celebrations with decorations, feasts, and symbolic rituals like flower and rice-throwing, signifying good luck and abundance for the newlyweds. These traditional practices highlight community involvement and are distinct from simpler modern customs, emphasizing a communal spirit of joy and unity in weddings.
+title: Welsh Wedding Traditions

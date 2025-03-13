@@ -1,0 +1,6 @@
+location: Wales
+next: 3592
+previous: 3522
+storyCount: 1
+summary: In a rural area of Wales, a group of people witnessed a company of fairies that initially appeared as a flock of sheep, and later transformed into different animals such as greyhounds and swine. The event, described by multiple witnesses, was regarded as credible despite its oddity, reflecting the rich tapestry of Welsh folklore involving fairies and animals in agricultural settings.
+title: The Marvels of Welsh Fairies

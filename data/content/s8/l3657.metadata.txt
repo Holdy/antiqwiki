@@ -1,0 +1,6 @@
+location: Hendrefawr Farm
+next: 3667
+previous: 3636
+storyCount: 1
+summary: The chapter discusses the use of piety and various exorcisms to protect oneself from the Tylwyth Teg, a group of mythical fairies. The text describes specific methods to ward off these fairies, such as chanting God's name or erecting barriers like Betty Griffith's eithin barricade.
+title: Piety as a Protection from the Seductions of the Tylwyth Teg

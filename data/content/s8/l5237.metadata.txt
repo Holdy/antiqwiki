@@ -1,0 +1,6 @@
+location: Cambria
+next: 5256
+previous: 5228
+storyCount: 1
+summary: In Cambria, spectral animals, especially those of beloved pets like dogs and horses, are believed to return as spirits to visit their former masters. These ghostly animals, particularly dogs, are thought to possess a soul similar to humans, reflecting their close companionship with people in life.
+title: The Spectral Animals of Cambria

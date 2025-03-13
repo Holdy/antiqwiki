@@ -1,0 +1,6 @@
+location: null
+next: 3080
+previous: 3014
+storyCount: 2
+summary: Legends across various cultures tell of individuals who experience a supernatural lapse of time, returning to find their homes and families changed beyond recognition or even vanished. These stories appear globally, from Rip van Winkle in America to similar myths in Greece, China, and Japan, highlighting a universal fascination with time and change.
+title: Stories of Supernatural Time Lapse and Change

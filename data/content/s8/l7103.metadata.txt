@@ -1,0 +1,6 @@
+location: null
+next: 7129
+previous: 7072
+storyCount: 1
+summary: A wealthy lord, warned by a mysterious voice that the richest man in the parish would die that night, was relieved to find himself alive the next morning, only to learn that an old blind beggar, who had been denied alms at his gate, had passed away. Realizing the true meaning of wealth and greatness in spiritual terms, the lord spent the rest of his life helping those in need, eventually receiving a heavenly welcome at his own death.
+title: The Tale of the True Riches

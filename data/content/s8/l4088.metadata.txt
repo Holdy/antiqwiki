@@ -1,0 +1,6 @@
+location: Merionethshire
+next: 4129
+previous: 4078
+storyCount: 1
+summary: In 16th-century Merionethshire, a band of outlaws known as the 'Red Fairies' lived in the Wood of the Great Dark Wood, and their activities gave rise to legends about fairies, blending historical events with myths. The story of Baron Owen's conflict with these beings, believed to be red-haired and human, shows how tales of supernatural origins often have roots in real historical accounts.
+title: The Legend of the Red Fairies

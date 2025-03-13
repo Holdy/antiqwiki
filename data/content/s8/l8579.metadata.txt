@@ -1,0 +1,6 @@
+location: Defynog
+next: 8606
+previous: 8545
+storyCount: 1
+summary: In the parish of Defynog, the Welsh saint Cynog was commemorated with a festival that included a bizarre custom where a man, representing the saint, was paraded through the village and then thrown into a river, reflecting possible Druidic sacrificial roots. The feast lasted a week and included market activities such as the selling of cheese on tombstones in the churchyard to benefit the local parson.
+title: The Commemoration of Saint Cynog in Defynog

@@ -1,0 +1,6 @@
+location: Wales
+next: 8058
+previous: 7948
+storyCount: 1
+summary: The text contains references and footnotes discussing the celebration of St. David's Day by the Welsh. It includes brief mentions of literature and plays relevant to the traditions around the event.
+title: The Celebration of St. David's Day

@@ -60,6 +60,16 @@ function processFile(fileName:string) {
 
     const lines = fs.readFileSync(fileName).toString().split('\n');
 
+    const linesStartingTilde = lines.filter((line) => line.startsWith("~"));
+    if (linesStartingTilde.length) {
+        console.warn(
+            "Already contains ~ lines (" +
+                linesStartingTilde.length +
+                ") - remove them to reprocess."
+        );
+        return;
+    }
+
     let markNextLineAsStart = true;
     let seenContentTrailer = false;
     let blockStartLine = 0;

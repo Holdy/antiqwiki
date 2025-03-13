@@ -1,0 +1,6 @@
+location: null
+next: 13328
+previous: 13270
+storyCount: 0
+summary: This text does not contain a narrative story, focusing instead on bibliographic information and publishing details. It includes a brief mention of book titles and publishing houses without any storytelling elements.
+title: .

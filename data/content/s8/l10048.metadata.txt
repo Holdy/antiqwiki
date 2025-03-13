@@ -1,0 +1,6 @@
+location: Llandegla
+next: 10080
+previous: 10013
+storyCount: 1
+summary: In the Welsh tradition at St. Tegla's Well, a ritual for curing epilepsy involves patients washing in the well, making offerings, and sacrificing a cock or hen depending on their gender, while performing specific prayers and rites. The belief is that if the bird dies, the disease has been transferred from the person to the animal, similar to the Biblical scapegoat ceremony in ancient Jewish tradition.
+title: The Rituals of St. Tegla's Well

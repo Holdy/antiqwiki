@@ -1,0 +1,6 @@
+location: null
+next: 6564
+previous: 6500
+storyCount: 1
+summary: The text discusses the evolution of the devil character from various mythologies, illustrating connections between the medieval devil and ancient spirits like Ahriman and Vritra. This evolution highlights the devil's transformation from a mythological symbol of darkness into a moral personification of the adversary in the struggle between light and darkness, good and evil.
+title: The Evolution of the Devil

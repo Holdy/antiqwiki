@@ -1,0 +1,6 @@
+location: null
+next: 2142
+previous: 2089
+storyCount: 2
+summary: Legends and beliefs about changelings, known as plentyn-newid, explore various methods used to rid homes of these fairy children, revealing ignorance and cruelty among people. Stories like the Legend of the Frugal Meal and Dewi Dal showcase how cultural narratives attempt to prevent fairy kidnappings through acts of piety and vigilance by mothers.
+title: Changelings and Fairy Legends

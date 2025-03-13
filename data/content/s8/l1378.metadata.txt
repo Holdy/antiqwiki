@@ -1,0 +1,6 @@
+location: Germany
+next: 1417
+previous: 1325
+storyCount: 1
+summary: In various mining cultures, mine fairies or dwarfs such as Germany's Wichtlein and Bohemia's Haus-schmiedlein are believed to influence the fortunes of miners. These entities, often associated with mischief or protection, can foreshadow misfortune or aid miners in discovering rich ore veins.
+title: The Fairies of the Mines

@@ -1,0 +1,6 @@
+location: Pantygasseg
+next: 3854
+previous: 3807
+storyCount: 2
+summary: The Pwca, a mythical creature, left its original home at Pantygasseg in a jug of barm, declaring it would never return, and indeed, it was never heard there again. In another tale, the Pwca transferred itself into a ball of yarn and rolled across the valley to its new home, Trwyn Farm, never to return to its previous residence.
+title: The Wanderings of the Pwca

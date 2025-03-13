@@ -1,0 +1,6 @@
+location: Llangynhafal parish, Denbighshire
+next: 10781
+previous: 10738
+storyCount: 1
+summary: St. Cynhafal's well, located in Llangynhafal parish, is reputed to cure warts through the ritual of pin throwing. Various cultural practices and charms, including using pins and natural elements, are associated with wart removal across different regions.
+title: The Curing Well and Wart Charms

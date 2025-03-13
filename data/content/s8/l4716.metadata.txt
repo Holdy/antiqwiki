@@ -1,0 +1,6 @@
+location: null
+next: 4723
+previous: 4663
+storyCount: 0
+summary: The text provides references and notes on various sources related to folklore. These notes do not form a coherent narrative or story within the text.
+title: 

@@ -1,0 +1,6 @@
+location: Vale of Clwyd
+next: 11760
+previous: 11711
+storyCount: 2
+summary: In the magical lands around the Vale of Clwyd, treasure seekers face mystical obstacles including storms, dragons, and caverns guarded by ancient spirits, like those narrated in Welsh mythology with their red dragons and legendary goblins of electricity. Stories from these enchanted regions, such as the legend of the Red Lady of Paviland and the treasure chest beneath Moel Arthur, highlight the intertwining of nature's fury with myth, serving as a testament to modern credulity and the allure of hidden riches.
+title: Myths and Legends of Welsh Treasure Hunting

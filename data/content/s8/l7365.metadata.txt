@@ -1,0 +1,6 @@
+location: Caerau
+next: 7444
+previous: 7322
+storyCount: 2
+summary: In the village of Caerau, a woman witnessed a ghost holding a Corpse Candle just before her sick sister passed away, signifying an ominous sign of death in local Welsh folklore. Similarly, another resident observed a Corpse Candle at the foot of her mother-in-law's bed before she died, reinforcing the cultural belief in these spectral death omens.
+title: The Corpse Candle Tales of Caerau

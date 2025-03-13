@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 4716
+previous: 4629
+storyCount: 2
+summary: In Pembrokeshire, a traveler named Noe arrives at an inn where he hears of a ghost that haunts the road, seemingly waiting for him, and after he departs, both he and the ghost disappear without a trace. In Ebwy Fawr, the ghost of a weaver, Morgan Lewis, appears to a farrier, Walter John Harry, revealing the presence of hidden wool in the walls of Harry's house as the reason for its haunting, which ceases once challenged by the farrier.
+title: Spirit Duties and Hauntings

@@ -1,0 +1,6 @@
+location: Rhayader
+next: 10476
+previous: 10429
+storyCount: 1
+summary: In the twelfth century, a knight imprisoned in the castle of Rhayader attempted to use a magical bell, provided by monks, to escape, but it failed to open the prison doors. The castle was subsequently struck by lightning and burned down, except for the wall where the bell hung, after the knight's wife sought divine aid.
+title: The Legend of the Bell of Rhayader

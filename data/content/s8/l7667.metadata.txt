@@ -1,0 +1,6 @@
+location: null
+next: 7684
+previous: 7608
+storyCount: 1
+summary: The text describes the life of a revered British saint who lived in an isolated cell covered with moss and ivy. In memory of his lifestyle, Welsh people wear a sacred herb each year, commemorating his simplicity and dedication.
+title: QUAINT OLD CUSTOMS

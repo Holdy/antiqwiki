@@ -1,0 +1,6 @@
+location: Powys
+next: 5855
+previous: 3944
+storyCount: 1
+summary: Rhonabwy experiences a vivid dream where he journeys through a medieval landscape encountering knights and witnessing the bustling court of King Arthur. After waking on the yellow calf-skin where he began his slumber, it's understood that Rhonabwy dreamt of events so intricate and vibrant that it needed to be recorded in writing to be remembered.
+title: The Dream of Rhonabwy

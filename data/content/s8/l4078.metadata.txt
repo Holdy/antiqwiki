@@ -1,0 +1,6 @@
+location: Caerphilly
+next: 4088
+previous: 4045
+storyCount: 1
+summary: This text explores various theories surrounding the origins of Welsh fairies, including realistic perspectives linking them to hidden Druids and noblemen. It discusses the significance of color in fairy attire, with references to local legends such as the Green Lady of Caerphilly.
+title: Origins and Legends of Welsh Fairies

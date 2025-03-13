@@ -1,0 +1,6 @@
+location: South Wales
+next: 9517
+previous: 9381
+storyCount: 1
+summary: In rural areas of South Wales, an ancient wedding custom known as 'The Bidding' involves inviting neighbors to a couple's wedding and soliciting their presence and donations, which are often recorded and repayable when needed. Traditionally, invitations were delivered by a person called the 'gwahoddwr,' but printed circulars have largely replaced this role, and the practice continues to be a source of income and communal support for marrying couples.
+title: The Bidding Custom in South Wales

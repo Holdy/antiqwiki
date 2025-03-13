@@ -1,0 +1,6 @@
+location: Pontypridd
+next: 8545
+previous: 8494
+storyCount: 1
+summary: On Midsummer Eve in 1878, Druids and bards at Pontypridd held a traditional feast celebrating the summer solstice, where they performed ancient rites and initiated new members. Welsh traditions also speak of the mysterious Snake-stone, formed from the sociable hissing of snakes, believed to bring prosperity to its finder.
+title: Midsummer Eve Traditions in Wales

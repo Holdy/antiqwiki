@@ -1,0 +1,6 @@
+location: null
+next: 6810
+previous: 6771
+storyCount: 0
+summary: The footnotes provide references to works on demonology, witchcraft, and the Mabinogion, with a linguistic note on the word 'Avagddu'. These notes suggest the complex meanings attributed to terms within Welsh mythology and their cultural interpretations.
+title: 

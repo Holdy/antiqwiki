@@ -1,0 +1,6 @@
+location: Clifford Castle
+next: 4946
+previous: 4840
+storyCount: 2
+summary: In a collection of ghostly tales from Wales, several individuals, including those in Clifford Castle, Crumlyn, and Glamorganshire, are haunted by spirits urging them to remove or dispose of hidden objects or money to find peace. These narratives emphasize the Welsh belief against hiding objects, as each ghost demands the uncovering and discarding of concealed items to rest in peace, with Clifford Castle being one prominent location mentioned.
+title: Wales' Haunting Ghosts and Hidden Treasures

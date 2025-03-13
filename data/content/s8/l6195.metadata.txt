@@ -1,0 +1,6 @@
+location: New Caledonia
+next: 6212
+previous: 6126
+storyCount: 2
+summary: The text discusses folklore beliefs, including a superstition encountered among the savages of New Caledonia about fairy women of the woods causing death. Additionally, it references rare and variably imperfect seventeenth-century copies of the book 'The Life and Death of Mr. Vavasor Powell.'
+title: Footnotes on Folklore and Rare Books

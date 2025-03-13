@@ -1,0 +1,6 @@
+location: Wales
+next: 10128
+previous: 10080
+storyCount: 2
+summary: In rural Wales, funeral processions traditionally travel on foot with relatives carrying the coffin, pausing at cross-roads to say prayers, a practice linked to old beliefs about restless spirits of criminals buried at such locations. The Welsh are known for their leniency, as exhibited by the 'Cardigan jury', which is reluctant to convict, possibly from superstitious fear of releasing troublesome spirits, illustrated in the tale of a jury acquitting a farmer who accidentally killed another.
+title: Superstitions and Customs in Rural Wales

@@ -219,13 +219,16 @@ function pause(seconds) {
 }
 
 async function go() {
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s9");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s8");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s7");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s1");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s2");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s3");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s4");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s5");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s6");
-    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s7");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s0");
 }
 
 go();

@@ -1,0 +1,6 @@
+location: null
+next: 5593
+previous: 5563
+storyCount: 0
+summary: The given text lacks a clear narrative structure, consisting only of footnote references to the 'Mabinogion' with page numbers. There is no distinguishable story present within the text provided.
+title: No Story Present

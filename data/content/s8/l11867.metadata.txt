@@ -1,0 +1,6 @@
+location: Anglesea
+next: 11898
+previous: 11849
+storyCount: 2
+summary: Excavations at Pant-y-Saer cromlech in Anglesea were encouraged by a dream promising buried treasure, but only human bones were found, leading to disappointment. This modern event was paralleled by an ancient story of a man in Pembrokeshire who sought treasure based on a dream, only to be injured by a viper, highlighting the persistence of superstitions across centuries.
+title: Dreams of Treasure: A Tale of Superstitions in Wales

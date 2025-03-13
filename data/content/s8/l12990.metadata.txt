@@ -1,0 +1,6 @@
+location: null
+next: 13019
+previous: 12983
+storyCount: 0
+summary: The index references various folklore stories, beliefs, and figures, drawing from different cultural sources such as the "Red Book of Hergest" and tales of giants and fairies. These entries reflect a wide array of mythological subjects and superstitions, spanning from local historical figures to legendary beings like Rhitta Gawr and Rowli Pugh.
+title: 

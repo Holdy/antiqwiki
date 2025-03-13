@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 2496
+previous: 2399
+storyCount: 1
+summary: A young peasant girl named Shuï Rhys from Cardiganshire often loitered during her daily work, captivated by the enchanting fairies or 'Tylwyth Teg', who danced and played music for her. After repeatedly returning home late, Shuï vanished one night never to be seen again, leading villagers to believe she was taken by the fairies, although rumors later suggested she was in a far-off city like Paris or London.
+title: Shuï Rhys and the Tylwyth Teg

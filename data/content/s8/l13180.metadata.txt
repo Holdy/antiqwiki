@@ -1,0 +1,6 @@
+location: Taff's Well
+next: 13249
+previous: 13019
+storyCount: 27
+summary: The text is a list of stories and legends with various themes including mythical creatures, magical transformations, and folklore tales. Key locations such as Taff's Well and Llangollen are mentioned in the context of these stories.
+title: List of Folktales and Legends

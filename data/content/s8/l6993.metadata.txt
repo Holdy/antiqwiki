@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 7038
+previous: 6949
+storyCount: 3
+summary: John Clode and his wife experienced strange noises at night which eerily predicted the death of their son, similar to how Gwenllian heard mysterious raps before her father's passing. In Radnorshire, a family heard phantom horses and footsteps, leading to the later illness and death of three family members, all characterized as Tolaeth or omens of death.
+title: Tales of the Tolaeth: Omens of Death

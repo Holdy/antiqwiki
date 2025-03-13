@@ -1,0 +1,6 @@
+location: Denbigh
+next: 992
+previous: 940
+storyCount: 2
+summary: The text provides references to Pughe's 'Welsh Dictionary' published in Denbigh and a specific scene from Shakespeare's 'Romeo and Juliet'. These references suggest a scholarly or analytical context, potentially for a broader discussion or analysis not present in the text itself.
+title: References to Literary Sources

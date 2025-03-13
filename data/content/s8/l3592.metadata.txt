@@ -1,0 +1,6 @@
+location: Pen-y-Llwyn
+next: 3636
+previous: 3550
+storyCount: 1
+summary: Prophet Jones recounts seeing a fairy sheepfold as a young boy, describing a group of people, including a woman in a red jacket, in a field near Pen-y-Llwyn in Wales. Skeptics suggest the boy may have exaggerated his story or mistaken ordinary events for supernatural ones.
+title: The Fairy Sheepfold

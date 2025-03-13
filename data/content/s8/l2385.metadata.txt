@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 2399
+previous: 2376
+storyCount: 2
+summary: The text presents a collection of Welsh legends and folklore involving fairies, magic, and mythical tales. These stories include encounters with fairies, such as the Tylwyth Teg, and legends of individuals like Elidurus and Iago ap Dewi.
+title: Welsh Fairy Lore

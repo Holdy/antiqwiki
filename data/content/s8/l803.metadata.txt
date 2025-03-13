@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 868
+previous: 743
+storyCount: 1
+summary: The green fairy islands, known as Gwerddonau Llion, were believed to be mystical lands in the Irish Channel where souls of certain Druids resided and were sought after by explorers like the British king Gavran. These islands were said to be populated by fairies who interacted with locals through markets, and they had the ability to briefly appear to sailors off the coast of Pembrokeshire before vanishing without a trace.
+title: The Green Fairy Islands of Gwerddonau Llion

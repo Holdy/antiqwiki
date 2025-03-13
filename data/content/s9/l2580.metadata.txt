@@ -1,0 +1,6 @@
+location: Caerlleon upon Usk
+next: 3944
+previous: 1209
+storyCount: 1
+summary: Geraint, the son of Erbin, embarks on a journey filled with challenges and encounters, accompanied only by his wife Enid, after he suspects her of unfaithfulness. Through a series of battles and misunderstandings, Geraint overcomes adversaries ranging from armed knights to treacherous circumstances, ultimately regaining his honor, realizing Enid's loyalty, and restoring peace in their lives.
+title: Geraint the Son of Erbin

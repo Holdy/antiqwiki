@@ -1,0 +1,6 @@
+location: Vale of Neath
+next: 2457
+previous: 2385
+storyCount: 1
+summary: Elidurus, a Welsh boy, encounters two small men who lead him to an enchanting, dimly-lit fairyland in the Vale of Neath, where he meets a king and learns the culture of these well-proportioned, milk-drinking people who disdain human ambition and infidelity. After spending time in this mystical realm, communicating using a language similar to Greek, Elidurus secretly returns home with a golden ball but is pursued by the fairies and unable to find his way back, ending his adventure.
+title: The Tale of Elidurus and the Tylwyth Teg

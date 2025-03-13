@@ -1,0 +1,6 @@
+location: Wales
+next: 9216
+previous: 9135
+storyCount: 1
+summary: Welsh courtship is a comprehensive affair where both love and religion are deeply intertwined, often culminating in young marriages encouraged by cultural traditions. Despite their romantic customs, there were peculiar rituals expressing disapproval of lifelong singlehood, such as planting ill-scented plants on the graves of old bachelors and maids, contrasting with the affectionate customs of planting flowers on graves to celebrate virtues in life.
+title: Welsh Courtship Traditions and Rituals

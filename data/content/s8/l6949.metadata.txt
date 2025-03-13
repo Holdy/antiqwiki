@@ -1,0 +1,6 @@
+location: Blaenporth, Cardiganshire
+next: 6993
+previous: 6938
+storyCount: 1
+summary: The Tolaeth is an eerie, supernatural sound that heralds impending funerals or tragedies, often imitating sounds like coffin-making or funeral processions. Originating from places like Blaenporth, Cardiganshire, it represents a spectral warning, and at times, visual manifestations accompany the auditory signals.
+title: The Ominous Tolaeth

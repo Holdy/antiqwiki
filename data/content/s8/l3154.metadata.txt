@@ -1,0 +1,6 @@
+location: Cader Idris
+next: 3250
+previous: 3088
+storyCount: 1
+summary: Morgan ap Rhys inadvertently entertains three disguised fairies, who reward him with a magical harp that compels anyone who hears it to dance uncontrollably. Despite the initial amusement, Morgan's misuse of the harp leads to chaos and ultimately results in its loss, causing him to succumb to despair and alcoholism.
+title: The Fairy Harp of Morgan ap Rhys

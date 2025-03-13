@@ -1,0 +1,6 @@
+location: Wales
+next: 10400
+previous: 10345
+storyCount: 1
+summary: In primitive times, people personified natural elements and objects, attributing emotions and qualities to them, as reflected in the mythology and superstitions surrounding bells in Wales. One Welsh legend tells of the bell of St. Cadoc in Trefethin, which was believed to have supernatural powers and was taken to the underworld after causing a child's accidental death.
+title: Welsh Legends and Superstitions: The Bell of St. Cadoc

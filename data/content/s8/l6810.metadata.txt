@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 6886
+previous: 6800
+storyCount: 1
+summary: The Cyhyraeth, an ominous, groaning spirit, is often heard in Carmarthenshire and other regions of Wales, foretelling death or disaster with its dreadful cries. In a notable occurrence at St. Mellons, the spirit foretold the precise grave to be used for an imminent burial, demonstrating its eerie knowledge of future events.
+title: The Groaning Spirit of Wales

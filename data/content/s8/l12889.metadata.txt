@@ -1,0 +1,6 @@
+location: null
+next: 12914
+previous: 12864
+storyCount: 0
+summary: The text provides a catalog or index of various folklore and superstitions, including topics such as the origins of fairies, the devil, and death omens. It mentions specific legends like Odin's Spear and Owen Lawgoch and his Enchanted Men but lacks a cohesive narrative or storyline.
+title: Folklore and Superstitions Index

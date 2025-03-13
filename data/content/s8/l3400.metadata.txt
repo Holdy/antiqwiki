@@ -1,0 +1,6 @@
+location: Wales
+next: 3421
+previous: 3391
+storyCount: 1
+summary: In Wales, fairy rings are mysterious circles in green fields, believed to have been created by fairies' dancing feet, and locals are advised to avoid disturbing them due to superstitions of impending misfortune. An old man from Peterstone-super-Ely shared that his mother's warning in his childhood to stay away from fairy rings left a lifelong impression on him.
+title: Fairy Rings and Welsh Superstitions

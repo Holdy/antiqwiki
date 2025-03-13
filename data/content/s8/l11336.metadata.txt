@@ -1,0 +1,6 @@
+location: Wales
+next: 11390
+previous: 11301
+storyCount: 1
+summary: The text explores various Welsh legends involving giants, such as Idris and Mol Walbec, who are said to have moved massive stones now scattered across Wales. These legends connect to broader folklore themes, including sceneries like Stonehenge, suggesting that ancient magicians or giants placed these stones through magical or superhuman means.
+title: Legends of Welsh Giants and Their Stones

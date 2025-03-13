@@ -1,0 +1,6 @@
+location: null
+next: 985
+previous: 933
+storyCount: 1
+summary: The Ellyllon are Welsh fairy-like creatures resembling English elves, haunting groves and valleys, and have rich connections with cultural mythology. Welsh folk-lore details their mystical characteristics, such as their queen, food, and symbolic gloves, and influenced Shakespeare's depiction of fairies.
+title: The Ellyllon and Welsh Folklore

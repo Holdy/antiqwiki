@@ -1,0 +1,6 @@
+location: Cambria
+next: 10601
+previous: 10547
+storyCount: 1
+summary: In Wales, numerous wells are believed to possess mystical attributes linked to ancient saints, serving both beneficent and malevolent roles within local communities. These wells, revered for their healing and cursing powers, often draw respect and awe from the peasantry despite their varying functionalities, ascribed either to the medicinal properties of the water or the influence of the patron saint.
+title: Mystical Welsh Wells

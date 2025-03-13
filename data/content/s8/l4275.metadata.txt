@@ -1,0 +1,6 @@
+location: Anglesea
+next: 4294
+previous: 4214
+storyCount: 1
+summary: In Anglesea, a local legend explains the origin of fairies through a tale of a woman who hides half her children from Jesus due to embarrassment. As a consequence, these hidden children disappear and are believed to have become the mythical fairies as a divine punishment.
+title: The Origin of Fairies in Anglesea

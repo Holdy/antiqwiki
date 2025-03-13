@@ -1,0 +1,6 @@
+location: Wales
+next: 5793
+previous: 5659
+storyCount: 1
+summary: The narrative explores the uncanny parallels between ancient Welsh ghost stories and modern spiritualism, highlighting the similarities in events such as objects being moved and loud noises made by unseen forces. These stories are also compared to international folk tales, linking them to creatures like the Bwbach and Kobolds, suggesting the universal nature of such folkloric phenomena.
+title: Comparative Spiritualism and Folklore

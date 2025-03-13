@@ -1,0 +1,6 @@
+location: Drws Coed
+next: 1847
+previous: 1725
+storyCount: 1
+summary: A farmer's son from Drws Coed falls in love with a fairy maiden under the condition that he must never touch her with iron, or she will return to her realm. They enjoy a happy life until an accidental touch of iron separates them forever, leaving the fairy to communicate with her husband from a turf on a lake until his death.
+title: The Farmer's Son and the Fairy Maiden of Drws Coed

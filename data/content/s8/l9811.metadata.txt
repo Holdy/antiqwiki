@@ -1,0 +1,6 @@
+location: Wales
+next: 9827
+previous: 9732
+storyCount: 1
+summary: The text discusses various customs and superstitions associated with Welsh funerals, highlighting unique practices such as the Gwylnos and the role of the Sin-eater. It also addresses burial rituals, including placing a plate of salt on the corpse's breast and the use of sponge cakes in modern funerals, along with other traditional beliefs and practices.
+title: Death and Burial Customs in Wales

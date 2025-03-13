@@ -1,0 +1,6 @@
+location: Vale of Glamorgan
+next: 6700
+previous: 6574
+storyCount: 1
+summary: The footnotes refer to a variety of historical and cultural texts related to Wales and the Vale of Glamorgan. They include references to books, journals, and folklore collections, evidencing a broad scholarly engagement with regional traditions.
+title: Footnotes of Welsh and Irish Cultural Texts

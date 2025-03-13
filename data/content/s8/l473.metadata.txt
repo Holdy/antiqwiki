@@ -1,0 +1,6 @@
+location: Wales
+next: 548
+previous: 383
+storyCount: 1
+summary: This book explores various elements of Welsh mythology, including the mystical properties of bells, wells, stones, and dragons, highlighting legendary artifacts like the Bell of Rhayader and the mystical wells with healing powers. Additionally, it delves into the enigmatic stones that hold supernatural abilities and recounts tales of dragons and treasure, such as the Red Dragon of Wales and the treasure-filled caverns guarded by mythical creatures.
+title: Bells, Wells, Stones, and Dragons

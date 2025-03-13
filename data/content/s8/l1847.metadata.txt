@@ -1,0 +1,6 @@
+location: a mountain lake
+next: 1877
+previous: 1806
+storyCount: 1
+summary: In ancient times near a mountain lake, a hidden door would open each New Year's day, leading those brave enough to enter to an enchanting garden inhabited by the Gwragedd Annwn.  The serene visits were marred only once by a visitor who stole a flower, resulting in his madness and the permanent closure of the door, severing the link to the garden forever.
+title: The Vanished Door and the Enchanted Garden

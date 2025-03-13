@@ -1,0 +1,6 @@
+location: Wales
+next: 7302
+previous: 7252
+storyCount: 1
+summary: The belief in spiritual hunting dogs and the Wild Huntsman is a widespread superstition linked to natural phenomena, such as the howling of the wind and cries of wild fowl, which has existed across various cultures, including in Wales, France, and Germany. These supernatural entities, said to carry the souls of the dying, trace back to Aryan myths and the god Hermes, with variations of the tale present in folklore around the world, reflecting ancient ignorance of natural events.
+title: The Superstition of Spiritual Hunting Dogs and the Wild Huntsman

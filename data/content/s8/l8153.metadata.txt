@@ -1,0 +1,6 @@
+location: null
+next: 8166
+previous: 8146
+storyCount: 1
+summary: On Shrove Tuesday, there used to be a custom called 'throwing at cocks' where a person who hit and killed a hen with a flail got to keep it. A more respectable tradition of eating pancakes, known as 'cramming with crammwythau', persists to this day.
+title: Shrove Tuesday Traditions

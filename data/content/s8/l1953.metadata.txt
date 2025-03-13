@@ -1,0 +1,6 @@
+location: Llanhiddel Mountain, Monmouthshire
+next: 2004
+previous: 1945
+storyCount: 1
+summary: The Gwyllion, fearsome female fairies, haunt the Welsh mountains leading travelers astray, often taking the form of the Old Woman of the Mountain who appears as a ghostly figure causing wanderers to lose their way. This apparition is said to be the spirit of a witch named Juan White, and while being chased, she vanishes when a knife is drawn, as Welsh fairies fear knives.
+title: The Gwyllion: Mountain Fairies of Wales

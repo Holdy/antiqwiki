@@ -1,0 +1,6 @@
+location: Bedwellty
+next: 3400
+previous: 3302
+storyCount: 1
+summary: The chapter delves into various aspects of Welsh folklore, focusing on fairy rings, the Prophet Jones's influences, and the Tylwyth Teg's unique language. It explores how fairies are intertwined with Welsh tales, including stories of equestrian and flying fairies, as well as fairy livestock across the region.
+title: Exploring Welsh Fairies

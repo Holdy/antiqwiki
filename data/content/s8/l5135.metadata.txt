@@ -1,0 +1,6 @@
+location: London
+next: 5181
+previous: 5091
+storyCount: 1
+summary: The passage explores historical and modern examples of the superstition surrounding aerial transportation, citing instances from spiritualism where individuals are said to have been transported through the air. It touches on both historical anecdotes and the fascination people have with flight, drawing parallels across cultures, from Arabian nights to Welsh folklore.
+title: Aerial Transportation and Superstition

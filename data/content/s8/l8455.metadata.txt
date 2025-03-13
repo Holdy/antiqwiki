@@ -1,0 +1,6 @@
+location: null
+next: 8462
+previous: 8402
+storyCount: 0
+summary: There is no story present in the text as it consists only of footnote references.
+title: 

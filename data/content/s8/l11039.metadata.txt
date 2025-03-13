@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 11054
+previous: 11000
+storyCount: 1
+summary: In Welsh folklore, stones are attributed with mystical properties and roles, such as miraculous movements, invisibility, and healing. These legendary stones are associated with various myths involving figures like King Arthur and giants, highlighting their significance in Welsh mythology.
+title: The Mystical Stones and Legends of Wales

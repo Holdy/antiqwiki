@@ -1,0 +1,6 @@
+location: Ebwy Fawr
+next: 2376
+previous: 2300
+storyCount: 1
+summary: In the valley of Ebwy Fawr, Welsh fairies were known for attempting to abduct infants, but determined mothers like Dazzy Walter and Jennet Francis managed to thwart their efforts with the power of maternal instinct and divine intervention. Throughout various cultures, including Wales, specialized preventive measures such as laying knives or tongs across cradles, and practices like baptism, have been traditionally used to protect infants from being taken by fairies.
+title: The Struggle with Fairies in Ebwy Fawr

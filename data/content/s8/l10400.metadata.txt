@@ -1,0 +1,6 @@
+location: Caerleon
+next: 10429
+previous: 10354
+storyCount: 1
+summary: The ancient belief that the sound of brass could break or cause enchantment led to the practice of tolling bells during the dying process, aiming to ward off evil spirits from the soul. Although the practice has mainly evolved to toll the bell after death, traditional customs still persist in places like Caerleon and Oxford, reflecting the enduring superstition of bronze notes protecting the soul.
+title: .

@@ -1,0 +1,6 @@
+location: Narberth
+next: 6497
+previous: 5361
+storyCount: 2
+summary: Pwyll, Prince of Dyved, encounters Arawn, a king from the otherworldly Annwvyn, and agrees to switch places with him for a year, successfully defeating Arawn's rival and earning his friendship. Later, Pwyll meets Rhiannon, a mysterious woman who seeks to marry him despite other suitors, and they eventually have a son, Pryderi, who, after a series of misunderstandings and challenges, is restored to his rightful place and continues to rule over Dyved and additional territories.
+title: Pwyll Prince of Dyved

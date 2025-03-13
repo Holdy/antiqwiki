@@ -1,0 +1,6 @@
+location: null
+next: 933
+previous: 868
+storyCount: 1
+summary: The text explores the classifications and cultural perceptions of fairies, highlighting their diverse categorizations in Scandinavian and Welsh folklore. It also touches on the tradition of referring to potentially malign entities with respectful names as a form of appeasement across various cultures.
+title: Fairy Mythology and Cultural Perceptions

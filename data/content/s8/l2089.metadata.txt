@@ -1,0 +1,6 @@
+location: Wales
+next: 2132
+previous: 2043
+storyCount: 1
+summary: Cadwaladr, a Welshman, loses his beloved goat Jenny, who transforms into a beautiful woman on a moonlit night after he accidentally kills her. Transported to a mountain of enchanted goats, Cadwaladr is knocked unconscious and wakes up alone, never seeing Jenny or the apparition again.
+title: Cadwaladr and the Enchanted Goat

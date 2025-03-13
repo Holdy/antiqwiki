@@ -1,0 +1,6 @@
+location: The Black Mountain
+next: 1953
+previous: 1904
+storyCount: 1
+summary: This text explores various Welsh legends and fairies related to mountain folklore, focusing on the Gwyllion and the Old Woman of the Mountain. It highlights tales of supernatural encounters, such as exorcism by knife and the mystical intelligence attributed to Welsh goats, notably in the Legend of Cadwaladr's Goat.
+title: Welsh Mountain Legends

@@ -1,0 +1,6 @@
+location: Monmouthshire
+next: 11301
+previous: 11252
+storyCount: 2
+summary: In Monmouthshire, a superstitious legend surrounds a cross-roads stone on a mountain-top, believed to be the daytime resting place of a witch. In North Wales, the tale of Canrig Bwt, a witch who lived beneath a stone and was ultimately slain by a condemned man, is used to frighten children.
+title: Tales of Welsh Witchcraft and Superstition

@@ -1,0 +1,6 @@
+location: null
+next: 1495
+previous: 1417
+storyCount: 1
+summary: The Bwbach is a household fairy and a terrifying phantom in folklore, with abilities such as whisking people through the air, often employed by troubled ghosts to move hidden treasures. It shares similarities with the French gobelin and the English hobgoblin, depicting a ludicrous yet dangerous creature, with a complex etymology rooted in ancient linguistic connections to divine names.
+title: The Bwbach: A Folkloric Duality

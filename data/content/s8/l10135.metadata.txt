@@ -1,0 +1,6 @@
+location: Montgomery Castle
+next: 10161
+previous: 10128
+storyCount: 1
+summary: John Newton was unjustly executed for highway robbery after being wrongly accused and, before his death, claimed that his grave would remain grassless as a testament to his innocence. For thirty years, the spot at Montgomery Castle graveyard remained bare, defying interventions to plant grass, in accordance with Newton's final prophetic words.
+title: The Legend of the Grassless Grave

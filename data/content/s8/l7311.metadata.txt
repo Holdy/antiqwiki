@@ -1,0 +1,6 @@
+location: Wales
+next: 7322
+previous: 7302
+storyCount: 1
+summary: The text explores various Welsh folklore related to death-portents, specifically focusing on the mysterious phenomena of the 'Corpse Candle' and its sightings in places like Golden Grove and Pontfaen. These stories, describing lights that indicate impending death, reveal the deep-rooted beliefs in the supernatural and the concern over life after death in Welsh culture.
+title: The Corpse Candle and Other Welsh Death-Portents

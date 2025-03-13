@@ -1,0 +1,6 @@
+location: Wales
+next: 3088
+previous: 3030
+storyCount: 2
+summary: The text explores various Welsh fairy tales and legends revolving around enchanting music, including the story of Shon ap Shenkin and the magical harp. It delves into the mystic origins of Welsh airs and the mythical tunes played by the Tylwyth Teg.
+title: Fairy Music and Legends of Wales

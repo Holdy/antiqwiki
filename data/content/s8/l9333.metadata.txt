@@ -1,0 +1,6 @@
+location: Wales
+next: 9381
+previous: 9283
+storyCount: 1
+summary: Welsh farm women practiced a rhamanta involving a curious ritual with a pullet's first egg to dream of their future husbands, while men used a knife in a churchyard for similar divinations. In one tale, a young woman encountered her master during a rhamanta and later became his wife after the untimely death of her mistress.
+title: Curious Rhamantas: Omens of Future Spouses

@@ -1,0 +1,6 @@
+location: null
+next: 0
+previous: 13309
+storyCount: 0
+summary: The provided text is a detailed catalogue listing various book titles published by Sampson Low, Marston, Searle, & Rivington. It includes descriptions, prices, and sometimes authors or illustrators for each entry, with topics ranging from fiction and poetry to travel and biography.
+title: 

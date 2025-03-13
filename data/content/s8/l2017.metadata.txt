@@ -1,0 +1,6 @@
+location: Milfre Mountain
+next: 2043
+previous: 2004
+storyCount: 1
+summary: John ap John, while walking to Caerleon Fair, encountered mysterious shouting and the sound of a ghostly coach on Milfre Mountain, which terrified him into hiding in the heath. His fear dispersed at daybreak as he heard birds singing and saw sheep, realizing he was safe.
+title: The Tale of John ap John's Fright

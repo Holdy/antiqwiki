@@ -1,0 +1,6 @@
+location: Wales
+next: 6292
+previous: 6212
+storyCount: 1
+summary: This chapter explores the presence and influence of the Devil in Welsh folklore, including tales of trickery and pacts, and highlights the Devil's Bridge as a central location for such legends. It examines various legends, superstitions, and cultural narratives surrounding the Devil, juxtaposed with stories of angelic spirits and the symbolic cosmic struggle between light and darkness.
+title: The Evil Spirit in Wales

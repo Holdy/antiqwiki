@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 6800
+previous: 6734
+storyCount: 1
+summary: The Gwrach y Rhibyn is a frightful spectral figure in Welsh folklore that resembles the Irish banshee and is characterized by its terrifying ugliness and association as a death omen. This malicious hag is also known to appear as a river-spectre in Glamorganshire, adding to its haunting presence in Celtic mythology.
+title: The Gwrach y Rhibyn: A Welsh Spectre

@@ -1,0 +1,6 @@
+location: St. Donat's
+next: 4782
+previous: 4723
+storyCount: 1
+summary: The text explores various supernatural tales, including the miser of St. Donat's and the ghost of Anne Dewy, covering themes such as hidden treasures, spectral appearances, and mystic transportation. Significant emphasis is placed on the narrative of Walter Jones' levitation, Sir David Llwyd's magical feats, and other phenomena connecting people from Breconshire to Philadelphia.
+title: Tales of the Supernatural: From St. Donat's to Philadelphia

@@ -1,0 +1,6 @@
+location: Monmouthshire
+next: 162
+previous: 96
+storyCount: 1
+summary: The text discusses the historical and mythical significance of Arthur and Merlin in Welsh tradition, focusing notably on regions like Wales and Monmouthshire. Monmouthshire's city of Caerleon is highlighted as a legendary site where Arthur was crowned, showcasing the region's rich legendary connections tied to early European literature.
+title: Preface

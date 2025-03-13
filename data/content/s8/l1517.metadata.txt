@@ -1,0 +1,6 @@
+location: Welsh mountains
+next: 1540
+previous: 1504
+storyCount: 1
+summary: The Gwragedd Annwn, or elfin dames, are mystical beings from Welsh folklore who inhabit lakes and rivers, often associated with mystical and superstitious traditions. These fairy-like entities serve as conduits between the human world and the shadowy realm of Annwn, under the rule of Gwyn ap Nudd.
+title: The Gwragedd Annwn: Fairy Dames of the Lakes

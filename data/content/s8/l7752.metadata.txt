@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 7862
+previous: 7697
+storyCount: 1
+summary: In Glamorganshire and Pembrokeshire, New Year's customs are centered on children presenting elaborately decorated apples or oranges as symbolic gifts and singing traditional songs, linked to both Christian and Druidic beliefs about immortality and the sun's life-giving forces. Other customs include ensuring the first visitor of the year is male for luck, kids sprinkling spring water while singing blessings, and strict superstitions about luck reflected in practices and performances, similar to beliefs observed in American and Chinese folklore.
+title: New Year Customs in Glamorganshire and Pembrokeshire

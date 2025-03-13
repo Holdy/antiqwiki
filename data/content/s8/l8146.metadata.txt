@@ -1,0 +1,6 @@
+location: null
+next: 8153
+previous: 8120
+storyCount: 0
+summary: The text consists of references to sources about Cambro-British saints and the Iolo Manuscripts, indicating a focus on historical and cultural studies. It lacks a narrative structure typical of a story, as it primarily offers bibliographical information.
+title: Bibliographical References

@@ -1,0 +1,6 @@
+location: Cwm Llan
+next: 3975
+previous: 3901
+storyCount: 2
+summary: In the legends of Cwm Llan, a shepherd who unwittingly joins a fairy feast finds silver placed near his resting spot until he reveals the secret, losing the magical gift. Another shepherd befriends a fairy child and receives a magic staff, leading to prosperity until he loses the staff in a flood, causing his fortune to vanish along with it.
+title: The Legends of the Shepherds of Cwm Llan

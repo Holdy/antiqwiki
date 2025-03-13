@@ -1,0 +1,6 @@
+location: Wales
+next: 8716
+previous: 8579
+storyCount: 1
+summary: In Wales, All Hallows Eve, known as 'Nos Calan Gauaf', is a time when spirits, ghosts, and fairies are believed to roam freely, leading the young to use enchantments and charms to catch glimpses of their future romantic partners, as evidenced by a story of a preacher who saw a ghostly vision of his future wife. Traditionally celebrated with bonfires and various rituals reflecting Druidic influences, festivities also include singing rhymes, 'bobbing for apples', and using a puzzling jug in games to enhance the merriment of the evening.
+title: All Hallows Eve in Welsh Tradition

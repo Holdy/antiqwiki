@@ -1,0 +1,6 @@
+location: null
+next: 8402
+previous: 8334
+storyCount: 0
+summary: The text consists solely of references to footnotes, indicating external sources or citations. There is no narrative or story content present in the text.
+title: 

@@ -1,0 +1,6 @@
+location: Mynyddyslwyn
+next: 4152
+previous: 4088
+storyCount: 1
+summary: The tale of Pwca'r Trwyn centers on a Welsh nobleman, believed to have been hiding from the English forces, masquerading as a fairy in the farm-house of Mynyddyslwyn. His tenants helped spread the belief that he was a household fairy, a story exemplified by the mysterious, beautiful hand that appeared from the farm's ceiling.
+title: The Legend of Pwca'r Trwyn

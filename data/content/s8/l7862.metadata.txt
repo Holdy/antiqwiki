@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 7932
+previous: 7752
+storyCount: 1
+summary: The Mary Lwyd is a traditional Twelfth Night celebration in Wales, especially in Glamorganshire, where a horse's skull adorned with ribbons is carried from house to house amidst songs and merriment. Traditions such as the penglog in Aberconwy, the cutty wren in Pembrokeshire, and tooling and sowling customs involving levying contributions are also part of the festive rituals.
+title: Twelfth Night Customs in Wales

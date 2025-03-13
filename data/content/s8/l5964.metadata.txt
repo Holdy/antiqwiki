@@ -1,0 +1,6 @@
+location: Caerleon
+next: 6011
+previous: 5923
+storyCount: 1
+summary: A Welshman named Melerius, who had encounters with a familiar spirit in the form of a beautiful woman, gained knowledge of future events through his connection with these spirits, despite sometimes being misled. Giraldus provides an account of Melerius's experiences with spirits, including visions of demonic hunters and a demon incubus in Lower Gwent, revealing the dangers and power of these spectral entities.
+title: Familiar Spirits and Melerius the Seer

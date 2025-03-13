@@ -1,0 +1,6 @@
+location: null
+next: 383
+previous: 162
+storyCount: 2
+summary: The text explores various Welsh beliefs about ghosts and spirits, such as household ghosts, spectral animals, and death-portents, illustrating the rich tapestry of Welsh folklore and superstition. It delves into tales of haunted locations like the Devil's Bridge and recounts stories of familiar and evil spirits within a cultural and historical context.
+title: The Spirit-World

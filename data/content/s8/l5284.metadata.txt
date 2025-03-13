@@ -1,0 +1,6 @@
+location: Mousiad
+next: 5356
+previous: 5256
+storyCount: 2
+summary: In the haunted lane of Mousiad, Mr. Jenkin encounters the terrifying Gwyllgi, or Dog of Darkness, causing his horse to flee and himself to be found in distress; the apparition's legend is well-known for inducing fear with its fiery gaze. Meanwhile, in a nearby tale within Pembrokeshire's Cot Moor, Mr. David Walter faces a spectral hound encircled by fire, resisting the protection of his mastiff, and Rebecca Adams faints upon encountering a ghostly dog near Laugharne Castle, showcasing the recurring themes of spectral canines in these chilling narratives.
+title: Tales of the Gwyllgi and Other Spectral Hounds

@@ -1,0 +1,6 @@
+location: Myddfai, Carmarthenshire
+next: 1725
+previous: 1576
+storyCount: 1
+summary: A farmer from Myddfai encounters three enchanting nymphs by Llyn y Fan Fach and marries one upon successfully identifying her among her sisters. However, a trivial breach of their marriage agreement causes the nymph to leave, taking her magical cattle, and leaving behind three sons who became renowned physicians.
+title: The Legend of the Meddygon Myddfai

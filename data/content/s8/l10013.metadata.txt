@@ -1,0 +1,6 @@
+location: Wales
+next: 10048
+previous: 9998
+storyCount: 1
+summary: Throughout Wales, among other places, various superstitions involving salt have persisted, such as the practice of placing a plate of salt on a corpse to 'prevent swelling'. These salt-related beliefs, some of which are shared with other cultures like the Irish, have origins in antiquity and involve themes of purification and protection.
+title: Superstitions Surrounding Salt

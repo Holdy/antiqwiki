@@ -1,0 +1,6 @@
+location: Caerleon
+next: 11336
+previous: 11276
+storyCount: 1
+summary: In Wales, ancient sites and natural features are often linked with King Arthur, each accompanied by folklore that ranges from the mythical and patriotic to the simply grotesque, such as the story of Arthur's Pot, a water-bored hole allegedly used by Merlin for the king's cooking. Locations such as Arthur's Round Table in Caerleon and Arthur's Quoits across the landscape provide a rich tapestry of tales for folklore enthusiasts, highlighting Wales' deep connection with Arthurian legends.
+title: The Legendary Impressions of King Arthur in Wales

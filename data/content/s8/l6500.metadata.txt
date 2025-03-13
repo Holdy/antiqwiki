@@ -1,0 +1,6 @@
+location: North Wales
+next: 6540
+previous: 6457
+storyCount: 1
+summary: In North Wales, the use of the devil's name is often avoided due to old superstitions, leading many to use euphemisms and spitting as a precaution after saying it. Welsh traditions hold that the divine name, symbolized by three rays, cannot be spoken by mortals and is linked to the creation and end of the world.
+title: Euphemisms and the Divine Name in Welsh Tradition

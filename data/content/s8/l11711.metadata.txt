@@ -1,0 +1,6 @@
+location: null
+next: 11745
+previous: 11693
+storyCount: 1
+summary: The text explores the mystical and historical significance of ancient stones, such as cromlechs and rocking stones, often associated with Druidic rites and regarded with awe by past societies. Over time, the original meanings and commemorations inscribed on these stones faded, leaving behind mysterious symbols that inspired superstitious reverence among later generations.
+title: Legends of the Ancient Stones

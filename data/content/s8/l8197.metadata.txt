@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 8235
+previous: 8181
+storyCount: 1
+summary: In Pembrokeshire, Good Friday customs included walking barefoot to church and using hot-cross buns as medicine and protection from evil. These traditions, deeply rooted in superstition and history, reflect a blend of Christian and pagan influences.
+title: Pembrokeshire Good Friday Customs

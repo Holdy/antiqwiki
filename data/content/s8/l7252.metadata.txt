@@ -1,0 +1,6 @@
+location: null
+next: 7259
+previous: 7192
+storyCount: 0
+summary: The provided text includes references to footnotes from a publication titled 'Cambro-Briton.' It cites contributions from an individual named Dr. W. Owen Pughe.
+title: .

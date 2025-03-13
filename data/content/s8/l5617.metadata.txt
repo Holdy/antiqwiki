@@ -1,0 +1,6 @@
+location: Llanllechid
+next: 5659
+previous: 5593
+storyCount: 2
+summary: In Llanllechid, a spirit caused chaos by throwing river stones into a farmer's house, ultimately driving the family out despite attempts by clergymen to exorcise it. At Edward Roberts’ farm in Llangunllo, another spirit wreaked havoc by disrupting the household with its antics and eventually burning the house to the ground.
+title: Spirit Hauntings in Cambrian Communities

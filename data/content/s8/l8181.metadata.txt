@@ -1,0 +1,6 @@
+location: Cardiff
+next: 8197
+previous: 8166
+storyCount: 1
+summary: In Wales, Palm Sunday, known as Flowering Sunday, is a significant occasion marked by the tradition of strewing graves with flowers, a practice that is widespread across all societal classes and regions. This tradition, which even draws large gatherings in major towns like Cardiff, harkens back to both Christian and Druidic rites symbolizing life and renewal.
+title: Flowering Sunday in Wales

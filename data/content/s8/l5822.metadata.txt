@@ -1,0 +1,6 @@
+location: Trwyn Farm
+next: 5833
+previous: 5793
+storyCount: 1
+summary: Trwyn Farm is believed to be haunted by a sprite, possibly a fairy, causing intrigue about the nature of familiar spirits. Various tales, including those of Sir David Llwyd's demon and the Lady of the Wood, explore encounters with these entities while highlighting different methods of summoning and exorcising them.
+title: Familiar Spirits

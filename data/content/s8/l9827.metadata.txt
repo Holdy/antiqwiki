@@ -1,0 +1,6 @@
+location: Wales
+next: 9882
+previous: 9811
+storyCount: 1
+summary: In Wales, traditional funeral customs have evolved from loud lamentations to more solemn rites like the religious Gwylnos, which involves pious appeals to Heaven in remembrance of the deceased. Despite modernization, some customs like beer-drinking at funerals persist, reflecting the mixture of old traditions with contemporary practices.
+title: Traditional Welsh Funerary Customs

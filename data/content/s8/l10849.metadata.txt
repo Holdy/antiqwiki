@@ -1,0 +1,6 @@
+location: St. Tecla's Well
+next: 10880
+previous: 10833
+storyCount: 1
+summary: Pins, historically used in enchantment, were once a replacement for coins thrown into sacred wells as propitiatory offerings, believed to possess supernatural powers irrespective of Christian associations. While modern practices have lost their original meaning, these customs highlight the persistent influence of ancient and fetichistic beliefs in certain cultural traditions.
+title: Pins and Wells: A Historical Superstition

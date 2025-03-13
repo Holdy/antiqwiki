@@ -1,0 +1,6 @@
+location: Pontypridd, Glamorganshire
+next: 9135
+previous: 9030
+storyCount: 1
+summary: Many Christmas customs have pagan origins, with early Christians adapting these rituals by giving them new meanings tied to Christianity. In Pontypridd, Glamorganshire, the Druidic festival of Alban Arthur, celebrating the sun's rebirth, still takes place alongside other ancient traditions during the winter solstice.
+title: Pagan Origins of Christmas Customs

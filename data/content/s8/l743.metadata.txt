@@ -1,0 +1,6 @@
+location: Vale of Neath
+next: 803
+previous: 733
+storyCount: 1
+summary: Gwyn ap Nudd, sovereign of fairies and goblins, was associated with the shadow land and drew St. Collen into a mystical encounter on a hilltop. In a grand illusion, Gwyn's fairy castle and followers vanished when Collen used holy water, leaving behind only green hillocks.
+title: The Legend of Gwyn ap Nudd and St. Collen

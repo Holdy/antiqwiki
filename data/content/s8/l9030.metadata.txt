@@ -1,0 +1,6 @@
+location: Wales
+next: 9069
+previous: 8999
+storyCount: 1
+summary: The tradition of giving Christmas-boxes, particularly prevalent in Britain and notably seen in Wales, involves a range of service providers expecting monetary gifts from customers during the holiday season. Despite official efforts to curb the practice, it persists as both a nuisance and a reflection of societal norms, highlighting a tension between customary generosity and perceived entitlement.
+title: The Persistent Tradition of Christmas-Boxes in Britain

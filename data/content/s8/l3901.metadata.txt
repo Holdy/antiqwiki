@@ -1,0 +1,6 @@
+location: Wales
+next: 3935
+previous: 3863
+storyCount: 2
+summary: In Wales, those who disclosed their encounters with fairies often found that the magical beings withdrew their favours, as seen in stories like the boy at Cymmunod Bridge, who ceased to find coins after his father forced him to reveal his secret. Similarly, Anne William Francis of Bassalleg, upon confessing to her mother about receiving shillings from fairies, also lost their mystical benevolence.
+title: Fairy Secrets and Lost Favours

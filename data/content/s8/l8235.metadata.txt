@@ -1,0 +1,6 @@
+location: North Wales
+next: 8266
+previous: 8197
+storyCount: 1
+summary: Superstitions about the significance of days vary across cultures, with some regarding Monday or Friday as unlucky while others, like the traditions in Norway, find Thursday to be fortuitous. In North Wales, Thursday is steeped in superstition as it is believed to be a sacred day among the Druids, possibly linked to the lightning-god Thor, which is highlighted by the local myth of an eagle sharpening its beak in anticipation of battle.
+title: Superstitions of the Week

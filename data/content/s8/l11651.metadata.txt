@@ -1,0 +1,6 @@
+location: null
+next: 11661
+previous: 11617
+storyCount: 0
+summary: The text contains footnotes referencing works by J. W. Lukis, Keightley, and Cambry. It does not contain any narrative story to summarize.
+title: 

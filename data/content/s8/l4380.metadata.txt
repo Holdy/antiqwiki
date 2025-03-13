@@ -1,0 +1,6 @@
+location: null
+next: 4391
+previous: 4365
+storyCount: 1
+summary: The text explores various themes related to ghosts and hauntings in Welsh culture, including American 'Spiritualism' and popular superstitions. It delves into classifications of Welsh ghosts, tales of haunted houses, and notable legends like that of Lady Stradling's Ghost and the Haunted Bridge.
+title: Modern Superstition in Welsh Culture

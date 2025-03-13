@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 10455
+previous: 10400
+storyCount: 1
+summary: The Welsh have long believed in the supernatural abilities of bells, attributing to them powers such as healing, detecting thieves, and even moving independently. In Pembrokeshire, these beliefs include the idea that the tolling of church bells predicts disasters, and a particular legend tells of a sunken bell from St. David's that rings during storms.
+title: The Beliefs and Legends of Welsh Bells

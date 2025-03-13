@@ -1,0 +1,6 @@
+location: Wales
+next: 6280
+previous: 6195
+storyCount: 2
+summary: John Jenkin, a Welsh schoolmaster and conjuror, accompanies his curious student to summon evil spirits in a Pembrokeshire wood, eventually finding out about stolen money while terrifying the boy. In Carmarthenshire, a tailor with a knack for magic shows the skeptical Mr. Gwynne a terrifying fallen angel, earning the tailor newfound respect.
+title: Encounters with the Devil in Wales

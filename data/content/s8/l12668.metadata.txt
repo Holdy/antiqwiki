@@ -1,0 +1,6 @@
+location: null
+next: 12685
+previous: 12632
+storyCount: 0
+summary: The text lists titles of various stories including mythical and historical tales such as 'Iago ap Dewi's Seven Years' Absence' and 'Idris the Giant'. It appears to be an index or a table of contents for a book or collection, with no narrative provided.
+title: 

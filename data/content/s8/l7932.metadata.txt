@@ -1,0 +1,6 @@
+location: Cardiff
+next: 7948
+previous: 7862
+storyCount: 1
+summary: On St. Valentine's Day, Welsh post-offices receive an overwhelming number of love-letters, especially in Cardiff where the postal service struggles to manage the influx. The tradition of sending Valentine's letters is attributed to a Norman influence rather than being inherently Welsh.
+title: Welsh Valentine Traditions

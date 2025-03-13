@@ -1,0 +1,6 @@
+location: Lisworney-Crossways
+next: 12773
+previous: 12698
+storyCount: 2
+summary: Llyn Barfog tells the tale of a Fairy Maiden, while other lakes like Llyn y Dywarchen, Llyn y Fan Fach, and Llyn y Morwynion are associated with enchanting stories of mystical beings. Legends including that of Lisworney-Crossways, and the Lord and Beggar, intertwine with folk practices such as the wearing of the leek and superstitions around Logan Stones.
+title: Legendary Tales and Folklore of Mystical Locations

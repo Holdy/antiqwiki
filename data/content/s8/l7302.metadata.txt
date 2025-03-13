@@ -1,0 +1,6 @@
+location: null
+next: 7311
+previous: 7259
+storyCount: 0
+summary: No story is present in the text provided, which consists only of footnotes. These footnotes reference works on Icelandic sagas and folklore.
+title: Footnotes Analysis

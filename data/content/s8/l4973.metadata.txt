@@ -1,0 +1,6 @@
+location: Ystradgynlais
+next: 5027
+previous: 4946
+storyCount: 1
+summary: Thomas Llewellyn, an innkeeper's son from Ystradgynlais, was frequently visited by the spirit of a woman who instructed him to retrieve and dispose of a box in Philadelphia, Pennsylvania, a task he eventually completes after being spirited away despite attempts by local parishioners to protect him through prayer. Upon returning, Thomas reveals a secret imparted to him by the ghost, believed by locals to connect to a departed resident, Elizabeth Gething, whose spirit they suspect initiated this supernatural endeavor.
+title: The Ghost's Quest

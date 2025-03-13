@@ -1,0 +1,6 @@
+location: null
+next: 10833
+previous: 10781
+storyCount: 0
+summary: The text includes references to specific works on Cambro-British saints and the region of South Wales. However, it does not contain elements of a narrative or story.
+title: 

@@ -1,0 +1,6 @@
+location: United States
+next: 8579
+previous: 8507
+storyCount: 1
+summary: The Fourth of July bonfire tradition in America, echoing ancient sun-god rites, unintentionally mirrors the Druidic celebrations despite its impracticality in a hot, wooden-structured town. While Independence Day firecrackers in America stem from a superstitious origin similar to Chinese customs, a sensible alternative for a summer holiday could be adopting St. Ulric's fish-eating custom.
+title: Independence Day Traditions and Their Ancient Origins

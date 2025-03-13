@@ -1,0 +1,6 @@
+location: Llanfihangel
+next: 4021
+previous: 3935
+storyCount: 1
+summary: Ianto Llewellyn, a Welshman from the parish of Llanfihangel, lived prosperously due to the nightly visits and generosity of fairies, who rewarded him with a shilling each morning for his hospitality and kindness. However, when his wife Betsi's curiosity drove him to reveal the source of their fortune, the fairies’ gifts ceased, leaving them without their mystical income.
+title: Lucky Ianto

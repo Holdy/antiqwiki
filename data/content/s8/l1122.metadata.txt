@@ -1,0 +1,6 @@
+location: null
+next: 1131
+previous: 1073
+storyCount: 0
+summary: This text consists of footnotes and references related to fairy mythology and the Vale of Glamorgan. It includes citations from authors like Keightley and Honourable W. O. Stanley, suggesting scholarly discourse without narrative elements.
+title: Academic References on Mythology

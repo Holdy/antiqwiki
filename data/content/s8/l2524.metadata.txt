@@ -1,0 +1,6 @@
+location: Aberystruth
+next: 2569
+previous: 2496
+storyCount: 1
+summary: Rhys disappears after being lured by fairy music, leaving his friend Llewellyn under suspicion of murder until Rhys is found a year later, dancing wildly in a fairy ring. Although saved from the fairies by Llewellyn, Rhys is a changed man and soon passes away.
+title: The Enchantment of Rhys by the Welsh Fairies

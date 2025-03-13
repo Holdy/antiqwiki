@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 11138
+previous: 11054
+storyCount: 1
+summary: In Carmarthenshire, Wales, the ancient Canna's Stone, associated with healing rituals connected to a magical well, attracts folklore of miraculous relocations conducted by creatures and self-locomoting stones. Similar stories of stones with supernatural powers, including ones in Builth and the Isle of Anglesea, suggest a widespread belief in the mystical transient properties of such stones across Wales.
+title: The Miraculous Stones of Wales

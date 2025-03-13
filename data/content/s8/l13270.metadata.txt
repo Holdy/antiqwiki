@@ -1,0 +1,6 @@
+location: null
+next: 13309
+previous: 13256
+storyCount: 1
+summary: The collection appears to be an index of various topics and cultural beliefs, ranging from folklore and supernatural tales to customs and spiritual beliefs. This includes narratives such as the mystic qualities of wells, beliefs in apparitions, and wedding customs.
+title: Index of Cultural Beliefs and Folklore

@@ -1,0 +1,6 @@
+location: Wales
+next: 96
+previous: 0
+storyCount: 1
+summary: Wirt Sikes explores the rich tapestry of Welsh folklore, focusing on fairies, legends, and traditions in his book 'British Goblins.' This collection delves into the mythological narratives and cultural history of Wales, offering illustrations by T. H. Thomas.
+title: British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions

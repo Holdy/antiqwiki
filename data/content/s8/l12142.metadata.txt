@@ -1,0 +1,6 @@
+location: null
+next: 12211
+previous: 12097
+storyCount: 0
+summary: The document is a list of various legends, myths, and cultural traditions. It includes entries on folkloric creatures and places, such as banshees, legendary stones, and mysterious noises on Barry Island.
+title: 

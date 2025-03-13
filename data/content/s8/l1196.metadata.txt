@@ -1,0 +1,6 @@
+location: Brecon in Wales
+next: 1212
+previous: 1131
+storyCount: 1
+summary: Poet Campbell suggested that Shakespeare likely visited the town of Brecon in Wales where he found inspiration for a magical valley. This valley, known as "The Valley of Fairy Puck," was believed to be a key influence on the setting of "Midsummer Night's Dream."
+title: Shakespeare's Welsh Inspiration

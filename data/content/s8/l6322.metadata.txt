@@ -1,0 +1,6 @@
+location: Monmouthshire
+next: 6348
+previous: 6292
+storyCount: 1
+summary: Sion Cent, a legendary figure in Monmouthshire, was believed to have outwitted the devil multiple times through tricks and clever tactics, while in reality, he was the Rev. John Kent, a minister and writer who lived in the 15th century. He cleverly avoided surrendering his soul by instructing that his body be buried under the chancel wall, thus neither inside nor outside the church, thereby outsmarting the devil's contract terms.
+title: The Legend of Sion Cent

@@ -1,0 +1,6 @@
+location: Island of Britain
+next: 8598
+previous: 8124
+storyCount: 1
+summary: After the death of Beli the Great, Lludd, his eldest son, became the king of the Island of Britain and faced three devastating plagues threatening his reign. With the counsel from his brother Llevelys, king of France, Lludd was able to overcome the plagues by using enchanted insects, cleverly trapping dragons, and defeating a powerful magician, thus restoring peace to Britain.
+title: The Story of Lludd and Llevelys

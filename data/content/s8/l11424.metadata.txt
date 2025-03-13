@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 11480
+previous: 11410
+storyCount: 2
+summary: In Glamorganshire, Wales, the removal of a stone from a fairy ring by Lady Mackworth supposedly angered the local fairies, leading to a storm that buried a costly grotto she had built in its place. Superstitious beliefs regarding inscribed stones, considered by some to be cursed or human transformations, contribute to fear and reluctance among locals towards disturbing these ancient monuments.
+title: The Mysterious Stones of Glamorganshire

@@ -1,0 +1,6 @@
+location: Caerphilly
+next: 12329
+previous: 12142
+storyCount: 2
+summary: A comprehensive list of fairy tales, legends, and superstitions are provided, referencing various mythical creatures, ghost stories, and local folklore. The text contains numerous entries, each pointing to a specific page number, spanning a diverse range of topics from changelings to supernatural occurrences and customs.
+title: Fairy Tales and Legends

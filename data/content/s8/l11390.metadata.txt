@@ -1,0 +1,6 @@
+location: Wales
+next: 11410
+previous: 11336
+storyCount: 1
+summary: In Welsh mythology, giants like Idris are not only known for their physical might but also for their astrological expertise, as they are believed to have deep knowledge of the stars and the firmament. The legend of Rhitta Gawr discusses the sky as a pasture for celestial bodies, demonstrating the integration of cosmic elements in Welsh legends.
+title: The Astrological Giants of Wales

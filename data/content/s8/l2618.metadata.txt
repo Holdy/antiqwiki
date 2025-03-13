@@ -1,0 +1,6 @@
+location: Mathavarn
+next: 2665
+previous: 2569
+storyCount: 1
+summary: Two farm servants, Twm and Iago, fall asleep under a magic yew-tree in the Forest of the Yew, where Iago mysteriously disappears into a fairy circle. A year later, following instructions from a conjuror, Twm retrieves Iago from the fairy dance, only to find that Iago believes no time has passed and crumbles upon eating food.
+title: Plucked from the Fairy Circle

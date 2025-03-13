@@ -1,0 +1,6 @@
+location: North Wales
+next: 8327
+previous: 8235
+storyCount: 1
+summary: In North Wales, Easter is celebrated with unique customs such as 'lifting,' where groups of men and women alternately perform the symbolic act of hoisting the opposite gender into the air, believed to reference resurrection. In Aberconwy, an Easter Monday tradition involves enforcing early rising rules through a humorous consequence of placing late sleepers in stocks, highlighting communal engagement and a playful approach to local customs.
+title: Easter Customs in North Wales and Aberconwy

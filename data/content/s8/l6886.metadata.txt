@@ -1,0 +1,6 @@
+location: Bedwellty
+next: 6938
+previous: 6810
+storyCount: 2
+summary: The groaning spirit near Bedwellty frightened a gathering held for a wake, causing two profane men playing cards to initially dismiss the noise as a trick, but later stop out of fear. Despite attempts to venture outside, the dogs refused to go near the origin of the groans, convincing the men to cease their card game, fearing the presence of a supernatural force.
+title: The Groaning Spirits of Crumlyn and Bedwellty

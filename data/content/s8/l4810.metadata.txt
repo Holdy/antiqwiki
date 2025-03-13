@@ -1,0 +1,6 @@
+location: St. Donat's
+next: 4840
+previous: 4782
+storyCount: 1
+summary: An old housekeeper at St. Donat's began acting strangely after her miser employer's death, claiming to be haunted by his ghost. After a Methodist prayer-meeting, she discovered a bag of money in the chimney and disposed of it in the Ogmore, freeing herself from the ghost's presence.
+title: The Ghost of the Miser and the Methodist Exorcism

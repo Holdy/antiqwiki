@@ -1,0 +1,6 @@
+location: Rome
+next: 8416
+previous: 7438
+storyCount: 1
+summary: Maxen Wledig, Emperor of Rome, dreams of a beautiful maiden in a distant castle, prompting him to send messengers across the world to trace her, ultimately leading to the discovery of the land of Britain. Upon arriving, he marries the maiden, Helen, and conquers Britain and eventually Rome once more, aided by his wife's brothers; they carve out an empire extending through Europe, leaving a lasting legacy on the land's culture and language.
+title: The Dream of Maxen Wledig

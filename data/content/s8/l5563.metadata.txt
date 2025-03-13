@@ -1,0 +1,6 @@
+location: Welsh spirit-land
+next: 5586
+previous: 5508
+storyCount: 1
+summary: The Mabinogion are rich with tales of black men, often giants, who are formidable adversaries, like the one-eyed black man Peredur slew after a fight with a black serpent. These figures suggest a long-standing tradition of terrifying entities in Welsh folklore, which parallels mythical creatures from other cultures, such as the giant of Sindbad the Sailor and Polyphemus from Odysseus's tales.
+title: Black Giants of Welsh Folklore

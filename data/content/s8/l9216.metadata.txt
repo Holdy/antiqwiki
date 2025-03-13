@@ -1,0 +1,6 @@
+location: Mydrim, Carmarthenshire
+next: 9283
+previous: 9146
+storyCount: 1
+summary: In the rural areas of Wales, the traditional custom of bundling, where couples court while lying in bed together fully clothed, persists despite attempts to abolish it by figures like the vicar of Mydrim, Carmarthenshire. The vicar's overzealous efforts to end not just bundling but also more innocent courtship customs, particularly targeting the dissenting congregation, resulted in increased rebellion and a continuation of the practice.
+title: Bundling in Rural Wales: Tradition vs. Reform Efforts

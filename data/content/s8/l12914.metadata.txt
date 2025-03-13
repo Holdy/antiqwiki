@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 12983
+previous: 12889
+storyCount: 2
+summary: The text is a list of legends, customs, and mythical stories, primarily focused on Welsh folklore, touching upon various characters and themes such as the Gwyllgi, Druidic ceremonies, and legendary figures like Prince Pwyll of Dyfed. Locations such as Pembrokeshire and Pontypridd are highlighted, offering a glimpse into the cultural and mystical heritage associated with these places.
+title: 

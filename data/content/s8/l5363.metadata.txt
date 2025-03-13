@@ -1,0 +1,6 @@
+location: Indiana
+next: 5408
+previous: 5356
+storyCount: 1
+summary: Domestic animals, particularly horses, are often believed to sense spirits, as illustrated by tales from both Indiana and Wales where horses reacted with terror to unseen apparitions. This phenomenon raises questions about animal perception, possibly due to a spiritual aura, although more skeptical views attribute such reactions to more natural causes like fears of mundane objects.
+title: The Sensibility of Animals to Spirits

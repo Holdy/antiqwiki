@@ -1,0 +1,5 @@
+instanceOf: book
+title:The Mabinogion
+author: Lady Charlotte Schreiber
+published: 1848
+source:https://www.gutenberg.org/ebooks/5160

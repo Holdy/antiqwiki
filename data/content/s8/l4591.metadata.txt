@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 4629
+previous: 4527
+storyCount: 2
+summary: In Carmarthenshire, the ghost of Pont Cwnca Bach instills fear in those crossing the bridge, with some individuals experiencing a mind-numbing terror that leaves them lost and bewildered. In Cardiganshire, the spirit of Catrin Gwyn, a young shepherd's bride who vanished during a storm in 1705, is believed to haunt a ruined cottage and is most terrifyingly seen during violent weather.
+title: Ghostly Haunts of Wales

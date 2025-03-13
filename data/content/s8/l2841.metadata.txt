@@ -1,0 +1,6 @@
+location: Pontypool
+next: 2872
+previous: 2764
+storyCount: 1
+summary: Polly Williams, a woman from Pontypool, often danced with the fairies near her home, believing them initially to be children, and continued this secret activity for several years. When she decided to stop dancing with them, the fairies were displeased and injured her, though she remained silent about the encounters until much later in life.
+title: The Dance with the Tylwyth Teg

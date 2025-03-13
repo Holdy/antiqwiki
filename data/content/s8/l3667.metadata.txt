@@ -1,0 +1,6 @@
+location: Llanhiddel
+next: 3746
+previous: 3657
+storyCount: 1
+summary: Prophet Jones, known for his devout lifestyle, recounts stories of fairies mostly from others' experiences, highlighting spiritual methods over worldly ones for warding off these mystical beings. He particularly emphasizes the power of pronouncing the name of God and the crowing of a rooster at dawn as effective exorcisms, reflecting deep-rooted folk beliefs about fairies and spirits.
+title: The Prophet Jones and the Fairies

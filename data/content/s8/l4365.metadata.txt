@@ -1,0 +1,6 @@
+location: null
+next: 4380
+previous: 4294
+storyCount: 1
+summary: The excerpt primarily draws an atmosphere filled with spirits as described by a quotation from Shakespeare's 'Tempest'. It evokes an imagery of eternal rounds walked by spectres, referencing both the mystic and the poetical world.
+title: THE SPIRIT-WORLD

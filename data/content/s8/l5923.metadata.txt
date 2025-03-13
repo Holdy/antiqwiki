@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 5964
+previous: 5910
+storyCount: 1
+summary: Sir David Llwyd, a notorious magician from Cardiganshire, controlled a familiar spirit locked in a book and was dismissed from his church role due to his involvement in the black arts. When Sir David left the book behind, his curious assistant accidentally unleashed the spirit, leading to a chaotic scene with stones flying from and back to the river Wye.
+title: The Curious Case of Sir David Llwyd

@@ -1,0 +1,6 @@
+location: Denbighshire
+next: 10705
+previous: 10601
+storyCount: 1
+summary: St. Tecla's well, located in Denbighshire, is known for a superstitious ceremony where fits are transferred from patients to a cock, drawing similarity to the Jewish scapegoat practice. In 1855, it was recounted that birds showed signs of staggering, allegedly due to having received these transferred fits from afflicted individuals.
+title: The Ceremony at St. Tecla's Well

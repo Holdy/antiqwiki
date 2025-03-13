@@ -1,0 +1,6 @@
+location: Wales
+next: 687
+previous: 579
+storyCount: 1
+summary: Despite assumptions by many educated residents and observers, belief in fairies remains prevalent among rural and mining communities in Wales, persisting from generation to generation with a poetic and childlike nature. While these beliefs are often dismissed or attributed to previous centuries, they continue to thrive in the quieter parts of the countryside, challenging the notion that modern society is largely devoid of such folklore.
+title: Fairy Beliefs in Wales

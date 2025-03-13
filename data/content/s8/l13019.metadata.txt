@@ -1,0 +1,6 @@
+location: null
+next: 13180
+previous: 12990
+storyCount: 2
+summary: The text comprises a list of topics and superstitions, primarily focused on folklore, wells, saints, and stones, with many entries referring to various legends and customs. The list covers a broad range of locations and cultural practices, suggesting a deep historical connection with these superstitions and traditions.
+title: Folklore and Superstitions: A Compendium

@@ -1,0 +1,6 @@
+location: Welsh
+next: 11827
+previous: 11745
+storyCount: 1
+summary: In Welsh legends, there is a recurring theme where storms, perceived as baleful spirits, guard hidden treasures and are invoked to punish those who disturb sacred grounds, illustrated in the tale of Sir Owain who fights a storm and a guardian knight to claim a magical fountain's riches. This theme continues in modern folklore with tales of treasure hunters inadvertently awakening these storms or dragons, as seen in the stories of the Paviland caves and Coychurch tower, where treasures lure adventurers despite ominous supernatural warnings.
+title: The Baleful Guardians and Hidden Treasures

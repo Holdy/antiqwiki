@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 473
+previous: 283
+storyCount: 1
+summary: The text outlines various traditional customs and superstitions associated with different times of the year, including New Year's Day, Twelfth Night, and Shrove Tuesday, revealing their deeper cultural significance. It also explores customs related to courtship, marriage, and funeral practices within Welsh culture, showcasing a rich tapestry of historical and regional practices.
+title: Quaint Old Customs

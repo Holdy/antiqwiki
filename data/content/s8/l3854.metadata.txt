@@ -1,0 +1,6 @@
+location: Cwm Llan
+next: 3863
+previous: 3836
+storyCount: 1
+summary: The chapter delves into various Welsh fairy legends, focusing on tales of supernatural gifts and the consequences of revealing fairy secrets, including the story of Gitto Bach and Ianto Llewellyn's encounter with the Tylwyth Teg. The narratives, set around Cwm Llan and Hafod Lwyddog, emphasize the value of kindness and the moral lessons learned from superstitions.
+title: Fairy Money and Gifts in Welsh Legends

@@ -1,0 +1,6 @@
+location: Wales
+next: 321
+previous: 28
+storyCount: 1
+summary: The document discusses the influence of Welsh Mabinogion and Celtic legends on the Medieval Romance literature of Europe, tracing their presence and evolution from the 12th century onwards. Despite the limited publication of Welsh romantic literature, its connection with local topography and historical narratives suggests a significant, though mixed, contribution to the later Continental Romance traditions.
+title: The Influence of Welsh Mabinogion on Medieval Romance

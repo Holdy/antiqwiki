@@ -1,0 +1,6 @@
+location: Llanarmon
+next: 3515
+previous: 3465
+storyCount: 1
+summary: The story discusses a medieval tale recounted by Giraldus about a mysterious language spoken by fairies, which is theorized to be a fusion of Irish and Welsh languages. The language analysis suggests that the words are structured similarly to Welsh and Irish terms for 'give me water' and 'give me salt,' albeit with reversed word order to enhance its marvel.
+title: Medieval Fairy Language

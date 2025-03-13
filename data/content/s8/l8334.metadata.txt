@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 8395
+previous: 8327
+storyCount: 1
+summary: In many parts of Pembrokeshire, activities like ball-playing against church walls and dancing in churchyards were traditional Easter and Sabbath customs, often involving the participation and supervision of clergy. These practices, such as storytelling on 'Cnwc y Celwydd' or witnessing the sun's dance on Easter Day, hint at ancient, possibly Druidic origins, merging with Christian traditions over time.
+title: Easter and Sabbath Traditions in Pembrokeshire

@@ -1,0 +1,6 @@
+location: null
+next: 1549
+previous: 1517
+storyCount: 0
+summary: There are historical references in Archæologia Cambrensis and Cymru Fu. These references include a potentially embellished mermaid story lacking evidential value.
+title: Historical References and Mermaid Stories

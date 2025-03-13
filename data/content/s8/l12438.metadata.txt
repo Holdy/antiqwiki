@@ -1,0 +1,6 @@
+location: Frennifawr
+next: 12536
+previous: 12391
+storyCount: 0
+summary: The text provides a list of entries related to fairies and various folklore topics, without giving a cohesive narrative or story. It includes references to locations like Frennifawr and various folklore elements, but it mainly serves as an index rather than a story.
+title: 

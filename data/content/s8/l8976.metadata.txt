@@ -1,0 +1,6 @@
+location: Llandaff Cathedral
+next: 8999
+previous: 8951
+storyCount: 1
+summary: In Wales, the typically strict Sabbath rules are relaxed within family circles during Christmas, leading to bright and elaborate home decorations with flowers and greenery. Churches, such as Llandaff Cathedral, are grandly decorated with evergreens, holly, and flowers, transforming them into sights of beauty and celebration for the holiday season.
+title: Christmas in Wales

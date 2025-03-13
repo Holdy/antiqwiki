@@ -1,0 +1,6 @@
+location: Wales
+next: 3014
+previous: 2872
+storyCount: 1
+summary: A young Welshwoman is hired by a mysterious man to care for his children in a palace where she is forbidden to use magic ointment on herself. Disobeying this order, she briefly sees the palace's true sinister nature, escapes, and years later pays the price with blindness for her slip of recognition.
+title: The Legend of the Fiend Master

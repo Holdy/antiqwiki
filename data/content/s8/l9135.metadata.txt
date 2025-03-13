@@ -1,0 +1,6 @@
+location: null
+next: 9146
+previous: 9069
+storyCount: 1
+summary: The text explores various historical and cultural courtship and marriage customs, emphasizing the symbolism of flowers and superstitions surrounding love in Welsh tradition. It also delves into intriguing practices like bundling, kissing schools, and rituals involving leeks and eggshells.
+title: CHAPTER V.

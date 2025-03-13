@@ -1,0 +1,6 @@
+location: Llywel parish
+next: 4878
+previous: 4810
+storyCount: 1
+summary: A young man from Llywel parish was haunted by the ghost of Anne Dewy, a woman who had hanged herself, which led him to illness and fright until he decided to confront her. Upon following the ghost's instructions, he found a hidden bag of gold and was instructed to cast it into the river, an act that left the treasure forever lost with no one else able to find it.
+title: The Haunting of Llywel Parish

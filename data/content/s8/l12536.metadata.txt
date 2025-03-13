@@ -1,0 +1,6 @@
+location: Ebbw Vale
+next: 12632
+previous: 12438
+storyCount: 2
+summary: The text provides a list of various folklore and mythological subjects, including tales of ghosts, legends, and supernatural creatures. It categorizes these elements into topics such as ghost stories, mythical figures, and traditional customs, highlighting specific locations like Ebbw Vale and St. Donat's.
+title: G: A Compilation of Legends and Ghost Stories

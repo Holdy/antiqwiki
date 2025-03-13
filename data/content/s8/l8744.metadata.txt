@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 8760
+previous: 8723
+storyCount: 1
+summary: On St. Clement's Day in Pembrokeshire, an effigy of a carpenter is paraded and eventually dismantled by the community. This event includes the symbolic distribution of the effigy's garments among local carpenters, followed by the destruction of the image.
+title: The St. Clement's Day Tradition in Pembrokeshire

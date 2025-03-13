@@ -1,0 +1,6 @@
+location: Vale of Neath
+next: 13270
+previous: 13249
+storyCount: 2
+summary: The text is an index of topics and stories related to Welsh folklore and legends, referencing locations like the Vale of Neath and figures such as Vavasor Powell. Specific entries mention goblins, devils, and mythical wells, highlighting the folkloric traditions of Wales.
+title: Welsh Folklore and Legends Index

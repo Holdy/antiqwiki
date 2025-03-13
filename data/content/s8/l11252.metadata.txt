@@ -1,0 +1,6 @@
+location: Carmarthen
+next: 11276
+previous: 11226
+storyCount: 1
+summary: In various parts of Wales, stones with reputed healing powers, like the Alluring Stone near Carmarthen, are believed to cure ailments such as warts and even hydrophobia. These stones, sometimes found by cross-roads or originating from legends of the sky, continue to influence local folklore and practices.
+title: Stones of Healing: Welsh Folklore

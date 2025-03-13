@@ -1,0 +1,6 @@
+location: null
+next: 12707
+previous: 12685
+storyCount: 0
+summary: The text lists various folklore and mythical themes without offering a cohesive narrative. It includes topics such as 'Knife', 'Exorcism by the Knife', 'Knockers in Mines', and 'Kobolds'.
+title: List of Folklore Themes

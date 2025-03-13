@@ -1,0 +1,6 @@
+location: null
+next: 569
+previous: 473
+storyCount: 1
+summary: In the realm of faerie, the milkmaid encounters fairies and their queen on her solitary path, where they perform a magical dance around the green. Ethereal melodies fill the air as she listens to the enchanting music, occasionally invisible yet captivating.
+title: BRITISH GOBLINS

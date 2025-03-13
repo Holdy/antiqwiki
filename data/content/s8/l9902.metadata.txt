@@ -1,0 +1,6 @@
+location: Wales
+next: 9998
+previous: 9882
+storyCount: 1
+summary: The Sin-eater ritual, a supposed funeral custom in Wales and nearby regions, involves a person consuming bread and beer over the deceased to absorb their sins, but historical evidence and local Welsh writings largely omit any mention of such a tradition, leading to skepticism about its authenticity. Despite accounts from the 17th century and mentions by later antiquarians, many well-informed Welsh people deny the existence of the Sin-eater custom, and its validity remains questionable due to lack of corroborative evidence.
+title: The Sin-Eater Custom: Myth or Reality?

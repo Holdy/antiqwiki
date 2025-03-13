@@ -1,0 +1,6 @@
+location: Pencader
+next: 2764
+previous: 2618
+storyCount: 2
+summary: Taffy ap Sion, a shoemaker's son from near Pencader, Carmarthenshire, enters a fairy circle and finds himself in a transformed world where a new farm stands in place of his old home. Realizing he has been with the fairies, Taffy crumbles to ashes before the farmer seeking Catti Shon's help, leaving behind only the memory of his mysterious disappearance.
+title: Lost in the Fairy Circle

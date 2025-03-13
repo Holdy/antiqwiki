@@ -1,0 +1,6 @@
+location: Holywell
+next: 10690
+previous: 10560
+storyCount: 1
+summary: St. Winifred's Well in Holywell, renowned for its miraculous healing powers, has been visited by throngs of the sick for over eleven centuries and continues to draw visitors from Great Britain and beyond. The well's legendary origins trace back to St. Winifred's martyrdom, where her blood is said to have created the miraculous fountain known for performing countless cures.
+title: The Legend and Miracles of St. Winifred's Well

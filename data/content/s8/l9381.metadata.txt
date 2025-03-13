@@ -1,0 +1,6 @@
+location: null
+next: 9391
+previous: 9333
+storyCount: 1
+summary: The text explores various traditional wedding customs, including unique practices such as Horse-Weddings and the symbolic throwing of rice and shoes. It also delves into cultural elements like the Gwyntyn and Ceffyl Pren, highlighting the rich tapestry of matrimonial traditions.
+title: Wedding Customs: A Cultural Exploration

@@ -1,6 +1,6 @@
-location: null
+location: Cambridge, Massachusetts
 next: 4412
 previous: 4353
 storyCount: 0
-summary:  
+summary: The text provides details about the publisher, The Riverside Press, including its location and printing company in Cambridge, Massachusetts. It does not contain any narrative or story elements.
 title: The Riverside Press

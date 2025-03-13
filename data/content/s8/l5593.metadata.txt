@@ -1,0 +1,6 @@
+location: Bedwellty
+next: 5617
+previous: 5586
+storyCount: 3
+summary: In the Welsh township of Bedwellty, Lewis Thomas encountered a terrifying apparition of a man whirling on its hands and feet, leading to a chilling experience. Other eerie sightings included John Jenkins' ghost spinning after his suicide and Thomas Andrew's encounter with a goblin by a wall near Lanhiddel, each instilling fear and trepidation in the witnesses.
+title: Grotesque Welsh Goblins

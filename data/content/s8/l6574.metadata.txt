@@ -1,0 +1,6 @@
+location: Wales
+next: 6681
+previous: 6564
+storyCount: 1
+summary: In Wales, numerous and varied death portents exist, such as the Gwrach y Rhibyn, Cyhyraeth, and Canwyll Corph, which serve as harbingers of death with their distinct and eerie manifestations. These omens often involve spectral sights and sounds, such as the Lledrith, Mallt y Nos, and celestial phenomena that appear ominously before a person's demise, uniquely entrenched in Welsh folklore and traditions.
+title: Welsh Death Portents and Omens

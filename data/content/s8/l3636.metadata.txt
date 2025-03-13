@@ -1,0 +1,6 @@
+location: Pontypool
+next: 3657
+previous: 3592
+storyCount: 1
+summary: Prophet Jones recounts being led astray by the Old Woman of the Mountain near Pontypool, only to reach an unfamiliar house where he prayed and impressed the inhabitants with his devoutness. As a result, much good persisted in that house, despite the old woman's intentions.
+title: The Prophet Jones's Encounter

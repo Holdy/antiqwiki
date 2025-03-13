@@ -1,0 +1,6 @@
+location: Wales
+next: 4275
+previous: 4152
+storyCount: 1
+summary: The text explores the vibrant attire of various Welsh fairies, noting how colors like green, blue, scarlet, and white play significant roles in their descriptions, tying them to local traditions and historical customs such as those seen in Cardiganshire, Glamorganshire, and Pembrokeshire. The preference for white in fairy clothing is linked to the historical value of linen, contrasting with the darker, more practical attire of Welsh peasants and reflecting a cultural reverence for the color in celebratory contexts.
+title: The Colorful Attire of Welsh Fairies

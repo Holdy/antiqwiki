@@ -1,0 +1,6 @@
+location: null
+next: 6734
+previous: 6681
+storyCount: 1
+summary: The Gwrach y Rhibyn is a terrifying Welsh apparition, notorious for its ugliness and gender-shifting form, that serves as an omen of death by calling out the names of those who are to die. Known for its blood-curdling howl and cadaverous appearance, this spectre frightens all who encounter it, with stories of those unwittingly confronting the creature leading to panic and fear.
+title: The Gwrach y Rhibyn: A Welsh Apparition

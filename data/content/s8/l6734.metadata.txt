@@ -1,0 +1,6 @@
+location: Llandaff
+next: 6771
+previous: 6700
+storyCount: 1
+summary: A peasant-farmer recounts his encounter with the Gwrach y Rhibyn, a spectral figure, at Llandaff, known for its ancient Christian heritage. He witnessed the eerie apparition enter the Cow and Snuffers Inn, coinciding with the death of the longstanding owner, Llewellyn, a member of an old family tied to the location for centuries.
+title: The Haunting at Llandaff

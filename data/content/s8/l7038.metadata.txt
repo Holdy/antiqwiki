@@ -1,0 +1,6 @@
+location: Pontypridd
+next: 7072
+previous: 6993
+storyCount: 1
+summary: In October 1878, a Welsh railway accident near Pontypridd was preceded by an ominous occurrence experienced by one of the victims, who heard unexplained footsteps in his home days prior to the collision. The incident was recounted by a newspaper correspondent emphasizing belief in omens, citing other supernatural experiences as proof while lamenting the skepticism of others.
+title: The Omen Before Death

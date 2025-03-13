@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 9811
+previous: 9725
+storyCount: 1
+summary: In a rural village in Glamorganshire, a custom called the Coolstrin involved a mock trial for husbands suspected of having overbearing wives, culminating in a derisive parade to publicly shame the family. The comical but harsh proceedings included a mock court with role-playing and a noisy procession through the town, designed to reform behavior by exposing the couple to ridicule.
+title: The Coolstrin: A Rural Tradition

@@ -1,0 +1,6 @@
+location: null
+next: 5363
+previous: 5284
+storyCount: 0
+summary: The footnotes reference the 'Mabinogion' and a work by Jones on apparitions, indicating a focus on folklore and supernatural themes. The texts do not convey a narrative or story but suggest sources for further reading on cultural tales and ghostly phenomena.
+title: Reference Notes

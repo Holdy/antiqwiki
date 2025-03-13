@@ -1,0 +1,6 @@
+location: Llandilo Fawr
+next: 7552
+previous: 7455
+storyCount: 2
+summary: Morris Griffith shares a supernatural experience where he witnesses a mysterious red light in the valley that predicts a burial at Llanferch-Llawddog church, which correlates with strange noises he heard before a child's death. In another account, Joshua Coslet encounters a Corpse Candle, a foreboding apparition in Llandilo Fawr parish, and a Carmarthenshire tradition describes three Corpse Candles predicting the fate of three passengers who drowned.
+title: Corpse Candles and Prophecies

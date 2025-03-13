@@ -1,0 +1,6 @@
+location: Llyn Barfog
+next: 1653
+previous: 1549
+storyCount: 2
+summary: In the legend of Llyn Barfog, an old farmer captures a mystical elfin cow from the lake's green ladies, gaining immense wealth from her abundant milk until he foolishly decides to slaughter her, only for the cow to vanish along with her progeny, resulting in the genesis of the Welsh black cattle. The tale, also found in the 'Iolo MSS.,' describes a miraculous milk-white cow that healed diseases and bestowed wisdom through her milk, but disappeared forever when people attempted to exploit her for food.
+title: The Legend of the Elfin Cow

@@ -1,0 +1,6 @@
+location: Montgomeryshire
+next: 10249
+previous: 10221
+storyCount: 2
+summary: In Montgomeryshire, Wales, it was once common for burials to occur without a coffin, using only a cloth called the cadach deupen, but this practice ended after an incident where the cloth tore during a ceremony. In the Middle Ages, a custom in Wales involved the wealthy being buried in monk's garments to safeguard against evil spirits, benefiting church revenues.
+title: Traditional Burial Customs in Wales

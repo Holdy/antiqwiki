@@ -1,0 +1,6 @@
+location: Wales
+next: 11693
+previous: 11651
+storyCount: 1
+summary: The Welsh legend tells of Gast Rhymhi, a princess transformed into a wolf-bitch as punishment for her sins, living in a cave with her two cubs until restored to human form by King Arthur. This tale resembles the story of Melusina, where a woman is cursed with a serpentine form and must find a man to marry under special conditions to break the enchantment.
+title: The Legend of Gast Rhymhi

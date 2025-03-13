@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 3901
+previous: 3854
+storyCount: 1
+summary: The Welsh folklore emphasizes that fairy gifts, like money or bread, are as good as gold if kept secret; revealing them causes them to revert to worthless forms. Gitto Bach, a farmer's boy, vanished for two years playing with mysterious children on a mountain, and returned with fanciful clothes that turned out to be mere paper.
+title: The Tale of Gitto Bach and Fairy Gifts

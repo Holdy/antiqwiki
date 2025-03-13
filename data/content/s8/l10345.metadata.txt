@@ -1,0 +1,6 @@
+location: Rhayader
+next: 10354
+previous: 10322
+storyCount: 1
+summary: The text explores various myths and legends associated with bells, highlighting their supposed supernatural abilities such as committing murder, possessing occult powers, and functioning as detectives and doctors. It includes tales like the legend of the Bell of Rhayader and the Golden Bell of Llandaff, illustrating the enchanting folklore surrounding these objects.
+title: Primeval Bell Mysteries

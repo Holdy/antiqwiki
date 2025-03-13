@@ -1,0 +1,6 @@
+location: Moel Arthur
+next: 11867
+previous: 11827
+storyCount: 1
+summary: The peasants around Moel Arthur Mountain believe in a buried treasure, concealed in a supernatural iron chest, that lights up at night. Whenever someone attempts to uncover it, they are thwarted by a violent storm, reinforcing the legend of a protected royal residence.
+title: The Legend of Moel Arthur

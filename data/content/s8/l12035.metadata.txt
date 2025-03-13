@@ -1,0 +1,6 @@
+location: null
+next: 12058
+previous: 11961
+storyCount: 1
+summary: The Welsh dragon, particularly its redness, is interpreted as symbolizing evil in moral conflicts, similar to black in Persian legends. This symbolism is explored in various literary works, including the legend of Merlin and Vortigern.
+title: The Symbolism of the Welsh Dragon

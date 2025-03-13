@@ -1,0 +1,6 @@
+location: Abergwyddon
+next: 1196
+previous: 1122
+storyCount: 1
+summary: The mischievous Welsh fairy, Pwca, is believed to have inspired parts of Shakespeare's 'Midsummer Night's Dream', specifically the character of Puck, with tales of Pwca's antics and the location Cwm Pwca being linked to the play. A known story involves a servant girl at Trwyn farm near Abergwyddon, who angered Pwca by tampering with his offerings and was punished by invisible hands, a tale still believed by the local inhabitants.
+title: The Mischievous Pwca and Shakespeare's Puck

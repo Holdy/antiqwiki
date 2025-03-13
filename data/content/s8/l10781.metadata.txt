@@ -1,0 +1,6 @@
+location: Barry Island
+next: 10826
+previous: 10752
+storyCount: 1
+summary: Barry Island near Cardiff was known for the well of St. Barruc, which was believed to have healing powers and was visited by many until 1879, when it was closed to become a rabbit warren. The island, associated with mysterious sounds and sacred legends, was historically significant for its connections to saints and earlier religious practices, including miraculous tales of books found in fish and journeys across the sea.
+title: The Tales of Barry Island

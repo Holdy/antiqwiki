@@ -1,0 +1,6 @@
+location: Wales
+next: 1945
+previous: 1877
+storyCount: 1
+summary: In Welsh folklore, the belief in mermaids is absent, but there are legends of mortals marrying water-maidens, akin to similar myths found across different cultures involving supernatural wives from sea or lake settings. In Wales, the tales are linked to the lakes, while in the Faro Islands, the tale involves a seal-woman, and in China, a celestial maiden; these stories collectively highlight a shared mythological theme across varied civilizations.
+title: Legends of Water-Maidens: From Wales to the Far East

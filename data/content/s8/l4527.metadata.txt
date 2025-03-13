@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 4591
+previous: 4510
+storyCount: 2
+summary: In January 1877, the streets of Ebbw Vale in Glamorganshire were haunted by mysterious ghostly figures—a woman and a child—stirring fear and curiosity among locals who speculated they might be thieves or escaped séance spirits. In contrast, Duffryn House near Cardiff has proudly housed the ghost of Sir Thomas Button in its cellar and garden for over two centuries, while St. Donat's Castle hosts the wandering specter of Lady Stradling, who signals impending mishaps.
+title: The Ghosts of Glamorganshire

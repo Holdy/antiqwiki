@@ -1,0 +1,6 @@
+location: Llantwit Major
+next: 4810
+previous: 4769
+storyCount: 1
+summary: A tailor's wife from Llantwit Major was haunted by a spirit insisting she dispose of hidden treasure in the Ogmore river. After mistakenly throwing the treasure upstream, the spirit cast her into a whirlwind, leaving her insensible in the church lane.
+title: The Spirit's Demand

@@ -1,0 +1,6 @@
+location: Vale of Neath
+next: 733
+previous: 687
+storyCount: 1
+summary: In the popular imagination of South Wales, North Wales was considered a land of enchantment, home to giants, fairies, and a wizard monarch named Gwydion, all detailed in the Welsh stories of the Mabinogion. More recently, fairyland was said to be located in the Vale of Neath, Glamorganshire, particularly around Craig y Ddinas, though sightings of fairies have ceased, allegedly due to the influence of Methodists.
+title: The Enchanted Lands of Wales

@@ -1,0 +1,6 @@
+location: Wales
+next: 5237
+previous: 5181
+storyCount: 1
+summary: The chapter explores various tales and legends of Wales, focusing on spectral animals and phantoms, including the Gwyllgi or Dog of Darkness. It delves into specific legends such as the Gwyllgi of the Devil's Nags and the ghostly presence at Lisworney Crossways, highlighting the fear these apparitions instill in both humans and animals.
+title: Spectral Animals and Phantoms

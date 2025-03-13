@@ -1,0 +1,6 @@
+location: Penrhos
+next: 10922
+previous: 10880
+storyCount: 1
+summary: A well near Penrhos was believed to have the power to cure diseases like cancer by allowing sufferers to wash in its water while uttering curses and dropping pins around it. The well was drained by a farmer due to the damage trespassers caused to his crops.
+title: The Cursing Well of Penrhos

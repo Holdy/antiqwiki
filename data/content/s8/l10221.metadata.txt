@@ -1,0 +1,6 @@
+location: null
+next: 10228
+previous: 10161
+storyCount: 0
+summary: The text provides references to archival materials and publications, indicating a historical or academic context. There is no narrative story contained within the given text.
+title: 

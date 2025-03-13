@@ -1,0 +1,6 @@
+location: Britain
+next: 11039
+previous: 10969
+storyCount: 1
+summary: The adoption of pre-Christian water-worship practices by early Christian missionaries in Britain, particularly those associated with wells and fountains, was a strategy to integrate ancient superstitions into the new religious framework while maintaining their traditional significance. As Christianity spread, these water sources were sanctified, transitioning from Druidic rituals to Christian rites, and became associated with both spiritual and physical healing, intertwining the concepts of cleansing from sin and disease.
+title: Integration of Pagan Water-Worship into Early Christianity

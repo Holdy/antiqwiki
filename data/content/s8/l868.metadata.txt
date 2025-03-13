@@ -1,0 +1,6 @@
+location: Breconshire
+next: 884
+previous: 803
+storyCount: 1
+summary: The text delves into various Welsh fairies, exploring their roles, characteristics, and origins within folklore, with specific focus on beings like the Tylwyth Teg, Ellyllon, Pooka, and Coblynau. It highlights both the mythological stories associated with these creatures and their influence on cultural perceptions, including their appearances in Shakespeare's works.
+title: Classification of Welsh Fairies

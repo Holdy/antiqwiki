@@ -1,0 +1,6 @@
+location: null
+next: 5437
+previous: 5408
+storyCount: 1
+summary: Stories of phantom ships and islands, rooted in mirage phenomena, are prevalent along coasts and often intertwine with ancient mythology. While lacking a scientific understanding of mirages, cultures like the Chinese continue to attribute supernatural explanations to these phenomena.
+title: Mirages and Mythology

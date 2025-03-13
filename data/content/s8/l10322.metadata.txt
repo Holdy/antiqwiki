@@ -1,0 +1,6 @@
+location: null
+next: 10345
+previous: 10285
+storyCount: 1
+summary: The excerpt features mythical creatures like gorgons and chimeras, and tales about magical wells with life-restoring powers. References to literary works underscore themes of magic and the supernatural.
+title: Bells, Wells, Stones, and Dragons

@@ -1,0 +1,6 @@
+location: Wales
+next: 8976
+previous: 8770
+storyCount: 1
+summary: In Wales, Christmas day offers a plethora of god-fearing amusements, including concerts and eisteddfodau, amidst halls adorned with evergreens symbolizing perennial life. These cultural gatherings parallel ancient intellectual contests, with poetry, music, and essays vying for prizes akin to those in classical Olympia.
+title: Christmas Festivities: A Welsh Tradition

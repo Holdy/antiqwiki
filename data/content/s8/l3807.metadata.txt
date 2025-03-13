@@ -1,0 +1,6 @@
+location: Merionethshire
+next: 3836
+previous: 3755
+storyCount: 1
+summary: A farmer from Merionethshire, tormented by a mischievous fairy called Bwbach, attempted to rid himself of it by pretending to move to England, as advised by a wise woman. However, as he set out, the fairy cleverly announced its intention to stay with the family, thwarting the farmer's plan and forcing him to return home with the nuisance still in tow.
+title: The Mischievous Bwbach of Merionethshire

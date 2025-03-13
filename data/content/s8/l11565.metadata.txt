@@ -1,0 +1,6 @@
+location: Llanarth
+next: 11590
+previous: 11503
+storyCount: 1
+summary: In Llanarth, near Aberaeron, an inscribed twelfth-century stone known as the Devil's Stone bears marks believed to be made by the devil during an encounter with the village vicar. According to local tradition, one stormy night, the devil created a commotion in the church belfry but was confronted by the vicar, resulting in the devil's fall onto the stone, leaving four holes.
+title: The Devil's Stone of Llanarth

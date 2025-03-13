@@ -1,0 +1,6 @@
+location: Llandwyn, Anglesea
+next: 10738
+previous: 10690
+storyCount: 1
+summary: St. Dwynwen's well in Llandwyn, Anglesea, historically revered for curing love-sickness, continues to attract individuals seeking relief from heartache, despite being covered with sand. The site is still visited by young women who now seek their cure from nearby waters, maintaining their faith in the well's legendary healing properties.
+title: The Legend of St. Dwynwen's Well

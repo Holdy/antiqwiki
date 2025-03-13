@@ -1,0 +1,5 @@
+instanceOf:glossary
+source:https://antiq.wiki
+title:The Antiq.wiki Glossary
+author: antiq.wiki
+published: 2025

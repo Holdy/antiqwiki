@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 6500
+previous: 6431
+storyCount: 1
+summary: In Wales, historical accounts often feature the devil's appearances, but modern angelic visitations are rare and attributed to figures like David Thomas, who once witnessed children-like angels singing during a prayer. Additionally, the death of Rees David was marked by the heard singing of angels by those present, a testament to the belief in the dying witnessing beyond what the living can perceive.
+title: Angelic Apparitions in Wales

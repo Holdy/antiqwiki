@@ -1,0 +1,6 @@
+location: null
+next: 8181
+previous: 8153
+storyCount: 0
+summary: The text outlines various traditional customs and superstitions associated with different days and events leading up to and during Easter, such as Mothering Sunday, Palm Sunday, and Good Friday. It highlights unique practices like walking barefoot to church, the significance of buns, and the spiritual traditions of communities during this festive period.
+title: Sundry Lenten Customs

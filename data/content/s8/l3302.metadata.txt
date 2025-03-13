@@ -1,0 +1,6 @@
+location: Ogof (the Cave)
+next: 3391
+previous: 3250
+storyCount: 1
+summary: In a famous Welsh legend, fiddler Iolo ap Hugh ventures into an enchanted cave filled with magical melodies but never returns, becoming a ghostly figure rumored to appear near the cave on Hallow E'en. The haunting music he played, known as 'Ffarwel Ned Pugh', is said to be audible from the cave on certain occasions, leaving a chilling legacy of his mysterious disappearance.
+title: The Legend of Iolo ap Hugh

@@ -1,0 +1,6 @@
+location: Cylepsta Waterfall
+next: 3302
+previous: 3154
+storyCount: 1
+summary: Morgan Gwilym saw fairies by Cylepsta Waterfall and heard their enchanting yet unrecallable music. Edmund Daniel frequently witnessed the fairies crossing from Cefn Bach to Hafodafel, and many in the area noted their sweet, unlearnable tunes.
+title: The Music of the Tylwyth Teg

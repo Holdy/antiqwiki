@@ -1,0 +1,6 @@
+location: Wales
+next: 12035
+previous: 11920
+storyCount: 1
+summary: In Welsh mythology and folk tales, hidden treasures are often guarded by different mythical creatures such as dragons, eagles, or sleeping warriors, embodying the mystical and dangerous aura of underground vaults and caves. These legends link the current landscape with ancient narratives of warning and wonder, echoing through various districts with symbolic protectors who ensure the treasures remain undisturbed until the destined time for heroes to awaken and reclaim their heritage.
+title: Guardians of the Hidden Treasures: Welsh Legends

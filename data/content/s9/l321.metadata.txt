@@ -1,0 +1,6 @@
+location: Caerlleon upon Usk
+next: 1209
+previous: 55
+storyCount: 1
+summary: King Arthur's knight, Owain, embarks on an adventure to the mystical fountain, culminating in battles with a black knight and a sorcerous antagonist, eventually rescuing Luned from execution and defeating a giant with the help of a loyal lion companion. Owain, through prowess and chivalry, earns admiration and love, ultimately returning to the Countess of the Fountain to become her husband, though his heart later wanders, leading to a penitent, isolated journey punctuated by redeeming heroic acts.
+title: The Lady of the Fountain

@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 2618
+previous: 2524
+storyCount: 2
+summary: In the first story from Carmarthenshire, a farmer joins a fairy dance and becomes trapped in the fairy ring for many years, only to crumble into dust upon his release when a passerby inadvertently breaks the spell. A similar story from Carnarvonshire involves a devout monk who falls into a deep sleep for thousands of years, awakening to find himself out of time and eventually turning to ashes.
+title: The Captive of the Fairy Ring and The Sleep of the Monk

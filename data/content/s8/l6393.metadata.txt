@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 6431
+previous: 6348
+storyCount: 1
+summary: In Wales, the Devil's Bridge in Cardiganshire is surrounded by legends, including one where the devil helps an old woman retrieve her cow by building a bridge, but she cleverly tricks him by sending her dog across first, saving herself. Similar stories of bridges built by the devil appear in other European countries, each with unique variations on how the devil is outsmarted.
+title: Legends of the Devil's Bridge: A Welsh Tale

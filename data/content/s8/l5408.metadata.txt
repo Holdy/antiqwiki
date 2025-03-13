@@ -1,0 +1,6 @@
+location: Isle of Man
+next: 5423
+previous: 5363
+storyCount: 1
+summary: The Gwyllgi is a spectral creature associated with coastal areas, akin to the Mauthe Doog and the Shock, and its presence is considered ominous though not a direct death omen. Distinct from the Gwyllgi, the Cwn Annwn, or hellhounds, are confirmed omens of death, maintaining their mythological significance over time.
+title: The Folklore of the Gwyllgi and Cwn Annwn

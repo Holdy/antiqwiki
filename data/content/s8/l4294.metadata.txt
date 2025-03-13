@@ -1,0 +1,6 @@
+location: Wales
+next: 4365
+previous: 4275
+storyCount: 1
+summary: In Wales, the Tylwyth Teg are believed to be the souls of mortals unworthy of heaven but not destined for hell, living on earth until the resurrection day, where they will then be judged. Their legend is deeply rooted in the country's history and religious shifts, with variations including the spirits of ancient Druids and fairies as spirits thrown from heaven, reflecting the region's dark epochs during exposure to Popery and ignorance.
+title: The Legend of Wales' Tylwyth Teg

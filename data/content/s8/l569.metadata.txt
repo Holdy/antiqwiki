@@ -1,0 +1,6 @@
+location: Wales
+next: 579
+previous: 548
+storyCount: 1
+summary: The text explores the enduring belief in fairies within Welsh culture, contrasting it with the rational explanations provided by science. It delves into various fairy myths, including the tale of St. Collen and Gwyn ap Nudd, highlighting the mysterious and enchanting elements of Welsh folklore.
+title: CHAPTER I.

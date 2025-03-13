@@ -1,0 +1,6 @@
+location: Mynyddyslwyn
+next: 5910
+previous: 5822
+storyCount: 1
+summary: A famous Welsh tale recounts the story of Pwca'r Trwyn, a mischievous spirit that haunted the Trwyn Farm in Mynyddyslwyn, Wales, engaging in playful antics such as stone-throwing and unseen communications. During its stay from Christmas to Easter, the invisible spirit became part of the household's life, often speaking and playing music, until it bid farewell, leaving the family with unforgettable memories.
+title: Pwca'r Trwyn: The Invisible Spirit of Trwyn Farm

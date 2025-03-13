@@ -1,0 +1,6 @@
+location: Llangollen
+next: 2841
+previous: 2665
+storyCount: 1
+summary: Tudur, a shepherd in Llangollen, encounters a mysterious fiddler and becomes enchanted by the enchanting music and dancing fairies, only to find himself trapped in an endless dance with the devil's fiddle. His master's pious intervention the next day breaks the spell, saving Tudur and allowing him to recount his surreal adventure for years to come.
+title: Tudur's Dance with the Fairies

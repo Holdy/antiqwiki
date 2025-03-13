@@ -1,0 +1,6 @@
+location: Swansea
+next: 10962
+previous: 10911
+storyCount: 1
+summary: St. Illtyd miraculously drove back the sea that frequently overflowed his land and created a well near Swansea, known for flowing milk instead of water on one occasion. The occurrence of milky water was witnessed and confirmed by onlookers who saw curds and floating fatty substances, demonstrating the well's miraculous nature.
+title: The Miraculous Well of St. Illtyd

@@ -1,0 +1,6 @@
+location: null
+next: 5563
+previous: 5446
+storyCount: 2
+summary: Edward Frank encountered a giant ghost in Llantarnam, while Thomas Miles Harry saw a gigantic woman near Abergavenny, both leaving them utterly terrified and in disbelief of their supernatural encounters. Meanwhile, Anne from Trefethin witnessed a frightful black apparition near Ffynon yr Yspryd that terrified both her and her dog, as the ground trembled under its heavy presence before it vanished with an eerie whistle.
+title: Ghostly Encounters

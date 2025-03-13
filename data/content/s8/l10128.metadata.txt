@@ -1,0 +1,6 @@
+location: null
+next: 10135
+previous: 10087
+storyCount: 0
+summary: There is no coherent story present in the provided text. The text consists of references and footnotes without narrative content.
+title: .

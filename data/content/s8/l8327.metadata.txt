@@ -1,0 +1,6 @@
+location: null
+next: 8334
+previous: 8266
+storyCount: 1
+summary: The footnotes refer to a historical work called 'Arch. Camb.' documented in section 4 of volume iii on page 334, and another titled 'Hist. and Ant. of Aberconwy' on page 108. These references seem to point to scholarly resources related to historical studies, possibly of a particular region or topic.
+title: Historical References

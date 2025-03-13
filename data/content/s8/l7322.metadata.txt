@@ -1,0 +1,6 @@
+location: Wales
+next: 7365
+previous: 7311
+storyCount: 1
+summary: In Welsh folklore, the Canwyll Corph or Corpse Candle is a popular and picturesque death-omen that appears as a ghostly candlelight, foretelling imminent death. This superstition, with its variant forms like a flambeau or a light from a person's features, is deeply ingrained in Welsh culture, often symbolizing impending death with varying characteristics such as flame color and size.
+title: The Canwyll Corph: A Welsh Death-Omen

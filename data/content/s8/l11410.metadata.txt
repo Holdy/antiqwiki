@@ -1,0 +1,6 @@
+location: Neath
+next: 11424
+previous: 11390
+storyCount: 1
+summary: The text explores the legends and superstitions surrounding various ancient stones and megalithic structures, such as the stone pillar of Banwan Bryddin and the Sagranus Stone, located near Neath. These stones are linked to tales of transformation, folklore of fairies, and the history of Druidism in Wales, with each stone carrying its own unique story and mythology.
+title: Ancient Stone Legends of Wales

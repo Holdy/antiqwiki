@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 8146
+previous: 8058
+storyCount: 1
+summary: St. Patrick's Day is enthusiastically celebrated in Wales, where it is believed that St. Patrick was originally a Welshman, born in Llandeilo Talybont, Glamorganshire, before becoming a missionary in Ireland. Despite the belief in his Welsh origins and contributions, the celebration of St. Patrick's Day in Wales is not generally led by native Welsh people.
+title: The Celebration of St. Patrick's Day in Wales

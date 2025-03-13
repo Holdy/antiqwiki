@@ -1,0 +1,6 @@
+location: Lanboydi
+next: 7494
+previous: 7444
+storyCount: 2
+summary: A blacksmith named William John from Lanboydi encountered a Corpse Candle and attempted to obstruct its path, resulting in him being struck down and falling ill, coinciding with the death and funeral of a woman he knew. In Carmarthenshire, a clergyman's son followed a Corpse Candle from a servant's nostrils and tried to experiment with the ghostly light, only to be knocked unconscious, and the servant passed away thereafter.
+title: Encounters with the Corpse Candle

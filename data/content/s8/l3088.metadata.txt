@@ -1,0 +1,6 @@
+location: Pant Shon Shenkin
+next: 3154
+previous: 3080
+storyCount: 1
+summary: Shon ap Shenkin, enchanted by a fairy song, unknowingly spends many years under a tree, returning home to find everything and everyone he knew long gone. Mistaking a moment for years, he soon realizes his fate and crumbles into dust when greeted by his nephew.
+title: The Enchantment of Shon ap Shenkin

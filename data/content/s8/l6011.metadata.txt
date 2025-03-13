@@ -1,0 +1,6 @@
+location: Treveilir
+next: 6126
+previous: 5964
+storyCount: 1
+summary: Einion, beguiled by the enchanting Lady of the Wood, is torn away from his wife and family through a powerful illusion, but eventually returns to discover the deceptive goblin's manipulation. With the help of a mysterious man in white, he breaks free from the spell, reveals the goblin's true monstrous form to his wife Angharad, and restores his lost life and love.
+title: The Legend of the Lady of the Wood

@@ -1,0 +1,6 @@
+location: Wales
+next: 12094
+previous: 12035
+storyCount: 1
+summary: The lightning caverns in ancient Aryan fables, which were mythologized explanations for thunderstorms, inspired tales of treasure-hills and dragon-haunted caves in Wales. The Welsh word 'draig' meaning both lightning and dragon, reflects the cultural merging of natural phenomena and mythical narratives.
+title: VIII.

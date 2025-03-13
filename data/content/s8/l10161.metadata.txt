@@ -1,0 +1,6 @@
+location: Wales
+next: 10221
+previous: 10135
+storyCount: 1
+summary: In Welsh funeral customs, mourners pay the officiating clergy a gratuity called the 'offrwm,' and the gravedigger collects a separate donation labeled 'spade money' or 'Arian y Rhaw,' both serving historically as tributes of respect. These practices persist in various forms, with anecdotes such as humorous incidents involving the sexton's spade at gravesites, illustrating the blend of tradition and social ritual.
+title: Welsh Funeral Customs: Offrwm and Arian y Rhaw

@@ -1,0 +1,6 @@
+location: Hafod Lwyddog
+next: 4045
+previous: 3975
+storyCount: 1
+summary: A shepherd named Meirig, living by the Green Lake, showed kindness to a fairy by giving her an old shirt for her baby. In return, he received silver coins nightly, leading to immense prosperity for him and his family at Hafod Lwyddog.
+title: The Legend of Hafod Lwyddog

@@ -1,0 +1,6 @@
+location: Abergeleu
+next: 10752
+previous: 10705
+storyCount: 1
+summary: In Abergeleu, several wells, including the well of Cynfran, were historically used for the healing of animals, invoking blessings from saints like Cynfran and St. George. The rich would offer a horse to secure blessing for their animals, highlighting the cultural significance of these wells in animal welfare.
+title: The Healing Wells of Abergeleu

@@ -1,0 +1,6 @@
+location: Wales
+next: 10514
+previous: 10455
+storyCount: 1
+summary: A legendary bell known for its melodious sound was stolen by a king but was miraculously returned to St. Illtyd's church in Wales, leading a procession of horses along the way. Years later, a bell discovered in Llantwit Major was believed to be connected to this legend, reflecting the lasting veneration of St. Illtyd, a former soldier of King Arthur who founded churches.
+title: The Legendary Bell of St. Illtyd

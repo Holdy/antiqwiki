@@ -1,0 +1,6 @@
+location: Crumlyn
+next: 5923
+previous: 5833
+storyCount: 1
+summary: The scene of this story is located on top of a mountain, accessible by a glorious tramp from Crumlyn and returning to Abercarne. The main setting includes an ancient and quaint Welsh farmhouse overlooking a majestic and isolated ravine.
+title: A Glorious Tramp from Crumlyn

@@ -1,0 +1,6 @@
+location: Anglesea
+next: 5284
+previous: 5237
+storyCount: 1
+summary: The Rev. Mr. Hughes, a clergyman from Anglesea, repeatedly encountered a chained spirit in the form of a greyhound while on his way to preach. After speaking with the spirit, he discovered it was restless due to an unpaid church debt, which he resolved, thus freeing the spirit.
+title: The Chained Spirit of Anglesea

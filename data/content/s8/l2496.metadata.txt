@@ -1,0 +1,6 @@
+location: St. Dogmell's parish, Pembrokeshire
+next: 2524
+previous: 2457
+storyCount: 1
+summary: In the 19th century, St. Dogmell's parish in Pembrokeshire was notorious for mysterious occurrences where individuals were led astray by supernatural forces, only to find themselves near their homes by daylight. These adventures, believed to be caused by fairies or phantoms, resulted in untraceable journeys and bizarre experiences that residents could never fully recount.
+title: The Mysteries of St. Dogmell's Parish

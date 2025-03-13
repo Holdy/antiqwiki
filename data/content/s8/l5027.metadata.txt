@@ -1,0 +1,6 @@
+location: Lanidloes
+next: 5057
+previous: 4973
+storyCount: 2
+summary: Sir David Llwyd, a Welsh magician, gave a boy a seemingly instantaneous ride home causing him to find his lost garter hanging in a tree the next day, revealing they traveled through the air. Similarly, Henry Edmund was mysteriously transported through the air to a distant location after ignoring advice to stay the night, and returned to find the conjuror who had forewarned him.
+title: Adventures of Welsh Magicians

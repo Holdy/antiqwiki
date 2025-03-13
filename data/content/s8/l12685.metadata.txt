@@ -1,0 +1,6 @@
+location: null
+next: 12698
+previous: 12668
+storyCount: 2
+summary: The world of folklore presents strange and diverse tales, each capturing unique aspects of supernatural and mythical narratives. Spanning topics from playful spirits to ominous prophecies, these stories weave a rich tapestry of cultural beliefs and superstitions.
+title: Folklore Tales

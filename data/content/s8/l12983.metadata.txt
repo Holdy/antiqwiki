@@ -1,0 +1,6 @@
+location: null
+next: 12990
+previous: 12914
+storyCount: 0
+summary: The text mentions various terms like 'Quintain' and 'Quoits', indicating elements likely related to sports or games. However, it lacks a narrative structure, character development, or locations that would constitute a story.
+title: None

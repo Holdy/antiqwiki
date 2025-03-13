@@ -1,0 +1,6 @@
+location: Bedwellty Mountain
+next: 2089
+previous: 2017
+storyCount: 1
+summary: Evan Thomas, while traveling by night over Bedwellty Mountain, drove away the Gwyllion by drawing his knife, a common exorcism method in Wales. This event reflects a broader European superstition that knives play a crucial role in warding off unwelcome spirits and cutting ties, with such beliefs even extending to parts of America and China.
+title: Exorcism by Knife and the Gwyllion

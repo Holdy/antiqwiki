@@ -1,0 +1,5 @@
+instanceOf: book
+title:British Goblins: Welsh Folk-lore, Fairy Mythology, Legends and Traditions
+author:Wirt Sikes
+published: 1880
+source:https://www.gutenberg.org/ebooks/34704

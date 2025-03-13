@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 11503
+previous: 11424
+storyCount: 2
+summary: The Sagranus Stone in Pembrokeshire was used as a bridge and believed to be haunted, which contributed to its preservation as people avoided touching it after dark. In the same region, the Dancing Stones of Stackpool are said to move and meet at a specific location to dance on a particular day, before returning to their original positions.
+title: The Mystical Stones of Pembrokeshire

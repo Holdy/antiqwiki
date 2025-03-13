@@ -1,0 +1,6 @@
+location: Llanelian, Denbighshire
+next: 10911
+previous: 10849
+storyCount: 1
+summary: St. Elian's well in Llanelian, Denbighshire, Wales, is infamous for its supposed ability to curse individuals with misfortunes and ailments. A minister of the well performs these curses for a fee, and victims often suffer mentally and physically unless the curse is ritually removed.
+title: The Dreadful Curse of St. Elian's Well

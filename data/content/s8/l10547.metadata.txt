@@ -1,0 +1,6 @@
+location: Barry Island
+next: 10560
+previous: 10514
+storyCount: 1
+summary: The text explores the mystical wells of a particular region, detailing their capabilities of healing and curses as well as the legends associated with them, such as those of St. Winifred, St. Elian, and others. It discusses various beliefs surrounding these wells, including ritual offerings and miraculous properties attributed to specific wells like Taff's Well and St. Elian's Cursing Well.
+title: Mystic Wells and Their Legends

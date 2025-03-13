@@ -1,0 +1,6 @@
+location: Carnarvonshire
+next: 10849
+previous: 10826
+storyCount: 1
+summary: Ffynon Gwynwy, a small spring near Llangelynin church in Carnarvonshire, is believed to cure warts with the use of crooked pins. Locals feared touching the old pins at the well, believing that doing so would transfer warts onto their own hands.
+title: VIII.

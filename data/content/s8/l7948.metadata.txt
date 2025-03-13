@@ -1,0 +1,6 @@
+location: Wales
+next: 8042
+previous: 7932
+storyCount: 1
+summary: St. Dewi's Day, celebrated on March 1st, is a significant cultural event for the Welsh, where they honor their patron saint by wearing leeks, participating in processions, and holding grand feasts, especially in Wales and places with Welsh communities. The tradition of wearing leeks has military origins linked to St. David and is a symbol of national pride, though it is often misunderstood and ridiculed by others, as depicted in humorous accounts such as an English legend confused Welshmen with outangs.
+title: The Significance of St. Dewi's Day and the Leek Tradition

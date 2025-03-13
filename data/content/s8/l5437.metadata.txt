@@ -1,0 +1,6 @@
+location: Ffynon yr Yspryd
+next: 5446
+previous: 5423
+storyCount: 1
+summary: The chapter explores various ghostly tales including the Phantom Horseman and the Black Ghost of Ffynon yr Yspryd, drawing parallels with modern spiritualistic practices. It also delves into otherworldly presences like household fairies and references legendary black figures from the Mabinogion.
+title: Grotesque Ghosts

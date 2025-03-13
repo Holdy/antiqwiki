@@ -1,0 +1,6 @@
+location: Wales
+next: 1122
+previous: 992
+storyCount: 1
+summary: The Ellylldan, a type of Welsh will-o'-the-wisp, is said to lure late-night wanderers into marshes, where it often played with curious passersby amid marshy grounds, before disappearing due to agricultural advancements. A poetic encounter describes a character following the elusive elf-light through a dreamy marshland, guided by its glow before it joins a circle of lights in a ghostly dance.
+title: Encounter with the Ellylldan

@@ -1,0 +1,6 @@
+location: Bala, in Merionethshire, to Machynlleth, Montgomeryshire
+next: 5508
+previous: 5437
+storyCount: 1
+summary: The Rev. John Jones, while traveling alone on horseback, felt threatened by a sinister man with a sickle and began to despair, only to be mysteriously joined by a silent horseman who deterred the potential attacker. The ghostly companion vanished as suddenly as he had appeared, leading the minister to believe he experienced divine protection during his perilous journey.
+title: The Phantom Horseman of Wales

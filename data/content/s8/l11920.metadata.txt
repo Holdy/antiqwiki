@@ -1,0 +1,6 @@
+location: Castell Coch
+next: 11961
+previous: 11898
+storyCount: 1
+summary: A reduced lady living in Castell Coch encounters a ghost of a former proprietor who buried a treasure guarded by eagles in a subterranean passage, leading her to leave the castle due to disturbances. A group of gentlemen trying to find the treasure is attacked fiercely by the eagles, and after an unsuccessful attempt involving silver bullets, barely escape with their lives.
+title: The Legend of Castell Coch

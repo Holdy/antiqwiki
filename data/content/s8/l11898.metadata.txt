@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 11920
+previous: 11867
+storyCount: 1
+summary: In the mysterious Cavern of the Ravens in Glamorganshire, a reckless drover from Brecknockshire, ignoring warnings, ventured inside with disastrous results. Terrified by the ensuing thunder and lightning, he fled and refused to ever speak of the terrifying sights he encountered.
+title: The Cavern of the Ravens

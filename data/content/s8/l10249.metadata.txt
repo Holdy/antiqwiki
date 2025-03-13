@@ -1,0 +1,6 @@
+location: Llanfwrog
+next: 10285
+previous: 10228
+storyCount: 1
+summary: Sul Coffa is a Welsh tradition involving respectful visits to graves after a funeral, demonstrating both collective mourning and the personal aspect of honoring the dead. Ivan the Harper requested a unique Sul Coffa with musical performances, which was faithfully executed by his disciples at his graveside.
+title: Sul Coffa: Honoring the Dead

@@ -1,0 +1,6 @@
+location: Cambria
+next: 1806
+previous: 1653
+storyCount: 1
+summary: The farmer, captivated by the lake maiden in her golden boat, endeavors to win her love through sacrificial offerings of bread and cheese, and eventually marries her under the condition that he never strikes her thrice. Their union ends tragically when he disregards this stipulation three times, leading to her permanent departure along with all she brought as a dowry.
+title: The Legend of the Lake Maiden

@@ -1,0 +1,6 @@
+location: Tridoll Valley, Glamorganshire
+next: 5760
+previous: 5617
+storyCount: 1
+summary: A mischievous spirit plagued William Thomas's house in Tridoll Valley, Glamorganshire, playing tricks like throwing objects around, hiding keys, and disturbing the maid-servant. The spirit, believed to test their faith, finally left when William Thomas commanded it to depart in God's name after it revealed the location of misplaced items.
+title: The Haunting of Tridoll Valley

@@ -1,0 +1,6 @@
+location: null
+next: 12668
+previous: 12536
+storyCount: 0
+summary: The document contains a list of folklore topics, categorized alphabetically with page references, such as 'Hafod Lwyddog, Legend of', 'Harp Music among Welsh Fairies', and 'Headless Horse, the'. These entries vary from legends and mythological details to superstitions and customs, indicating a compilation of cultural tales and beliefs.
+title: Folklore Compendium

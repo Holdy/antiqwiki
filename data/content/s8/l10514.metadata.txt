@@ -1,0 +1,6 @@
+location: Llandaff
+next: 10547
+previous: 10476
+storyCount: 1
+summary: The legend of St. Oudoceus, the second bishop of Llandaff, tells of how he transformed a piece of butter into a golden bell after mischievous girls refused to lend him a cup to drink from a fountain. This bell, said to have healing properties, is preserved at the church of Llandaff, serving as a symbol of divine power and the bishop's lasting legacy.
+title: The Golden Bell of Llandaff

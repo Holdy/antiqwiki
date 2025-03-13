@@ -1,0 +1,6 @@
+location: Anglesea
+next: 3807
+previous: 3746
+storyCount: 1
+summary: Old Betty Griffith used a barricade of thick gorse to protect herself from the mischievous fairies, known as the Tylwyth Teg, which troubled her frequently in her home. Mrs. Stanley visited Betty and upon learning about her plight, was told that the prickly shrub effectively kept the fairies at bay, giving Betty some peace and rest.
+title: Protection from Fairies in Anglesea

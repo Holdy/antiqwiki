@@ -1,0 +1,6 @@
+location: Taiar
+next: 2335
+previous: 2238
+storyCount: 1
+summary: Dewi Dal's home was overrun with noisy fairies until his wife, Eurwallt, cleverly tricked them into leaving by preparing a ridiculously meager meal for fifteen supposed workers. Believing the hosts to be impoverished, the fairies decided to depart, bringing peace and comfort back to Dewi Dal's household.
+title: The Departure of the Noisy Fairies

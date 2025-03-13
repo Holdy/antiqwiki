@@ -1,0 +1,6 @@
+location: Panteg
+next: 5228
+previous: 5135
+storyCount: 1
+summary: In the Welsh parish of Panteg, Margaret, a servant-girl also known as Marget yr Yspryd, was haunted by the ghost of her seducer, who had been cursed by her to find no rest after abandoning her on their wedding day. Eventually, upon forgiving him at the site of their encounter, the ghost found peace and vanished, ending Margaret's haunting experience.
+title: The Story of Haunted Margaret

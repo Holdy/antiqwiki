@@ -1,0 +1,6 @@
+location: null
+next: 2385
+previous: 2335
+storyCount: 0
+summary: The text provides citations from two reference works, one on folk-lore in Northern Counties and another on Chinese social life. It does not present any narrative or story, but rather a list of references for further reading.
+title: 

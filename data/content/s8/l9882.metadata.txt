@@ -1,0 +1,6 @@
+location: Llancaiach
+next: 9902
+previous: 9827
+storyCount: 1
+summary: Two men from Llancaiach named Servis and Humphrey were arrested for fighting. Their altercation occurred after they attended a funeral and consumed alcohol, leading to a court sentencing.
+title: Incident After a Funeral

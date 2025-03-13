@@ -1,0 +1,6 @@
+location: null
+next: 4973
+previous: 4878
+storyCount: 1
+summary: Ghosts and fairies in Welsh folklore often collaborate to transport mortals through the air, offering a choice of travel above, amid, or below the wind. Of the three options, traveling amid wind is said to be the most pleasant, while above wind and below wind involve more extreme and uncomfortable experiences.
+title: The Collaboration of Ghosts and Fairies

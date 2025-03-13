@@ -1,0 +1,6 @@
+location: null
+next: 11082
+previous: 11039
+storyCount: 1
+summary: Welsh stones were believed to possess sentient qualities and magical powers, leading to widespread stone-worship that persisted despite efforts to suppress it by medieval Christian laws. The amalgamation of pagan beliefs into Christian traditions allowed monks to attract the peasantry who were attached to their ancient superstitions.
+title: The Enchanted Welsh Stones: An Amalgamation of Paganism and Christianity

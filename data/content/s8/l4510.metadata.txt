@@ -1,0 +1,6 @@
+location: Wales
+next: 4527
+previous: 4468
+storyCount: 1
+summary: The ghostly folklore of Wales features a rich tapestry of spectral entities that have been passed down meticulously through generations. These Welsh spectres can be classified into six distinct categories, reflecting their longstanding cultural significance and vividness.
+title: The Ghosts of Wales

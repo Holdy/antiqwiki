@@ -1,0 +1,6 @@
+location: null
+next: 743
+previous: 694
+storyCount: 0
+summary: The footnote provides bibliographical information about 'The Mabinogion,' a collection of medieval Welsh tales, translated by Lady Charlotte Guest. It also notes the shared name of two hills in Glamorganshire with others across Wales.
+title: Bibliographical Footnotes

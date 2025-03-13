@@ -1,0 +1,6 @@
+location: Wales
+next: 8744
+previous: 8716
+storyCount: 1
+summary: November the Fifth and the Fourth of July share roots in ancient Druidic sacrifices and are observed with fiery traditions like bonfires and fireworks. These celebrations, although historic and deeply rooted, are often considered nuisances by many citizens in their respective countries.
+title: The Legacy of November the Fifth and the Fourth of July

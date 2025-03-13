@@ -1,0 +1,6 @@
+location: Glamorganshire
+next: 11000
+previous: 10962
+storyCount: 2
+summary: In Glamorganshire, Wales, Taff's Well is frequented for its reputed healing properties, with visitors adhering to a tradition of hanging clothes while bathing in its waters. Sanford's Well, also in Glamorganshire, exhibits a curious behavior of ebbing and flowing against the ocean tides, leading to long-standing supernatural beliefs among locals.
+title: Mystic Wells of Glamorganshire

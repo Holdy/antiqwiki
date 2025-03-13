@@ -1,0 +1,6 @@
+location: Llanvihangel Llantarnam
+next: 4769
+previous: 4716
+storyCount: 2
+summary: A ghost in the Welsh spirit world can only speak after being addressed by a living person, and it can be dangerous to interrupt it once it begins its tale. Thomas Cadogan's ghost sought to rectify the injustice he committed in life by moving boundary markers, and successfully petitioned a woman to correct his wrongdoing, after which he found peace.
+title: Laws of the Welsh Spirit-World and the Tale of Cadogan's Ghost

@@ -1,0 +1,6 @@
+location: null
+next: 117
+previous: 1
+storyCount: 0
+summary: This text is a dedication to Albert Edward, Prince of Wales, introducing a work about the fairy mythology and folklore of his principality. The illustration titled 'The Old Woman of the Mountain' is part of this work.
+title: 

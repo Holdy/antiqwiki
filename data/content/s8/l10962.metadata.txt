@@ -1,0 +1,6 @@
+location: null
+next: 10969
+previous: 10922
+storyCount: 0
+summary: The text consists of references from scholarly works about Cambro-British themes. There is no narrative story present within the text, only citations and references.
+title: Scholarly Citations on Cambro-British Themes

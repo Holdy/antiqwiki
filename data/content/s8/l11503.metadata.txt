@@ -1,0 +1,6 @@
+location: Moelfre Hill
+next: 11565
+previous: 11480
+storyCount: 2
+summary: Three women, working on the Sabbath on Moelfre Hill, were turned into stone pillars of different colors as punishment for their disregard of the commandment. Similarly, legends in Llandyfrydog and Rolldritch tell of people turned to stone for their misdeeds, including a robber and victims of a witch.
+title: Local Legends of Transformation into Stone

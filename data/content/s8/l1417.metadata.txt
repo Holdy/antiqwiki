@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 1460
+previous: 1378
+storyCount: 1
+summary: A Welsh goblin called the Bwbach shows favor to tidy maids by helping with household tasks, provided they follow traditional customs, but disapproves of dissenters such as a local Baptist preacher. In Cardiganshire, a Bwbach terrorizes a preacher who prefers prayers over ale, culminating in a supernatural encounter that forces the preacher to leave the area, as the goblin rides away behind him on his horse.
+title: The Bwbach and the Preacher

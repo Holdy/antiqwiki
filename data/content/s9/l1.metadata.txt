@@ -1,0 +1,6 @@
+location: null
+next: 28
+previous: 0
+storyCount: 0
+summary: The Mabinogion, a collection of Welsh tales, is available through Project Gutenberg for free and with minimal restrictions. Users are encouraged to verify legal access rights based on their location, particularly outside the United States.
+title: The Mabinogion

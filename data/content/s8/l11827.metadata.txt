@@ -1,0 +1,6 @@
+location: Caerau
+next: 11849
+previous: 11760
+storyCount: 1
+summary: In Cardiganshire, near Caerau, two men believed treasure was hidden beneath a hollow road due to hints from a fairy disguised as a gypsy. After uncovering what seemed to be a subterranean doorway, a storm mysteriously filled their dig, reinforcing their belief in supernatural interference.
+title: The Hidden Treasure of Caerau

@@ -1,0 +1,6 @@
+location: null
+next: 283
+previous: 117
+storyCount: 0
+summary: The text is an organized table of contents for a book that explores various themes and stories about Welsh fairies, delving into their mythology, habits, and legends. Each chapter presents a distinct aspect of fairy folklore, including classifications, famous legends, and their cultural significance in Wales.
+title: THE REALM OF FAERIE

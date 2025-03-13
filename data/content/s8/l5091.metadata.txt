@@ -1,0 +1,6 @@
+location: Montgomeryshire
+next: 5135
+previous: 5057
+storyCount: 1
+summary: In Montgomeryshire, Wales, a legend tells of St. Monacella, an Irish princess who escaped an arranged marriage by fleeing to the Welsh countryside, where she protected a hunted hare under her robes, leading to the foundation of a sanctuary on the site. The story highlights the reverence for hares in the region, known as Monacella's Lambs, with tales of them escaping hunters' dogs when blessed under the saint’s protection.
+title: The Legend of St. Monacella

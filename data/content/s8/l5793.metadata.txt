@@ -1,0 +1,6 @@
+location: Akron
+next: 5822
+previous: 5760
+storyCount: 1
+summary: In Akron, Ohio in October 1878, the Metzler family was plagued by mysterious stones being thrown at their home. Despite efforts by a local priest to exorcise any spirits, the stone-throwing continued, even striking the priest himself.
+title: Strange Occurrences in Akron

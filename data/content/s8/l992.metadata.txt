@@ -1,0 +1,6 @@
+location: Peterstone-super-Ely
+next: 1073
+previous: 985
+storyCount: 1
+summary: In the Huntsman's Rest Inn near Cardiff, a group discusses the hard times and prospects of emigration, when the conversation turns to folklore, leading to the tale of Rowli Pugh, a farmer plagued by poor fortune. After an encounter with a mysterious ellyll who offers a peculiar solution, Rowli's luck changes as a fairy population begins secretly helping with chores, but when his wife Catti's curiosity leads her to observe them, the fairies disappear, although Rowli's prosperity remains.
+title: Rowli Pugh and the Ellyll's Blessing

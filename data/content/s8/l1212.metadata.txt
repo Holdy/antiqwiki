@@ -1,0 +1,6 @@
+location: null
+next: 1234
+previous: 1196
+storyCount: 1
+summary: A peasant on his way home encounters a dusky little figure carrying a lantern and follows it, only to be led to the edge of a precipice. The goblin jumps across the chasm, laughs maliciously, extinguishes its light, and leaves the peasant stranded in fear.
+title: The Pwca Story

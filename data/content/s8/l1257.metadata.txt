@@ -1,0 +1,6 @@
+location: Wales
+next: 1325
+previous: 1234
+storyCount: 1
+summary: Welsh miners are often considered superstitious due to their vivid imaginations, which conjure fears of supernatural entities amidst the dangerous and mysterious conditions of the mines. Historic beliefs surrounding mining dangers, such as fire-damp and strange sounds, reflect an intertwining of superstition and emerging scientific explanations.
+title: Miner Superstitions in Wales

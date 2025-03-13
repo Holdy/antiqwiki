@@ -1,0 +1,6 @@
+location: Dyved
+next: 7438
+previous: 6497
+storyCount: 1
+summary: After losing his possessions and people to a magical curse, Manawyddan, along with Pryderi and their companions, relocates and survives using various crafts in different towns, each time facing hostility and envy from local craftsmen. Ultimately, Manawyddan captures a mouse, which turns out to be part of the magical scheme oppressing their land, and negotiates the release of his companions and the restoration of their land from Llwyd, the enchanter.
+title: Manawyddan the Son of Llyr

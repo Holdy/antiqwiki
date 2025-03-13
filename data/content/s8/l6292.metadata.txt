@@ -1,0 +1,6 @@
+location: Wales
+next: 6322
+previous: 6280
+storyCount: 1
+summary: In Wales, numerous tales describe the devil appearing among mortals, sometimes tricked by them, reflecting a long-standing tradition of folklore featuring cunning humans outwitting this malevolent spirit. These stories, deeply ingrained in Welsh culture, are considered part of a broader mythological narrative showcasing the recurring motif of the victory of light over darkness.
+title: The Devil in Welsh Folklore

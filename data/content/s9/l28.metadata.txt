@@ -1,0 +1,6 @@
+location: null
+next: 55
+previous: 1
+storyCount: 2
+summary: "The Mabinogion" is a collection of Welsh tales translated by Lady Charlotte Guest. The book includes stories such as "The Lady of the Fountain," "Peredur the Son of Evrawc," and "Pwyll Prince of Dyved."
+title: The Mabinogion

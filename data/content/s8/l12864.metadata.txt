@@ -1,0 +1,6 @@
+location: Wales
+next: 12889
+previous: 12773
+storyCount: 1
+summary: The text is a list of topics related to Welsh mythology and folklore, including various fairy names, mythic locations, and cultural customs. Locations such as Nant yr Ellyllon, Narberth, and Barry Island are highlighted, with a specific focus on fairy tales and supernatural occurrences in Wales.
+title: Welsh Mythology and Folklore

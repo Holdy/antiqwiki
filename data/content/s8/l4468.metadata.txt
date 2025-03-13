@@ -1,0 +1,6 @@
+location: Monmouthshire
+next: 4510
+previous: 4391
+storyCount: 1
+summary: In Monmouthshire, spiritual beliefs are deeply intertwined with the acceptance of a spirit-world, and Prophet Jones fervently teaches that disbelief in ghosts equates to folly. Advocates like Wesley and Luther were staunch supporters of the existence of spirits, warning that to deny such realities is to undermine foundational religious beliefs.
+title: .

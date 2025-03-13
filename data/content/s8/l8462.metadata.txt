@@ -1,0 +1,6 @@
+location: Defynog
+next: 8494
+previous: 8455
+storyCount: 1
+summary: In the parish of Defynog, Breconshire, a traditional May Day celebration involved two boys being chosen as King of Summer and King of Winter, where they were dressed in birch boughs and paraded around the village to gather donations. Another custom involved boys carrying a partially peeled rod topped with a cock or cross through the village, shouting to awaken the village's echoes.
+title: Traditional May Day Celebrations in Defynog

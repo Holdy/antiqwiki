@@ -1,0 +1,6 @@
+location: Llanllawddog, Carmarthenshire
+next: 3030
+previous: 2941
+storyCount: 1
+summary: Iago ap Dewi, known for translating 'Pilgrim's Progress' into Welsh, disappeared from his home in Llanllawddog, Carmarthenshire for seven years. The local folklore suggests that he was taken by fairies while stargazing, but upon his return, he refused to disclose his whereabouts during his absence.
+title: The Enigma of Iago ap Dewi

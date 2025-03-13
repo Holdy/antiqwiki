@@ -1,0 +1,6 @@
+location: null
+next: 12438
+previous: 12329
+storyCount: 2
+summary: A collection of folklore tales and traditions are presented, with mentions of superstitions, mythical creatures, and legendary artifacts like Excalibur from various cultures. The collection categorizes stories involving fairies, elves, and other mythical beings, including protective customs and exorcism practices.
+title: Folklore and Mythological Tales

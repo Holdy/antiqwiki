@@ -1,0 +1,6 @@
+location: Wales
+next: 9333
+previous: 9216
+storyCount: 1
+summary: In Wales, various customs of romantic divination known as Rhamanta are practiced by young lovers to predict their future partners, which include rituals like the Maid's Trick and placing a shoulder of mutton under the pillow in Pembrokeshire. In Glamorganshire, grains of wheat on a shovel and a girl's garter used as a talisman are methods employed to foresee marriage prospects, with the results indicating either a happy union or an ominous future.
+title: Romantic Divination Practices in Wales

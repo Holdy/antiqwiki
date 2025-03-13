@@ -1,0 +1,6 @@
+location: Frennifawr
+next: 2941
+previous: 2841
+storyCount: 1
+summary: A shepherd lad encountered the mysterious, enchanting Tylwyth Teg, or fairies, dancing on the Frennifawr mountain, who charmed him into entering their magical realm filled with endless pleasures and beauty. Despite the joy and abundance surrounding him, curiosity led him to drink from a forbidden well, which caused the magical world to vanish, leaving him alone on the mountain.
+title: The Fairies of Frennifawr

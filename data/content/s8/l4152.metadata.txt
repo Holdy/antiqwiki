@@ -1,0 +1,6 @@
+location: Wales
+next: 4214
+previous: 4129
+storyCount: 1
+summary: The Tylwyth Teg, or fairies, are hypothesized to have originated from ancient Druids hiding in subterraneous places to evade persecution, maintaining a secretive lifestyle by venturing out at night, with rituals to inspire awe and fear, such as leaving small presents for a bowl of milk. Despite several conjectures that they might have been stranded Irish invaders, the regularity of their systems and customs points to a Druidic origin, as a means to protect themselves and their families from discovery and persecution, possibly preserving their existence until population growth and deforestation made it impossible.
+title: The Hypothesis of Tylwyth Teg's Origin

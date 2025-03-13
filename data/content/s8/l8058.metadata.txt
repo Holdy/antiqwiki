@@ -1,0 +1,6 @@
+location: Llandewi Brefi
+next: 8120
+previous: 8042
+storyCount: 1
+summary: St. David, a legendary figure in Welsh lore, is depicted as a man of great stature and miraculous powers who performed numerous miracles throughout his life, including reviving the dead and consuming his opposers with heavenly fire. According to legend, he chose the day of his death, at which angels celebrated his passing, taking him to a place of eternal light and joy, with his legacy commemorated by the renowned St. David's church at Llandewi Brefi.
+title: The Legend of St. David

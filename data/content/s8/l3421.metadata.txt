@@ -1,0 +1,6 @@
+location: Monmouthshire
+next: 3465
+previous: 3400
+storyCount: 1
+summary: Edmund Jones, known as the Prophet Jones, was a notable dissenting minister in Monmouthshire famous for his firm belief in fairies and his prophetic gifts. He authored rare books on Welsh folk-lore and became renowned for accurately predicting events and generously helping the needy, reinforcing his legendary status in his community.
+title: The Prophet Jones of Monmouthshire: A Believer in Fairies and Foreteller of Events

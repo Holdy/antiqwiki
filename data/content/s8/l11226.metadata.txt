@@ -1,0 +1,6 @@
+location: null
+next: 11252
+previous: 11215
+storyCount: 2
+summary: In the church of St. David's of Llanfaes, a miraculous stone once trapped a boy caught stealing from a pigeon's nest, and his parents had to pray for three days to release him, leaving his finger marks forever on the stone. A similar incident occurred in the valley of Mowddwy, where the stone trapped the knight Maelgwn Gwynedd until he reconciled with St. Tydecho, who was then granted a sanctuary by the knight in compensation.
+title: The Miraculous Stones of Llanfaes and Mowddwy

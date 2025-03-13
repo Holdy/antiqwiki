@@ -1,0 +1,6 @@
+location: null
+next: 8455
+previous: 8395
+storyCount: 1
+summary: The text describes the ancient traditions surrounding the first of April and May-day, highlighting their connections to nature's revival and associated festivities, such as the foolery of April 1st and the Maypole dances on May 1st. It also narrates the legendary conflict on May 1st between Gwyn ap Nudd and Gwythyr for the love of the splendid maiden, a battle ordained to continue every May Day until doomsday.
+title: Traditions of April and May

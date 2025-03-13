@@ -1,0 +1,6 @@
+location: Beacon Mountain
+next: 1378
+previous: 1257
+storyCount: 2
+summary: The Coblynau, mythical dwarf-like beings, are said to inhabit secret regions within mountains, sometimes wandering into the open like during William Evans' early morning encounter with fairies mining coal on Beacon Mountain. A different account tells of Egbert Williams witnessing these creatures dancing in a field in Bodfari, Denbighshire, where they disappeared upon human approach.
+title: Encounters with the Coblynau

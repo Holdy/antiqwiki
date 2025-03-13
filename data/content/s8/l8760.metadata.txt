@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 8770
+previous: 8744
+storyCount: 1
+summary: The chapter explores various Welsh Christmas traditions, including bell-ringing, carols, and the cultural significance of events like Eisteddfodau and Plygain. It also touches on the moral views of Welsh society and the integration of pagan elements in Christmas celebrations, as seen in activities in Carmarthenshire.
+title: Nadolig, the Welsh Christmas

@@ -1,0 +1,6 @@
+location: Wales
+next: 7608
+previous: 7494
+storyCount: 1
+summary: St. David, a historical religious figure, is credited with introducing ghostly death-portents in Wales by praying for signs of the afterlife, deeply influencing local folklore. These vivid omens, believed to have originated as a fusion of Christian and Druidic traditions, continue to evoke sincere belief and storytelling among Welsh people today.
+title: The Origin of Welsh Death-Portents

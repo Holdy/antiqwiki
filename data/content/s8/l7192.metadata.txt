@@ -1,0 +1,6 @@
+location: Narberth
+next: 7252
+previous: 7129
+storyCount: 1
+summary: The Cwn Annwn, or Dogs of Hell, are mythical hounds believed to herald death, with their howls growing quieter as they approach and louder as they recede, yet inflicting no harm themselves. Their origin is linked to the Welsh folklore involving Pwyll, Prince of Dyfed, who encountered the hounds of Arawn while hunting near Narberth, and tales still persist about their eerie presence in the skies of South Wales.
+title: The Legend of Cwn Annwn: Dogs of Hell
