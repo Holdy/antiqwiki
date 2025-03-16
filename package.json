@@ -1,18 +1,19 @@
 {
-  "name": "antiq.wiki",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "server": "python3 -m http.server 8000"
-  },
-  "author": "",
-  "license": "CC0",
-  "description": "",
-  "devDependencies": {
-    "@types/node": "^22.13.5"
-  },
-  "dependencies": {
-    "zod": "^3.24.2",
-    "zod-to-json-schema": "^3.24.3"
-  }
+    "name": "antiq.wiki",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "server": "python3 -m http.server 8000",
+        "push": "GIT_SSH_COMMAND='ssh -i ~/.ssh/forholdy' git push origin"
+    },
+    "author": "",
+    "license": "CC0",
+    "description": "",
+    "devDependencies": {
+        "@types/node": "^22.13.5"
+    },
+    "dependencies": {
+        "zod": "^3.24.2",
+        "zod-to-json-schema": "^3.24.3"
+    }
 }

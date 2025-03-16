@@ -4,3 +4,5 @@ previous: 6372
 storyCount: 1
 summary: A man from Tirup owned a mare with a Nis that brought him luck and secretly fed his animals with stolen corn. When a new owner sold the mare, he lost his prosperity as the luck followed the mare, but the new owner lost the Nis's favor by spying, equalizing fortunes again.
 title: The Nis and the Mare
+coordinates:55.91091390953164, 13.04601770744953
+tags:household-spirit

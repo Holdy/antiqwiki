@@ -1,0 +1,5 @@
+instanceOf: book
+title:Brownies and Bogles
+author: Louise Imogen Guiney
+published: 1888
+source:https://www.gutenberg.org/ebooks/39782

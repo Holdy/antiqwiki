@@ -4,3 +4,5 @@ previous: 9335
 storyCount: 1
 summary: In the vicinity of Dardesheim, a magical spring flows from a hill inhabited by helpful dwarfs who loan festive attire and utensils to the locals. In return, the dwarfs are content with just a share of the festival's feast left at the hill.
 title: The Friendly Dwarfs
+coordinates:51.97655768795633, 10.83393892060206
+tags:borrowing dwarf
