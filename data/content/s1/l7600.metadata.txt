@@ -2,5 +2,5 @@ location: null
 next: 7611
 previous: 7596
 storyCount: 0
-summary:  
+summary: The text consists exclusively of references and footnotes from various historical documents and publications. These references include descriptions of locations and historical accounts, but no narrative is provided.
 title: 

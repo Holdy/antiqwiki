@@ -1,6 +1,8 @@
+coordinates: 50.36838976267484, 3.7342311998995275
 location: Montignies-sur-Roc
 next: 624
 previous: 86
 storyCount: 1
 summary: A young cowherd named Michael, called the Star Gazer, follows a dream to a castle where he uncovers the secret of twelve princesses who wear out their shoes each night dancing with enchanted princes. Through magical assistance, Michael discovers their hidden midnight revelries and eventually wins the heart of the youngest princess, Lina, becoming a prince himself.
+tags: fairytale
 title: The Twelve Dancing Princesses

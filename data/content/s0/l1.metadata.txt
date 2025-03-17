@@ -1,0 +1,6 @@
+location: null
+next: 0
+previous: 0
+storyCount: 0
+summary: This text provides information about the ebook "The Fairy Mythology" by Thomas Keightley, which is available freely for use under the Project Gutenberg License. It can be accessed online, offering readers insights into myths and legends across various cultures.
+title: The Fairy Mythology

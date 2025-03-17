@@ -1,2 +1,6 @@
+location: Arthur's Court
 next: 5361
 previous: 2580
+storyCount: 1
+summary: Kilhwch embarks on a quest to win the hand of Olwen, the daughter of the giant Yspaddaden Penkawr, who sets seemingly impossible tasks for him to complete. With the help of Arthur and his knights, Kilhwch overcomes these challenges, ultimately defeating Yspaddaden and marrying Olwen.
+title: Kilhwch and Olwen

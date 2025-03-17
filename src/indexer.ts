@@ -4,6 +4,7 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import { getStorySynopsis } from "./llm/local-ollama";
+import { postprocessStoryMetadata } from "./compiler";
 
 const stopWords = fs
     .readFileSync(path.join(__dirname, "lex", "stop-words.txt"))
@@ -209,7 +210,12 @@ export async function indexItemsIn(directory: string): Promise<void> {
             }
         }
 
+        const directoryParts = directory.split("/");
+        const slugPrefix = directoryParts[directoryParts.length - 1];
+        const slug = `${slugPrefix}-l${fileNumber}`;
+
         writeDataObjectFile(indexData, indexFileName);
+        postprocessStoryMetadata(slug, indexData);
         previousItemNumber = fileNumber;
     }
 }

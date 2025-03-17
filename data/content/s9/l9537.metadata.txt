@@ -1,6 +1,6 @@
-location: null
+location: Hengwrt Library
 next: 0
 previous: 8598
 storyCount: 0
-summary:  
-title: 
+summary: The text describes various footnotes about historical manuscripts and translation challenges. It mentions the Hengwrt Library and details around Welsh manuscripts, but does not contain a cohesive story.
+title: Footnotes Analysis

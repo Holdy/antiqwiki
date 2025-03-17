@@ -1,6 +1,8 @@
+coordinates: 55.192895753517384, -1.9351075352047262
 location: Rothley, Northumberland
 next: 12760
 previous: 12719
 storyCount: 1
 summary: A little boy insists on staying up past his bedtime in a Northumberland cottage, which leads to a playful encounter with a fairy named Ainsel who visited him through the chimney. Their playful interaction turns chaotic when the boy accidentally injures Ainsel, prompting a humorous misunderstanding with the fairy's mother.
+tags: Fairy
 title: Ainsel

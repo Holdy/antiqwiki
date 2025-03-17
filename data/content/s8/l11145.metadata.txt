@@ -1,6 +1,8 @@
+coordinates: 51.88411570329991, -5.267666013037076
 location: Pembrokeshire
 next: 11215
 previous: 11138
 storyCount: 1
 summary: The village of St. David's in Pembrokeshire is home to the Talking Stone Llechlafar, which is said to have spoken when a corpse was carried over it, and other mystical stones, including steps that ring like bells and the Expanding Stone that adapts to the size of whoever enters it. These stones share similarities with mythical stones from Welsh tales, such as the ring of Gyges, highlighting a rich tradition of folklore involving magical stones with unique powers.
+tags: stone magic
 title: Magical Stones of St. David's

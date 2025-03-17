@@ -1,6 +1,8 @@
+coordinates: 51.6358754100168, -3.8927795234078473
 location: Briton Ferry
 next: 1576
 previous: 1540
 storyCount: 1
-summary: Crumlyn Lake, near Briton Ferry, is home to fairy palaces believed to be built on submerged town ruins, with legends suggesting the towers of fairy castles can sometimes be seen beneath the water. These legends tie back to the tale of St. Patrick punishing some locals by transforming them into fish or fairies, resulting in the lake being shrouded in darkness most of the year.
+summary: Crumlyn Lake (now a bog!), near Briton Ferry, is home to fairy palaces believed to be built on submerged town ruins, with legends suggesting the towers of fairy castles can sometimes be seen beneath the water. These legends tie back to the tale of St. Patrick punishing some locals by transforming them into fish or fairies, resulting in the lake being shrouded in darkness most of the year.
+tag: fairy
 title: The Fairy Palaces of Crumlyn Lake

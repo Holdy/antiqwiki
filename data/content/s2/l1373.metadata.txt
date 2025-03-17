@@ -1,6 +1,8 @@
+coordinates: 52.167282441628785, -8.221136895293983
 location: Kilworth
 next: 1879
 previous: 993
 storyCount: 1
 summary: Tom Bourke, a wealthy farmer living between Kilworth and Lismore, holds a unique supernatural gift allowing him to communicate with fairies, known as the 'good people,' which he uses to heal others occasionally. Despite his shrewd business acumen and love for money, Tom values this otherworldly ability highly and uses it with discretion, sharing tales of these mystical interventions only in the right company.
+tags: fairy
 title: The Confessions of Tom Bourke

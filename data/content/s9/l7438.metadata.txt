@@ -1,2 +1,6 @@
+location: Gwynedd
 next: 8124
 previous: 6993
+storyCount: 1
+summary: Math, the son of Mathonwy, rules over Gwynedd, while Pryderi, lord of the South, engages in a conflict after Math's nephews, Gwydion and Gilvaethwy, deceitfully take Pryderi's swine using magical tricks and spark a battle. Amidst these events, a complex tale of love, betrayal, and transformation unfolds involving Llew Llaw Gyffes, the creation of a wife from flowers named Blodeuwedd, and her eventual treachery, leading to Gronw Pebyr's death and Llew's restoration of his realm.
+title: Math the Son of Mathonwy

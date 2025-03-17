@@ -13,7 +13,7 @@ export interface LLMResult {
 export const getStorySynopsis = async (targetProse: string) => {
     return callChatGPTStructured(
         `You are an AI that responses strictly in JSON format. `,
-        `From the following text create a two sentence summary of the story (don't include the title). Use the given title if it is present and only construct one if necessary. 
+        `From the following text create a two sentence summary of the first story (don't include the title). Use the given title if it is present and only construct one if necessary. 
         If there are locations mentioned in the text(towns, cities, areas ) pick the main one and return it as mainLocation, otherwise return null.
         If there is no story in the text, simply return the storyCount as 0, and if there is more than one story, set the value to 2 etc.`,
         targetProse,

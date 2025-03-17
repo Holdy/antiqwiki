@@ -1,6 +1,6 @@
 location: null
 next: 940
 previous: 884
-storyCount: 0
-summary:  
-title: 
+storyCount: 1
+summary: This text references 'Fairy Mythology' and John Fiske's 'Myths and Myth-makers,' indicating sources on myths and fairy tales. These references hint at a larger discourse on the interpretation and analysis of mythological tales.
+title: References to Mythology Literature

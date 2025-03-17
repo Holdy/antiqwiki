@@ -2,5 +2,5 @@ location: null
 next: 12097
 previous: 12058
 storyCount: 0
-summary:  
+summary: There is no story present in the text. The text consists of a single word without narrative context.
 title: INDEX

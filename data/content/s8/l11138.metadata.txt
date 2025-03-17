@@ -2,5 +2,5 @@ location: null
 next: 11145
 previous: 11082
 storyCount: 0
-summary:  
+summary: This text consists only of references to historical manuscripts and does not contain a narrative. As there are no stories present, the information serves as a catalog of scholarly sources.
 title: 

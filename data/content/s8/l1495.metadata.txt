@@ -2,5 +2,5 @@ location: null
 next: 1504
 previous: 1460
 storyCount: 0
-summary:  
-title: 
+summary: The text consists of references to sources regarding etymology and myths, indicating a scholarly discussion or citation. It lacks a narrative or story structure, instead focusing on academic references.
+title: Footnotes in Academic Text

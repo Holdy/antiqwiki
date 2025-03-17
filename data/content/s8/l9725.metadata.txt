@@ -2,5 +2,5 @@ location: null
 next: 9732
 previous: 9623
 storyCount: 0
-summary:  
-title: 
+summary: There is no story in the text provided, rather it consists of references to folk-lore literature. The text cites Dennys' 'Folk-Lore of China' and Henderson's 'Notes on Folk-Lore.'
+title: References to Folk-Lore Literature

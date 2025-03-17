@@ -7706,7 +7706,7 @@ children, and a mewing and screeching like that of a multitude of cats
 or owls, the sounds proceed from their midnight assemblies, and are
 made by the vociferous Dwarfs.
 
-The principal residence of the two first classes of the
+~The principal residence of the two first classes of the
 underground-people in Rügen is what are called the Nine-hills, near
 Rambin. These hills lie on the west point of the island, about a
 quarter of a mile from the village of Rambin in the open country. They
@@ -19509,7 +19509,7 @@ her nurse, learns to change her form, and thus become a companion of the
 Fées, who are beings of tiny dimensions. Afterwards, when she is
 married, they take away her children, but she manages to recover them.
 
-"La Tioul de las Fadas is within five and a half leagues of St. Flour,
+~"La Tioul de las Fadas is within five and a half leagues of St. Flour,
 at Pirols, a village of Haute Auvergne. It is composed of six large
 rude stones, covered by a seventh, larger and more massive than the
 rest; it is twelve feet long, and eight and a half wide. The tradition

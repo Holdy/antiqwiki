@@ -2,5 +2,5 @@ location: null
 next: 12142
 previous: 12094
 storyCount: 0
-summary:  
+summary: The text is a comprehensive listing of various topics and references relating to folklore, mythology, and supernatural phenomena. It includes entries on Arthurian legends, Welsh folklore, and superstitions tied to specific days, without providing a narrative story.
 title: 

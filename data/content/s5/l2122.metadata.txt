@@ -1,6 +1,8 @@
+coordinates: 63.033047191110484, -162.59616714831824
 location: Pik-mik-tal-ik
 next: 2181
 previous: 2114
 storyCount: 1
 summary: The arrival and stay of a small family of dwarfs at the village of Pik-mik-tal-ik left a significant cultural impact on the villagers, introducing innovative sled designs and burial practices. The dwarf father's remarkable strength, friendly nature, and the tragic death of his son led to changes in local customs, while sightings of dwarf people persist in the area, embodying their lasting legend.
+tags: dwarf
 title: The Dwarf People

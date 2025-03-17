@@ -1,0 +1,8 @@
+coordinates: 54.345461187577335, 13.176588533845605
+location: Rügen
+next: 7752
+previous: 7611
+storyCount: 1
+summary: The story describes the mythical origin of the Nine-hills near Rambin, said to have been created by the spills from a Giant's apron as he attempted to connect the island of Rügen to the mainland. Alongside tales of giants, it tells of Dwarfs inhabiting these hills, specifically the White and Brown ones, who live along the coast and are known for holding assemblies and plundering wrecked ships.
+tags: dwarf
+title: The Legend of the Nine-hills

@@ -1,2 +1,6 @@
+location: null
 next: 2580
 previous: 321
+storyCount: 1
+summary: After his family is wiped out, Peredur, the youngest son of Earl Evrawc, embarks on a quest to learn the ways of knighthood and seek justice for his slain kin. Throughout his journey, Peredur encounters mystical challenges, including facing sorceresses, a deadly serpent, and his quest for the Castle of Wonders, all while seeking to avenge his family and find his place among Arthur's knights.
+title: Peredur The Son of Evrawc

@@ -1,0 +1,8 @@
+coordinates: 52.47275846694445, -8.828458632907399
+location: Knockfierna
+next: 515
+previous: 235
+storyCount: 1
+summary: Carroll O'Daly, known for his fearless and skeptic attitude towards fairies, encounters a mysterious farmer while traveling near Knockfierna, a mountain believed to be home to these mystical beings. Driven by curiosity, Carroll follows the farmer to the mountain top, only to have a stone hurled back at him, leading to his disfigurement and newfound caution around fairy lands at night.
+tags: fairy
+title: The Legend of Knockfierna

@@ -1,6 +1,8 @@
+coordinates: 52.115246563320994, -8.28290372329627
 location: Fermoy
 next: 8236
 previous: 8144
 storyCount: 1
 summary: O'Keefe, the lord of Fermoy, tried to avert the prophecy that his son would drown by building a castle atop Cairn Thierna, but his son's curiosity at a small vessel of water led to the fulfillment of the prophecy. Despite precautions to avoid water, the child saw his reflection in a water vessel, leaned in with wonder, and drowned, leaving the mountain top as a testament to fate's inescapability.
+tags: unavoidable-fate
 title: THE LEGEND OF CAIRN THIERNA

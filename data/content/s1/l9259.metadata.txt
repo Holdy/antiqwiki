@@ -1,6 +1,8 @@
+coordinates: 51.59775740912155, 9.965866482940793
 location: Plesse
 next: 9297
 previous: 9191
 storyCount: 1
 summary: In Hessian folklore, the Still-people, or Dwarfs, inhabit secretive spaces in the mountains of Plesse, living in chambers filled with gold and gemstones while aiding those who win their favor. These beings remain hidden from the world, surfacing only at night due to their vulnerability to sunlight, with abilities such as invisibility and passing through solid objects.
+tags: dwarf
 title: Dwarfs

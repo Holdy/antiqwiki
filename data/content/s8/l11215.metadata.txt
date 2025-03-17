@@ -2,5 +2,5 @@ location: null
 next: 11226
 previous: 11145
 storyCount: 0
-summary:  
-title: 
+summary: This text features references and footnotes to various parts of Lady Charlotte Guest's translation of the 'Mabinogion'. There is no narrative or story encapsulated within the given text itself.
+title: Reference Annotations

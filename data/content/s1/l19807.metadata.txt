@@ -1,6 +1,6 @@
 location: Lusignan
 next: 19982
-previous: 19340
+previous: 19512
 storyCount: 1
 summary: Melusina, cursed to become a serpent from the waist down every Saturday due to a breach of promise by her father, marries Raymond under the condition that he never sees her on that day, but he breaks his oath and is thus doomed to lose her forever. Melusina is fated to appear as a harbinger of death or misfortune over the castle of Lusignan, where she is said to mourn before the death of its lord or a king of France, and tales of her sightings continue to affirm her myth in France.
 title: Legend of Melusina

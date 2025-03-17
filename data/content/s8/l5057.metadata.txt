@@ -1,6 +1,8 @@
+coordinates: 51.84969447533564, -3.1449943020907436
 location: Langattock Crickhowel
 next: 5091
 previous: 5027
 storyCount: 1
 summary: A hunting party chases a hare that mysteriously vanishes at the inn of Richard the Tailor, suspected of using magical tricks to lure them into staying. Walter Jones, one of the hunters, experiences a supernatural ordeal that leads him to reform his ways after returning to the inn disheveled and disoriented.
+tags: fairy
 title: The Tale of Richard the Tailor and the Mysterious Hare
