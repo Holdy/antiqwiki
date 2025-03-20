@@ -4,3 +4,5 @@ previous: 4202
 storyCount: 1
 summary: In Tanum, near Gärun, locals once reported sounds of musicians emanating from a hill, where fiddlers could gain extraordinary skills if they promised salvation. Alternatively, failing to make this promise led to the heartbreaking sound of violins being broken within the hill.
 title: The Musicians of Gärun Hill
+coordinates: 58.71, 11.42
+tags:fairy
