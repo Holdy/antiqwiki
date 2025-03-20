@@ -1,0 +1,6 @@
+location: Alfheim
+next: 998
+previous: 516
+storyCount: 1
+summary: The Light Elves of Scandinavia, originally benevolent and playful, evolved over centuries to share traits with British fairies, exhibiting both kindness and maliciousness. They were known for their enchanting appearances and mischievous behaviors, often involving humans in their magical festivities and entanglements, with Alfheim as one of the main locations in their stories.
+title: The Light Elves

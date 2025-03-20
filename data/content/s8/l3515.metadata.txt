@@ -2,5 +2,5 @@ location: null
 next: 3522
 previous: 3496
 storyCount: 0
-summary:  
+summary: The footnotes from 'Cambrian Popular Antiquities' indicate references to previous sections and specific pages. The work by Rev. Peter Roberts suggests an exploration of cultural or historical topics relevant to Cambrian studies.
 title: 

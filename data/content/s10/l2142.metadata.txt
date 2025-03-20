@@ -1,0 +1,6 @@
+location: Wales
+next: 2317
+previous: 1934
+storyCount: 2
+summary: The story revolves around the folklore of changelings, where fairies are believed to kidnap healthy children, leaving fairy substitutes in their place. Mothers devised various tests to determine if their child was a changeling, resulting in uncovering fairy secrets and often leading to the fairies returning the true child.
+title: Changelings and Fairy Kidnappings

@@ -1,0 +1,6 @@
+location: null
+next: 77
+previous: 1
+storyCount: 0
+summary: "Brownies and Bogles" by Louise Imogen Guiney includes various stories about mythical creatures. The stories unfold across a fantastical landscape, which holds no specific real-world location.
+title: Brownies and Bogles

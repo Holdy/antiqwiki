@@ -1,0 +1,6 @@
+location: null
+next: 1724
+previous: 1249
+storyCount: 1
+summary: The Merrow, a water-sprite from England and Ireland, was often compelled to marry humans when her diving-cap was stolen, yet she longed for the sea and eventually deserted her earthly family. Across various cultures like Germany, Sweden, and Wales, numerous water-spirits, often mischievous or dangerous, interacted with humans, drawing them into watery realms with their enchanting appearances and supernatural abilities.
+title: Water-Folk and Their Enigmatic Lives

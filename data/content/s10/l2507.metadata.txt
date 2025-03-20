@@ -1,0 +1,6 @@
+location: England
+next: 2744
+previous: 2317
+storyCount: 1
+summary: The Little People, known as fairies, elves, and goblins, have quietly and sadly disappeared from the world, driven away by disbelievers and modern machinery, or perhaps retreating by choice as the world grew too harsh. Despite skepticism from figures like Geoffrey Chaucer, stories and personal accounts persisted into the 19th century, with sightings and interactions with these mystical beings reported, highlighting their role in folklore and the interplay of imagination and nature.
+title: The Passing of the Little People

@@ -1,0 +1,6 @@
+location: Köpenick
+next: 0
+previous: 2507
+storyCount: 1
+summary: The transcriber's notes detail various corrections made to punctuation and spelling errors throughout the text, including place names and character names. These corrections help ensure the accuracy and readability of the Project Gutenberg text, "Brownies and Bogles," by Louise Imogen Guiney.
+title: Transcriber Corrections for 'Brownies and Bogles'

@@ -1,0 +1,6 @@
+location: null
+next: 2507
+previous: 2142
+storyCount: 1
+summary: In the enchanting realm of Fairyland, mortals enticed by fairies often find themselves lost in time and memory, illustrated by tales such as that of Gitto Bach, a Welsh shepherd boy who danced with fairies and thought he was away for just a day when two years had passed on earth. These tales, including legends from Welsh, Irish, and Japanese traditions, often depict a bittersweet parting from Fairyland, as those who return are haunted by longing for the magical place, forever changed and yearning for the wonders they once knew.
+title: The Allure and Mystery of Fairyland

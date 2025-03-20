@@ -1,0 +1,6 @@
+location: null
+next: 182
+previous: 119
+storyCount: 1
+summary: The stories of 'Brownies and Bogles' explore mythical creatures from folklore, focusing on their interactions with humans. These tales highlight the whimsical and occasionally mischievous nature of these supernatural beings.
+title: Brownies and Bogles

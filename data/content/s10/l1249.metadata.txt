@@ -1,0 +1,6 @@
+location: null
+next: 1524
+previous: 998
+storyCount: 1
+summary: In modern Greece, the Brownie was known as the Stoechia, a little black being who was thought to bring prosperity to homes and often took the form of a lizard or small snake. House goblins varied by region with names such as Para in Finland and Duende in Spain, and each had unique traits, from the mischievous farming habits of the Norwegian Nis to the regal stone-throwing of the Spanish Duende, all contributing to household life in playful or troublesome ways.
+title: Global Brownies and House-Goblins

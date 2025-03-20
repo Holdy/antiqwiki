@@ -1,0 +1,6 @@
+location: null
+next: 50
+previous: 0
+storyCount: 0
+summary: The book 'Brownies and Bogles' by Louise Imogen Guiney features illustrations by Edmund H. Garrett and is available for free through Project Gutenberg. This text is an eBook that can be accessed worldwide, noting specific terms regarding copyright rules outside the United States.
+title: Brownies and Bogles

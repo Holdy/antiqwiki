@@ -1,0 +1,6 @@
+location: Cornwall
+next: 516
+previous: 182
+storyCount: 1
+summary: Fairies are deeply influenced by the climate and culture of the regions they inhabit, adopting characteristics and behaviors reflective of their surroundings and the human societies around them. Despite their magical powers, fairies seek human sympathy and aid, often displaying weaknesses and dependencies on humans, while maintaining loose governance with no supreme leader, each community having its own ruler.
+title: Fairy Rulers

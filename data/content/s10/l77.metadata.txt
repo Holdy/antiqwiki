@@ -1,0 +1,6 @@
+location: null
+next: 119
+previous: 50
+storyCount: 2
+summary: The opening story introduces the roles and characteristics of fairies in magical folklore. It explores their influence on human life and the various tasks they undertook to aid or hinder people.
+title: What Fairies Were and What They Did

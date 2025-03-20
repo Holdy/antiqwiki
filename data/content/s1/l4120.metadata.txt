@@ -1,8 +1,8 @@
+coordinates: 55.39959688312744, 10.464482449075106
 location: Aasum
 next: 4137
 previous: 4099
 storyCount: 1
 summary: A man in Aasum, near Odense, encounters two mysterious maidens by a hill and promises to return after accepting a drink from them. Haunted by this encounter, he becomes mentally unsettled, repeatedly states he must go back, and eventually loses his sanity before dying.
+tags: elle-maid
 title: The Elle-Maids
-coordinates:55.39959688312744, 10.464482449075106
-tags:elle-maid

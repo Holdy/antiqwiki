@@ -2,5 +2,5 @@ location: null
 next: 10087
 previous: 10048
 storyCount: 0
-summary:  
+summary: The text contains footnotes referencing Leviticus and an archival document by Ab Ithel. No narrative or story is presented within these footnotes.
 title: 

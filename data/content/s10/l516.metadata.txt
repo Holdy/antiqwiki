@@ -1,0 +1,6 @@
+location: Rügen
+next: 724
+previous: 348
+storyCount: 1
+summary: The Black Elves, according to ancient Scandinavian beliefs, were mischievous underground beings often involved in mining and metalsmithing, whose nature fluctuated between evil and unexpectedly kind acts.  Although they lived in dark, secluded environments to avoid the daylight and were notorious for their wealth hoarding and trickery, they were sometimes helpful to humans, mirroring the complex duality of good and bad found in human nature.
+title: The Black Elves

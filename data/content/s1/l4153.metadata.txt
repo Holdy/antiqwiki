@@ -1,8 +1,8 @@
+coordinates: 56.28, 10.57
 location: Ebeltoft
 next: 4184
 previous: 4137
 storyCount: 1
 summary: A farmer's boy near Ebeltoft encounters an Elle-maid and succumbs to her enchantment, resulting in a three-day disappearance. Upon his return, although he initially refuses human food, his father's insistence breaks the enchantment, yet the boy never fully regains his senses.
+tags: elle-maid
 title: The Elle-Maid near Ebeltoft
-coordinates:56.28, 10.57
-tags:elle-maid

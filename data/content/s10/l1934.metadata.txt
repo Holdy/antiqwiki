@@ -1,0 +1,6 @@
+location: Cwm Pwca, Clydach, Breconshire
+next: 2142
+previous: 1724
+storyCount: 1
+summary: Puck, originally from Welsh folklore and potentially inspired by the glens of Clydach in Breconshire, is depicted as a mischievous fairy in Shakespeare's works, notably as a 'merry wanderer' in _A Midsummer Night's Dream_. The text discusses various references to Puck and fairy folklore in English literature, highlighting how poets like Shakespeare, Drayton, and Lyly have celebrated these whimsical spirits, while also noting their influences across different regions and cultural depictions.
+title: Puck and the Poets' Fairies

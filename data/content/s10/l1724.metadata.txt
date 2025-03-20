@@ -1,0 +1,6 @@
+location: Hampshire
+next: 1934
+previous: 1524
+storyCount: 1
+summary: Fairies and spirits across different cultures were notorious for their mischief-making, often leading people into bogs or waterways to their doom. These entities, such as the Kelpie in Scotland or the Coltpixy in Hampshire, manipulated their shapes and surroundings to mete out poetic justice to those who were quarrelsome or disobedient, with innocent actions often resulting in dire consequences.
+title: Mischief-Makers

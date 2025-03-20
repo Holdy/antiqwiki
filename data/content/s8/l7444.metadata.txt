@@ -2,5 +2,5 @@ location: null
 next: 7455
 previous: 7365
 storyCount: 0
-summary:  
-title: 
+summary: The text contains multiple references and footnotes making it a scholarly piece rather than a narrative story. It appears to extract information and context from historical and cultural studies documents, such as 'Liber Landavensis' and works by Tylor.
+title: No Story Present

@@ -1,0 +1,6 @@
+location: England and Scotland
+next: 1249
+previous: 724
+storyCount: 1
+summary: Brownie, the beloved domestic fairy known for his diligent household work and playful mischief, was revered across England and Scotland for his loyalty to families and their homes. Despite his tireless service, Brownie would vanish if observed or rewarded, as seen in tales where he and his kind left upon receiving thanks or gifts, such as clothes, which ended their duties permanently.
+title: Dear Brownie

@@ -1,0 +1,6 @@
+location: null
+next: 172
+previous: 77
+storyCount: 0
+summary: The illustration list primarily includes various depictions of mythical creatures and characters, such as dwarfs, elves, brownies, and fairies. Each entry provides a page number and a brief description of the scene or character depicted, reflecting a diverse collection from different cultures.
+title: 
