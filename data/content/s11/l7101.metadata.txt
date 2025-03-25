@@ -1,0 +1,8 @@
+coordinates: 52.118642088202826, -4.731917135949409
+location: Pen Cemmes
+next: 7139
+previous: 7075
+storyCount: 1
+summary: Fisherman Pergrin encountered a mermaid near Pen Cemmes and took her captive, but released her when she promised to help him in times of need. Later, the mermaid warned Pergrin of an impending storm, allowing him to escape safely while other fishermen perished.
+tags: merfolk
+title: The Fishermen of Llandudoch and the Mermaid

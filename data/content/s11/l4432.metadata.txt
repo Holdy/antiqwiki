@@ -1,0 +1,6 @@
+location: Wales
+next: 4475
+previous: 4400
+storyCount: 1
+summary: In Wales, it was believed that fairies originated as the souls of virtuous Druids, deemed too good for hell but unable to enter heaven, or from the hidden children of a woman during Christ's time, who were taken as a divine punishment. Alternatively, some theorists suggest that fairies are either the ancient Aborigines or persecuted Druids, hiding from conquerors and drawing parallels to African dwarf tribes discovered later that lived hidden in caves, resembling fairy myths.
+title: Origin of Fairies

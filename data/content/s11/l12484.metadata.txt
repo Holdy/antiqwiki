@@ -1,0 +1,6 @@
+location: Cwrt-y-cadno
+next: 12517
+previous: 12464
+storyCount: 1
+summary: Young individuals often sought the services of conjurers like Henry Harries of Cwrt-y-cadno, who claimed to predict futures and fortunes through detailed 'nativity calculations'. These services purported to provide insights into various aspects of life, including marriage prospects, general fortune, professional choices, and even health predictions based on astrological influences.
+title: Wizards Revealing the Future

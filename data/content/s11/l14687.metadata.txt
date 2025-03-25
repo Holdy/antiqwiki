@@ -1,0 +1,7 @@
+location: Cardiganshire
+next: 14705
+previous: 14672
+storyCount: 2
+summary: In the parish of Llandyssiliogogo, Cardiganshire, a well known as Ffynon Blaenglewinfawr was renowned for healing bad legs and other ailments, with some people reportedly leaving their crutches behind after being cured. Tradition holds that Ffynon Y Groes in Llangranog, Cardiganshire, was once a stop for pilgrims who quenched their thirst and made the sign of the Cross there.
+tags: well
+title: The Wells of Cardiganshire

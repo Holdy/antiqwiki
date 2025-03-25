@@ -1,0 +1,6 @@
+location: Wales
+next: 4071
+previous: 3772
+storyCount: 2
+summary: Every May Day in Wales, villagers would compete to protect their May-pole, made of birch (Bedwen), from being stolen by rival parties, symbolizing a battle between winter and summer. In Welsh mythology, Gwyn Ap Nudd, the fairy King, was condemned by King Arthur to eternally fight on May Day for the maiden Olwen, having taken her from her betrothed, Gwythyr.
+title: Welsh Traditions of May Day and All Hallow's Eve

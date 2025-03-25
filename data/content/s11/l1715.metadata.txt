@@ -1,0 +1,6 @@
+location: South Wales
+next: 2075
+previous: 1684
+storyCount: 1
+summary: In South Wales, traditional 'Horse Weddings' involved wedding parties arriving on horseback, with guests riding from great distances to celebrate, and exchanging gifts of 'pwython' as part of a reciprocal gifting custom tied to their own future weddings. Unique to these events were the playful rituals of abducting the bride, who was often hidden, leading to adventurous chases by the groom's party; however, these spirited chases sometimes ended in accidents, leading to the decline of the custom in certain areas by the mid-19th century, replaced by more conventional marriage ceremonies.
+title: The Horse Wedding in Rural South Wales

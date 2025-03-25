@@ -1,0 +1,8 @@
+coordinates: 51.96980633597517, -4.8708869884761885
+location: Gwaun Valley
+next: 9404
+previous: 9320
+storyCount: 2
+summary: A young man from the Gwaun Valley witnessed a phantom funeral, which eerily mirrored an actual funeral three days later when his friend passed away. The vision left him so frightened that he was afraid to go out at night, prompting a visit from the storyteller and a clergyman to confirm the account.
+tags: fortelling
+title: A Present Day Phantom Funeral

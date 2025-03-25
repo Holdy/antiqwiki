@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 8555
+previous: 8477
+storyCount: 2
+summary: In Llanddeusant, Carmarthenshire, a legend tells of a church's intended location having its stones mysteriously moved overnight to its current site. A similar tale from Llanbister, Radnorshire, involves supernatural powers relocating church constructions to a new location, with an old tax tradition related to the former site.
+title: Legends of Spirit-Relocated Churches in Wales

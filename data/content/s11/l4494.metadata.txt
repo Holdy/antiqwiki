@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 4594
+previous: 4475
+storyCount: 1
+summary: The fairies, often seen in green or white dress, were known for their enchanting dances on moonlit nights and were both benevolent and vengeful depending on how they were treated. Believed to live either beneath the earth or in enchanted islands at sea, these magical beings and their realms remain a part of the legends of Wales, particularly on the coasts of Pembrokeshire and southern Carmarthenshire.
+title: The Enchanting Fairies of Wales

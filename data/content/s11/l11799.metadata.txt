@@ -1,0 +1,6 @@
+location: Wales
+next: 11814
+previous: 11784
+storyCount: 1
+summary: The enduring belief that witches could transform into hares to steal milk persists in Wales and other Celtic regions. Giraldus Cambrensis documented this claim over seven hundred years ago, citing it as a frequent accusation against hags in Ireland, Scotland, and Wales.
+title: The Transformation of Witches

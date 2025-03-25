@@ -1,0 +1,6 @@
+location: Pembroke
+next: 8397
+previous: 8190
+storyCount: 1
+summary: Captain Alldridge recounted his experiences aboard the H.M.S. "Asp," describing continuous, mysterious noises and sightings of a ghostly lady pointing to Heaven, leading to a dwindling crew due to fear. Believing the ship to be haunted by the spirit of a woman found dead with her throat cut years earlier, the ghostly occurrences ceased after the ship was docked for repairs at Pembroke Dockyard, ending the supernatural visits.
+title: The Haunted Voyage of H.M.S. 'Asp'

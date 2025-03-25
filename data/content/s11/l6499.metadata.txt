@@ -1,0 +1,8 @@
+coordinates: 52.03927092474358, -4.465730508134246
+location: Newcastle Emlyn
+next: 6584
+previous: 6435
+storyCount: 1
+summary: A woman from the neighbourhood of Newcastle Emlyn left her baby in a cradle only to find it replaced by a strange, old-looking changeling after seeking the help of a wizard, who used fearful tactics to reclaim the real child. The tale highlights the belief in Fairies stealing unbaptized infants and outlines a ritual where mothers threw changelings into rivers to recover their true babies.
+tags: changeling
+title: Fairy Changelings

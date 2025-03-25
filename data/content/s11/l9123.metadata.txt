@@ -1,0 +1,6 @@
+location: Pontshan
+next: 9195
+previous: 9065
+storyCount: 3
+summary: In certain areas, including the borders of Cardiganshire and Carmarthenshire, people believe that carrying a knife keeps spirits away, as evidenced by a man from Pontshan who never saw ghosts again after using a knife to make one vanish. Various methods, such as wearing linen inside out, nailing horseshoes to doors, and holding prayer meetings, are believed to protect against supernatural entities throughout Wales.
+title: Methods of Repelling and Exorcising Ghosts and Spirits in Wales

@@ -1,0 +1,6 @@
+location: Myddfai
+next: 14013
+previous: 13993
+storyCount: 1
+summary: An old remedy suggests using a powder made from calcined newts and beetles to extract a tooth without pain. By wetting the forefinger, applying the powder to the tooth, and refraining from spitting, the tooth will fall away painlessly.
+title: To Extract a Tooth Without Pain

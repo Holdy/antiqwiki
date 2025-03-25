@@ -1,0 +1,8 @@
+coordinates: 52.46309567948645, -4.027790392267985
+location: Llanfihangel Genau'r Glyn
+next: 11930
+previous: 11889
+storyCount: 1
+summary: In Llanfihangel Genau'r Glyn, a man shot a hare believed to be the familiar spirit of a local witch using a silver coin. The witch, who was at home at the time, simultaneously fell into a tub, wounded and bleeding, suggesting a mystical connection with the familiar hare.
+tags: witch hare
+title: The Familiar Spirit of a Witch Shot in the Form of a Hare

@@ -1,0 +1,7 @@
+location: Carmarthenshire
+next: 14723
+previous: 14705
+storyCount: 1
+summary: The famous well known as "Ffynon Ffosanna," located in the parish of Cyuwil Elvet, Carmarthenshire, was once renowned for its healing properties. Traditions still speak of many cripples who returned home healed after visiting the well.
+tags: well
+title: The Well of Ffosanna

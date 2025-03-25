@@ -1,0 +1,8 @@
+coordinates: 52.000777916109705, -4.265173746919797
+location: Pencader
+next: 5818
+previous: 5559
+storyCount: 1
+summary: Taffy ap Sion, the shoemaker’s son near Pencader, enters a Fairy circle and dances for what feels like minutes, only to find decades have passed outside, transforming his home surroundings. Upon exploring the new landscape, Taffy fades to dust, confirming to the farmer he’d encountered that Taffy had indeed been taken by Fairies long ago, as local legend suggested.
+tags: fairy
+title: Taffy ap Sion and the Fairies

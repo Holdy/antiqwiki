@@ -1,0 +1,6 @@
+location: West Wales
+next: 13864
+previous: 13799
+storyCount: 1
+summary: In West Wales, the condition known as "llechau," or rickets, in children was traditionally treated by cutting a slit in the lobe of the child's ear. This practice was especially common in places such as Pembrokeshire and Cardiganshire, as mentioned in historical accounts.
+title: The Cure of Rickets

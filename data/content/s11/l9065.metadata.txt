@@ -1,0 +1,8 @@
+coordinates: 52.195362952919005, -4.309067838388517
+location: Llanarth
+next: 9123
+previous: 8919
+storyCount: 1
+summary: A tale from Llanarth tells of a night when the village was disturbed by mysterious noises from the church belfry, believed to be caused by the Devil himself. The local vicar confronted the Devil, causing him to flee in haste and fall among the gravestones, leaving visible marks on a stone still present today.
+tags: devil
+title: The Devil and Llanarth Church

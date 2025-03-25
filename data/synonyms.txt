@@ -1,5 +1,15 @@
 fairy elle-maid fay
 household-spirit brownie nisse nis tomte
 merfolk Merrow 
+
+folklore hill-man
+folklore dwarf
+folklore witch
+folklore witching
 dwarf hill-man 
+
 water-people nixen nixes
+folklore banshee
+merfolk merrow
+
+folklore fairytale household-spirit

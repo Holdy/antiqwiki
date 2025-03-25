@@ -1,0 +1,6 @@
+location: Aberystwyth
+next: 10285
+previous: 10164
+storyCount: 1
+summary: A young French sailor's apparition was witnessed by his lover in Aberystwyth, shortly after he drowned off the Spanish coast. Similarly, ten years ago, the young Earl of Lisburne saw a wraith at Havod on the night his father died, illustrating the phenomenon of death-related apparitions.
+title: Apparitions at Death

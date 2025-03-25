@@ -1,0 +1,6 @@
+location: Carmarthen
+next: 13100
+previous: 12832
+storyCount: 1
+summary: Merlin, a legendary wizard of significant repute, was believed to be born in Carmarthen, a town proud of its connection to him, and he is renowned for his prophecies and supernatural feats which included advising King Vortigern to unearth two battling dragons beneath a tower that kept collapsing. These dragons symbolized the Celtic and Saxon races, with Merlin's prediction of the Saxons' temporary triumph over the Britons persisting in Welsh folklore for centuries, influencing battles and inspiring hope for the ultimate resurgence of the Welsh nation. Additionally, Merlin is credited with various prophecies about local towns and events, such as the sinking of Carmarthen and future events related to Welsh towns, some seen as fulfilled while others remain shrouded in local lore, contributing to his enduring mythos in Welsh history.
+title: The Prophecies and Myths of Merlin

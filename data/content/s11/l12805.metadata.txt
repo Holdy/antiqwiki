@@ -1,0 +1,6 @@
+location: Tregaron
+next: 12832
+previous: 12786
+storyCount: 2
+summary: In Cardiganshire, a farmer whose cattle were bewitched sought the help of a wizard in Llangurig who revealed the perpetrator through a magic mirror, agreeing only to punish the offender rather than cause them fatal harm. Similarly, in Tregaron, a conjurer marked a man who had used the 'Evil Eye' on a woman by magically causing a horn to appear on his forehead.
+title: Wizard Marking the Culprits

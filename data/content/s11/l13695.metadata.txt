@@ -1,0 +1,6 @@
+location: West Wales
+next: 13715
+previous: 13652
+storyCount: 1
+summary: In West Wales, it is believed that fits can be cured by wearing a band made of hair from an ass's shoulder, while hair from an ass cut at midnight is thought to cure quinsy. Various other charms, such as carrying a potato for rheumatism or consuming a buried penny roll for whooping cough, illustrate the folk remedies practiced in the region.
+title: Charms and Folk Remedies in West Wales

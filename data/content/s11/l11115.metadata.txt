@@ -1,0 +1,8 @@
+coordinates: 51.89447803070785, -3.2879846650331386
+location: Talybont
+next: 11133
+previous: 11103
+storyCount: 1
+summary: The Welsh myth of the Gwiber describes it as a dragon-like, flying serpent with dangerous tendencies, a creature believed to emerge when snakes drank human milk, prevalent in southern Cardiganshire. A notable tale recalls a Gwiber that haunted Talybont's rocky cliffs and another in Trelech, Carmarthenshire, both eventually vanquished by local residents.
+tags: dragon
+title: Flying Serpents - Gwiberod

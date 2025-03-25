@@ -1,0 +1,6 @@
+location: Gloucestershire
+next: 6696
+previous: 6672
+storyCount: 1
+summary: In Gloucestershire, it is believed that fairies live in Fox Gloves, a concept shared with parts of Wales where the flower is called 'Menyg y Tylwyth Teg' or 'Menyg Ellyllon'. Mrs. A. Crawley-Boevey, an enthusiast in Folk-Lore, shared this intriguing piece of local belief, highlighting its absence in Wales despite the flower's enchanting nickname.
+title: Fairy Gloves

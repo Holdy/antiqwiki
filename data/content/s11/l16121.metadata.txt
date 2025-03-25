@@ -1,0 +1,6 @@
+location: null
+next: 0
+previous: 16080
+storyCount: 0
+summary: There is no coherent story provided in the given text. The text consists of disconnected notes and references with no narrative structure.
+title: Notes and References

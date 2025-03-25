@@ -1,0 +1,7 @@
+location: St. David's
+next: 14759
+previous: 14723
+storyCount: 1
+summary: St. Non's Well, located near St. David's in Pembrokeshire, was historically frequented for its supposed healing properties, with offerings left by visitors seeking cures. Local lore suggests that St. David, the Welsh Patron Saint, was baptized at this well, and it is believed he was born nearby.
+tags: well
+title: The Healing Waters of St. Non's Well

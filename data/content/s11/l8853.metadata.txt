@@ -1,0 +1,8 @@
+coordinates: 51.76919223071619, -4.462373328079144
+location: Carmarthenshire
+next: 8919
+previous: 8840
+storyCount: 2
+summary: The frightful apparition of a mastiff with blazing red eyes, known as the Gwyllgi, haunted Pant y Madog near Laugharne, Carmarthenshire, terrifying a woman named Rebecca Adams as it approached her and emitted an earth-shaking scream. This spectral dog is said to still haunt Carmarthenshire, as reported by witnesses in Llangynog who have seen such apparitions.
+tags: canine
+title: THE GWYLLGI, OR DOG OF DARKNESS.

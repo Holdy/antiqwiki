@@ -1,0 +1,6 @@
+location: Cardiff
+next: 13593
+previous: 13368
+storyCount: 2
+summary: The Rev. Hugh Roberts from Rhydymain, Dolgelly, shared a dream during a sermon where he conversed with a departed deacon who assured him that in the 'intermediate state,' souls are active and contribute to each other's happiness despite their longing for earthly relations and bodily forms. This intermediate state is portrayed as a place of purpose and connection, with the promise that all sorrows will end once heavenly bodies are complete.
+title: Conversing with the Departed in a Dream

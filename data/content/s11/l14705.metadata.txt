@@ -1,0 +1,7 @@
+location: Kidwelly
+next: 14713
+previous: 14687
+storyCount: 1
+summary: In Carmarthenshire, near Kidwelly, there is a well known for its healing properties. The waters of this well were particularly famous for curing sore eyes.
+tags: well
+title: Ffynnon Y Pistyll

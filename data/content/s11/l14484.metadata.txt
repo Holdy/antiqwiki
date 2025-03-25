@@ -1,0 +1,7 @@
+location: Llanpumpsaint
+next: 14499
+previous: 14471
+storyCount: 1
+summary: The Wells of the Five Saints near Llanpumpsaint in Carmarthenshire were traditionally used by five saints, each having their own dedicated well. Every St. Peter’s Day, large gatherings would occur for washing and bathing in the wells, believed to cure aches.
+tags: well
+title: Wells of the Five Saints

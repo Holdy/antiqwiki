@@ -1,0 +1,6 @@
+location: West Wales
+next: 10306
+previous: 10285
+storyCount: 1
+summary: Gwrach y Rhibyn, an ominous figure with glaring eyes, was believed to predict death through her foreboding shriek. She was particularly known to appear before the demise of those who had led wicked lives, mainly in the regions of Carmarthenshire and Cardiganshire.
+title: Gwrach y Rhibyn

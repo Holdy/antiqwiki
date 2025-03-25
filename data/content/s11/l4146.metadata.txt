@@ -1,0 +1,6 @@
+location: Bettws Ivan, South Cardiganshire
+next: 4155
+previous: 4134
+storyCount: 1
+summary: In Wales, the ancient custom of Beating the Bounds involved walking around the parish borders, carrying banners, as observed in South Cardiganshire. The event took place as recently as May 22nd, 1819, at Bettws Ivan, showcasing the enduring tradition.
+title: Perambulation: Beating the Bounds

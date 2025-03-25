@@ -1,0 +1,6 @@
+location: Yspytty Ystwyth
+next: 10998
+previous: 10969
+storyCount: 1
+summary: In rural areas, seeing magpies moving from left to right is considered a sign of good fortune, whereas seeing them cross from right to left indicates bad luck, which can be countered by crossing the road and spitting. Magpie activities, such as descending on a cow or appearing near homes, are deeply entwined with superstitions and are believed to foretell either good or bad events, as exemplified by a woman's story from Yspytty Ystwyth.
+title: The Magpie Superstitions

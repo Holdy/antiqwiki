@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 16064
+previous: 15793
+storyCount: 2
+summary: In Carmarthenshire, Wales, there were two struggling families living near the Black Mountain, one of which, led by John, resorted to sheep stealing to feed his family better meals compared to their neighbor David, who was content with simple turnip broth. When authorities came to arrest John for his thefts, David, unfazed by the commotion, chose to continue his restful sleep, giving rise to the saying about the ease of sleeping after a meal of turnip broth.
+title: Tales and Sayings of Wales

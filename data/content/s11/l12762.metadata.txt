@@ -1,0 +1,6 @@
+location: Llanfair Clydogau
+next: 12786
+previous: 12721
+storyCount: 2
+summary: Walter Evans, from Llanddewi Brefi, once consulted a conjurer living on Llanfair mountain to locate his lost sheep, which the conjurer successfully pointed out, leading to their discovery nearly drowning in water two days later. The conjurer, who lived in Llanfair Clydogau and passed away about nine years ago, was sought after by locals from Cardiganshire and Carmarthenshire for his ability to identify thieves using his magical powers.
+title: A LLANFAIR CLYDOGAU WIZARD

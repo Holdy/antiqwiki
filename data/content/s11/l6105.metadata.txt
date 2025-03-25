@@ -1,0 +1,6 @@
+location: Aberystwyth
+next: 6136
+previous: 6069
+storyCount: 1
+summary: In 1656 near Aberystwyth, a man encountered what he perceived as fairies entering his bedroom, dancing and offering him food, but they vanished before he could wake his wife. The event was documented by Justice John Lewes, who confirmed the account through the man's willingness to testify under oath about the supernatural experience.
+title: Fairies in Aberystwyth's Bedroom

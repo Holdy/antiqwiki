@@ -1,0 +1,6 @@
+location: Ystrad Meurig
+next: 11585
+previous: 11547
+storyCount: 1
+summary: An old woman in Ystrad Meurig, believed to be a witch, was suspected of cursing milk that would not churn into butter after being refused butter at a farmhouse. When confronted to break the spell, she visited the farm, touched the churn, and the milk turned into butter successfully.
+title: Milk That Would Not Churn and the Witch

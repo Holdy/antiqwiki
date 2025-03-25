@@ -1,0 +1,6 @@
+location: Llanddewi Brefi
+next: 15341
+previous: 15111
+storyCount: 2
+summary: Local legends of Llanddewi Brefi recount a Spirit moving construction materials meant for a church, to its current location, and tales of mighty oxen, 'Ychain Bannog,' whose bellowing split a hill, allowing the church's stones to be transported. Additionally, stories tell of St. David performing miracles, such as raising land and banishing nightingales during his preaching, while the nearby Roman city of Loventium and a miraculously flowing well remain part of the area's rich folklore.
+title: Legends of Llanddewi Brefi

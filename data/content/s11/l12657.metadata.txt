@@ -1,0 +1,6 @@
+location: Caio
+next: 12721
+previous: 12637
+storyCount: 3
+summary: A young farmer lost his ox at the Caio fair and consulted a local wise man for help. Following the conjurer's advice, he eventually found the ox in the yard of Tim Davies, after receiving a tip from Mr. Jones, and repaid Jones for the loan to cover the retrieval fee.
+title: The Conjurer and the Lost Ox

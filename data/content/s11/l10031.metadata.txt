@@ -1,0 +1,6 @@
+location: Llanhyfer
+next: 10047
+previous: 9991
+storyCount: 1
+summary: During a church service in Llanhyfer, a thrush's song filled the church as Tegid, a renowned poet and clergyman, lay on his deathbed. The timing of the bird's singing coincided with the moment Tegid passed away.
+title: Bird Singing Heard Before Death

@@ -1,0 +1,6 @@
+location: Wales
+next: 9808
+previous: 9709
+storyCount: 1
+summary: The Corpse Candle, a death portent often seen in West and Mid-Wales generations ago, was a mysterious light that indicated impending death, with its color often signifying whether a man, woman, or child would soon die. Similar to the phantom funeral, the Corpse Candle was seen moving from the house of the soon-to-be deceased to the churchyard, and there are tales of people who claimed to have witnessed these lights throughout Wales.
+title: THE CORPSE CANDLE

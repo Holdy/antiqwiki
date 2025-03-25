@@ -1,0 +1,6 @@
+location: Wales
+next: 155
+previous: 44
+storyCount: 1
+summary: Ceredig Davies, a pioneer Anglican Church worker, documented his experiences in various parts of the world, including Patagonia and Western Australia, which provided unique insights into the indigenous cultures and traditions of these regions. He eventually returned to Wales where he collected and translated Welsh folklore into English, aiming to preserve these oral traditions before they were forgotten.
+title: Journey of Cultural Documentation

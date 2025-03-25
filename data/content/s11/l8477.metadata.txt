@@ -1,0 +1,6 @@
+location: Pante
+next: 8513
+previous: 8466
+storyCount: 1
+summary: Mr. David Thomas, a devout and gifted man living in Pante, experienced a divine visitation during his private prayers, witnessing a room brightened by a celestial light and accompanied by a choir of child-like spirits singing spiritual messages. Despite being overwhelmed, he could only remember fragments of their heavenly song, translating to a call for the return and perseverance of Christians.
+title: Apparitions of Good Spirits

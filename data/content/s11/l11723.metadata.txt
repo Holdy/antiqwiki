@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 11784
+previous: 11699
+storyCount: 1
+summary: The mountain ash, known as "pren cerdinen" in Wales, was considered a powerful protection against witches, who were believed to be unable to harm anyone carrying a branch of it. In areas like Cardiganshire and Pembrokeshire, people would keep mountain ash on hand, particularly during journeys or at times of potential witchcraft, as the wood was thought to safeguard both people and animals from spells.
+title: Witches and the Mountain Ash

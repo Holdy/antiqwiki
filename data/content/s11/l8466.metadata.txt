@@ -1,0 +1,6 @@
+location: Llandyssul
+next: 8477
+previous: 8452
+storyCount: 1
+summary: Near Llandyssul in Cardiganshire, there is a pool in the River Teivi called the "Pool of the Harper" where an old harper is said to have drowned long ago. It is believed that on fine summer afternoons, his spirit can be heard playing the harp in the pool.
+title: A Spirit in a River

@@ -1,0 +1,8 @@
+coordinates: 52.27915384319826, -3.9179679219167087
+location: Pont Einon
+next: 11799
+previous: 11723
+storyCount: 1
+summary: A farmer from Swyddffynon managed to incapacitate a witch riding behind him by drawing blood from her arm with a pocket-knife. As a result of this action, the witch was unable to continue her malevolent activities.
+tags: witch dark
+title: Drawing Blood from a Witch

@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 4343
+previous: 4306
+storyCount: 1
+summary: In Cardiganshire, a traditional Welsh sport of throwing a bar continued to be practiced during Meyrick's time, often held at certain Chapels like Yspytty Ystwith and Yspytty Cenvyn. Participants would stay in the Chapel overnight, engaging in activities including wrestling, with young women and old champions as spectators ensuring fair play.
+title: Throwing the Bar

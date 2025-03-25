@@ -1,0 +1,8 @@
+coordinates: 52.326696423123636, -3.861472657710961
+location: Ysbytty Ystwyth
+next: 12118
+previous: 12034
+storyCount: 1
+summary: Sir Dafydd Llwyd, once a clergyman in Ysbytty Ystwyth, was known for his wizardry and possession of a Magic Book learned secretly during the time of Charles II. An incident occurred when his curious boy opened the Magic Book, inadvertently summoning an evil Spirit, which the boy cleverly managed to control until Sir Dafydd returned to handle the situation.
+tags: wizard approx
+title: Sir Dafydd Llwyd's Magic Mishap

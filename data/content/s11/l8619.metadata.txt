@@ -1,0 +1,6 @@
+location: Llanfihangel Geneu'r Glyn
+next: 8673
+previous: 8607
+storyCount: 1
+summary: According to local legend around Llanfihangel Geneu'r Glyn, a church was initially attempted to be built at Glanfread but each night's work was undone by a spirit, instructing that it should instead be at its current location, Genau'r Glyn. The location's history includes connections to Edward Llwyd, a noted author, and the belief that it derived its name from a devout woman, St. Fraed, believed to have intended to build a church there.
+title: The Moving of Llanfihangel Geneu'r Glyn Church

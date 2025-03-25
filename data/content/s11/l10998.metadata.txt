@@ -1,0 +1,6 @@
+location: null
+next: 11027
+previous: 10976
+storyCount: 1
+summary: The Magpie tried to teach the Wood-pigeon how to build a nest, but the Wood-pigeon kept interrupting, claiming it already knew how. Annoyed by the Wood-pigeon's arrogance, the Magpie stopped teaching, which is why the Wood-pigeon's nests are untidy to this day.
+title: The Magpie and the Wood-Pigeon

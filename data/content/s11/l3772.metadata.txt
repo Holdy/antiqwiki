@@ -1,0 +1,6 @@
+location: Tenby
+next: 3798
+previous: 3765
+storyCount: 1
+summary: In Tenby, Wales, historical May Day celebrations involved the townspeople decorating maypoles with colorful ribbons and flowers, and parading through the town in large groups while performing traditional dances. These vibrant customs, steeped in community participation, have largely faded away, though the election of a May Queen sometimes occurs in modern times.
+title: May Day Celebrations in Tenby

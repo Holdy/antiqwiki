@@ -1,0 +1,6 @@
+location: Fishguard
+next: 11699
+previous: 11657
+storyCount: 1
+summary: In Fishguard, Mr. David Rees recalls how his mother protected herself from a persistent witch by placing a nail under her foot while refusing the witch's begging demands. This act, believed to dispel the witch's power, successfully safeguarded her from the old woman's spells, as nails and iron were considered protective against witchcraft.
+title: A Fishguard Witch Discomfited

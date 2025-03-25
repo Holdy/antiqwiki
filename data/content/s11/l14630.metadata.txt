@@ -1,0 +1,7 @@
+location: Llangybi
+next: 14651
+previous: 14623
+storyCount: 2
+summary: In Llangybi, Cardiganshire, there is a well known as 'Ffynon wen,' once believed to possess healing powers, and associated with St. Gybi, who is said to have lived nearby. In Carnarvonshire, another well attributed to St. Gybi was visited by young women hoping to learn their fates by the direction a handkerchief floated.
+tags: well
+title: Holy Wells and Traditions of St. Gybi

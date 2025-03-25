@@ -1,0 +1,7 @@
+location: Llangurig
+next: 14821
+previous: 14788
+storyCount: 2
+summary: St. Keynan's Well in Llangurig was believed to grant the wish of whoever drank its water first. Married couples competed to be the first to drink from the well, as it would determine who would be the dominant partner in their marriage.
+tags: well
+title: St. Keynan's Well (Llangurig)

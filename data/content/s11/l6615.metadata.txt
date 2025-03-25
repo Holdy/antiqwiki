@@ -1,0 +1,8 @@
+coordinates: 52.279147877282874, -3.91799427451046
+location: Swyddffynon
+next: 6672
+previous: 6603
+storyCount: 1
+summary: Pali, a midwife from Swyddffynon, was summoned to attend a fairy lady's confinement, where she experienced the wondrous and secretive world of the fairies through a special ointment. Despite being warned not to apply the ointment to her eyes, she did so out of curiosity, leading to the loss of her ability to see the fairies when the fairy lady revoked her sight.
+tags: fairy
+title: Fairy Mothers and Human Midwives

@@ -1,0 +1,8 @@
+coordinates: 52.339894908425386, -4.005692279344268
+location: Rhosygarth
+next: 8840
+previous: 8788
+storyCount: 1
+summary: In Rhosygarth, a notorious haunted area, travelers often encountered a ghost resembling a calf with a dog-like head. Mr. Hughes of Pantyddafad had a supernatural encounter with this ghost, while a young skeptic was similarly spooked, ultimately convincing him of the existence of spirits.
+tags: haunting
+title: A GHOST SEEN IN THE FORM OF A CALF IN CARDIGANSHIRE

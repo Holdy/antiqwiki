@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 12375
+previous: 12308
+storyCount: 1
+summary: The process to summon a Good Spirit involves discovering the spirit's name, repeated prayers, and performing sacred ceremonies with consecrated items before invoking the spirit. Upon proper execution, the summoner experiences various visions within a crystal before the Good Spirit appears, offering guidance and presence.
+title: Summoning the Good Spirit

@@ -1,0 +1,8 @@
+coordinates: 51.98347174781775, -4.618304466710452
+location: Frenifawr
+next: 5303
+previous: 5107
+storyCount: 1
+summary: A shepherd boy tending his flock on Frenifach witnesses a group of fairies dancing on Frenifawr, whereupon he joins them and is transported to an enchanting palace full of wonders and delights. After enjoying the fairy realm for what he believed were many years, he breaks the one rule he was given by drinking from a forbidden well, only to find himself back on the mountain with no time having truly passed.
+tags: fairy
+title: The Shepherd Boy and the Fairies of Frenifawr

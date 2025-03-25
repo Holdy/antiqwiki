@@ -4,5 +4,5 @@ next: 19807
 previous: 19340
 storyCount: 2
 summary: La Tioul de las Fadas, a fascinating structure of granite stones located in Pirols, Haute Auvergne, is said to have been created by a Fée who carried massive rocks on her spindle to build a shelter while tending her sheep. According to tradition in Périgord, Roque Brun in the forest of La Double was constructed by a Fée to serve as her husband's tomb, and she cursed anyone who dared disturb it, a tale still recounted by local peasantry.
-tags: Fairy
+tags: fairy
 title: Tales of Fées and Legendary Monuments

@@ -1,0 +1,6 @@
+location: Wales
+next: 10877
+previous: 10792
+storyCount: 1
+summary: In ancient times, the swallow was considered a sacred bird, bringing good fortune to homes where it nested, as believed by both Romans and Welsh people. Breaking a swallow's nest was thought to bring eternal bad luck, highlighting the bird's revered status across different cultures.
+title: THE SWALLOW--Y WENNOL

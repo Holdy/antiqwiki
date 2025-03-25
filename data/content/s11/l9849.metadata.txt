@@ -1,0 +1,8 @@
+coordinates: 51.8583737327494, -4.048793143490047
+location: Llanilar
+next: 9864
+previous: 9808
+storyCount: 2
+summary: In Llanilar, a young woman from Montgomeryshire purportedly drowned while crossing the river Ystwyth during a flood, and a corpse candle was seen nearby shortly before the tragedy. Similarly, in Carmarthenshire, a three-flamed corpse candle was observed near Golden Grove before three people drowned in the area.
+tags: corpse-candle
+title: A CORPSE CANDLE SEEN TWO HUNDRED AND FIFTY YEARS AGO.

@@ -1,0 +1,6 @@
+location: Ystrad Meurig
+next: 5495
+previous: 5435
+storyCount: 1
+summary: A boy servant was sent by Nancy of Pen Gwndwn to fetch barm from a nearby village but went missing after passing through a fairy-frequented field. One year later, he returned unexpectedly with the barm, shocked to discover he had been with the fairies all that time, although it felt like only minutes to him.
+title: The Little Servant Boy and the Barm

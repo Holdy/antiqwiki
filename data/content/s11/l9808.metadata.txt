@@ -1,0 +1,8 @@
+coordinates: 52.14091918276318, -4.089479973523025
+location: Silian
+next: 9849
+previous: 9767
+storyCount: 1
+summary: A young man intending to attend a singing practice at a church in Silian noticed a mysterious light inside despite the church being locked. He and Owen Evans's father saw the light move and disappear into the ground, later marked by the young man, where a burial took place shortly after, confirming it as a corpse candle.
+tags: corpse-candle
+title: A Corpse Candle Seen in Silian

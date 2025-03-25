@@ -1,0 +1,8 @@
+coordinates: 52.21953893483302, -3.9338038024528954
+location: Tregaron
+next: 5435
+previous: 5360
+storyCount: 1
+summary: A farm servant near Tregaron vanished while searching for lost cattle and was accused of murder, only for a wise man to reveal that he had been taken by fairies. A year and a day later, the servant was found dancing in a fairy circle, believing he had only been gone for a few minutes.
+tags: fairy
+title: A Farm Servant Near Tregaron, Who Spent a Year and a Day with the Fairies

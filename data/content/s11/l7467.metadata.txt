@@ -1,0 +1,6 @@
+location: South Wales
+next: 7544
+previous: 7416
+storyCount: 2
+summary: A carpenter in South Wales was tormented by the ghost of a 'White Lady' until he discovered a hidden drawer full of jewels and valuables while repairing an escritoir. After returning the valuables to their rightful owner, the 'White Lady' ceased to haunt him.
+title: SPIRITS AND HIDDEN TREASURE

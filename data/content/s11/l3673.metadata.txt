@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 3685
+previous: 3621
+storyCount: 1
+summary: In the old Welsh custom described from Carmarthenshire, people would secretly place an egg-shell filled with water, meat, and flour outside a neighbor's window during supper. If caught, they were punished by having to clean old shoes.
+title: The Crochan Grawys Tradition in Wales

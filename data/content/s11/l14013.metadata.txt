@@ -1,0 +1,6 @@
+location: null
+next: 14022
+previous: 14002
+storyCount: 1
+summary: A remedy for a mad dog bite involves making an ointment with plantain, sheep’s sorrel, egg whites, honey, and lard. This traditional treatment, suggested by the Physicians of Myddfai, should be applied to the affected area for healing.
+title: For the Bite of a Mad Dog

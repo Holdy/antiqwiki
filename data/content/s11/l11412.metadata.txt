@@ -1,0 +1,8 @@
+coordinates: 51.874309752055154, -4.874162363845227
+location: Walton East
+next: 11450
+previous: 11388
+storyCount: 1
+summary: In Walton East, Pembrokeshire, a young woman was sick for fifteen years after being bewitched by an old woman she had refused alms to. Only after the death of the supposed witch did the young woman recover and eventually go on to live a happy life as a farmer's wife.
+tags: witch
+title: A Farmer's Daughter Bewitched for Refusing Alms

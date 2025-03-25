@@ -1,0 +1,6 @@
+location: Ynysfach
+next: 9300
+previous: 9237
+storyCount: 1
+summary: Shan, while waiting for her husband Shon to return home for Christmas, encounters a ghost on her way home from searching for him. In a moment of courage, she strikes the ghost with a stick, causing it to disappear, though she senses it following until she crosses a brook.
+title: Shan and the Ghost

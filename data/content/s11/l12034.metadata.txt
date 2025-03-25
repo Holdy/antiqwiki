@@ -1,0 +1,8 @@
+coordinates: 51.76952573812795, -4.895789767993366
+location: Pembrokeshire
+next: 12092
+previous: 11966
+storyCount: 1
+summary: Aby Biddle attended a clergy gathering where the topic of occult science stirred controversy, leading him to demonstrate a miraculous conjuring act. He conjured a swarm of hornets in the room, causing panic among the priests before revealing the trick and establishing his reputation as a magician in Pembrokeshire.
+tags: wizard approx
+title: The Priests and the Hornets

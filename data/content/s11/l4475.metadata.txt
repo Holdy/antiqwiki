@@ -1,0 +1,6 @@
+location: Cardigan
+next: 4494
+previous: 4432
+storyCount: 1
+summary: In Wales, fairies are regarded as immortal spirits known as 'Y Tylwyth Teg' or the 'Fair Family', and can also be referred to as 'Bendith y Mamau', reflecting their mystical presence in local folklore. These mythical beings have various names depending on the region, with references like 'gwragedd Annwn' for fairies believed to dwell in lakes, illustrating their cultural significance across different Welsh locales.
+title: Fairy Names

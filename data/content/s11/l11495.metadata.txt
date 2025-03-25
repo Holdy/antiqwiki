@@ -1,0 +1,8 @@
+coordinates: 51.94603203033669, -5.087375138012783
+location: Mathry, Pembrokeshire
+next: 11510
+previous: 11478
+storyCount: 1
+summary: In the village of Mathry, Pembrokeshire, there was a known witch who was accused of casting spells on cattle, causing them to act strangely. After a farmer's cows were found unable to stand, he confronted the suspected witch, who reversed the spell by touching each cow, which then promptly returned to normal.
+tags: witch
+title: CATTLE WITCHED

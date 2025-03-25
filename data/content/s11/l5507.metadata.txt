@@ -1,0 +1,8 @@
+coordinates: 51.94158572284605, -4.244773882525484
+location: Llanllawddog
+next: 5530
+previous: 5495
+storyCount: 1
+summary: Iago ap Dewi, a renowned translator of Bunyan's "Pilgrim's Progress," lived in Llanllawddog, Carmarthenshire, and disappeared for seven years, believed by locals to be abducted by Fairies. Upon his mysterious return, he evaded questions about his whereabouts during his absence.
+tags: fairy
+title: Iago ap Dewi's Enchantment with the Fairies

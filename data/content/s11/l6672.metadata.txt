@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 6685
+previous: 6615
+storyCount: 1
+summary: In Carmarthenshire, residents believe that if dough becomes stringy instead of rising properly, fairies are playing tricks with the oven, leading housewives to sacrifice an old slipper to propitiate them. In Montgomeryshire, it was customary to sign a cross on a loaf before placing it in the oven as a protective measure against such mischievous fairy interference.
+title: Fairies Playing Tricks with the Oven

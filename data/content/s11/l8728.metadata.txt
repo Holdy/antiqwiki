@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 8746
+previous: 8715
+storyCount: 1
+summary: According to legend, Megan Llandunach used trickery to outsmart the Devil after he built a bridge for her. She threw a bread crust across, making her dog the first to pass, thus thwarting the Devil's deal.
+title: The Legend of the Devil's Bridge in Cardiganshire

@@ -1,0 +1,8 @@
+coordinates: 51.626051023845584, -4.901326798034531
+location: Stackpole Court
+next: 9267
+previous: 9219
+storyCount: 1
+summary: The ghost of a headless lady, accompanied by headless horses and a coachman, haunted the area around Stackpole Court. The ghost was eventually laid to rest by a local parson who gave it an impossible task, ensuring it would no longer appear.
+tags: haunting
+title: The "Laying" of the Stackpole Ghost

@@ -1,0 +1,6 @@
+location: Forch y Cwm
+next: 6192
+previous: 6161
+storyCount: 2
+summary: Elias, a servant from Forch y Cwm, was ploughing in a field when he noticed Fairies approaching him on Bank-Cwmpridd. Terrified, he ran home in broad daylight to escape them.
+title: Elias, Forch y Cwm and the Fairies

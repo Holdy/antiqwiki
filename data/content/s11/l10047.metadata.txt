@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 10091
+previous: 10031
+storyCount: 2
+summary: In Carmarthenshire, before the death of Rees David, a deeply pious man, witnesses in the room reported hearing angelic singing growing closer and then fading away after his passing. Cyhyraeth, a spectral moaning sound, was often heard in the twelve parishes of the hundred of Inis Cenin before deaths, serving as a death omen, and was believed to be the voice of a groaning spirit.
+title: Music of Angels Heard Before Death; Cyhyraeth: Or Death Sound

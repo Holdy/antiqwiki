@@ -1,0 +1,8 @@
+coordinates: 51.81889430384545, -4.412564304750353
+location: Ffynnonddagrau, Llangynog, Carmarthenshire
+next: 9367
+previous: 9300
+storyCount: 2
+summary: In the Welsh village of Ffynnonddagrau, the old man Thomas Harries was known for his uncanny ability to predict deaths, including those of local residents like John Thomas and Rassie of Moelfre Fach. His predictions were so accurate that people were wary of encountering him, fearing his prophetic insights into impending mortalities.
+tags: fortelling
+title: Death Portents and Phantom Funerals in Wales

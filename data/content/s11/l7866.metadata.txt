@@ -1,0 +1,8 @@
+coordinates: 51.78913402700515, -4.409626497783276
+location: Llanybri
+next: 7891
+previous: 7840
+storyCount: 2
+summary: Mrs. M. Davies from Llanybri recalls her mother seeing a spirit of an old woman knitting by the roadside, later identified as Rachel Y Gweydd, on a moonlit night shortly before a local man's funeral. Remarkably, the same woman was seen knitting at the same spot when the funeral procession occurred, confirming the young woman's eerie encounter.
+tags: haunting
+title: Spirit of a Living Woman Seen on a Moonlight Night, Near Llanybri in Carmarthenshire

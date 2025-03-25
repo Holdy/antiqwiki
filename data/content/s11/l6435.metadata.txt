@@ -1,0 +1,8 @@
+coordinates: 51.70884744953215, -5.053958453218206
+location: Milford Haven
+next: 6499
+previous: 6418
+storyCount: 1
+summary: In the folklore of West Wales, it was believed that Fairies, known as 'Plant Rhys Ddwfn,' invisibly attended markets in towns like Milford Haven and Cardigan, making purchases without speaking and affecting the local economy. The Fairies befriended a merchant named Gruffydd Ap Einon, leading him to their world where he was rewarded with gifts, but after his death, the Fairies stopped visiting when greedy farmers demanded unreasonable prices.
+tags: fairy
+title: Fairies at the Welsh Markets

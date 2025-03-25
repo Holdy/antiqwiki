@@ -1,0 +1,6 @@
+location: Cwrt-y-Cadno
+next: 11531
+previous: 11495
+storyCount: 1
+summary: A Radnorshire farmer, suspecting witchcraft after losing two horses, consulted a wise man in Cwrt-y-Cadno for protection. Despite the farmer's efforts, it was too late to save his third horse, though he received a protective paper for future use.
+title: HORSES KILLED BY WITCHCRAFT IN RADNORSHIRE

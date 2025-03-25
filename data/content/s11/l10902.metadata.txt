@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 10924
+previous: 10877
+storyCount: 1
+summary: The wren, considered a sacred bird, was associated with a Welsh rhyme cautioning against disturbing its nest, as doing so would deny one peace in the afterlife. In Pembrokeshire, it was traditional to carry a wren around the houses during Christmas, highlighting the bird's cultural significance.
+title: The Sacred Wren

@@ -1,0 +1,8 @@
+coordinates: 52.29163804565503, -3.9017270766087693
+location: Ystrad Meurig
+next: 11547
+previous: 11510
+storyCount: 1
+summary: An old witch living near Ystrad Meurig requested a shepherd to gift her a lamb, which he refused. In retaliation, she cursed the shepherd, resulting in the mysterious death of the lamb and its mother, attributed to her witchcraft.
+tags: witch
+title: Sheep Killed by an Old Witch

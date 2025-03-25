@@ -1,0 +1,7 @@
+location: Haverfordwest
+next: 14484
+previous: 14458
+storyCount: 2
+summary: St. Leonard's Well, located in Rudbaxton parish near Haverfordwest, was historically frequented for its reputed medicinal properties, particularly in treating sore eyes. Nearby was St. Leonard's Chapel, although St. Leonard himself was not a Welsh saint.
+tags: well
+title: ST. LEONARD'S WELL

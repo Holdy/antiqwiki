@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 11039
+previous: 10998
+storyCount: 1
+summary: A superstition suggests that if a sick person craves pigeon, it is an omen of imminent death, and it's also believed that people cannot die peacefully if their pillows contain pigeon's feathers. In 1803, a woman in Pembrokeshire experienced this superstition when her nurse removed the pillow from beneath her head on her deathbed.
+title: The Pigeon

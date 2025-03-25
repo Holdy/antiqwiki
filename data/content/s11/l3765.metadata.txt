@@ -1,0 +1,6 @@
+location: null
+next: 3772
+previous: 3739
+storyCount: 1
+summary: The tradition of playing April Fool's pranks is known as "Ffwl Ebrill" in Wales. This custom is similar to the way it is celebrated in England and continues to be observed today to some extent.
+title: FIRST DAY OF APRIL.

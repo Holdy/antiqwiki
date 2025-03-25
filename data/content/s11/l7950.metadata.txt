@@ -1,0 +1,6 @@
+location: Aberystwyth
+next: 8000
+previous: 7903
+storyCount: 2
+summary: Mr. Evans's servant was surprised to see him in the field, knowing he had gone to Aberystwyth earlier that day, leading Evans to explain that the servant must have seen his spirit. Evans reassured his servant that seeing the spirit of a living man was not a bad sign, contrasting a widespread belief that the souls of the wicked dead only appeared as ghosts.
+title: SPIRIT OF A LIVING MAN IN A FIELD

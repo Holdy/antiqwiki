@@ -1,0 +1,6 @@
+location: Ystradffin
+next: 15111
+previous: 15067
+storyCount: 1
+summary: Twm Shion Catti, also known as Thomas Jones, was said to have used a cave near Ystradffin as his stronghold during his earlier days as a freebooter. Later in life, Twm Shion Catti reformed and became a celebrated bard and antiquary, with stories of his life becoming a part of local folklore and literature.
+title: TWM SHION CATTI'S CAVE

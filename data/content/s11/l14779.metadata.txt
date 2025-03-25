@@ -1,0 +1,7 @@
+location: Letterston
+next: 14788
+previous: 14759
+storyCount: 1
+summary: At Letterston, a well known as 'Ffynon Shan Shillin' is believed to have healing properties. The water from this well was so prized that it was reportedly sold for a shilling per bottle in the past.
+tags: well
+title: The Letterston Well

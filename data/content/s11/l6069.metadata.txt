@@ -1,0 +1,6 @@
+location: Cardigan
+next: 6105
+previous: 6057
+storyCount: 1
+summary: Seventeen-year-old Shui Rhys, known for her beauty and occasional tardiness due to playful distractions, claimed to be enchanted by Fairies near her home in Cardigan, which eventually led to her mysterious disappearance. Her mother and neighbors ceased to scold her, fearing the Fairies' wrath until one day, Shui vanished without a trace, leaving only rumors of her sighting in foreign cities.
+title: Shui Rhys and the Fairies

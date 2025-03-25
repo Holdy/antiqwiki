@@ -1,0 +1,6 @@
+location: Disserth
+next: 16121
+previous: 16064
+storyCount: 1
+summary: At a village wake in Disserth on July 9th, 1744, people of fortune and fashion gathered to dance energetically in a barn and engage in various games around the churchyard, exhibiting a blend of gaiety and simplicity reminiscent of ancient Britons. The event featured spirited country dances, a mix of Welsh and English language among the lively crowd, and games being played against the church’s walls, encapsulating a vivid picture of communal joy and cultural tradition.
+title: Wakes in Radnorshire

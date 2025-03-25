@@ -1,0 +1,6 @@
+location: Cardiganshire and Carmarthenshire
+next: 11059
+previous: 11027
+storyCount: 1
+summary: In the border region of Cardiganshire and Carmarthenshire, a woman claims that bees understand Welsh, particularly responding to a Queen's command. Superstitions abound around bees, including the customs of informing them about family deaths and interpreting their swarming as omens.
+title: THE BEES

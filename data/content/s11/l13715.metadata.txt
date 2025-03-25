@@ -1,0 +1,6 @@
+location: Wales
+next: 13764
+previous: 13695
+storyCount: 1
+summary: In Wales, particularly in Cardigan and Carmarthenshire, the word 'Abracadabra' was widely used as a charm to ward off evil, carried on parchment as 'papur y Dewin' or 'the wizard's paper'. This charm, believed to protect against witches and illness, was linked to various origins, including a construction by Basilides interpreting divine names or ancient deities.
+title: The Magical Charm of Abracadabra in Wales

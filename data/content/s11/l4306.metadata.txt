@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 4327
+previous: 4295
+storyCount: 1
+summary: Knappan was a traditional game played with a greased wooden ball, considered excellent training for war, and matches involved running over several miles between goals. The game was most popular in northern Pembrokeshire and southern Cardiganshire, with events gathering up to 2,000 participants and some horsemen during the time of Queen Elizabeth.
+title: Knappan

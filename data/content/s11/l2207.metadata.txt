@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 3062
+previous: 2075
+storyCount: 1
+summary: Welsh funeral customs are characterized by public announcements of the funeral date, large processions, and a prayer meeting called Gwylnos held the night before the funeral in the room where the deceased lay. A peculiar historical custom in Pembrokeshire involved raising the corpse through a chimney, known as 'Hir-wen-gwd,' which was abandoned after a tragic incident led to a volunteer's accidental death. In the past, the placing of salt on the deceased's chest was thought to protect the body from swelling and keep away evil spirits, while the sin-eater was believed to absorb the deceased's sins by eating bread over the corpse. Various other customs included using yew for funeral bows, collecting grave donations after the service, and covering graves with flowers on 'Sul y Blodau.'
+title: Welsh Funeral Customs

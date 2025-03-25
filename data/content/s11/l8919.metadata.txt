@@ -1,0 +1,7 @@
+location: Gower
+next: 9065
+previous: 8853
+storyCount: 2
+summary: A gentle maiden near Demon's Rock was secretly meeting a lover, who was later discovered to be an unseeable spirit; during a stormy encounter, she realized this presence was a demon, identified by its cloven hoof, as she fled for safety. Her frightful experience left the landscape devastated, and ever since, a large stone known as the Demon's Rock marks the place where the demon attempted to harm her.
+tags: demon
+title: A Demon Tempting a Young Maiden in Gower

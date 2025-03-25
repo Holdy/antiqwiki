@@ -1,0 +1,6 @@
+location: Wales
+next: 10657
+previous: 10394
+storyCount: 1
+summary: In Wales, many superstitions surround the moon, including beliefs about good luck associated with how and when the new moon is first seen, and customs such as showing the moon a piece of money or making a wish during its sighting after New Year's Day. There's also a belief that agricultural and daily activities, including setting hens to hatch eggs, sowing seeds, and even cutting hair, should align with certain lunar phases to ensure favorable outcomes, indicating the strong cultural influence of lunar phases on everyday life.
+title: Moon Superstitions in Wales

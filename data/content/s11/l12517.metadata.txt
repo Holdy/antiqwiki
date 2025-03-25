@@ -1,0 +1,6 @@
+location: Cwrtycadno
+next: 12556
+previous: 12484
+storyCount: 1
+summary: Harries of Cwrtycadno possessed a magic glass in which a young man named Phillips saw a vision of his future wife. Later, while working as a carpenter, Phillips met the young woman he had seen in the glass and eventually married her, as confirmed by their son.
+title: A Conjurer Showing a Young Man His Future Wife

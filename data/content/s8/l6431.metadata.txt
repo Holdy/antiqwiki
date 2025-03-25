@@ -1,6 +1,8 @@
+coordinates: 51.692544162308906, -2.6629871940518464
 location: Tintern Abbey
 next: 6457
 previous: 6393
 storyCount: 1
 summary: In a tale set in Wales, the devil is said to have interacted with monks of Tintern Abbey by preaching from a rocky outcrop known as the Devil's Pulpit, only to be driven away by a surprise dousing of holy water. The superstition that chalked doorsteps can keep evil at bay underscores the narrative's theme of folklore and beliefs about the devil's presence in the region.
+tags: devil
 title: The Devil's Pulpit

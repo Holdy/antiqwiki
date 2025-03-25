@@ -1,0 +1,8 @@
+coordinates: 52.41209089288028, -3.931872427483506
+location: Goginan, near Aberystwyth
+next: 13852
+previous: 13764
+storyCount: 1
+summary: Evan Morris from Goginan near Aberystwyth used written charms from a conjurer to cure bewitched animals, such as a sow, by rubbing the paper over their backs while reciting a Christian prayer. Mr. Hamer noted that these charms included various religious invocations, symbols, and the word 'Abracadabra', and were believed to protect livestock from witchcraft and evil influences when kept near them.
+tags: anti-witchcraft
+title: Charms for Cattle and Pigs

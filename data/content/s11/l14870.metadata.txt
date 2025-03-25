@@ -1,0 +1,8 @@
+coordinates: 51.81615822697905, -4.078009973749262
+location: Gorslas
+next: 14896
+previous: 14854
+storyCount: 1
+summary: A local tradition in Carmarthenshire tells of a small well with a stone cover on a hill near Gorslas that turned into the lake known as Llyn Llechwen due to a boy failing to replace the cover. An alternative version of the tale attributes the incident to a warrior named Owen Lawgoch and his men, who supposedly sleep in a cave waiting to be awakened by the sound of battle.
+tags: folklore
+title: The Legend of Llyn Llechwen

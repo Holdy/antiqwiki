@@ -1,0 +1,6 @@
+location: Radnorshire
+next: 14339
+previous: 14226
+storyCount: 2
+summary: The Church of St. Harmon in Radnorshire once housed a pastoral staff believed to belong to St. Curig, known for its gold and silver embellishments and miraculous healing properties. The staff notably aided in curing glandular and strenuous swellings, highlighting its revered status.
+title: The Staff of St. Curig and Penglog Teilo

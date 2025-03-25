@@ -1,0 +1,6 @@
+location: Wales
+next: 3621
+previous: 3561
+storyCount: 1
+summary: St. David's Day, celebrated on March 1st, honors the patron saint of Wales with events such as grand dinners, speeches, and the wearing of leeks, though this latter tradition is more common in towns than in rural areas. The custom of wearing leeks is linked to various historical battles, including one against the Saxons, as well as the English victories at Poictiers and Cressy, with references made by Shakespeare and recorded historical practices.
+title: St. David's Day

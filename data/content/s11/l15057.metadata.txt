@@ -1,0 +1,6 @@
+location: Pendine, Carmarthenshire
+next: 15067
+previous: 15043
+storyCount: 1
+summary: A cave in Pendine, Carmarthenshire, was inhabited by notorious robbers, who were eventually overpowered and killed by locals for murdering a woman. These robbers used the cave as their headquarters to carry out their desperate and murderous activities.
+title: BLOODY CAVE.

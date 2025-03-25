@@ -1,0 +1,6 @@
+location: Blaenplwyf
+next: 4263
+previous: 4146
+storyCount: 2
+summary: In West Wales, sheep shearing was a significant social event held at Bronbyrfe, Llanddewi Brefi, where farmers and their families gathered annually to shear sheep, fish, and enjoy festivities, culminating in a communal meal at Blaenplwyf. The journey involved a cavalcade from Blaenplwyf, with participants traveling on horseback over challenging terrain, engaging in games, and relishing a feast prepared by family members, highlighting a mix of work and communal joy.
+title: Sheep Shearing Customs and One Night Houses

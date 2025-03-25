@@ -1,0 +1,6 @@
+location: Alltyferin
+next: 12805
+previous: 12762
+storyCount: 2
+summary: Mr. Griffiths, once a servant at Alltyferin near Carmarthen, was tasked by his master with visiting a local conjurer to discover who was stealing ducks from their farm. The conjurer provided a detailed description leading to the capture of the thief, proving his magical prowess.
+title: The Wizard of Llanpumpsaint and the Ducks of Alltyferin

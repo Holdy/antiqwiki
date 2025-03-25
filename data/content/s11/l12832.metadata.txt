@@ -1,0 +1,6 @@
+location: Llangurig
+next: 12866
+previous: 12805
+storyCount: 1
+summary: A young man near Aberystwyth was suddenly struck dumb, suspected to be under witchcraft, prompting his father to consult a wizard named Savage in Llangurig. The wizard revealed that the young man was not witched but cursed, and upon the father's return, the young man regained his speech.
+title: A Wizard and the Young Man Who Had Been Cursed

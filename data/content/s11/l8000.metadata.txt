@@ -1,0 +1,8 @@
+coordinates: 52.195445067382636, -4.3085528927691215
+location: Llanarth
+next: 8021
+previous: 7950
+storyCount: 1
+summary: John Stephens encountered a living man's spirit throwing stones as he walked home one evening in Llanarth, Cardiganshire. This unusual phenomenon was confirmed by other accounts of living spirits, sometimes heard but not seen.
+tags: living-spirit
+title: Spirit of a Living Man Throwing Stones

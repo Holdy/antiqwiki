@@ -1,0 +1,6 @@
+location: Mid-Cardiganshire
+next: 10394
+previous: 10320
+storyCount: 1
+summary: While on election business in Mid-Cardiganshire, a writer noticed a row of turnips amid potatoes on a Nonconformist minister's farm, explained by a local superstition that an unplanted space could predict death. This belief, present in both Cardiganshire and Carmarthenshire, is even acknowledged by educated figures who affirm the existence of death portents.
+title: MISSING A BUTT

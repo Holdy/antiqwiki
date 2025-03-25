@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 11268
+previous: 11217
+storyCount: 1
+summary: Throughout history, witches were feared for their supposed pacts with Satan and their ability to cause harm, a belief that persisted in regions like Pembrokeshire and Carmarthenshire into the 19th century. Many claimed witches took advantage of these fears to obtain charity, and their perceived powers could influence even personal relationships as young men kept promises to avoid being cursed.
+title: Witches, Wizards, Prophecies, Divination, Dreams

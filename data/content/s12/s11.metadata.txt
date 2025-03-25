@@ -1,0 +1,5 @@
+instanceOf: book
+title:Witchcraft and Superstitious Record in the South-Western District of Scotland
+author: J. Maxwell Wood
+published: 1911
+source:https://www.gutenberg.org/ebooks/43966

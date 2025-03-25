@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 13545
+previous: 13294
+storyCount: 2
+summary: The narrator describes various instances of dreams that have directly corresponded with real-life events, underscoring the belief that dreams can predict the future. One example involves a dream about Lady Kensington who was reported missing; shortly after the dream, her death was confirmed on the same date of the dream.
+title: Dreams: Prophetic and Mysterious

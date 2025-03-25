@@ -1,0 +1,8 @@
+coordinates: 51.922219214636755, -4.367083430303217
+location: Conwil Elvet
+next: 9911
+previous: 9849
+storyCount: 1
+summary: James, as a boy, experienced an eerie sight when he encountered a strange light that followed him along a lonely road, which later was witnessed by his family and believed to be a corpse candle. The sighting of the corpse candle correlated with the death of a child at a nearby house, reinforcing local beliefs in ominous supernatural occurrences.
+tags: corpse-candle
+title: A Corpse Candle Seen Near Conwil

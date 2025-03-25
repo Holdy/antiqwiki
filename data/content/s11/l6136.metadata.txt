@@ -1,0 +1,6 @@
+location: Llanddeiniol
+next: 6161
+previous: 6105
+storyCount: 1
+summary: As an 18-year-old, John Jones, a servant in Llanddeiniol, encountered two supernatural figures while walking home one evening across Rhosrhydd moor. The figures, described as nimble and dressed in white, danced in circles, convincing John and his household that they were fairies rather than human boys.
+title: A SERVANT OF PERTHRHYS, LLANDDEINIOL, AND THE WHITE FAIRIES

@@ -1,6 +1,8 @@
+coordinates: 53.27776440918033, -3.896217067246796
 location: Rhiwgyfylchi
 next: 6393
 previous: 6322
 storyCount: 1
 summary: In Wales, the legend of the jack-o'-lantern involves Sion Dafydd tricking a devil multiple times, eventually escaping by clinging to an apple tree and transforming into a fairy. Sion's cleverness and the devil's stupidity are central to the tale, which ties his transformation to the notorious village of Rhiwgyfylchi, known for its wickedness.
+tags: devil
 title: The Welsh Origins of the Jack-o'-Lantern

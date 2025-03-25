@@ -1,0 +1,8 @@
+coordinates: 52.038915702240985, -4.46338388814731
+location: Newcastle Emlyn
+next: 11169
+previous: 11115
+storyCount: 1
+summary: A gwiber, or Flying Serpent, appeared in Newcastle Emlyn, alighting on the castle and terrifying townsfolk during a fair day in the eighteenth century. A brave soldier successfully wounded the serpent by shooting at its unarmored navel from the river, leading to the creature's death and the staining of the river with its blood.
+tags: dragon
+title: A FLYING SERPENT AT NEWCASTLE EMLYN

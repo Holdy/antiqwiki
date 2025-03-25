@@ -1,0 +1,6 @@
+location: Vale of Aeron
+next: 5360
+previous: 5223
+storyCount: 1
+summary: An old man from the Vale of Aeron recounted hearing Fairies sing such enchanting music that he was captivated for hours one night. The captivating fairy song, "Can y Tylwyth Teg," reflected their nightly dancing and singing rituals in the moonlight.
+title: Fairy Music and Dancing

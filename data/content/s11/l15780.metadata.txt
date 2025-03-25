@@ -1,0 +1,7 @@
+location: Llangadock
+next: 15793
+previous: 15770
+storyCount: 1
+summary: John Jones shared that Llangadock was once a large town, but part of it sunk according to local tradition. A church supposedly stood where Pwll y Clychau is now, and people claim they can hear bells from the submerged site.
+tags: sunken-settlement
+title: Llangadock's Sunken Past

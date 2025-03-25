@@ -1,0 +1,6 @@
+location: South Wales
+next: 4400
+previous: 4327
+storyCount: 2
+summary: In South Wales, specifically in Cardiganshire and Carmarthenshire, Welsh children were encouraged to learn English through rhymes and enforced practices like the 'Welsh Note' system during school about seventy or eighty years ago. The 'Welsh Note' was a disciplinary tool used to punish students for speaking Welsh by passing a stick marked with 'W.N.' among those caught, with the final holder receiving corporal punishment at the end of the day.
+title: Welsh School Practices in the Past

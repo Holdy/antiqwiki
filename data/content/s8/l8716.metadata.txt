@@ -2,5 +2,5 @@ location: null
 next: 8723
 previous: 8606
 storyCount: 0
-summary:  
+summary: This text does not contain a story. It includes references to footnotes and historical sources without narrative content.
 title: 

@@ -1,0 +1,8 @@
+coordinates: 52.08958169815366, -4.1367074173432
+location: Lampeter
+next: 14854
+previous: 14834
+storyCount: 1
+summary: Pencarreg Lake, located near Lampeter on the Carmarthenshire side, is steeped in a local legend. It is said that a village once existed where the lake now lies, but was swallowed up, turning into what is now referred to as the "bottomless" lake.
+tags: sunken-settlement
+title: Pencarreg Lake

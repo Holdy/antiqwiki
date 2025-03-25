@@ -1,0 +1,8 @@
+coordinates: 52.303875693863894, -4.152534000915738
+location: Llanrhystyd
+next: 6069
+previous: 5818
+storyCount: 1
+summary: A maid from Pencareg Farm, Llanrhystyd, was reportedly taken by fairies while she was out gathering cattle. Despite an extensive search, she was never seen again after being dragged into the fairies' circle.
+tags: fairy
+title: A Llanrhystyd Maid Lost Among the Fairies

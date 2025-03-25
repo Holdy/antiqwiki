@@ -1,0 +1,6 @@
+location: Llanarth, Cardiganshire
+next: 6178
+previous: 6136
+storyCount: 1
+summary: Nancy Tynllain and her son, Shenkin Phillips, encountered a group of fairies riding small horses while traveling to Cynon's Fair early in the morning. They observed the fairies circling a hillock, and Nancy noticed one fairy woman in a red cloak resembling her own riding style.
+title: Nancy Tynllain and Her Son Seeing Fairies on Horses

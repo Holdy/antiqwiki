@@ -1,0 +1,6 @@
+location: Aberystwyth
+next: 10368
+previous: 10306
+storyCount: 1
+summary: Superstitions in Wales suggest that various signs, such as a cock crowing before midnight or a hen behaving unusually, predict death either in the family or nearby. Other ominous signs include a persistent screeching owl, a howling dog, or even a burnt piece of clothing foretelling a loss, as experienced by a farmer's wife near Aberystwyth.
+title: Death Omens in Welsh Folklore

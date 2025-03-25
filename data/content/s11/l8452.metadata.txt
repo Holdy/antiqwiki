@@ -1,0 +1,8 @@
+coordinates: 51.61097091599564, -4.998696586339831
+location: Green Bridge Cave, near Pendine, Carmarthenshire
+next: 8466
+previous: 8397
+storyCount: 1
+summary: Long ago, an old fiddler entered the Green Bridge Cave with a candle and his fiddle, but the candle went out, leaving him lost inside. It is said that the sound of his fiddle can still be heard in the cave.
+tags: haunting
+title: A SPIRIT IN A CAVE

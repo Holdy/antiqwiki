@@ -1,0 +1,6 @@
+location: West or Mid-Wales
+next: 5736
+previous: 5530
+storyCount: 1
+summary: The son of Llech y Derwydd, closely bonded to the head servant, vanished mysteriously after entering a Fairy ring, leaving his family in profound sorrow. Fifty years later, he returned as an old man, only to die immediately after eating food, believed to break a fairy spell, leading to a lasting curse on the family's farm.
+title: Son of Llech y Derwydd and the Fairies

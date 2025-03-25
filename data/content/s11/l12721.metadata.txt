@@ -1,0 +1,8 @@
+coordinates: 52.03553859499245, -3.752259690614411
+location: Glanbran
+next: 12762
+previous: 12657
+storyCount: 1
+summary: Mr. Pugh's friend, after consulting the wizard Harries, was advised to keep a magical document in his pocket to prevent the thief from selling his stolen horse. Following the wizard's guidance, the farmer eventually found his horse near Glanbran, despite previous failed attempts by a thief to sell it at a fair.
+tags: wizard approx
+title: The Conjurer and the Lost Horse

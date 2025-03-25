@@ -1,0 +1,8 @@
+coordinates: 51.966043120141514, -3.9011069717544653
+location: Llansadwrn
+next: 7353
+previous: 7242
+storyCount: 2
+summary: Evan y Gweydd encountered a spirit one night that compelled him to transport an iron chest to Fanfach Lake, and during this supernatural journey, he was carried through the air and later found himself ill for some time. The spirit offered Evan the choice of above, amid, or below wind for his aerial journey, warning that his decision would impact the ease of travel, highlighting the safest option as amid wind.
+tags: haunting
+title: The Weaver of Llansadwrn Transported Through the Air by a Spirit

@@ -1,0 +1,6 @@
+location: Nantgaredig
+next: 9677
+previous: 9591
+storyCount: 2
+summary: James, a resident of Nantgaredig in Carmarthenshire, observed what seemed to be a phantom train passing through the station at midnight, and was told by the Stationmaster it was merely an apparition as no train had been scheduled at that time. Days later, a funeral train from Carmarthen to Llandilo passed, reinforcing James' belief that he had seen a premonition of the event.
+title: A Phantom Train

@@ -1,0 +1,6 @@
+location: Welsh
+next: 3692
+previous: 3673
+storyCount: 1
+summary: The text discusses a traditional Welsh custom of decorating graves on Palm Sunday. This practice was mentioned in a previous chapter focusing on Funeral Customs.
+title: Palm Sunday

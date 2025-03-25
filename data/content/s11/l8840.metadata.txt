@@ -1,0 +1,8 @@
+coordinates: 51.65138655704146, -3.59983026610731
+location: Gwynfi
+next: 8853
+previous: 8820
+storyCount: 1
+summary: Sir John Williams recounted stories he heard as a boy about a ghost called 'Bwci' that haunted the roads near Gwynfi, taking the form of a horse. This tale aligns with the Celtic belief that demons, such as the Water Horse, could assume equine forms.
+tags: ghost horse
+title: A Demon Assuming the Form of a Horse

@@ -1,0 +1,6 @@
+location: Wales
+next: 8728
+previous: 8673
+storyCount: 2
+summary: Many Welsh ghost stories involve the devil himself appearing, often depicted as less cunning than clever Welsh individuals. The devil's appearances in Wales were as frequent as in other countries, showcasing tales of him being outwitted by shrewd locals.
+title: Apparitions of the Devil

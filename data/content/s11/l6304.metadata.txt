@@ -1,0 +1,6 @@
+location: Maestwynog
+next: 6380
+previous: 6192
+storyCount: 1
+summary: In August 1862, David Evans and Evan Lewis witnessed a mysterious group they initially mistook for reapers, climbing a hillside near Maestwynog and engaging in an unusual dance that defied explanation, leading to their eventual disappearance into the ground. Their encounter was later suggested by a local to be with the traditional Fairies or Tylwyth Teg, continuing the folklore of Fairy sightings in various parts of Wales.
+title: The Fairy Dance at Maestwynog

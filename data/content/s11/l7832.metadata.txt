@@ -1,0 +1,6 @@
+location: Wales
+next: 7840
+previous: 7656
+storyCount: 1
+summary: In Wales, while many people dismiss the idea of ghosts, there is a common belief in the manifestation of a living person's spirit. This belief, known as 'Yspryd Dyn Byw,' suggests that the spirit of a person can appear to others even while they are alive.
+title: THE SPIRIT OF A LIVING MAN.

@@ -1,0 +1,8 @@
+coordinates: 51.82379859441075, -4.410934167082315
+location: Llangynog, Carmarthenshire
+next: 8044
+previous: 8000
+storyCount: 1
+summary: In Llangynog, Carmarthenshire, a boy named William Thomas was comforted by the spirit of his deceased mother, who reassured him that he need not worry about the future. The spirit asked the boy to stop crying, as his tears caused her pain; this encounter was recounted by the boy's son many years later.
+tags: haunting
+title: The Spirit of a Dead Mother Appearing to Her Boy-Son at Llangynog, Carmarthenshire

@@ -1,0 +1,6 @@
+location: Cae Cefn Pantydwr
+next: 5559
+previous: 5507
+storyCount: 1
+summary: A man from Llanedi was lost along with a wild horse, but while the horse was eventually found, the man remained missing until a wise man revealed he was trapped dancing among fairies in Cae Cefn Pantydwr. By following the wiseman's instructions, rescuers succeeded in freeing the man from the fairy circle, leading to enduring local fears of the area by night.
+title: A Man Among Fairies at Cae Cefn Pantydwr

@@ -1,0 +1,6 @@
+location: Jerusalem
+next: 11228
+previous: 11192
+storyCount: 1
+summary: The story describes how a stripe over the shoulders of a donkey is believed to have been made by Jesus during His ride to Jerusalem. This tale was told to the narrator during his boyhood, highlighting a religious legend associated with the animal.
+title: The Ass

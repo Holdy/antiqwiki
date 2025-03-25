@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 7043
+previous: 6685
+storyCount: 2
+summary: In the mid-1700s, miners in Cardiganshire believed in 'Knockers,' fairies that signaled the presence of ore in mines, whom they credited for guiding them to riches. Despite skepticism from outsiders, the miners were certain of the Knockers' existence and considered them benevolent spirits aiding their work, although they are no longer heard today.
+title: Fairy Knockers

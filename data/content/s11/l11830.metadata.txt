@@ -1,0 +1,6 @@
+location: Tregaron
+next: 11867
+previous: 11814
+storyCount: 1
+summary: A farm servant in Tregaron inadvertently angered a witch who had taken on the form of a hare, which he later identified during his time in the fields. Upon advice from friends, he used a bent silver coin to shoot at the hare, ultimately wounding the witch in her human form, leading to her eventual death.
+title: A Witch in the Form of a Hare Shot by a Farm Servant

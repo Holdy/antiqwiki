@@ -1,0 +1,6 @@
+location: Wales
+next: 1045
+previous: 949
+storyCount: 1
+summary: Tea-cup divination, popular among young girls in Wales, involves interpreting tea leaves to predict future events related to love and marriage, with signs like a ring indicating an imminent wedding and two hearts suggesting a forthcoming marriage. While some women rely on experts for guidance, many can discern meanings themselves, using symbols like lilies and hearts to foresee happiness or misfortune in romantic affairs.
+title: Divination by the Tea-Cup

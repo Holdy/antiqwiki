@@ -1,0 +1,8 @@
+coordinates: 51.672216387752265, -4.697035697476758
+location: Tenby
+next: 9953
+previous: 9864
+storyCount: 1
+summary: The young schoolmistress, staying near Tenby, witnessed a mysterious greyish light in her room, which she claimed predicted a forthcoming event. Six weeks later, the mistress of the house died unexpectedly, and her body was laid out on the exact spot where the light had appeared, solidifying the local superstition in the community.
+tags: corpse-light
+title: A Pembrokeshire Tale of a Corpse Candle

@@ -1,0 +1,7 @@
+location: Llanwenog
+next: 14661
+previous: 14630
+storyCount: 1
+summary: St. Gwenog's Well, located near the Church of Llanwenog's graveyard, was historically frequented for its reputed healing properties. The well's water was especially sought for washing children with weak backs, a belief held by those even within living memory.
+tags: well
+title: The Holy Well of St. Gwenog

@@ -1,0 +1,6 @@
+location: null
+next: 11115
+previous: 11079
+storyCount: 1
+summary: In some areas, a black cat is considered to bring bad luck, while in others, it is believed to keep trouble away from the household. Cats born in May were thought to attract snakes, and if a cat washed her face, it signified the arrival of visitors.
+title: The Cat

@@ -1,0 +1,6 @@
+location: Pant Shon Shenkin
+next: 6057
+previous: 5736
+storyCount: 2
+summary: Shon ap Shenkin, a young man from Pant Shon Shenkin, was enchanted by fairy music, losing track of time and emerging from his enthrallment to find decades had passed, his family home transformed, and himself aged and unknown to his kin. Upon realizing that he had been under a fairy spell for years, Shon ap Shenkin crumbled to dust before his nephew could embrace him, confirming the old stories of fairy enchantments similar to the tales of Harlech's warriors listening to the Birds of Rhiannon.
+title: Shon ap Shenkin and the Fairy Music

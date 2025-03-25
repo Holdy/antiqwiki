@@ -1,0 +1,6 @@
+location: Wales
+next: 10792
+previous: 10657
+storyCount: 1
+summary: In Wales, many locals believe a mild winter is ominous, associating it with an increase in funerals. The saying "Gaeaf glas, mynwent fras," reflects the notion that a green winter leads to numerous funerals.
+title: A MILD WINTER

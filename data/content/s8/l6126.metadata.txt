@@ -1,8 +1,6 @@
-coordinates: 51.7979848313201, -4.742762694890093
 location: Wales
 next: 6195
 previous: 6011
 storyCount: 2
 summary: This text explores various tales and appearances of the devil, termed as familiar spirits, in the form of different creatures and objects in Welsh folklore and beyond. Among these stories, notable figures include a black calf near Narberth and a spectral presence in Glamorganshire, both believed to be manifestations of the devil.
-tags: devil
 title: Tales of the Devil in Familiar Forms

@@ -1,0 +1,8 @@
+coordinates: 51.95503026954358, -4.982802079290882
+location: Llanstinan
+next: 11889
+previous: 11830
+storyCount: 1
+summary: The Squire of Llanstinan, persistent in his hunts, repeatedly failed to catch a hare, which he and the villagers suspected was a witch in disguise. Despite using a horse and dog of the same color, the hare escaped yet again, revealing itself as an old woman upon being cornered in a cottage.
+tags: witch
+title: A Witch in the Form of a Hare Hunted by a Pembrokeshire Squire's Hounds

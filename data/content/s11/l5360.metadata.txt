@@ -1,0 +1,8 @@
+coordinates: 51.88945118162692, -3.892184284918966
+location: Trichrug hill
+next: 5375
+previous: 5303
+storyCount: 1
+summary: While returning from Lampeter on a moonlit night, Mr. Edward Jones saw Fairies dancing on Trichrug hill, experiencing an unusual levity in his body as he approached them. Despite witnessing this strange phenomenon, Mr. Jones, known for his intelligence and skepticism, was not considered superstitious.
+tags: fairy
+title: Mr. Edward Jones, Pencwm and the Fairies

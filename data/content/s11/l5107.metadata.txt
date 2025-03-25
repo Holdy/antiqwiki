@@ -1,0 +1,6 @@
+location: North Cardiganshire
+next: 5223
+previous: 4604
+storyCount: 2
+summary: In the 18th century, a young boy from North Cardiganshire repeatedly failed his college exams until he encountered fairies who took him to their land and helped him improve his studies, eventually enabling him to pass his exams with ease and become a clergyman. The fairies taught the boy many things, and upon his return to the mortal world, he was able to fulfill his parents' dreams and became a vicar, proving the legends of fairy education to be more than mere folklore.
+title: A Student Educated by Fairies and Elidorus' Tale

@@ -1,0 +1,7 @@
+location: Llanelly
+next: 14630
+previous: 14594
+storyCount: 1
+summary: In the past, there existed a Holy Well near Llanelly called "Ffynnon Elli." This well was believed to have medicinal properties.
+tags: well
+title: Ffynnon Elli: The Healing Well

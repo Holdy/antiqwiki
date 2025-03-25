@@ -1,0 +1,7 @@
+location: Rhayader
+next: 14623
+previous: 14550
+storyCount: 3
+summary: St. Mary's Well in Rhayader was traditionally visited by local youth during Sunday evenings in the Spring and Summer to enjoy its pure and refreshing water mixed with sugar. The practice reflects the well's cultural significance as a cherished local gathering spot.
+tags: well
+title: St. Mary's Well, Rhayader

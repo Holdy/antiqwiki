@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 4125
+previous: 3798
+storyCount: 1
+summary: In West Wales, particularly in Cardiganshire, farmers practiced 'Cynnos,' a custom where they gathered to dry corn in kilns the night before grinding, turning the process into a social event with games and storytelling, known as 'Shimli.' As the corn dried, participants indulged in activities and sometimes drank 'Fetchin' beer, culminating in a traditional gathering that brought together neighbors and friends for a night-long celebration.
+title: Cynnos and the Communal Spirit of Corn Drying in West Wales

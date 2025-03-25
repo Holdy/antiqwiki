@@ -1,0 +1,8 @@
+coordinates: 52.476870277203645, -4.002009760216111
+location: North of Cardiganshire
+next: 7628
+previous: 7544
+storyCount: 1
+summary: During the Christmas holidays at Glanfread, a housemaid fainted after a mysterious encounter outside while fetching firewood, refusing to explain what had occurred despite her master's threats. Later, she and a fellow servant married and unexpectedly acquired a large farm, leading many to believe a spirit had revealed hidden treasure to her on the fateful night.
+tags: haunting
+title: The Glanfread Fawr Ghost Revealing Hidden Money to the Housemaid.

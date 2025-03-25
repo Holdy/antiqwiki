@@ -1,0 +1,6 @@
+location: Llanarth, Cardiganshire
+next: 10320
+previous: 10295
+storyCount: 1
+summary: Cwn Annwn are supernatural hounds whose howling foreshadows death, with their proximity indicated by the volume of their cries. Mr. Thomas Stephens from Llwyncelyn, Llanarth, Cardiganshire recounts how his brother once heard these spectral hounds on a road near Bronwen.
+title: Cwn Annwn--Hell Hounds

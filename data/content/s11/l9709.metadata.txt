@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 9767
+previous: 9677
+storyCount: 1
+summary: Upon returning to his hometown in Pembrokeshire, Mr. John Pavin Phillips experienced a peculiar vision of a tomb in his local churchyard that appeared to be dedicated to Colonel ----, although no such grave existed at the time. Two years later, the colonel's surviving relatives erected a tomb matching Phillips' vision, leading him to reflect on the mysterious nature of his experience.
+title: A Day-Dream of a Tomb

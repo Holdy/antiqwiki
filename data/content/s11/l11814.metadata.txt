@@ -1,0 +1,8 @@
+coordinates: 51.96935894892322, -4.881332414834084
+location: Pontfaen
+next: 11830
+previous: 11799
+storyCount: 1
+summary: A servant maid in Pontfaen, while milking cows, was repeatedly disturbed by an old witch who appeared as a hare each morning. Her master wounded the hare with his gun, and later, the witch named Maggie was found bedridden with a sore leg from the encounter.
+tags: witch
+title: A Witch Who Appeared in the Form of a Hare Every Morning to a Servant Maid at Milking Time

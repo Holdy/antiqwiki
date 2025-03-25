@@ -1,0 +1,6 @@
+location: Wales
+next: 3765
+previous: 3692
+storyCount: 1
+summary: Many people associate Easter with donning new clothes, a tradition linked to the symbolism of baptism and new life. In historical Wales, it was believed the sun would dance with joy on Easter morning, a sight children were encouraged to witness through a reflective bowl of water.
+title: Easter Traditions and Beliefs

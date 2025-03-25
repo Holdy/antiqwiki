@@ -1,0 +1,6 @@
+location: Llangathen
+next: 9971
+previous: 9911
+storyCount: 1
+summary: Five maid servants, while staying in a newly plastered chamber, were found dead the next morning due to suffocation from the steam of new lime and coal. This tragic incident took place in the home of Baronet Rudd, somewhere in Llangathen, Carmarthenshire.
+title: A Llangathen Tale

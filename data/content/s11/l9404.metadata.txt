@@ -1,0 +1,6 @@
+location: a sparsely populated district
+next: 9563
+previous: 9367
+storyCount: 2
+summary: A young boy witnessed an unusual procession on a typically deserted road, unknowingly observing a phantom funeral that mirrored a real one occurring weeks later for a local farmhand. The procession changed course onto a footpath that did not lead to any burial ground, defying conventional expectations of funerals, and included the mysterious sight of an empty bier being carried by four men. Despite initial skepticism and theories about the event being supernatural, the situation was eerie when the real funeral mirrored the phantom one, following an identical route with an empty bier, which was to be used for the deceased Williams.
+title: A Phantom Funeral

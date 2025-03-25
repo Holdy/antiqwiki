@@ -1,0 +1,6 @@
+location: Tre'rddol
+next: 15057
+previous: 15040
+storyCount: 1
+summary: Near Tre'rddol in North Cardiganshire, Morris, a notorious robber, lived in a cave where he stole hens and sheep until he was eventually caught and hanged in Cardigan. Another account from Pembrokeshire tells of a robber named Morris, who trained a dog to fetch arrows, and was ultimately killed and buried at a site marked by 'Bedd Morris' stone.
+title: The Tale of Ogof Morris

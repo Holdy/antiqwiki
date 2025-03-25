@@ -1,0 +1,6 @@
+location: Cardiff
+next: 12637
+previous: 12574
+storyCount: 1
+summary: Mr. Arthur Mee from Cardiff indicated that astrologers had predicted the death of King Edward. This prediction was reported in May 1910 by the "Western Mail."
+title: Prediction Concerning the Death of His Late Majesty King Edward

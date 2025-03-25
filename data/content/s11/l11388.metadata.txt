@@ -1,0 +1,8 @@
+coordinates: 52.31468096246891, -4.059842124223854
+location: Llangwyryfon
+next: 11412
+previous: 11372
+storyCount: 1
+summary: A woman in Llangwyryfon, suspected of being a witch, was believed to have caused another woman's illness after the latter refused to deliver leather for her and her shoemaker husband. The sick woman's son consulted a conjurer who predicted the witch's visit, resulting in the mother's swift recovery upon the suspected witch's arrival and apology.
+tags: witch
+title: Another Cardiganshire Woman Witched

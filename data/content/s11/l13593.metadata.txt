@@ -1,0 +1,6 @@
+location: null
+next: 13598
+previous: 13545
+storyCount: 1
+summary: Drawing from ancient practices, the chapter explores various traditional methods of healing that have been revered for their enchanting approach to curing ailments. Despite the mystical overtones, many of these techniques are rooted in deep cultural beliefs that have been passed down through generations.
+title: The Healing Art

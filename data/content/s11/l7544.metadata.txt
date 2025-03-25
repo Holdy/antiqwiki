@@ -1,0 +1,8 @@
+coordinates: 52.33882184830767, -3.9582259352950815
+location: Llanafan
+next: 7595
+previous: 7467
+storyCount: 1
+summary: Farmer Edwards, living near Llanafan Bridge, was troubled by a ghost until he addressed it, apparently leading to the revelation of hidden treasure, which he used to prosper. A local resident confirmed the story's truth, claiming a financial benefit from the treasure as a relative of the farmer.
+tags: haunting
+title: A Ghost Revealing Hidden Treasure to a Farmer in the Parish of Llanafan

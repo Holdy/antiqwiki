@@ -1,0 +1,6 @@
+location: Newcastle Emlyn
+next: 10253
+previous: 10134
+storyCount: 1
+summary: A tailor named Samuel Thomas experienced mysterious knocking and wailing at his home in Pen'rallt Fach, which coincided with his deceased relative's longing to return home while on her deathbed in America. The supernatural disturbances ceased after several nights, and were believed to be a manifestation of Death's presence due to the woman's unfulfilled wish to die in her native Wales.
+title: A Remarkable Account of Knocking and Wailing Before Death

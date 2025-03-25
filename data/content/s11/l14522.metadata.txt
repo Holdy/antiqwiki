@@ -1,0 +1,7 @@
+location: Llancynvelyn
+next: 14550
+previous: 14499
+storyCount: 2
+summary: The holy well in the Churchyard of Llancynvelyn was believed to have health-restoring qualities, attracting visitors who either bathed in it or took its water home as a remedy. The legend associated with Llancynvelyn speaks to the well's historical significance and its ties to the revered Welsh Saint Cynvelyn, illustrating the enduring cultural and spiritual practices in North Cardiganshire.
+tags: well
+title: The Llancynvelyn Well and Canna's Well

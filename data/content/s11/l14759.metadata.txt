@@ -1,0 +1,7 @@
+location: St. Edren's
+next: 14779
+previous: 14733
+storyCount: 1
+summary: St. Edren's was home to a famous sacred well known for healing powers, particularly against hydrophobia, which dried up when a woman washed her clothes in it on a Sunday. Despite this, the healing properties of the well's water were believed to have transferred to the churchyard grass, which people would consume to cure their ailments.
+tags: well
+title: ST. EDREN'S WELL

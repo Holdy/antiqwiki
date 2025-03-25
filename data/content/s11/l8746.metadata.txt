@@ -1,0 +1,8 @@
+coordinates: 52.02666460146443, -4.351130392580835
+location: Pentre-Cwrt
+next: 8788
+previous: 8728
+storyCount: 2
+summary: In Pentre-Cwrt, Carmarthenshire, the devil planned to drown the villagers by damming the River Teivy, but a clever cobbler thwarted his plan by convincing him that the distance was too great, causing the devil to abandon his effort. The pile of earth discarded by the devil still marks the spot today, known as Cnwc Coedfoel.
+tags: devil
+title: Pentre-Cwrt Folk and the Devil

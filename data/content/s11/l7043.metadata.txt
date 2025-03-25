@@ -1,0 +1,8 @@
+coordinates: 57.92976009842308, -6.992318952156572
+location: Carmarthenshire
+next: 7075
+previous: 6696
+storyCount: 1
+summary: A man in North Harris caught a mermaid who granted him three wishes for her release, subsequently becoming a skilled herbal doctor with the ability to cure incurable diseases. In Carmarthenshire, a tradition describes how harming a mermaid can bring a curse upon the perpetrator's family for nine generations.
+tags: merfolk
+title: Mermaids and Their Curses

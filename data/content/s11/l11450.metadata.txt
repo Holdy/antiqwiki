@@ -1,0 +1,8 @@
+coordinates: 52.3132265162188, -3.988009661080493
+location: Lledrod
+next: 11478
+previous: 11412
+storyCount: 2
+summary: Thomas Lewis of Garthfawr, suffering from severe pain believed to be caused by an old witch, miraculously recovered after a wise man was consulted. In another instance, after Rhys Rhys forced the witch to undo her spell on churned milk, she cursed him instead, resulting in his permanent ill health.
+tags: witch
+title: Men Witched by an Old Lledrod Hag

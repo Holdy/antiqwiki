@@ -1,0 +1,6 @@
+location: null
+next: 342
+previous: 155
+storyCount: 2
+summary: This collection contains a series of stories on various customs and beliefs. Included are narratives about love, weddings, funerals, fairies, ghost stories, death portents, and many more topics, illustrating diverse cultural traditions.
+title: Collection of Customs and Beliefs

@@ -1,0 +1,6 @@
+location: null
+next: 15043
+previous: 14968
+storyCount: 1
+summary: Adventure seekers find themselves exploring mysterious caves filled with ancient secrets. Despite the potential dangers, the allure of hidden treasures draws them deeper into the subterranean world.
+title: CAVES

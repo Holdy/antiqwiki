@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 3739
+previous: 3685
+storyCount: 1
+summary: In South Pembrokeshire, an old Good Friday custom involved 'Making Christ's Bed' using long reeds woven into the shape of a man and placed on a wooden cross in a field. The tradition of eating and preserving hot cross buns for their supposed medicinal properties was prevalent in this region long after the Reformation.
+title: Good Friday Traditions in Pembrokeshire

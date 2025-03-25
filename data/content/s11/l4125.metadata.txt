@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 4134
+previous: 4071
+storyCount: 1
+summary: Farmers in Cardiganshire allowed poor people to glean in the fields during the harvest seasons. This was a common practice across the Kingdom, influenced by the law of Moses.
+title: Gleaning

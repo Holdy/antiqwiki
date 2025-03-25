@@ -1,0 +1,6 @@
+location: Aberystwyth
+next: 92
+previous: 1
+storyCount: 0
+summary: The book 'Folk-Lore of West and Mid-Wales' by Jonathan Ceredig Davies does not appear to contain a single coherent story but rather focuses on folklore as a thematic subject. The text provided is a dedication and publication information, hence there is no substantial storyline to summarize.
+title: Folk-Lore of West and Mid-Wales

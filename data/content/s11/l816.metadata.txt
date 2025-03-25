@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 837
+previous: 342
+storyCount: 1
+summary: In an old custom, young women would insert pins into a candle at midnight, allowing them to fall as the candle burned down, supposedly revealing their future husband or symbolizing a solitary fate with a vision of a coffin. Alternatively, some would engage in dining room plate arrangement at midnight or eat a hen's first egg in bed for dream divinations about their future husbands.
+title: The Candle and Pin Divination

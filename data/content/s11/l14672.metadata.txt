@@ -1,0 +1,7 @@
+location: Llandyssul
+next: 14687
+previous: 14661
+storyCount: 2
+summary: Ffynon Pwllffein was a famous well on the side of the river Clettwr in Llandyssul, celebrated for its healing virtues until it was destroyed by the river. Another well, Ffynon-Ddewi, near Alltyrodyn, was also well-known for curing whooping-cough and was visited within living memory.
+tags: well
+title: The Wells of Llandyssul

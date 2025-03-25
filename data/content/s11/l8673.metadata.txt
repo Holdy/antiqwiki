@@ -1,0 +1,6 @@
+location: Llanwenog
+next: 8715
+previous: 8619
+storyCount: 1
+summary: According to tradition, Llanwenog Church was supernaturally moved from its original site to another, a theme found in similar legends across Scotland and Wales. These stories possibly reflect real historical events or conflicts between different religious groups, and may even date back to pre-Christian times.
+title: The Mysterious Relocation of Llanwenog Church

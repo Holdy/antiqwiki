@@ -1,0 +1,6 @@
+location: Ireland
+next: 11079
+previous: 11039
+storyCount: 1
+summary: Modomnoc, a follower of St. David, traveled to Ireland with a swarm of bees that provided him sustenance during his journey. Upon his return to Wales, St. David blessed Modomnoc, allowing the bees to prosper in Ireland while their numbers dwindled in Wales.
+title: The Bees and St. David

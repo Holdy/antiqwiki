@@ -1,0 +1,6 @@
+location: Wales
+next: 3570
+previous: 3203
+storyCount: 1
+summary: In Wales, sending Valentines, whether beautiful or mischievous, was once a widespread tradition. However, this custom has declined with the rise of Picture Post Cards.
+title: St. Valentine's Day

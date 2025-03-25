@@ -1,0 +1,6 @@
+location: St. Govan's Chapel
+next: 15392
+previous: 15189
+storyCount: 1
+summary: St. Govan's Chapel, built into a cliff near Pembroke, is shrouded in local traditions, including the belief in a miraculous crevice that can accommodate any person's size and was once said to hide Our Lord from relentless pursuers. The sacred location, associated with St. Govan and visited for its reputed wish-granting properties and holy well, still attracts visitors seeking the fulfillment of their desires within a year.
+title: St. Govan's Legends

@@ -1,0 +1,8 @@
+coordinates: 52.016071692961866, -5.014837319488666
+location: Llanwnda Churchyard
+next: 14069
+previous: 14034
+storyCount: 1
+summary: A young lady who developed fits after a frightful encounter with lightning was cured by ingesting pills made from a dead man's bone. The bone was sourced from Llanwnda Churchyard and ground into powder for the remedy.
+tags: folklore
+title: Pills of Dead Men's Bones

@@ -1,0 +1,6 @@
+location: West and Mid-Wales
+next: 44
+previous: 0
+storyCount: 1
+summary: This ebook, titled 'Folk-Lore of West and Mid-Wales,' is freely available for public use under the Project Gutenberg License. It includes contributions from Jonathan Ceredig Davies and features folklore from specific regions of Wales.
+title: Folk-Lore of West and Mid-Wales

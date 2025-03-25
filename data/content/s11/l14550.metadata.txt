@@ -1,0 +1,7 @@
+location: Carmarthenshire
+next: 14594
+previous: 14522
+storyCount: 2
+summary: St. Anthony's Well in Llanstephan, Carmarthenshire, known for its healing powers, serves as a "Wishing Well" where young people offer pins to invoke spiritual favor. Another such well is located at Careg Cenen Castle, accessible through a dark passage, where visitors leave pins to express their wishes, maintaining a tradition of folkloric beliefs.
+tags: well
+title: Wishing Wells of Carmarthenshire

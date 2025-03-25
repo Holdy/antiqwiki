@@ -1,0 +1,6 @@
+location: Carmarthen
+next: 11372
+previous: 11297
+storyCount: 2
+summary: A young woman in Llanllawddog fell gravely ill due to a supposed Gypsy curse, but recovered instantly after a local wizard instructed her mother to place a charmed folded paper on her chest. The wizard revealed the curse and warned the woman to avoid Gypsies; years later, the paper's inscription was found to be a simple incantation: 'Abracadabra, Sickness depart from me.'
+title: A Girl Who Was Bewitched by the Gypsies, Near Carmarthen

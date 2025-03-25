@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 13269
+previous: 13179
+storyCount: 1
+summary: On his way home from Morville, John Meyler witnessed a surreal mirage in the skies near Penterwin, depicting battalions expanding across the heavens, complete with men falling and horses galloping. Terrified by the celestial battle scene, Meyler informed Mr. James Morris at Penbank, who also confirmed seeing the strange aerial phenomenon.
+title: The Crimean War Seen in the Skies

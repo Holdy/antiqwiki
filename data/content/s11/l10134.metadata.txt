@@ -1,0 +1,6 @@
+location: Blaenporth
+next: 10164
+previous: 10091
+storyCount: 1
+summary: In Blaenporth, certain families traditionally had upcoming deaths foretold by the church bell tolling mysteriously at midnight, without human intervention. This began when a spirit, Mair Wen, warned a farmer of a theft and upon retrieving a stolen communion cup, was promised by the spirit that the bell would toll three times before any family member's death for nine generations.
+title: The Tolling of Blaenporth Church Bell Before a Death

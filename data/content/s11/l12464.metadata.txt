@@ -1,0 +1,8 @@
+coordinates: 52.001577271949714, -4.26551636169444
+location: Pencader
+next: 12484
+previous: 12439
+storyCount: 1
+summary: In the neighborhood of Pencader, a wizard named Phillips was renowned for successfully curing lunatics, including the child of an old woman from Tregroes who regained his sanity for twenty years as predicted. Similarly, the wizard of Cwrt-y-Cadno treated his patients by leading them to the riverbank and frightening them into sanity with a flint revolver.
+tags: wizard approx
+title: Conjurers and Lunatics

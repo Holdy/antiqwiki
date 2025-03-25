@@ -1,0 +1,7 @@
+location: Llanllwni, Carmarthenshire
+next: 14672
+previous: 14651
+storyCount: 1
+summary: In the parish of Llanllwni, Carmarthenshire, there is a well known as Ffynon Garedig, which was historically renowned for its healing properties. According to local lore, if someone immerses their arms in the well and they emerge red, it indicates good health, while a white hue suggests poor health.
+tags: well
+title: The Llanllwni Well

@@ -1,0 +1,6 @@
+location: Tregaron
+next: 15084
+previous: 15057
+storyCount: 1
+summary: The story revolves around "Plant Mat," highway robbers from the seventeenth century who lived in a strategically protected cave near Devil's Bridge. Despite their criminal activities, they had a code of honor and were eventually executed for murder after one was captured near Hereford.
+title: PLANT MAT'S CAVE.

@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 13652
+previous: 13593
+storyCount: 2
+summary: The narrator recounts a personal experience from childhood when a charm successfully removed two painful warts, involving the use of flesh meat and a secret ritual performed in a field. Additional stories illustrate various local methods used to remove warts, including washing hands in blacksmith's water or using white stones, reflecting regional folklore practices.
+title: Charms for Warts

@@ -1,0 +1,7 @@
+location: Caersalem
+next: 11326
+previous: 11268
+storyCount: 1
+summary: Mrs. Mary Thomas recounted an event in her youth where a notorious witch cast a spell on a young woman during a service at the Baptist Chapel in Caersalem, causing the victim to become wild and unwell. The girl's father consulted a wizard named Dr. Harries, who used a magic mirror to reveal the witch's actions and provided a charm with mystic words to heal and protect her daughter.
+tags: witch
+title: A Servant Maid Witched in a Chapel

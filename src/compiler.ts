@@ -12,6 +12,22 @@ const getCreateTime = (fileName): Promise<number> => {
   });
 };
 
+const decapitalise = (text: string): string => {
+  const originalWords = text.trim().split(" ");
+
+  return originalWords
+    .map((word) => {
+      if (word.toUpperCase() === word) {
+        const newWord = word[0].toUpperCase() + word.substring(1).toLowerCase();
+        return newWord;
+      }
+      return word;
+    })
+    .join(" ");
+};
+
+const startTimeMs = Date.now() - process.uptime() * 1000;
+
 /**
  * post-processes the metadata file from one 'story'
  * if it has .coorrdiates and .tags
@@ -33,11 +49,15 @@ export const postprocessStoryMetadata = async (
       "compiler-output",
       `${category}.antiq.verified.csv`
     );
+    console.log("target file: " + fileName);
     if (fs.existsSync(fileName)) {
-      const startTimeMs = Date.now() - process.uptime() * 1000;
+      console.log("exists");
       const createdTime = await getCreateTime(fileName);
       if (createdTime < startTimeMs) {
-        console.log("Target file is from last run - restarting it");
+        console.log(
+          "Target file is from last run - restarting it " +
+            `created ${createdTime}} processStart: ${startTimeMs}`
+        );
         fs.rmSync(fileName);
         fs.appendFileSync(fileName, "latitude,longitude,label,link\n");
       }
@@ -46,14 +66,53 @@ export const postprocessStoryMetadata = async (
     }
 
     // prepare the line
-    const line = `${metadata.coordinates},${metadata.title},http://antiq.wiki/?${slug},${metadata.summary}\n`;
+    const line = `${metadata.coordinates},${decapitalise(
+      metadata.title
+    )},http://antiq.wiki/?${slug},${metadata.summary}\n`;
     fs.appendFileSync(fileName, line);
   }
 };
 
+/**
+ * Synonym sets is an array of :
+ * 'preferred word' 'alternate 1' 'alternate 2' (as per the file)
+ * It is used to map alternatives to the the preferred word
+ */
+const synononymSets = fs
+  .readFileSync(path.join(__dirname, "../data/synonyms.txt"))
+  .toString()
+  .split("\n")
+  .filter((line) => !!line.trim())
+  .map((nonEmptyLine) => nonEmptyLine.split(" "));
+
+const knownUECategory: string[] = [
+  "fairy",
+  "folklore",
+  "troll",
+  "merfolk",
+  "devil",
+  "sunken-settlement",
+  "haunting",
+  "grave",
+];
+
 const determineUntamedEarthCategory = (metadata: any): string | null => {
-  if (metadata.tags === "fairy") {
-    return "fairy";
+  const articleTags = (metadata.tags ?? "").split(" ");
+
+  // See if theres already a known tag
+  for (const articleTag of articleTags) {
+    if (knownUECategory.includes(articleTag)) {
+      return articleTag; // eg 'fairy'
+    }
+
+    for (const synonymSet of synononymSets) {
+      if (
+        synonymSet.includes(articleTag) &&
+        knownUECategory.includes(synonymSet[0])
+      ) {
+        return synonymSet[0];
+      }
+    }
   }
 
   console.error("Could not determine untamed.earth category");

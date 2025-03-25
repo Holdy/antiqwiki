@@ -1,0 +1,6 @@
+location: Radnorshire
+next: 14055
+previous: 14022
+storyCount: 2
+summary: Holy Bread, made on Good Friday and stored for a year, is claimed to be an excellent remedy for people and cattle suffering from certain ailments. Additionally, a traditional method to cure 'Foul Foot' in animals involves using the impression of a hoof on the ground to heal the ailment.
+title: Remedies from Radnorshire

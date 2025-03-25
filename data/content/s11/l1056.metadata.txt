@@ -1,0 +1,6 @@
+location: Wales
+next: 1684
+previous: 1045
+storyCount: 1
+summary: In Wales, particularly in Cardiganshire and Carmarthenshire, traditional wedding customs featured detailed negotiations between families regarding dowries, followed by the unique role of the Gwahoddwr or Bidder who would invite guests to the wedding by visiting homes and using humorous speeches and songs. These customs, which included communal ceremonies like the Bidding and Neithior, were designed to support young couples financially and socially as they began their married lives, reflecting deeply rooted cultural traditions.
+title: Welsh Wedding Customs

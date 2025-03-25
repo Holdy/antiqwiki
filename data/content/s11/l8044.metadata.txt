@@ -1,0 +1,8 @@
+coordinates: 52.04202732329557, -4.3063173050821595
+location: Llandyssul
+next: 8060
+previous: 8021
+storyCount: 1
+summary: About ninety years ago in Llanfair, Llandyssul, Mrs. D. Thomas's deceased daughter appeared to her, advising her mother not to mourn as she was in a better place. The account of this ghostly appearance was shared by Mr. Rees, who heard it from eyewitnesses three years prior to the retelling.
+tags: haunting
+title: The Spirit of a Dead Daughter Appearing to the Mother

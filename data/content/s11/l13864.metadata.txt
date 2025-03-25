@@ -1,0 +1,6 @@
+location: Ystrad Meurig
+next: 13886
+previous: 13852
+storyCount: 1
+summary: In the 19th century, a method believed to cure dogs bitten by rabid animals involved writing a specific charm on paper and feeding it to the dog in a piece of bread. This folk remedy was reportedly learned from Dr. Harries, a wizard in Cwrtycadno, and recounted by a farmer from Ystrad Meurig.
+title: How to Cure a Dog That Has Been Bitten by a Mad Dog

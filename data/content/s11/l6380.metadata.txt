@@ -1,0 +1,8 @@
+coordinates: 52.28980231738342, -3.8523367139105664
+location: Cwm Mabws
+next: 6418
+previous: 6304
+storyCount: 1
+summary: In the valley of Cwm Mabws near Llanrhystyd, onlookers reported seeing fairies driving phantom carriages with little horsemen emerging from Craig Rhydderch. These sightings were reported by several witnesses from Penlan farm, who encountered the fairies while attending to their horses near the local river.
+tags: fairy
+title: The Fairies of Cwm Mabws

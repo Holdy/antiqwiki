@@ -1,0 +1,6 @@
+location: Wales
+next: 7301
+previous: 7139
+storyCount: 1
+summary: In Welsh folklore, ghosts are believed to be the restless spirits of departed souls returning mainly because of some unfinished business, often related to hidden treasures or a forceful need to communicate their desires. These spirits, while mostly appearing with urgent purposes, can only communicate if addressed properly and typically manifest to one person at a time, creating an unsettling experience until their intentions are fulfilled.
+title: Ghost Stories in Wales

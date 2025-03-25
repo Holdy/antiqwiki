@@ -1,0 +1,6 @@
+location: Llandyssul
+next: 10031
+previous: 9971
+storyCount: 2
+summary: In Llandyssul, an old woman named Nell Gwarnant experienced the omen of a bird entering her home, which she believed signaled the forthcoming death of her beloved only son. Similarly, a bird known as the Corpse Bird appeared in various locations such as Perth and Patagonia as a harbinger of death, illustrating the widespread Welsh belief in this omen.
+title: The Ominous Bird Across the World

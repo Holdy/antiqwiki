@@ -1,0 +1,8 @@
+coordinates: 51.91140279849003, -4.755881775855963
+location: Llandilo, Carmarthenshire
+next: 11657
+previous: 11585
+storyCount: 1
+summary: A young farmer in Llandilo, Carmarthenshire, suffered ill-fortune after a broken engagement, suspecting his ex-fiancée, believed to be a witch, was to blame. Upon consulting a local wizard, he was advised to bury a charmed paper under his farmyard gate-post, and following this advice, his misfortunes ceased.
+tags: witch
+title: Burying the Charm

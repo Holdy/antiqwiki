@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 315
+previous: 92
+storyCount: 1
+summary: The book explores Welsh folk-lore, with a focus on wedding, funeral, fairy, witch, and death traditions gathered from various counties, mainly Cardiganshire, Carmarthenshire, and Pembrokeshire, commonly referred to as "West Wales." The author, despite being abroad in recent years, has dedicated significant time to meticulously collect stories and customs from local elders, aiming to preserve these traditions before they fade away.
+title: The Folk-Lore of West and Mid-Wales

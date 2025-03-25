@@ -1,0 +1,8 @@
+coordinates: 52.078465959949746, -4.059739276628588
+location: Carmarthenshire
+next: 6435
+previous: 6380
+storyCount: 1
+summary: Every Easter Monday in Pencarreg and Caio, young men reportedly encountered a large group of fairies while playing football. Despite their attempts to surround them, the fairies vanished and were never seen in Carmarthenshire again.
+tags: fairy
+title: Fairies and Footballers

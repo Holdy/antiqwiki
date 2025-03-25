@@ -1,0 +1,8 @@
+coordinates: 51.69618586138641, -4.943497263517845
+location: Pembroke Dock
+next: 11568
+previous: 11531
+storyCount: 1
+summary: During the launch of H.M. Ship 'Cæsar' at Pembroke Dock, an old woman named Betty Foggy, believed to have witching powers, was barred from joining the gentry and others in the grandstand by the police. Angry, she shouted that the ship wouldn't go off, and although initially ignored, 'Cæsar' stalled during launch as Betty had predicted, reinforcing local beliefs in her powers.
+tags: witch
+title: A Ship Witched

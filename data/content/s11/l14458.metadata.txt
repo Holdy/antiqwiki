@@ -1,0 +1,7 @@
+location: Picton Castle Estate
+next: 14471
+previous: 14389
+storyCount: 1
+summary: Children on the Picton Castle Estate decorate a well with mountain ash and cowslips on May Day to ward off witches. This tradition is believed to protect families utilizing the well's water throughout the year.
+tags: well
+title: The Priest's Well

@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 3561
+previous: 3062
+storyCount: 1
+summary: In Pembrokeshire and other parts of West Wales, New Year's Day is filled with superstitions and customs such as rising early for good luck and ensuring the first person seen in the morning is of the opposite sex for a prosperous year. Traditions such as children visiting houses for New Year's gifts, carrying spring water to sprinkle on families, and singing for contributions during the Twelfth Night's "cutty wren" celebration are observed, reflecting a deep cultural heritage.
+title: New Year's Day in Welsh Tradition

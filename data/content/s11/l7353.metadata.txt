@@ -1,0 +1,8 @@
+coordinates: 52.25558253735295, -3.9022824621389502
+location: Pontrhydfendigaid
+next: 7367
+previous: 7301
+storyCount: 2
+summary: An old man named John Jones recounted a tale about a farm between Pontrhydfendigaid and Tregaron haunted by a ghost that threw stones, troubling the family residing there. This story is among several similar tales found in various parts of the country, as noted in an old Welsh book.
+tags: haunting
+title: Spirits Throwing Stones

@@ -1,0 +1,6 @@
+location: Wales
+next: 14389
+previous: 14316
+storyCount: 1
+summary: Holy Wells in Wales have been significant sites for obtaining health, prophecies, or wishes, with rituals such as throwing pins or tying rags, and some wells are still in use today for these purposes. Despite Christian attempts to suppress ancient well practices, many pagan customs have persisted, intermixed with Christian rituals, illustrating the enduring sacredness of these water sources.
+title: Folk-Lore of Fountains, Lakes, and Caves: Holy Wells

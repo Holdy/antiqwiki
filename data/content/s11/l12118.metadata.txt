@@ -1,0 +1,8 @@
+coordinates: 52.115448967306726, -4.077136650263838
+location: Lampeter
+next: 12201
+previous: 12092
+storyCount: 2
+summary: Sir Dafydd Llwyd, a wizard from North Cardiganshire, was challenged by a rival wizard from Lampeter to a contest of black magic, which Sir Dafydd won by cleverly controlling a demon in the form of a bull that ultimately killed the rival wizard. After his death, Sir Dafydd managed to outwit the devil by instructing his friends to bury him under the churchyard wall to avoid possession by the devil, a story which reflects the traditional beliefs about deceiving the devil.
+tags: wizard approx
+title: Sir Dafydd's Magical Duel and Posthumous Trickery

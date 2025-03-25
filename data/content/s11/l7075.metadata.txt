@@ -1,0 +1,8 @@
+coordinates: 52.21661809287626, -4.349674968958137
+location: New Quay
+next: 7101
+previous: 7043
+storyCount: 1
+summary: A mermaid, found entangled in fishing nets near Careg Ina close to New Quay, was freed by fishermen and in gratitude, warned them of a coming storm, enabling them to safely reach land. Unfortunately, another boat of fishermen, lacking the mermaid's warning, perished in the storm.
+tags: merfolk
+title: The Mermaid and the Fishermen

@@ -1,0 +1,6 @@
+location: Carmarthen
+next: 12439
+previous: 12323
+storyCount: 1
+summary: A farmer from Southern Carmarthenshire consults a wizard, Dr. Harries, to locate his lost cows and secretly witnesses a magical ritual in which a spirit reveals their location to be Carmarthen Bridge at noon the next day. After finding his cows at the bridge, they collapse on the way home due to a spell cast by the wizard for not paying, only moving again after the farmer compensates the wizard for the information.
+title: The Farmer and the Lost Cows

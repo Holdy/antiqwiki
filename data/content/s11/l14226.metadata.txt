@@ -1,0 +1,7 @@
+location: Nanteos
+next: 14316
+previous: 14204
+storyCount: 1
+summary: The Nanteos Cup, a revered relic believed to possess miraculous healing powers, was often borrowed by individuals suffering from ailments, particularly hemorrhage, despite it being severely damaged over time due to some patients attempting to bite off parts of it. The cup is considered to be the Holy Grail from which Jesus drank at the Last Supper, and it was safeguarded by monks who fled from Henry VIII’s destruction of monasteries, ultimately entrusting it to the Powells of Nanteos House in Wales for safekeeping.
+tags: Relic
+title: The Healing Cup

@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 4146
+previous: 4125
+storyCount: 1
+summary: An old custom in Carmarthenshire and Cardiganshire involved people gathering to drink home-brewed beer and participate in games, with the profits aiding the elderly and impoverished. The practice has discontinued, though some Pembrokeshire farmers still brew beer for harvest workers.
+title: CWRW BACH

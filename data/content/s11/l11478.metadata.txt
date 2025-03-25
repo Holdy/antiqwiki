@@ -1,0 +1,8 @@
+coordinates: 52.28301935055637, -3.862007824382684
+location: Pontrhydfendigaid
+next: 11495
+previous: 11450
+storyCount: 1
+summary: Thomas Jones recounts how a local witch was feared for cursing those she disliked, including bewitching a neighbor's horse for trespassing. The animal was cured only after a conjurer from Llangurig was consulted, highlighting the local belief in these supernatural remedies.
+tags: witching
+title: A Horse Witched

@@ -1,0 +1,8 @@
+coordinates: 51.99751154989044, -4.975186726742708
+location: Fishguard
+next: 11677
+previous: 11625
+storyCount: 2
+summary: Mrs. Mary Thomas from Bengal near Fishguard recalled that it was customary to protect against witches by burning a mare's heart filled with pins and nails, with the smoke directing towards the witch's dwelling. Similarly, an old woman recounted that a suspected witch had to leave the district, but when livestock continued to fall ill, a cow's heart was burnt to compel the witch to return and heal them.
+tags: counter-witching
+title: Protection Practices Against Witchcraft

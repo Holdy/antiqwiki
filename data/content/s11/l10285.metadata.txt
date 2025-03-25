@@ -1,0 +1,6 @@
+location: null
+next: 10295
+previous: 10253
+storyCount: 1
+summary: The 'tanwedd' is described as a fiery light that acts as a death portent. When it appears and falls to the ground on a property, the owner is predicted to die shortly after.
+title: Tanwedd: An Ominous Sign

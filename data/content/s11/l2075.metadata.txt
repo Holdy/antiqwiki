@@ -1,0 +1,6 @@
+location: Llandyssul
+next: 2207
+previous: 1715
+storyCount: 1
+summary: Despite the absence of the bride, festivities proceeded at B. T. Rees's Neithior in Llandyssul, where beer sales and wedding gifts brought significant financial support to the groom. Ultimately, Rees and Sally reconciled and got married, despite the earlier interruption of their wedding plans.
+title: The Interrupted Neithior in Llandyssul

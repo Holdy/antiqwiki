@@ -1,0 +1,6 @@
+location: Abergwili
+next: 15748
+previous: 15540
+storyCount: 7
+summary: According to tradition, a pool in the river Towy near Abergwili, known as "Pwll y Coach," holds a Great Coach that fell in and vanished during the Coaching Days. The site has become a local legend, drawing interest due to the mysterious disappearance of the coach.
+title: The Mystery of Pwll y Coach

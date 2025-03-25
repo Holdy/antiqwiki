@@ -1,0 +1,8 @@
+coordinates: 52.0808922551553, -3.9094981464983087
+location: Cwrtycadno, Carmarthenshire
+next: 12308
+previous: 12201
+storyCount: 1
+summary: John Harries and his family, known as the wizard Harrieses of Cwrtycadno, Carmarthenshire, were famed for their mystical abilities, including foreseeing events and curing ailments. When consulted about a missing woman, Harries successfully revealed the location of her body, leading to the arrest of the murderer, though he was later cleared of any wrongdoing.
+tags: wizard approx
+title: The Harrieses of Cwrtycadno

@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 5107
+previous: 4594
+storyCount: 1
+summary: A young farmer becomes enraptured with a beautiful lady he encounters at Llyn y Fan Fach, but she refuses his offerings until he learns the right kind of bread to offer her, leading to a conditional marriage where three causeless blows would end their union. Despite their happiness and the birth of their children, the farmer unintentionally strikes his wife three times, causing her to return to the lake with their cattle, while their sons become renowned Physicians of Myddfai.
+title: Lady of Llyn y Fan Fach

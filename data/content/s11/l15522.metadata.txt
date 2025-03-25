@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 15540
+previous: 15501
+storyCount: 1
+summary: In Carmarthenshire, a mysterious bush that bloomed and attracted crowds every Christmas was famously cut down by a Squire. His act resulted in a curse on his family that remains unlifted.
+title: A Strange Carmarthenshire Tree Legend

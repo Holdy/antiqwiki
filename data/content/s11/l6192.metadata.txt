@@ -1,0 +1,8 @@
+coordinates: 52.219835794862234, -4.166967697610967
+location: Cilcennin
+next: 6304
+previous: 6178
+storyCount: 1
+summary: John Davies, a painter and musician, became enchanted by a group of fairy ladies while returning to Nantcwnlle and nearly secured a marriage with one of them, impressing them with his music. The marriage plan was thwarted when old Peggi Ty-clottas unknowingly intervened, causing the fairies to vanish and leaving John without the pot of gold or his fairy bride.
+tags: fairy
+title: The Cardiganshire Painter and Musician

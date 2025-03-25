@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 12034
+previous: 11930
+storyCount: 1
+summary: Wizards in Wales were believed to possess extraordinary powers such as countering witch spells, summoning spirits, and compelling thieves to return stolen items, with tales of their mystical abilities and practices still heard today. One famed wizard, Dr. Harries of Cwrtycadno, owned a fearsome book of magic bound by chain and padlock, which he dared to open only once a year in the company of another conjurer, causing thunder and lightning throughout the Vale of Cothi.
+title: Wizards in Wales

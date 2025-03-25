@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 9991
+previous: 9953
+storyCount: 1
+summary: The 'Corpse Bird,' known in Welsh as 'Deryn Corph,' is a bird believed to be an omen of death, often heard flapping against windows where a sick person resides. Miss Griffiths from Pembrokeshire recounts that this bird appeared before the deaths of her family members.
+title: The Corpse Bird

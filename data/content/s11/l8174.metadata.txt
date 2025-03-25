@@ -1,0 +1,8 @@
+coordinates: 51.826989591992735, -3.115645249559601
+location: Llanelly
+next: 8190
+previous: 8104
+storyCount: 1
+summary: In Llanelly, Old Stradey House is said to be haunted by the ghost of Lady Mansel, while Llanelly House is believed to harbor spirits to this day. An old man recalls that when he was a boy, he heard the sound of a woman's rustling dress in the Stepney Mansion, and claims the same lady played a hidden organ at night.
+tags: haunting
+title: Haunted Mansions of Llanelly

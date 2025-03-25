@@ -203,7 +203,7 @@ export async function indexItemsIn(directory: string): Promise<void> {
     const slug = `${slugPrefix}-l${fileNumber}`;
 
     writeDataObjectFile(indexData, indexFileName);
-    postprocessStoryMetadata(slug, indexData);
+    await postprocessStoryMetadata(slug, indexData);
     previousItemNumber = fileNumber;
   }
 }
@@ -213,6 +213,7 @@ function pause(seconds) {
 }
 
 async function go() {
+  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s11");
   await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s10");
   await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s9");
   await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s8");

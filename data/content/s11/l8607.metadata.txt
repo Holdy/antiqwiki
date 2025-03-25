@@ -1,0 +1,6 @@
+location: Llangeler
+next: 8619
+previous: 8596
+storyCount: 1
+summary: Llangeler Church, located in Carmarthenshire near the Cardiganshire border, was originally intended to be built in an area called "Parc-y-Bwci." However, local tradition states that construction efforts were mysteriously moved overnight to the present location without explaining the involvement of spirits, despite "Parc-y-Bwci" meaning Goblin's Park.
+title: The Mysterious Relocation of Llangeler Church

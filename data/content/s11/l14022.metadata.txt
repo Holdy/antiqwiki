@@ -1,0 +1,6 @@
+location: Myddfai
+next: 14034
+previous: 14013
+storyCount: 1
+summary: An ancient remedy for eye pain involves a mixture of animal gall, fresh urine, honeysuckle leaves, and ivy tree gum, boiled and strained. When applied to the corners of the eyes, it is said to have such potent effects that the user might see stars in midday.
+title: For Pain in the Eye

@@ -1,0 +1,6 @@
+location: Gilfachwen
+next: 13993
+previous: 13886
+storyCount: 1
+summary: Llaethfaen is a mysterious stone, formerly in high demand as a supposed cure or preventative measure against rabies, and many people traveled long distances for treatment at Gilfachwen, though its efficacy remains unverified. While no longer used, stories of similar stones spread across Wales, contributing to local folklore with varied accounts of their origins and supposed healing properties, as noted by figures such as Iolo Morganwg.
+title: The Healing Stone of Gilfachwen

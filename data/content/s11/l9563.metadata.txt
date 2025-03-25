@@ -1,0 +1,8 @@
+coordinates: 52.04228239166165, -4.307028266051791
+location: Eglwyswrw
+next: 9591
+previous: 9404
+storyCount: 2
+summary: David Thomas of Henllan, Eglwyswrw, was mysteriously whisked away by a spectral 'Crefishgyn' to the churchyard, despite it being a clear moonlit evening. Similarly, David Evans, while returning home, found himself unexpectedly transported to Llandyssul Churchyard by a ghostly 'toili,' a tale echoed in other regions like Cilcennin.
+tags: carried
+title: Spirit Funerals Carrying People to Churchyards

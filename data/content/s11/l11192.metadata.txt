@@ -1,0 +1,6 @@
+location: Vale of Towy
+next: 11217
+previous: 11169
+storyCount: 2
+summary: The milk-white Milch Cow provided ample milk that could heal ailments and grant wisdom to those who drank it, traveling worldwide and leaving calves in her wake. However, when the natives near the Vale of Towy attempted to kill and eat her, she vanished and was never seen again. A version of this legend suggests the cow was of Fairy origin and disappeared into Barfog Lake near Aberdovey when a farmer tried to slaughter her.
+title: The Milk-White Milch Cow

@@ -1,0 +1,7 @@
+location: Llanfihangel Geneu'r Glyn
+next: 14522
+previous: 14484
+storyCount: 2
+summary: The Holy Well of Llanfihangel Geneu'r Glyn, located near the Llanfihangel Parish Church in Cardiganshire, is renowned for its curative powers, attracting people who believed its waters could heal various ailments. An anecdote describes a crippled girl from Glamorganshire who visited with crutches but was able to walk away without them after visiting the well.
+tags: well
+title: The Holy Well of Llanfihangel Geneu'r Glyn

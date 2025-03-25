@@ -1,0 +1,6 @@
+location: Pembrokeshire
+next: 8820
+previous: 8746
+storyCount: 2
+summary: Mr. David Walter, traveling through Cot Moor in Pembrokeshire, encountered a terrifying dog apparition near the Devil's Nags and realized it was an infernal creature when a circle of fire revealed its features. Despite bringing a mastiff for protection, the dog was frightened and refused to attack the spectral dog, which Walter attempted to ward off with a stone.
+title: The Evil One Appearing at Nag's Head in the Form of a Dog

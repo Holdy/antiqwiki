@@ -1,0 +1,8 @@
+coordinates: 52.19511401725268, -4.3090219100869955
+location: Llanarth
+next: 11909
+previous: 11867
+storyCount: 2
+summary: Major Brooks of Llanarth repeatedly attempted to hunt a hare that displayed unusual cunning by eluding and even attacking his hounds, leading locals to suspect it was an old witch in disguise. Similarly, in Cilcwm, tales surfaced of Peggy Abercamles and her brother Will transforming into hares and running through the night.
+tags: witch hare
+title: A Witch in the Form of a Hare Hunted in Cardiganshire

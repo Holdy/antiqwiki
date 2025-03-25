@@ -1,0 +1,6 @@
+location: Tregaron
+next: 15404
+previous: 15341
+storyCount: 1
+summary: In Tregaron, a ridge known as 'Cwys yr Ychain Bannog' separates Upper and Lower Tregaron. According to legend, this furrow was created by two large-horned oxen dragging a giant reptile's carcass killed by locals.
+title: The Furrow of the Large-Horned Oxen

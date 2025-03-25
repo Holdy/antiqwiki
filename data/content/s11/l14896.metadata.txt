@@ -1,0 +1,8 @@
+coordinates: 51.881772242640494, -3.741712154010529
+location: Black Mountain
+next: 14907
+previous: 14870
+storyCount: 1
+summary: Llyn y Fan Fach, located on the Black Mountain between Carmarthenshire and Breconshire, is famous in Welsh fairy lore. On the first of August each year, people gather at the lake to witness the Fairy Lady of the Lake appearing to comb her hair.
+tags: fairy
+title: LLYN Y FAN FACH.

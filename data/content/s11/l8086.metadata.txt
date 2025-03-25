@@ -1,0 +1,8 @@
+coordinates: 51.89626112219923, -3.291156809221675
+location: Talybont
+next: 8104
+previous: 8060
+storyCount: 2
+summary: The ghost of a baby, whose body was found in an old mine shaft near Talybont, is said to haunt the mother and community with its crying, causing widespread fear. A similar apparition is reported in Troedyraur, South Cardiganshire, where a child ghost dressed in yellow is known as 'Bwci Melyn Bach y Cwm.'
+tags: haunting dark
+title: Allt y Crib Ghost, Near Talybont and Another Tale

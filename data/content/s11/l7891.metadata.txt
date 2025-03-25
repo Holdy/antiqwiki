@@ -1,0 +1,6 @@
+location: Llanybri, Carmarthen
+next: 7903
+previous: 7866
+storyCount: 1
+summary: A young woman near Llanybri, Carmarthen, encountered the spirit of Thomas, a man who had been in love with her but was rejected. The apparition vanished as the woman realized it was Thomas’s ghost, not the man himself.
+title: Spirit of a Rejected Lover Appearing to a Young Woman

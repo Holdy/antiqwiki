@@ -1,0 +1,8 @@
+coordinates: 52.331283397323226, -3.3892030260841177
+location: Radnorshire
+next: 7656
+previous: 7595
+storyCount: 3
+summary: In Radnorshire, a young gentleman bravely confronted a ghost haunting a palace near Abbey Cwm Hir, who then revealed hidden treasures buried near the house. Once the young man found and retrieved the valuable treasures as guided by the Spirit, the hauntings at the house ceased.
+tags: haunting
+title: A Ghost Appearing to Point Out Hidden Treasure in Radnorshire

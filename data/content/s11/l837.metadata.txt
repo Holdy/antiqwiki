@@ -1,0 +1,6 @@
+location: Ystrad Meurig
+next: 912
+previous: 816
+storyCount: 2
+summary: A young woman from Ystrad Meurig, Cardiganshire, practiced a form of divination by walking around the church with a knife in hand to determine her future spouse, but was frightened to death by what she thought was a ghostly apparition in a clergyman's surplice, though it was actually a prank by a student. Despite recovering initially, the shock presumably led to her untimely death, solidifying the mysterious reputation of this eerie custom.
+title: Going Round the Church

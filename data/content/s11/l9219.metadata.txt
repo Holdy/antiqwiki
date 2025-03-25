@@ -1,0 +1,8 @@
+coordinates: 52.235567136825026, -4.191712541807043
+location: Llanrhystyd
+next: 9237
+previous: 9195
+storyCount: 2
+summary: The Monachty ghost, which terrified residents near Aberaeron due to its reputed ability to pass through a needle's eye, was eventually laid to rest by students from Ystrad Meurig College. These students condemned the ghost to cut a rock near Llanrhystyd, showcasing their reputation for dealing with spirits.
+tags: haunting
+title: The Monachty Ghost Doomed to Cut the Rock Near Llanrhystyd

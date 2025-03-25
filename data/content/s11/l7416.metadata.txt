@@ -1,0 +1,8 @@
+coordinates: 52.028932577597814, -4.37175488709765
+location: Llangeler, Carmarthenshire
+next: 7467
+previous: 7367
+storyCount: 1
+summary: In 1719, in the parish of Llangeler, Carmarthenshire, a mysterious spirit began throwing stones at people on a farm, causing injury and fear. Despite many villagers gathering to witness the phenomenon, the ghost continued to pelt stones until the spirit's actions ceased after a community prayer.
+tags: haunting poltergeist
+title: A Story of a Ghost Throwing Stones at Llangeler

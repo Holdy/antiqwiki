@@ -1,0 +1,6 @@
+location: South Pembrokeshire
+next: 13368
+previous: 13269
+storyCount: 1
+summary: In medieval South Pembrokeshire, the Flemish people practiced a form of shoulder-blade divination, wherein future events and hidden truths, such as infidelities, could be predicted by examining the bones of boiled rams. This ancient art revealed significant anecdotes, including a man's discovery of his wife's betrayal and forewarnings of impending political turmoil, showcasing its entrenched cultural significance and persistent beliefs across regions like Scotland and Wales.
+title: Mystical Bone Reading in Medieval Times

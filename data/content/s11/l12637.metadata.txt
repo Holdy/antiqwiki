@@ -1,0 +1,6 @@
+location: Dale
+next: 12657
+previous: 12629
+storyCount: 1
+summary: Sir Rhys Ap Thomas consulted a wizard in Dale to determine whether Henry VII would successfully dethrone Richard III. The wizard eventually prophesied that Henry would succeed in driving out Richard, symbolized as the 'Boare.'
+title: Consultation of the Wizard

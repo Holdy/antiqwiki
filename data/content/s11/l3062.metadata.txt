@@ -1,0 +1,6 @@
+location: Wales
+next: 3203
+previous: 2207
+storyCount: 1
+summary: In Wales, Christmas used to be a more significant cultural event with various customs like the 'Plygain' morning service and the tradition of kissing under the mistletoe, though its importance has diminished over time. Notable customs also included carrying lighted torches to church services and the 'Mari Lwyd Lawen' procession, which involved a decorated horse's skull, highlighting the unique local traditions observed during the holiday season.
+title: Christmas Customs in Wales

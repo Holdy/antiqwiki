@@ -1,0 +1,6 @@
+location: Lampeter
+next: 15632
+previous: 15522
+storyCount: 2
+summary: Maesyfelin, once a grand mansion on the banks of the river Dulas in Lampeter, fell under a curse after a tragic event where Samuel, the son of Vicar Pritchard, was allegedly suffocated and discarded by its resident, Sir Francis Lloyd. The mansion ultimately fell to ruins, with its materials used to repair another house, which also succumbed to the curse, believed to have originated from the vicar's curse on Maesyfelin.
+title: The Curse of Maesyfelin

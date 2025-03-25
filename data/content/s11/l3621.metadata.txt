@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 3673
+previous: 3570
+storyCount: 1
+summary: Shrove Tuesday, once widely celebrated in Welsh regions, is traditionally marked by pancake making, with remnants of this custom still observed today. The day was also historically associated with football kicking and a peculiar tradition involving the playing and exchanging of hard-boiled and colored eggs.
+title: Shrove Tuesday and Its Traditions

@@ -1,0 +1,8 @@
+coordinates: 51.93743746795852, -4.3014787670371195
+location: Llanpumpsaint
+next: 8217
+previous: 8174
+storyCount: 1
+summary: William Griffiths, a young servant from Pontiauar in the Parish of Llanpumpsaint, was followed by a ghost in the form of a large man after visiting his lover late at night. Terrified, William was chased to the village of Llanpumpsaint, where he sought refuge at the Blacksmith's shop and collapsed in fear, eventually needing assistance to return home.
+tags: haunting
+title: A Ghost Haunting a Young Lover

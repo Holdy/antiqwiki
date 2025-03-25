@@ -1,0 +1,6 @@
+location: null
+next: 13695
+previous: 13598
+storyCount: 2
+summary: The belief in old remedies and charms surrounding the use of rosemary includes the idea that burning a rosemary bough and using its ashes can alleviate toothache by killing the worm thought to cause it. Additionally, rosemary had multiple uses, such as powder tied around the arm for health, smoke to free one from captivity, and its placement around the house for protection against snakes and deteriorating drinks.
+title: Rosemary Charm for Toothache

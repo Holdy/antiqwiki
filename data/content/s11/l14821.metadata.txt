@@ -1,0 +1,7 @@
+location: Llanfihangel Genau'r Glyn, North Cardiganshire
+next: 14834
+previous: 14803
+storyCount: 1
+summary: Llyn Moel Llyn is a lake located in the parish of Llanfihangel Genau'r Glyn, North Cardiganshire, where it is said that any bird attempting to fly over it will fall in dead. An attempt to drain the lake was reportedly thwarted by severe thunderstorms, reinforcing the local belief in its mysterious nature.
+tags: well
+title: LLYN MOEL LLYN

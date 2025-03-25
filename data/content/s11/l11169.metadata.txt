@@ -1,0 +1,6 @@
+location: Llangybi, near Lampeter
+next: 11192
+previous: 11133
+storyCount: 1
+summary: In rural Wales, there is a superstition that when a cow gives birth to twin calves, it is a sign of bad luck, prompting some farmers to sell such cows promptly. Conversely, various omens like a calf's gender or its orientation when first seen are believed to predict good fortune for the year in different areas.
+title: Cattle Superstitions in Wales

@@ -1,0 +1,8 @@
+coordinates: 52.08072504915014, -3.9095624669382953
+location: Carmarthenshire
+next: 11388
+previous: 11326
+storyCount: 1
+summary: A mother from Cardiganshire sought the help of the Wizard of Cwrt-y-Cadno in Carmarthenshire to cure her daughter who was thought to be bewitched. The wizard gave her a piece of paper with mystic words, and upon her return home, she found her daughter miraculously healed.
+tags: wizard
+title: A Cardiganshire Girl Who Had Been Witched

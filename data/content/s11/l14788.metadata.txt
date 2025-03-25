@@ -1,0 +1,7 @@
+location: Fishguard
+next: 14803
+previous: 14779
+storyCount: 2
+summary: A well near the Church of Llanllawer, close to Fishguard, was famous for its supposed medical properties and attracted many visitors in the past. Another well near Moelgrove, between Nevern and Cardigan, was known for pins found at its bottom, suggesting it was once used for offerings or divination.
+tags: well
+title: The Llanllawer Well

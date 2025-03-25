@@ -1,0 +1,7 @@
+location: Llanfihangel Genau'r Glyn
+next: 15770
+previous: 15632
+storyCount: 2
+summary: On a farm located in the parish of Llanfihangel Genau'r Glyn, there exists a prophecy about two stones in a field called Llettyngharad, where a third stone's appearance signals the world's end. Additionally, a historic knife from the Saxon era during Vortigern's time was once kept at Llwynglas, signifying ancient treachery.
+tags: prophecy
+title: EURGLAWDD and TRAETH SAITH

@@ -1,0 +1,6 @@
+location: Cwrtycadno
+next: 12629
+previous: 12556
+storyCount: 2
+summary: Owen Evans of Carmarthenshire visited Dr. Harries, a wizard in Cwrtycadno, who accurately predicted the near drowning and early death of Evans’ daughter. The wizard was renowned for his prophetic abilities, having also foreseen the death of Judge Johnes and located lost money for others, though not all welcomed his fortune-telling.
+title: The Predictions of Dr. Harries, the Wizard of Cwrtycadno

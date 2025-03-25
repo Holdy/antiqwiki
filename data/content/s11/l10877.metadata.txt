@@ -1,0 +1,6 @@
+location: Carmarthenshire
+next: 10902
+previous: 10857
+storyCount: 1
+summary: A robin, known as Bronchuddyn for its scorched breast, braves the fiery land of woe to bring water, symbolizing its dedication and sacrifice. This Welsh legend emphasizes the importance of kindness to the robin, as it endures hardship for the benefit of humanity.
+title: Robin Redbreast

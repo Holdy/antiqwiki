@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 10857
+previous: 10776
+storyCount: 1
+summary: In Cardiganshire and Carmarthenshire, the cuckoo is believed to sleep locally during winter, and its timely appearance is seen as an omen, influencing local customs such as keeping money in one's pocket for good luck when hearing its call. Legends recount the bird starting its song at Nevern on April 7, marked by superstitions about its appearance influencing local traditions.
+title: The Lore of the Cuckoo in West Wales

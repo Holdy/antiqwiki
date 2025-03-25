@@ -1,0 +1,6 @@
+location: Abermarlais Park
+next: 15942
+previous: 15780
+storyCount: 2
+summary: At the entrance gate of Abermarlais Park, it is said that Welsh Princes held a council of war, and the spot was once haunted by a lady in white. In an underground dungeon of Oystermouth Castle, young men and women wishing for love would circle a pillar called "The Wishing Post" nine times.
+title: Tales of Tradition and Ghosts in Wales

@@ -1,0 +1,7 @@
+location: Maenclochog
+next: 14458
+previous: 14339
+storyCount: 1
+summary: St. Teilo's Well, located near the ruined church of Llandilo Llwydiarth in Pembrokeshire, was renowned for its healing powers, with people from across South Wales visiting to drink water from the skull of St. Teilo to cure their ailments. The skull, kept by the family of Mr. Melchior, holds historical and legendary significance, with stories of miraculous recoveries attributed to drinking from it, although skepticism about its authenticity remains.
+tags: well
+title: The Miraculous St. Teilo's Well

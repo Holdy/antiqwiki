@@ -1,0 +1,8 @@
+coordinates: 51.955806222646025, -3.7881628727460472
+location: Carmarthenshire
+next: 14002
+previous: 13926
+storyCount: 1
+summary: The Physicians of Myddfai, known for their medical book of remedies, were believed to have been of Fairy origin. Their supernatural mother, the Fairy lady of Llyn y Fan from Carmarthenshire, provided them with medical prescriptions.
+tags: fairy approx
+title: THE PHYSICIANS OF MYDDFAI

@@ -1,0 +1,6 @@
+location: Havod Uchtryd
+next: 9219
+previous: 9123
+storyCount: 1
+summary: The mansion Havod Uchtryd in Cardiganshire was haunted by a goblin during the time of Colonel Johnes in the early 18th century. A wizard was summoned to trap the goblin, finally capturing it by using incantations and trickery, but rumors persist that the spirit still haunts Hafod.
+title: The "Laying" of the Havod Uchtryd Goblin

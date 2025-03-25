@@ -1,0 +1,8 @@
+coordinates: 52.64979274835289, -3.1610991571985836
+location: Redcastle
+next: 7832
+previous: 7628
+storyCount: 3
+summary: A poor woman who worked as a spinner at the Welsh Earl of Powis's country seat, Redcastle, encountered the ghost of a gentleman, who revealed a hidden box that needed to be sent to the Earl in London. Upon fulfilling the ghost's request, the woman was rewarded by the Earl, receiving lifelong support for her role in the box’s discovery, underlining the prevailing local belief that buried treasures should not be unearthed without the ghost’s consent.
+tags: haunting
+title: The Powis Castle Ghost Story

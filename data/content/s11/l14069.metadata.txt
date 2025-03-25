@@ -1,0 +1,6 @@
+location: Aberystwyth
+next: 14140
+previous: 14055
+storyCount: 1
+summary: In Wales, 'clefyd y Galon' or love-sickness is a common ailment, especially among young women who have been jilted, with a secret cure passed down by old practitioners like Ned y Wain near Aberystwyth. This secret involves a mystical measuring method to diagnose and potentially cure the afflicted, which is revealed in the story as a relic of Wales' dark days for the amusement of readers.
+title: Clefyd y Galon: Love-Sickness in Wales

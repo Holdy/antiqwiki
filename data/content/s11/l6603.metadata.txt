@@ -1,0 +1,8 @@
+coordinates: 52.40049305749757, -4.080685158267766
+location: Vale of Rheidol
+next: 6615
+previous: 6584
+storyCount: 1
+summary: A farmer in the Vale of Rheidol found money incrementally increasing on a gate-post every day, starting with a sixpence. When he disclosed his secret to others, the fairies, displeased with his disclosure, stopped leaving the money.
+tags: fairy
+title: Fairy Money

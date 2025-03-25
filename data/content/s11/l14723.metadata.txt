@@ -1,0 +1,7 @@
+location: Carmarthenshire
+next: 14733
+previous: 14713
+storyCount: 1
+summary: Becca's Well between Newcastle Emlyn and Llandyssul in Carmarthenshire is reputed for its health-restoring qualities. The water from the well was believed to cure ailments such as gravel and diseased eyes, attracting many visitors within living memory.
+tags: well
+title: FFYNON BECCA

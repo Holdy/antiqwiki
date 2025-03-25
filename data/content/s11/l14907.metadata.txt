@@ -1,0 +1,6 @@
+location: Llyn Eiddwen, Cardiganshire
+next: 14968
+previous: 14896
+storyCount: 2
+summary: According to lore, wild cattle once emerged from Llyn Eiddwen and an extraordinary beast was shot near Llyn Farch, while a prophecy suggests Carmarthen will sink when Llyn Eiddwen dries up. Savaddee Lake, known by many names, is reputed to have occupied the site of a city swallowed by an earthquake and witnessed a remarkable miracle when birds obeyed the command of Gruffydh.
+title: Legends of Welsh Lakes

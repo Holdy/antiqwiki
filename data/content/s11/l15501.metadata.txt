@@ -1,0 +1,6 @@
+location: Ystrad
+next: 15522
+previous: 15404
+storyCount: 1
+summary: A man from Ystrad was initially spared execution due to his usefulness but was later hanged after an inquiry from the government prompted the Squire to hastily carry out the sentence. An old woman cursed the Squire and his descendants after discovering her apron was used to blindfold the condemned man, leading to misfortunes for the Squire thereafter.
+title: The Unfortunate Execution in the Vale of Aeron

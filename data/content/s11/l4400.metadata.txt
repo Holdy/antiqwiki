@@ -1,0 +1,6 @@
+location: Wales
+next: 4432
+previous: 4343
+storyCount: 1
+summary: The Fairies, known as "Tylwyth Teg" in Welsh, are often featured in old Welsh tales, believed by some to have existed but no longer visible due to exorcism. These tales from ancient times, like many legends from other cultures, blend natural and supernatural elements, reflecting the once common belief in such beings.
+title: The Fairies (Tylwyth Teg)

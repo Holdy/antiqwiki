@@ -1,0 +1,6 @@
+location: Penbryn
+next: 8596
+previous: 8513
+storyCount: 3
+summary: The original site for Penbryn Church materials was mysteriously relocated overnight by unseen forces to its current location. A similar supernatural event is recounted in the tradition of Bettws Ifan.
+title: The Relocation Legends of Welsh Churches

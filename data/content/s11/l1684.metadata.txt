@@ -1,0 +1,6 @@
+location: West Wales
+next: 1715
+previous: 1056
+storyCount: 1
+summary: In West Wales around fifty years ago, it was traditional for weddings to take place on specific days, with Wednesday and Friday being popular choices, contrary to the belief held by many English that Friday is unlucky. Historical accounts indicate that Saturday was also a favored day for weddings three generations ago, despite an old English rhyme suggesting it brings no luck.
+title: The Wedding Day in West Wales

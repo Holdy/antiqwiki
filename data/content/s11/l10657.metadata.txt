@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 10776
+previous: 10621
+storyCount: 1
+summary: Various natural signs are used in rural Welsh communities to predict the weather, such as birds' flight patterns and the orientation of the moon's horns, which indicate approaching rain or fair weather. In addition to these signs, local sayings relate weather patterns to specific times of day or natural phenomena, like the rainbow's appearance or the sea's color during the harvest season.
+title: Weather Signs and Rural Predictions

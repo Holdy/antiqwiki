@@ -1,0 +1,8 @@
+coordinates: 52.04469591481249, -3.819638744127633
+location: Cilcwm
+next: 12464
+previous: 12375
+storyCount: 1
+summary: A man from Cilcwm was returning home late at night through a lonely mountainous area when he encountered a friendly black dog walking beside him. Upon reaching home, the dog mysteriously vanished, leading the man to believe it was a familiar spirit sent by a wizard to keep him company on his journey.
+tags: canine
+title: A FAMILIAR SPIRIT IN THE SHAPE OF A DOG AND THE LONELY NIGHT TRAVELLER.

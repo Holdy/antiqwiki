@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 816
+previous: 315
+storyCount: 1
+summary: In rural Wales, past courting customs included 'bundling,' a practice that faded over time due to its primitive origins and societal condemnation, though some traditions, like young men visiting their sweethearts at night, endured longer, with tales of nighttime adventures still told, such as a young farmer chasing a bull in place of his horse. Folk practices surrounding courtship and omens persisted, with fairs providing settings for young couples to meet, and women using mystical customs to foresee their romantic futures, like winding yarn or peeling apples at midnight to glimpse their future husbands' spirits.
+title: Love Customs in Rural Wales

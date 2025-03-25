@@ -1,0 +1,6 @@
+location: West Wales
+next: 4295
+previous: 4155
+storyCount: 1
+summary: In West Wales, the practice of 'Ceffyl Pren' involved creating straw effigies of unfaithful spouses and parading them publicly as a form of community-driven retribution. These effigies were ultimately burnt to shame the offenders, a tradition thought to originate from Druidic customs.
+title: THE CEFFYL PREN

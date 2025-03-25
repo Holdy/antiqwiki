@@ -1,0 +1,8 @@
+coordinates: 52.279159304619064, -3.9179417922843114
+location: Swyddffynnon, Cardiganshire
+next: 7950
+previous: 7891
+storyCount: 1
+summary: Mrs. Evans from Cardiganshire had a troubling vision of a tall, dark stranger with a long beard entering her house by the light in an unoccupied chamber. Later, a London doctor fitting this description saved her life during a critical illness, replicating the events of her vision exactly.
+tags: haunting
+title: The Visionary Doctor of Swyddffynnon

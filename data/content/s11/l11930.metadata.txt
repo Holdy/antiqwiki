@@ -1,0 +1,6 @@
+location: Ystrad Meurig, Cardiganshire
+next: 11966
+previous: 11909
+storyCount: 1
+summary: In the region near Ystrad Meurig, an old witch was said to have transformed a servant into animals like a hare and a horse, echoing broader Celtic beliefs in transformation as noted in historical texts. Such transformation tales were prevalent across Celtic cultures and were even supported by early thinkers like Augustine, illustrating a deep-rooted folklore tradition persisting in areas like Llandyssul.
+title: Mystical Transformations and Beliefs in Celtic Folklore

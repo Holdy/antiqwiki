@@ -1,0 +1,6 @@
+location: Wales
+next: 11103
+previous: 11059
+storyCount: 1
+summary: The belief in omens surrounding animals is varied, as a white cock is considered either lucky or unlucky depending on the person, and its daytime crow is associated with the arrival of a friend. In contrast, a crow at night is viewed ominously, often signifying death, and historically, cockfighting once took place in parts of Wales like Carmarthenshire and Cardiganshire.
+title: THE COCK

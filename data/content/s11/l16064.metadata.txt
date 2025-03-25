@@ -1,0 +1,6 @@
+location: South Pembrokeshire
+next: 16080
+previous: 15942
+storyCount: 1
+summary: The ancient custom of chalking door-steps in South Pembrokeshire is a practice believed to protect homes from evil spirits, tracing its origins back to Druidical times. This practice involves creating continuous patterns on slated steps to prevent spirits from entering, and is common in several counties across Wales, including Carmarthenshire, Cardiganshire, Glamorgan, and Pembrokeshire.
+title: Chalking the Door-Step

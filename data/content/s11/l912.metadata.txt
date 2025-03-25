@@ -1,0 +1,6 @@
+location: Cardiganshire
+next: 949
+previous: 837
+storyCount: 1
+summary: In Cardiganshire, a form of divination involved young people being blindfolded and choosing between bowls of clean water, dirty water, or an empty dish to predict their marital future: clean water signified marrying a maiden, dirty water a widow, and the empty dish a life of singleness. Additionally, rituals such as placing salt in stockings or observing the freshness of St. John's Wort were used by young women to predict if they would marry in the coming year.
+title: Traditions and Divinations of Cardiganshire

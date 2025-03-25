@@ -1,0 +1,8 @@
+coordinates: 52.09191431471843, -4.280804701228804
+location: Pontshan
+next: 7866
+previous: 7832
+storyCount: 1
+summary: A young Miss Pergrin encountered the spirit of a man from her neighborhood, who was supposedly far away, while walking near Pontshan, Llandyssul. When she informed the man's sisters of the sighting, they dismissed her claim, only for the man to return as expected the following day, confirming her encounter was with his spirit.
+tags: haunting
+title: The Spirit Encounter at Pontshan

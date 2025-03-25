@@ -1,0 +1,8 @@
+coordinates: 51.94064225789105, -4.306231086774448
+location: Fishguard, Pembrokeshire
+next: 9619
+previous: 9563
+storyCount: 1
+summary: An old woman with the gift of second sight saw a vision of her own funeral procession on a road leading to Caersalem Chapel, noting specific details about the participants. Shortly after, she died and the real funeral occurred exactly as she had envisioned, confirming her premonition to the community.
+tags: forsight
+title: An Old Woman Who Saw the Apparition of Her Own Funeral

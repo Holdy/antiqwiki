@@ -1,0 +1,6 @@
+location: Llanilar
+next: 15780
+previous: 15748
+storyCount: 1
+summary: The Rev. J. F. Lloyd recounts a tradition in Llanilar where women curtsied to an oil painting of the Blessed Virgin Mary upon entering the church. Additionally, there was a holy well called Ffynnon Drindod near the area.
+title: LLANILAR Tradition and Holy Well

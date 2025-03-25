@@ -1,0 +1,6 @@
+location: null
+next: 4604
+previous: 4494
+storyCount: 1
+summary: Fairy stories often portray fairy ladies marrying mortal men, but these marriages always have conditions that are eventually broken, causing the fairy wife to vanish. One of the most beautiful legends of this kind involves the Fairy Lady and her eventual departure.
+title: Fairies Marrying Mortals

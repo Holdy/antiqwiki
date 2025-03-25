@@ -1,0 +1,6 @@
+location: Wales
+next: 6603
+previous: 6499
+storyCount: 1
+summary: In Wales, it was believed that if children were heard speaking about topics beyond their understanding, they were thought to be changelings. Fairies were also believed to visit houses at night to dance, sing, and leave money as a reward for cleanliness, while also helping with household chores as a gesture of bringing good luck.
+title: How to Detect Changelings

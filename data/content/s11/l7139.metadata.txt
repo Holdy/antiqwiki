@@ -1,0 +1,6 @@
+location: Aberystwyth
+next: 7242
+previous: 7101
+storyCount: 1
+summary: In July 1826, a farmer near Aberystwyth saw what he believed to be a mermaid while watching from a rock, a sight he shared with his family who also observed her for some time. The mermaid, described as an attractive young woman with short dark hair and distinctive features, vanished into the sea upon being closely approached by the farmer's wife, leaving the intrigued family to chase along the shore hoping to glimpse her again.
+title: The Sight of the Mermaid in Aberystwyth

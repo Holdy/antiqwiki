@@ -1,0 +1,6 @@
+location: Rhosmeherin
+next: 8452
+previous: 8217
+storyCount: 1
+summary: A person recounts their terrifying encounter in Rhosmeherin with a ghost that appeared as a man on horseback, mirroring their movements until vanishing at the cross-road amid a cacophony of sound. The haunted history of Rhosmeherin, linked to the murder of a poor old woman and numerous spectral sightings, is well-documented in local lore, including an account in "Ystraeon y Gwyll" by D. Lledrod Davies.
+title: A Spirit on Horseback

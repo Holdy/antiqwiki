@@ -1,0 +1,8 @@
+coordinates: 52.17974262203065, -3.9557630603561114
+location: Cardiganshire
+next: 11297
+previous: 11228
+storyCount: 2
+summary: In Cardiganshire, it was believed that some old women became witches by giving Communion bread to the Devil after walking around Llanddewi Brefi Church. Another tale from North Pembrokeshire tells of a man who gained bewitching powers by secretly feeding his Communion bread to a dog, symbolizing his pact with the Devil.
+tags: witch
+title: Witches Selling Themselves to the Devil

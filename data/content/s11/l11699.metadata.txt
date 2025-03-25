@@ -1,0 +1,8 @@
+coordinates: 52.04518197624762, -3.8184895536376326
+location: Cilcwm, Carmarthenshire
+next: 11723
+previous: 11677
+storyCount: 1
+summary: In Cilcwm, Carmarthenshire, an old blacksmith named Mr. Theophilus recounted how his mother's cattle were under a witch's spell, causing them not to graze on their own farm's grass but to thrive on others'. After consulting the Wizard of Cwrt-y-Cadno, she performed a ritual involving a mountain ash and was able to identify the enemy responsible, successfully breaking the spell.
+tags: witch
+title: A Cilcwm Story

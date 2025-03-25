@@ -1,0 +1,6 @@
+location: Cwrtycadno
+next: 12574
+previous: 12517
+storyCount: 1
+summary: Isaac Isaac went to consult with Harries in Cwrtycadno, who, after Isaac helped him with his harvest, used a magic glass to show Isaac his future wife. Despite the young lady's parents' disapproval, Isaac eventually married the woman he saw in the glass, who was already his fiancée.
+title: The Prophecy of Harries

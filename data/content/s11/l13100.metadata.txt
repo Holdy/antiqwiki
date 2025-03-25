@@ -1,0 +1,6 @@
+location: Carmarthen
+next: 13179
+previous: 12866
+storyCount: 1
+summary: In Carmarthen, Merlin is believed to be imprisoned in a cave by a crafty woman, with tales of his groans and chains echoing his confinement, while other legends speak of him being in places like Dynevor and Brittany or having sailed away with thirteen British curiosities. Some stories describe an enchantment by Viviane, in which Merlin sleeps eternally in the forest of Broceliande, his head on Viviane's knee, never to awaken from this magical slumber.
+title: Merlin's Fate

@@ -1,0 +1,6 @@
+location: Newcastle Emlyn
+next: 4306
+previous: 4263
+storyCount: 1
+summary: In the past, dogs were used to turn roasting spits by running inside a wheel connected to the spit by a chain. This practice was notably employed in Newcastle Emlyn around a century ago.
+title: The Employment of Dogs to Turn Roasting-Spits

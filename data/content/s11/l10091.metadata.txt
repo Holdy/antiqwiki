@@ -1,0 +1,6 @@
+location: Llandyssul
+next: 10134
+previous: 10047
+storyCount: 1
+summary: The Tolaeth is a sound associated with impending death, often manifesting as mysterious noises like knockings or phantom carriages, prevalent across all parts of the country. An account from Pontshan, Llandyssul, tells of experiences with such sounds foretelling death, including a phantom carriage heard before the passing of a local Esquire.
+title: The Tolaeth

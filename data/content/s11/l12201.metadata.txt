@@ -1,0 +1,6 @@
+location: Wales
+next: 12267
+previous: 12118
+storyCount: 2
+summary: In old folk stories, magicians like Sir Dafydd Llwyd and Sir Dafydd Sion Evan were believed to ride through the air on demon-horses, with tales of their journeys spanning across Wales and Scotland. One such tale involves Sir Michael Scott, who used a demon-horse to travel to France as an ambassador, demonstrating his power by making the horse's stamp shake the structures of Paris.
+title: Wizards Riding Demons Through the Air

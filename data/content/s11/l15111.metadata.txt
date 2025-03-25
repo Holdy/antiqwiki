@@ -1,0 +1,6 @@
+location: Dinas, Llandebie, Carmarthenshire
+next: 15189
+previous: 15084
+storyCount: 1
+summary: Owen Lawgoch, a legendary Welsh warrior, is said to slumber in a cave at Dinas, Llandebie, ready to awaken and lead the Brythons to glory. The legend parallels tales of King Arthur, with Dafydd Meirig uncovering the cave's secrets but ultimately, after finding gold, losing access to the hidden palace forever.
+title: Owen Lawgoch's Cave

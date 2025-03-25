@@ -1,0 +1,6 @@
+location: Vale of Aeron
+next: 15501
+previous: 15392
+storyCount: 2
+summary: The Rev. Peter Roberts recounts the story of Crug Mawr, a hill in the Vale of Aeron, where a giant lived and hosted competitions, earning dominance over other giants after a powerful coit throw. Another important site, Crug Balog, is associated with a warrior giant named Balog who was buried there.
+title: CRUG MAWR

@@ -1,0 +1,6 @@
+location: Pendine, Carmarthenshire
+next: 8607
+previous: 8555
+storyCount: 1
+summary: Invisible spirits moved building materials from Church Park to the current church location overnight. Tradition claims that two giants are buried in the field of Church Park.
+title: The Mysterious Relocation of Church Park

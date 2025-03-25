@@ -1,0 +1,6 @@
+location: Cwrt-y-Cadno
+next: 11625
+previous: 11568
+storyCount: 1
+summary: John Jones and his wife from Penlon cottage were unable to churn milk into butter due to a curse placed by an enemy, leading them to seek help from a wizard known as the "Dyn Hysbys" in Cwrt-y-Cadno. After failing the first time due to revealing the charm paper, a second attempt with a new paper, procured by a neighbor and kept secret, successfully broke the curse, allowing them to produce butter.
+title: The Milk that Would Not Turn to Butter

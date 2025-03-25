@@ -1,0 +1,6 @@
+location: Teivy
+next: 5471
+previous: 5375
+storyCount: 1
+summary: A servant girl working for a family on the banks of the Teivy mysteriously vanished in a marsh while searching for cows, suspected to be taken by fairies. Despite being rescued a year later as instructed by a wise man, she vanished again when accidentally touched by iron, never to be seen again.
+title: The Servant Girl Who Was Lost in the Fairy Circle

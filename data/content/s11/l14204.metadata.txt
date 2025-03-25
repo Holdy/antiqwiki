@@ -1,0 +1,6 @@
+location: Aberystwyth
+next: 14226
+previous: 14140
+storyCount: 1
+summary: The Nanteos Cup, a sacred relic believed to be made from the wood of the true Cross, is preserved at the mansion of Nanteos near Aberystwyth and is famed for its supposed healing powers. Visitors, including a devout Catholic from London, have sought the cup's healing virtues, demonstrating its enduring significance and reverence.
+title: THE NANTEOS CUP

@@ -1,0 +1,7 @@
+location: Tregaron
+next: 14844
+previous: 14821
+storyCount: 1
+summary: A tradition tells of a village or town of Tregaron that was once located where a lake now sits, believed to have sunk beneath the waters. Some locals claim to see ruins at the bottom of the lake as evidence of this submerged settlement.
+tags: well
+title: TREGARON LAKE

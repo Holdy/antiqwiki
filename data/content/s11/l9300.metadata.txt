@@ -1,0 +1,6 @@
+location: Llandyssul
+next: 9320
+previous: 9267
+storyCount: 1
+summary: Two young women, returning from Lampeter Fair, found themselves unable to locate their farmhouse despite the clear moonlight. They believed that a Goblin, known in Welsh as Ellyll, was responsible for this mysterious occurrence.
+title: Two Young Women and the Goblin

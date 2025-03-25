@@ -1,0 +1,6 @@
+location: Plinlimon Mountain
+next: 15040
+previous: 14907
+storyCount: 2
+summary: The Severn, Wye, and Rheidol rivers, known as the three sisters, set out to reach the sea, with Severn taking the longest route through several English counties, Wye following a path through Radnorshire and Hereford, and Rheidol taking the shortest way to Aberystwyth. According to an alternate version, five sister fountains are involved in this journey of rivers.
+title: River Legends

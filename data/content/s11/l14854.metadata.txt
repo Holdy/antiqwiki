@@ -1,0 +1,8 @@
+coordinates: 51.981877068858644, -3.994927868024591
+location: Talley Lakes
+next: 14870
+previous: 14844
+storyCount: 1
+summary: Talley Lakes are believed to be located above an ancient town, submerged under the waters, near notable landmarks such as the old Abbey and Edwinsford. This type of folklore is prevalent in various regions, suggesting pre-historic lake dwellings used for protection.
+tags: sunken-settlement
+title: Talley Lakes

@@ -1,0 +1,7 @@
+location: Pantcoy
+next: 12323
+previous: 12267
+storyCount: 1
+summary: Dr. Harries was a man believed to possess the power to summon spirits, as evidenced by the collection of books on astrology and magic arts discovered in his library at Pantcoy. These findings included a mysterious 'Invocation,' hinting at the presence of a legendary volume rumored to be filled with demons.
+tags: wizard
+title: CWRTYCADNO CONJURER AND SPIRIT RAISING

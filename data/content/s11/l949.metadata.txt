@@ -1,0 +1,6 @@
+location: Ystrad Meurig
+next: 983
+previous: 912
+storyCount: 1
+summary: In a traditional practice known as Bible and Key Divination, young people attempt to discover the initials of their future spouse by placing a key on a specific Bible verse and observing the movement of the Bible as the verse is recited. In one account from Ystrad Meurig, a young woman reportedly conducted the ritual only to see a vision of a coffin, an ominous symbol that supposedly foretold her dying single, demonstrating the superstitions surrounding this ritual.
+title: The Bible and Key Divination

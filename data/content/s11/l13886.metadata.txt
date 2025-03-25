@@ -1,0 +1,6 @@
+location: Gilfachwen, Llandyssul
+next: 13926
+previous: 13864
+storyCount: 1
+summary: At Gilfachwen, Llandyssul, a small white stone known as Llaethfaen was believed to have healing properties, specifically for curing the bites of mad dogs; its substance was mixed with milk and given to patients. The stone's reputation attracted people from afar in the past, but no records exist on the number of successful cures, and its origins remain unknown.
+title: Healing Stones

@@ -1,0 +1,6 @@
+location: Wales
+next: 10969
+previous: 10902
+storyCount: 1
+summary: The owl is considered unlucky in Wales due to several legends, one being that during a bird contest for kingship, the wren outsmarted the eagle by flying higher after perching on its back, resulting in the wren becoming king. The owl, responsible for upsetting a pan of tears prepared by the sad birds, was condemned to hide during the day and feed at night, leading to its unpopularity among other birds.
+title: The Unpopularity of the Owl

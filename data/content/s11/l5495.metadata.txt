@@ -1,0 +1,8 @@
+coordinates: 51.92232552803354, -4.36657060332451
+location: Cynwil Elvet
+next: 5507
+previous: 5471
+storyCount: 1
+summary: In the parish of Cynwil Elvet, a servant girl went to find cows at a farm called Fos Anna and accidentally stepped into a Fairy ring. Despite being without food for a long time, she did not feel hungry due to the enchantment of the Fairy ring.
+tags: fairy
+title: A Carmarthenshire Maiden Who Got Into a Fairy Ring

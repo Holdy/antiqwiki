@@ -1,0 +1,6 @@
+location: null
+next: 1056
+previous: 983
+storyCount: 1
+summary: Divination by cards is more popular in English towns than in Welsh areas. The practice is not widely known in rural parts of Wales.
+title: DIVINATION BY CARDS

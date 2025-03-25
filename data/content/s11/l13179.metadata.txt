@@ -1,0 +1,8 @@
+coordinates: 51.874279056473064, -4.969601696983864
+location: Trefgarn Valley
+next: 13249
+previous: 13100
+storyCount: 2
+summary: A Pembrokeshire woman named Mrs. Evans, known for her prophetic visions, predicted seeing a series of autonomous, fast-moving carts in Trefgarn Valley, which locals later interpreted as a foretelling of a railway line that was ultimately constructed nearly 100 years later. Despite setbacks and ridicule when initial railway projects bypassed the area, a new line was eventually built exactly as Evans had envisioned, fulfilling her long-dismissed prophecy.
+tags: prophet
+title: Pembrokeshire Woman's Prophecy Fulfilled

@@ -1,0 +1,6 @@
+location: South Pembrokeshire
+next: 13799
+previous: 13715
+storyCount: 1
+summary: In South Pembrokeshire, the pentacle is revered as a powerful talisman, a belief shared with historical traditions from Greek Christians to medieval mystics. A visitor once observed pentacles carved into trees near Lady's Well, supposedly used to banish the "White Ladies" from the area.
+title: The Pentacle

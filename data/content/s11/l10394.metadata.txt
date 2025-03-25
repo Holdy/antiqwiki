@@ -1,0 +1,6 @@
+location: Wales
+next: 10621
+previous: 10368
+storyCount: 1
+summary: Finding a knife while on a journey is widely considered a bad omen, a belief that persists across Wales and even distant parts of the world. This belief was experienced personally during a meeting in Patagonia when three friends discovered knives along their paths, which was shortly followed by tragic news of a drowning.
+title: Superstitions About Knives

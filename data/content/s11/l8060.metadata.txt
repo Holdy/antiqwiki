@@ -1,0 +1,8 @@
+coordinates: 52.03080781194043, -4.374026421774766
+location: Llangeler, Carmarthenshire
+next: 8086
+previous: 8044
+storyCount: 2
+summary: In the parish of Llangeler, Carmarthenshire, the spirit of a deceased mother appeared to her children warning them not to eat poisoned cakes left on their playground. This incident led to neighborhood suspicions that their stepmother had malicious intentions.
+tags: haunting
+title: THE SPIRIT OF A DEAD MOTHER APPEARING TO HER CHILDREN

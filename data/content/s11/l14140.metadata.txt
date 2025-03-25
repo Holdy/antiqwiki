@@ -1,0 +1,6 @@
+location: Diserth
+next: 14204
+previous: 14069
+storyCount: 2
+summary: The King and Queen of England, through their sacred touch, were believed to cure those afflicted with the disease known as 'the King's Evil', with King Charles II issuing orders to regulate and limit the times and procedures for presenting sufferers to the court for healing. This proclamation was published in the History of Radnorshire and emphasized the need for church-issued certificates verifying a person's need for healing, to avoid contagion risks and organize the King's engagements.
+title: Touching: The Cure of the King's Evil

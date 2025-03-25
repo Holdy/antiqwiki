@@ -1,0 +1,8 @@
+coordinates: 51.739517918640054, -4.305749157551737
+location: Kidwely Castle
+next: 8174
+previous: 8086
+storyCount: 2
+summary: Nest fell in love with a Norman knight, Sir Walter Mansel, but her cousin's jealousy led to his murder at Pont-y-Gwendraeth, prompting Nest to commit suicide by drowning with him. As a result, Nest's spirit was doomed to haunt the bridge, foretelling the deaths of her descendants unless a descendant married a Mansel, with her ghost reappearing generations later linked to mysterious tragedies in her family.
+tags: haunting dark
+title: The Ghost of Pont-y-Gwendraeth
