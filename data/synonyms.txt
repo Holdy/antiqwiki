@@ -1,15 +1,18 @@
 fairy elle-maid fay
 household-spirit brownie nisse nis tomte
+haunting ghost
 merfolk Merrow 
 
+witch hag
 folklore hill-man
 folklore dwarf
-folklore witch
 folklore witching
 dwarf hill-man 
 
 water-people nixen nixes
 folklore banshee
 merfolk merrow
+
+ghost-light corpse-candle corpse-light
 
 folklore fairytale household-spirit

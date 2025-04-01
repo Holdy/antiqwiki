@@ -1,0 +1,6 @@
+location: Cavendish, Vermont
+next: 5342
+previous: 5270
+storyCount: 1
+summary: During a quarrying task near Lover's Leap in Cavendish, Vermont, a farmer fell into the gorge, surprisingly landing safely on a stone slab instead of in the river. Despite his unexpected survival, his only concern was losing his jack-knife, highlighting the humor and irony in the situation.
+title: Yet They Call It Lover's Leap

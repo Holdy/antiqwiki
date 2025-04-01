@@ -1,0 +1,6 @@
+location: Wissahickon River
+next: 4290
+previous: 4185
+storyCount: 1
+summary: Amidst the snowy wilderness in 1773, a mystical old man believed to be a prophet lived with his children in a monastery on the Wissahickon River, where he awaited the arrival of a prophesied deliverer. On a cold winter's night, a lost traveler entered the monastery, and, identified as the deliverer, he was anointed by the mystic to lead America to freedom; later revealed to be George Washington, who fulfilled the prophecy during the Revolutionary War.
+title: The Consecration of Washington

@@ -1,0 +1,6 @@
+location: Calawassee
+next: 9188
+previous: 9125
+storyCount: 1
+summary: Kedar, accompanied by his slave Lauto, is determined to hunt down a mysterious one-horned buck along the Calawassee that seems to elude them with an unearthly grace. Despite Kedar's relentless pursuit throughout the day, fueled by oaths and desperate resolve, the hunt ends tragically as Kedar disappears beneath the river waters, leaving Lauto to flee in fear from the haunting deer.
+title: The Hunter of Calawassee

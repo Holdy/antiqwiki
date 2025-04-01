@@ -1,0 +1,6 @@
+location: Martha's Vineyard
+next: 7981
+previous: 7891
+storyCount: 1
+summary: Maushope, an Indian giant of Martha's Vineyard, created fogs to disturb sailors and built a temporary causeway between Gay Head and Cuttyhunk before abandoning it out of frustration. He discovered the island by following a bird that had kidnapped children, whose bones he found, and inadvertently created Nantucket from his pipe ashes.
+title: The Legend of Maushope

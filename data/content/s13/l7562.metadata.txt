@@ -1,0 +1,6 @@
+location: Ipswich
+next: 7628
+previous: 7519
+storyCount: 2
+summary: The tale of Heartbreak Hill tells of a sailor who left behind an Agawam maiden in Ipswich, promising to return, but his ship eventually wrecked in a storm as she watched helplessly from the hill. Heartbroken and deprived of hope, the maiden soon passed away, her spirit lingering over the site where she awaited her lover's return.
+title: Heartbreak Hill

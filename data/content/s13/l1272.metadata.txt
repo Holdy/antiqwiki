@@ -1,0 +1,8 @@
+coordinates: 41.12592615292677, -74.222841989391
+location: Ramapo Valley
+next: 1369
+previous: 1222
+storyCount: 1
+summary: In a tale of mysterious origins and mythical beings, a band of German colonists led by a man named Hugo settle in the Ramapo Valley, where they encounter a salamander believed to grow in unquenched flame every seven years, leading to strange and sacrificial events. Hugo's daughter, Mary, and a mystical knight experience a doomed love story entwined with supernatural trials, symbolized by a salamander and ending in the knight's ascension in robes of silvery light, while Hugo attempts to destroy him for allegedly ruining his family.
+tags: reptile-cryptid
+title: The Ramapo Salamander

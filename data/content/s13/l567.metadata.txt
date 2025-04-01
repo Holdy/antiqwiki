@@ -1,0 +1,6 @@
+location: Catskill Mountain House
+next: 608
+previous: 529
+storyCount: 1
+summary: Chief Shandaken's daughter, Lotowana, was sought after by many, including Norsereddin, who attempted to win her with a poisoned gift, leading to her death on her wedding day. In a quest for vengeance, the braves captured and burned Norsereddin, leaving his ashes to scatter, as Shandaken departed from his home forever.
+title: THE REVENGE OF SHANDAKEN

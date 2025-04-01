@@ -1,0 +1,6 @@
+location: Mount Superstition, Arizona
+next: 12501
+previous: 12370
+storyCount: 1
+summary: A tribe of Pueblo dwarfs settled near Mount Superstition and skillfully defended themselves against a Zuni invasion with the help of a commanding pale-faced woman, who was revered by the dwarfs. This mysterious woman used a form of natural pyrotechnics to repel the invaders, leaving a supernatural presence that led to legends of her spirit haunting the region even after the dwarfs had vanished.
+title: The Pale Faced Lightning

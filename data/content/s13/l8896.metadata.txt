@@ -1,0 +1,6 @@
+location: Hiawassee
+next: 8938
+previous: 8800
+storyCount: 1
+summary: In the hills surrounding the Hiawassee, superstitious locals fear the many animal and human ghosts, including portents like the white stag of Sequahatchie and the headless bull of Chatata. A farmer who disturbed the remains in a nearby cave was haunted by a spectral procession until he returned the skulls, swearing never to remove bones again.
+title: Spooks of the Hiawassee

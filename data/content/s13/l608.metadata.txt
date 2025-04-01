@@ -1,0 +1,6 @@
+location: Leeds, Catskills
+next: 661
+previous: 567
+storyCount: 1
+summary: Ralph Sutherland, a morose and violent man from Leeds in the Catskills, was sentenced to wear a hangman's noose as a reminder of his crime after being accused of dragging his bound servant girl to her death. His sentence was to remain until he turned ninety-nine, but he died in obscurity and solitude, with the noose still around his neck, marking a life haunted by his actions.
+title: Condemned to the Noose

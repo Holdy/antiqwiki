@@ -1,0 +1,6 @@
+location: Rocky Range
+next: 11769
+previous: 11720
+storyCount: 1
+summary: A lone hiker journeys through the rugged terrain of the Rocky Range, seeking solace in the tranquility of nature. Despite the challenging path, the serene beauty of the landscape inspires the hiker to reflect on life's complexities.
+title: Along the Rocky Range

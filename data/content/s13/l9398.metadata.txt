@@ -1,0 +1,6 @@
+location: Atlanta
+next: 9428
+previous: 9354
+storyCount: 1
+summary: In Atlanta, a man was mysteriously killed with a stiletto, and his murderer escaped, sparking strange occurrences at St. Michael's Church where the bells seemed to ring mournfully without being physically touched. An old policeman witnessed a spectral figure resembling the murdered man in the church's belfry, ringing the bells with an ominous melody that foreshadowed more deaths whenever heard.
+title: The Wraith Ringer of Atlanta

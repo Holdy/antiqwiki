@@ -1,0 +1,6 @@
+location: White Plains, New York
+next: 2388
+previous: 2295
+storyCount: 1
+summary: During the American Revolution, Polly Carter hid her fiancé, Lawrence, in a clock to prevent British officers from discovering him in her house in White Plains, New York. Unfortunately, a drunken officer stabbed the clock with his sabre, unknowingly killing Lawrence inside, leaving Polly devastated as she discovered his lifeless body.
+title: Polly's Lover

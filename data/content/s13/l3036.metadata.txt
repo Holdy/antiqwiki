@@ -1,0 +1,6 @@
+location: Brooklyn
+next: 3075
+previous: 2992
+storyCount: 1
+summary: A young woman from the Cortelyou manor fell in love with a British officer during the Revolutionary War, meeting secretly despite her family's protests. During an attempted elopement by moonlight, gunshots were fired by pursuers, resulting in the woman's disappearance and her father losing his mind following the incident.
+title: The Cortelyou Elopement

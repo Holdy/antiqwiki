@@ -1,0 +1,6 @@
+location: Superstition Mountains
+next: 12440
+previous: 12319
+storyCount: 1
+summary: Suha, a prophet of the Pima Indians, and his wife build an ark of spruce gum to survive a deluge announced by the winds, and after the floodwaters recede, they become the progenitors of a new tribe in the Superstition Mountains. Despite the peace Suha brings through teaching his descendants various skills, the re-emergence of evil is confronted by Suha's killing of the devil Hauk, yet a prophecy warns that future arrogance and greed will lead to another flood wiping out all but the righteous.
+title: The Ark on Superstition Mountains

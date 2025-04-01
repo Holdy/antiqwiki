@@ -1,0 +1,6 @@
+location: Wissahickon
+next: 3910
+previous: 3810
+storyCount: 1
+summary: Farmer Derwent and his sons are ambushed by British troops during a patriot meeting at Wissahickon, resulting in Derwent's death at the hands of a deserter from his own family. The rebel soldier reveals himself to be Derwent's missing son, who, overwhelmed by guilt, leaps to his death after killing his father.
+title: Parricide of the Wissahickon

@@ -1,0 +1,8 @@
+coordinates: 40.61516114723059, -74.06294512281453
+location: Staten Island
+next: 2922
+previous: 2822
+storyCount: 2
+summary: During the Revolution, a Yankee maid at the Austen mansion on Staten Island rejected a British soldier, leading him to hang himself, and his ghost reportedly haunted the area. In Richmond, a young woman named Miss Britton defended herself from an aggressive British soldier by burning him with a hot poker, ensuring her privacy was respected thereafter.
+tags: ghost
+title: Miss Britton's Poker

@@ -1,0 +1,6 @@
+location: Balanced Rock near Pittsfield, Massachusetts
+next: 6992
+previous: 6919
+storyCount: 1
+summary: The young Atotarho, unlike his fierce father, demonstrated his peaceful nature and mighty strength by lifting the massive 480-ton Balanced Rock, astonishing a group of boys who mocked his delicate appearance. He used this act to impart a lesson on humility and respect, and the tale was recounted by the tribe's elders for years to come.
+title: BALANCED ROCK

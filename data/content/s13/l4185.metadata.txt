@@ -1,0 +1,6 @@
+location: Chartiers creek
+next: 4220
+previous: 4132
+storyCount: 1
+summary: Two brothers who settled along Chartiers creek found their family murdered and their home burnt, and they disappeared after attempting to warn others of the tragedy. Local folklore tells of ghostly cries and apparitions, believed to be the family seeking each other, with some claiming to see glowing scalps of the slain in the night.
+title: Flame Scalps of the Chartiers

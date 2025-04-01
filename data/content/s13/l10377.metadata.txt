@@ -1,0 +1,6 @@
+location: Alger, Michigan
+next: 10415
+previous: 10338
+storyCount: 1
+summary: William Cloud, known as Cloudy, was a lumberman in Alger, Michigan, who met a tragic fate one stormy night while attempting to guide logs down a chute, only to have his body found mangled in the waters. His restless spirit, accompanied by the stream's evil spirit, is said to haunt the woods each night, leading to the eventual abandonment of the camp and chute.
+title: The Spirit of Cloudy

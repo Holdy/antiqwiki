@@ -1,0 +1,6 @@
+location: Manitou springs
+next: 12060
+previous: 11917
+storyCount: 1
+summary: A misunderstanding at the Manitou springs between a Shoshone and a Comanche hunter over drinking rights escalated into a deadly confrontation, leading to the drowning of the Shoshone chief, Ausaqua, by the Comanche, Wacomish. The incident, witnessed by a spirit, resulted in a curse on the Comanche and a division between the tribes that erupted into widespread warfare across the region.
+title: The Division of Two Tribes

@@ -1,0 +1,6 @@
+location: Mississippi
+next: 9538
+previous: 9454
+storyCount: 1
+summary: The Natchez Indians built a Temple of the Sun on a site in Mississippi, where a meteor kindled a sacred fire that was tirelessly maintained by priests. When the fire was accidentally extinguished, the people were demoralized and the omen preceded their defeat and displacement by arriving Europeans.
+title: The Sacred Fire of Natchez

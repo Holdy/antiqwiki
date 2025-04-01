@@ -1,0 +1,6 @@
+location: Hudson River
+next: 400
+previous: 347
+storyCount: 1
+summary: The Hudson River, surrounded by its rolling hills, serves as a picturesque setting for the unfolding story of exploration and natural beauty. The narrative captures the serene landscape and its influence on the local culture and history.
+title: The Hudson and Its Hills

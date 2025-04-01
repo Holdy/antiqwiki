@@ -1,0 +1,6 @@
+location: Windham, Connecticut
+next: 8286
+previous: 8217
+storyCount: 1
+summary: In 1758, the residents of Windham, Connecticut, were terrified by strange noises at night, fearing an attack by Native Americans, witches, or demons. It was later discovered that the noise was caused by frogs migrating to a new pond, their sounds resembling political chants of the time, leading to the incident being humorously remembered as the "frog scare."
+title: THE WINDAM FROGS

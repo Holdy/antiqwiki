@@ -1,0 +1,6 @@
+location: Lake Mahopac
+next: 1463
+previous: 1369
+storyCount: 1
+summary: After the English settlers attempted to take over the region near Lake Mahopac, the tribe led by young chief Omoyao resisted, leading to betrayal and conflict instigated by the half-breed Joliper. Following a violent confrontation where Omoyao was captured and nearly killed, he and his love Maya escaped but ultimately chose to die together rather than be captured, allowing the English to claim the territory.
+title: The Retreat from Mahopac

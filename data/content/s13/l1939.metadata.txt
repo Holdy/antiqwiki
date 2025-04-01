@@ -1,0 +1,8 @@
+coordinates: 43.21182437079942, -71.19793684123036
+location: Northwood
+next: 1984
+previous: 1903
+storyCount: 1
+summary: Mrs. Clymer was found dead the morning after a public argument with her husband at the opening ceremonies of their mill in Northwood, sparking local legends of a haunting. A mysterious stranger later visited her grave, prompting Mr. Clymer to sell his property and vanish, while the mill subsequently fell into ruin, believed to be haunted by her spirit.
+tags: named-ghost
+title: The Haunted Mill

@@ -1,0 +1,6 @@
+location: Boston
+next: 6048
+previous: 5909
+storyCount: 1
+summary: Lady Eleanore Rochcliffe, filled with pride, dismisses Gervase Helwyse's infatuation and scornfully uses him as a footstool upon her arrival in Boston, but her arrogance foreshadows the calamities to come. A mysterious smallpox epidemic, rumored to be spread through her magical mantle, devastates the city, leaving Lady Eleanore disfigured and isolated, ultimately leading to the mantle's symbolic destruction and the plague's end.
+title: Lady Eleanore's Mantle

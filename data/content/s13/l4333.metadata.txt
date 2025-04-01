@@ -1,0 +1,6 @@
+location: Acadia (Nova Scotia)
+next: 4401
+previous: 4328
+storyCount: 1
+summary: Evangeline Bellefontaine and Gabriel Lajeunesse, betrothed Acadians separated by the British expulsion, endured years apart believing each other lost, as Evangeline searched for Gabriel across America. In an almshouse during a pestilence in Philadelphia, Evangeline finally found a dying Gabriel, and they shared a brief moment of reunion before he passed away, leaving her to continue in peace with her faith restored.
+title: Evangeline

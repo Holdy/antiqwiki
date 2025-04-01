@@ -1,0 +1,6 @@
+location: Dalton
+next: 6824
+previous: 6684
+storyCount: 1
+summary: Wahconah, a young woman from Dalton in the Berkshire Hills, attracts the attention of two suitors: Nessacus, a handsome warrior, and an older Mohawk chief advised by a scheming priest named Tashmu. Through a rigged spiritual test, it seems the Mohawk will win Wahconah, but a sudden change in the water's course favors Nessacus, leading to his marriage with Wahconah, while the humiliated Mohawk and Tashmu leave the valley.
+title: Wahconah Falls

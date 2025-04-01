@@ -1,0 +1,6 @@
+location: Creve Cœur Lake
+next: 11610
+previous: 11508
+storyCount: 1
+summary: The serene Creve Cœur Lake near St. Louis is said to have the power to strengthen love and reconcile estranged lovers, a magic attributed to a historic battle where a warrior couple renewed their vows by its shores. Another tale suggests that the lake's mystical aura stems from a demon-fish inhabited by the spirit of an Ozark princess, cursed to punish unfaithful lovers after her heart was broken by a Spanish governor's son.
+title: The Spell of Creve Cœur Lake

@@ -1,0 +1,6 @@
+location: null
+next: 41
+previous: 1
+storyCount: 0
+summary: The book "Myths and Legends of Our Own Land" by Charles M. Skinner is a collection of tales rooted in American culture and folklore. As the stories stem from various parts of the United States, they capture the uniqueness and diversity of American myths and legends.
+title: Myths and Legends of Our Own Land

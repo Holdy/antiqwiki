@@ -1,0 +1,6 @@
+location: Boston
+next: 5795
+previous: 5680
+storyCount: 1
+summary: Peter Rugg, a man known for his outbursts, disappears after defying a storm on his journey home, endlessly wandering New England roads with his daughter in search of Boston. Over time, Rugg becomes known as the 'stormbreeder,' as he is associated with sudden storms wherever he is seen, yet he can never seem to find his way home.
+title: Peter Rugg, The Missing Man

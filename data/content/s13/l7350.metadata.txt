@@ -1,0 +1,6 @@
+location: Cape Cod
+next: 7388
+previous: 7321
+storyCount: 1
+summary: A mysterious survivor of a pirate shipwreck on Cape Cod lived a reclusive life, believed to be haunted by his past and the spirits of his victims. His tragic end came with gold clutched in his hands, amidst signs of a violent struggle with an unseen force.
+title: The Wild Man of Cape Cod

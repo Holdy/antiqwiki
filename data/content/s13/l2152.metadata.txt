@@ -1,0 +1,7 @@
+location: Lake of the Clustered Stars (Tupper's Lake)
+next: 2193
+previous: 2117
+storyCount: 1
+summary: After returning victorious from the battle against the Tahawi, the Sun, chief of the Lower Saranacs, struggles with his love for Oseetah, the Bird, who tragically disappears into the lake after a rejection of his affection. The next day, strange flowers bloom on the water, interpreted by the tribe as the transformation of Oseetah, symbolizing her purity and love, as her heart closes at sunset and reopens with the sun's rise.
+tags: myth
+title: Birth of the Water-Lily

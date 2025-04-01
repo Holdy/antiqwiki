@@ -1,0 +1,6 @@
+location: Fort Le Boeuf, Pennsylvania
+next: 4185
+previous: 4044
+storyCount: 1
+summary: Gabrielle de St. Pierre saved Harry Fairfax, a Virginia soldier, from being shot by her guide, only to fall in love with him during his diplomatic visit to her father's fort in Pennsylvania. After surviving a subsequent battle where Gabrielle was disguised as a French officer, they married, and she moved to Virginia, though she retained a certain resentment towards the English.
+title: The Two Rings

@@ -1,0 +1,6 @@
+location: Plymouth
+next: 7225
+previous: 7136
+storyCount: 1
+summary: Myles Standish, the determined captain at Plymouth, tasked John Alden with proposing to Priscilla Mullins on his behalf, but she hinted her true feelings when she asked John why he didn't speak for himself. Realizing Priscilla's affection for him, John Alden married her, leaving Myles to either participate in or retreat from the wedding, and thus began the legacy of the Alden family.
+title: The Courtship of Myles Standish

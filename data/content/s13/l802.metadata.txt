@@ -1,0 +1,6 @@
+location: Cro' Nest
+next: 855
+previous: 754
+storyCount: 1
+summary: The fairies gather at Cro' Nest to judge a fay who loved a human, sentencing him to retrieve a spray drop from the Hudson River and relight his lamp from a meteor spark as penance. After succeeding in his tasks and traversing to the Milky Way, he returns to fairy land, celebrated by his kin for completing his quest.
+title: The Culprit Fay

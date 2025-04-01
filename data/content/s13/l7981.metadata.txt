@@ -1,0 +1,6 @@
+location: Nantucket
+next: 8008
+previous: 7936
+storyCount: 1
+summary: In a tale of love and betrayal, a young man warns his beloved on Nantucket about a planned surprise attack by his own tribe from Martha's Vineyard, allowing her people to prepare and thwart the invasion. The lover's secret act of treason was only discovered years later, bringing peace between the tribes as his love for the girl prevailed over tribal enmity.
+title: LOVE AND TREASON

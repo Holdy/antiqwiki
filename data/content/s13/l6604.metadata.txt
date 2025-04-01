@@ -1,0 +1,6 @@
+location: Boston
+next: 6684
+previous: 6499
+storyCount: 1
+summary: Sir Edmund Andros, unpopular as the king's governor in New England, faces resistance when he demands the surrender of the Hartford colony's liberties, leading to public outcry and a mysterious figure calling himself "The Gray Champion" who halts Andros's procession through Boston. This champion, embodying the spirit of New England independence, becomes a legendary symbol of defiance appearing during critical moments against oppression, such as the Boston Massacre and battles like Lexington and Bunker Hill.
+title: The Gray Champion

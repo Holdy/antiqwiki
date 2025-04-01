@@ -1,0 +1,6 @@
+location: Sandwich
+next: 10659
+previous: 10552
+storyCount: 1
+summary: During the War of 1812, Francois Navarre, a captured soldier, was briefly reunited with his lover Angelique Couture in Sandwich before honoring his parole and returning to his captors. Later, amidst the chaos of an incoming group of prisoners, Francois seized the opportunity to escape into the woods, eventually reuniting with Angelique in Detroit after she feared him lost, and the two married after the war.
+title: The Escape of Francois Navarre

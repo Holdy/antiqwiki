@@ -1,0 +1,6 @@
+location: Yellowstone
+next: 12153
+previous: 12060
+storyCount: 1
+summary: Pursued by soldiers through the Yellowstone, a band of Native American Crows makes a final, defiant stand on a raft, singing a death-song as they are propelled toward the deadly rapids of the Grand Canyon of the Yellowstone. Choosing death over capture, they face their fate with courage and mock the troops with a triumphant chant, before ultimately plunging over the cataract into the misty abyss below.
+title: A Yellowstone Tragedy

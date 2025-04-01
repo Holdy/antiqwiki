@@ -1,0 +1,6 @@
+location: Esopus Valley
+next: 702
+previous: 608
+storyCount: 1
+summary: Winnisook, a towering figure known as "the big Indian," eloped with Gertrude Molyneux after she realized her unhappiness with her white husband, Joseph Bundy. The couple was eventually tracked down, and Winnisook was killed by Bundy; Gertrude lived the rest of her life near his grave with their children.
+title: BIG INDIAN

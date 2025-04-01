@@ -1,0 +1,6 @@
+location: Hudson River
+next: 963
+previous: 893
+storyCount: 1
+summary: Anthony's Nose, an aquiline promontory on the Hudson River, is named after Anthony Van Corlaer, who inadvertently killed a sturgeon with the reflection of his sunlit nose, while aboard Peter Stuyvesant's galley. In honor of the incident, the mountain was named Anthony's Nose by Stuyvesant, marking it as a notable landmark amidst the Hudson Highlands.
+title: Anthony's Nose

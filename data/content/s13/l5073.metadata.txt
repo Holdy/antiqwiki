@@ -1,0 +1,6 @@
+location: White Mountains
+next: 5198
+previous: 5037
+storyCount: 2
+summary: Ethan Allen Crawford's history with the White Mountains tells of supernatural events and fiery tragedies, as his attempts to establish inns on sacred Native American land met with repeated destruction and ultimate abandonment. The Willey House tragedy in the White Mountains saw seven lives lost to an avalanche, their decision to flee sealing their fate, while tales of tragic love and mysterious hauntings linger around Nancy's Brook.
+title: THE WHITE MOUNTAINS

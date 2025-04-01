@@ -1,0 +1,6 @@
+location: St. Anthony's Falls
+next: 11256
+previous: 11165
+storyCount: 1
+summary: A Dakota warrior returns from a hunting trip with a new wife, causing his first wife to feel forsaken. Heartbroken and unable to endure her husband's neglect, the first wife takes her son and their canoe over the falls at St. Anthony, disappearing into the river below as her husband watches in despair.
+title: Falls of St. Anthony

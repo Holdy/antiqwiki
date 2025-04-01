@@ -1,0 +1,6 @@
+location: Valley Forge
+next: 3697
+previous: 3581
+storyCount: 1
+summary: Tory Manheim's daughter secretly travels to warn her lover of a plot against George Washington, unaware that her father plans to kill Washington as he rests in their home. However, in a tragic twist, Manheim inadvertently kills his own daughter instead, allowing Washington to leave unharmed and oblivious to the danger.
+title: A Blow in the Dark

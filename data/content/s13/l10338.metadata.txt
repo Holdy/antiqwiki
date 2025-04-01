@@ -1,0 +1,6 @@
+location: Sault Sainte Marie
+next: 10377
+previous: 10295
+storyCount: 1
+summary: When a faithful hunter discovered his wife's infidelity, he killed her, forcing him and his sons to flee to Sault Sainte Marie, where they encountered her troubling spirit. A crane helped the boys cross the rapids, but when the spirit tried to follow, she fell into the water and her brain turned into white fish, which became highly prized.
+title: The Origin of White-Fish

@@ -1,0 +1,6 @@
+location: Whulge
+next: 12981
+previous: 12936
+storyCount: 1
+summary: The mysterious voyager of the Whulge, traveling in a brilliant copper canoe, preached a doctrine of love and forgiveness to the Northwest Siwash tribes, who initially responded with contempt and violence. After nailing him to a tree, they were astounded as he resurrected amidst a storm, convincing them of his teachings and leading them to become a peaceful people.
+title: The Voyager of Whulge

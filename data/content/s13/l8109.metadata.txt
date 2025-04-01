@@ -1,0 +1,6 @@
+location: Point Judith, Rhode Island
+next: 8145
+previous: 8088
+storyCount: 2
+summary: The story of Point Judith in Rhode Island tells of a ship's skipper relying on his daughter, Judith, to help steer the vessel to safety during a storm when she spotted land and pointed out the dangerous breakers, leading to the cape being named after her. This anecdote highlights how geographical names can originate from personal stories and occurrences, preserving moments of quick thinking and familial connections.
+title: Origins of a Name

@@ -1,0 +1,6 @@
+location: Lake George
+next: 2250
+previous: 2152
+storyCount: 1
+summary: In March 1758, Major Rogers, while reconnoitring near Ticonderoga with his rangers, was pursued by French and Indians and cleverly escaped by reversing his snow-shoes to create a false trail leading to a cliff, convincing his pursuers that he had jumped to his death. Convinced of his demise due to their superstition, the Indians refrained from firing at him as he safely traversed the frozen lake toward Fort William Henry, and Rogers later lived to fight in the American Revolution.
+title: Rogers's Slide

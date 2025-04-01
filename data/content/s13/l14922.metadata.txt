@@ -1,0 +1,6 @@
+location: Mount Shasta
+next: 0
+previous: 14681
+storyCount: 1
+summary: Many cultures and legends associate mountains with divine or supernatural occurrences, often seeing these majestic landscapes as the abodes or creations of gods and spirits. In North America, various indigenous stories recount how significant mountains were formed or inhabited by deities, reflecting the spiritual importance of these natural structures.
+title: God on the Mountains

@@ -1,0 +1,6 @@
+location: Marblehead
+next: 7519
+previous: 7445
+storyCount: 1
+summary: In 1742, Sir Henry Frankland of Boston visited Marblehead, met a barefooted maid named Agnes Surriage, and was so taken by her that he cultivated her talents, forming a close but unwedded partnership that defied colonial norms. In 1755, after Agnes heroically saved Sir Henry from the Lisbon earthquake debris, realizing the depth of her love and courage, he overcame class prejudices and married her, resulting in a joyful marriage.
+title: Agnes Surriage and Sir Henry Frankland

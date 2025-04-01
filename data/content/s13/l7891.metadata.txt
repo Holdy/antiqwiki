@@ -1,0 +1,6 @@
+location: Fall River, Massachusetts
+next: 7936
+previous: 7811
+storyCount: 1
+summary: A skeleton wearing a brass breastplate and surrounded by copper arrow-heads was discovered at Fall River, Massachusetts, in 1834, sparking debates on its origins, with suggestions ranging from Danish Viking or Norse explorer to Phoenician sailor. Legend has it that this skeleton belonged to a viking who, after being pursued for eloping with a king's daughter, embarked on a voyage ending at Narragansett Bay and later built the Newport tower; upon his lover's death, the viking took his own life in despair.
+title: The Skeleton in Armor

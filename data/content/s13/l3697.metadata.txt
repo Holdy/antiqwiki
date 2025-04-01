@@ -1,0 +1,6 @@
+location: Valley Forge
+next: 3759
+previous: 3644
+storyCount: 1
+summary: On Christmas Eve at Valley Forge, Michael Kuch is shocked when his daughter's fiancé, John Blake, admits to attempting to assassinate General Washington, resulting in the death of his own son instead. Despite the initial chaos and tragedy, Blake undergoes a transformation influenced by Washington's leniency, leading him to join the American cause and serve loyally in the war.
+title: The Tory's Conversion

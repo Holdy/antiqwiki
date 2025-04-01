@@ -1,0 +1,6 @@
+location: Navajo Mountains
+next: 12370
+previous: 12290
+storyCount: 1
+summary: The Navajos were once happy in an underworld but emerged to the surface through a passage revealed by a curious tribesman, settling in the new land despite the mysterious disappearance of their queen. Soon after, cannibal giants threatened their existence, but a girl found by the survivors attracted a powerful manitou who helped annihilate the giants, and she became a revered figure to whom the people's prayers are directed.
+title: The Coming of the Navajos

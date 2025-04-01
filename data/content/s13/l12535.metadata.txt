@@ -1,0 +1,6 @@
+location: Superstition Mountains
+next: 12592
+previous: 12501
+storyCount: 1
+summary: In a tragic event from ancient Toltec times, the king sacrificed his own daughter during an earthquake to appease the gods and protect his people, but his efforts were in vain as catastrophic natural disasters continued to devastate their civilization. The fierce upheaval destroyed the Toltec cities and turned them into ruins, marking the end of their reign and leaving a chilling legacy, as survivors fled from the wrath of nature and invading tribes pillaged their abandoned wealth.
+title: Sacrifice of the Toltecs

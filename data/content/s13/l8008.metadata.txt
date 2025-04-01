@@ -1,0 +1,6 @@
+location: Swamptown, North Kingston, Rhode Island
+next: 8052
+previous: 7981
+storyCount: 1
+summary: In Swamptown, North Kingston, Rhode Island, a belated traveler witnessed a headless figure of a negro boy glowing in blue light, which later rose and vanished into the air, leaving behind an eerie trail. The most chilling tale involves an Indian skeleton that reclaimed its skull from a pole outside a roadmender's house, now serving as a guardian over other Indian graves in the area, particularly at Indian Corner, where a mysterious blood-tinted rock lies.
+title: The Headless Skeleton of Swamptown

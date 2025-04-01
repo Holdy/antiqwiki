@@ -1,0 +1,6 @@
+location: Brandywine
+next: 3810
+previous: 3697
+storyCount: 1
+summary: Lord Percy, believing himself fated to die in an area he had seen in a dream, gallantly charges into battle at the Brandywine only to meet his death at the hands of Captain Waldemar, a leader of opposing troops and his unknown half-brother. After discovering their familial connection through a letter taken from Percy's body, Waldemar, whose mother had been deceived by Percy's father, shows unexpected compassion by burying his brother himself.
+title: Lord Percy's Dream

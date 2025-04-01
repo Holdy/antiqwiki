@@ -1,0 +1,6 @@
+location: Chaco, New Mexico
+next: 12197
+previous: 12104
+storyCount: 1
+summary: Noqoilpi, the gambling god, arrived in Chaco, New Mexico, and challenged the Moqui people to games of chance, winning their possessions and some of them as captives, which led the Moqui to build the Broad House in exchange for their freedom. Eventually, the wind god defeated Noqoilpi with the help of animals, freeing the remaining captives and banishing Noqoilpi to the sky, where he ended up in Mexico, creating new communities before becoming a god himself.
+title: The Tale of Noqoilpi and the Broad House

@@ -1,0 +1,6 @@
+location: null
+next: 13531
+previous: 13492
+storyCount: 0
+summary: The story titled "AS TO BURIED RICHES" is not present in the text. Additionally, there is no other story provided in the input text.
+title: AS TO BURIED RICHES

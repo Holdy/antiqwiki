@@ -1,0 +1,8 @@
+coordinates: 42.10357624068959, -73.54963971334274
+location: Copake, New York
+next: 2338
+previous: 2250
+storyCount: 1
+summary: Francis Woolcott, a feared man living in Copake, New York, led a band of mysterious night-riders who engaged in magical mischief across the Berkshires. As Woolcott lay dying, a supernatural storm reportedly signaled his demise, reinforcing his reputation connected with the dark arts.
+tags: practitioner
+title: Francis Woolcott's Night-Riders

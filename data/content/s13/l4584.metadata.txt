@@ -1,0 +1,6 @@
+location: Kittery, Maine
+next: 4618
+previous: 4544
+storyCount: 1
+summary: Lady Ursula lived in a grand manor in Kittery, Maine, awaiting the return of Captain Fowler, whom she hoped to marry. Tragically, after hearing false news of his death, Ursula was killed by Native Americans, leaving Captain Fowler to return too late to share his love and grief.
+title: The Lady Ursula

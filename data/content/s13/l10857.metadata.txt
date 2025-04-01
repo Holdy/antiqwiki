@@ -1,0 +1,6 @@
+location: Onondaga, New York
+next: 10949
+previous: 10819
+storyCount: 1
+summary: Hiawatha, a central figure in Native American legends, embarked on a mission to teach virtues and improve the lives of his people, while demonstrating extraordinary powers such as changing forms and battling mythical creatures. His legacy includes establishing a league of tribes in Onondaga, New York, before his ascension to the sky, leaving behind customs and anticipation of his return, inspired by his commitments and actions during his lifetime.
+title: The Legend of Hiawatha

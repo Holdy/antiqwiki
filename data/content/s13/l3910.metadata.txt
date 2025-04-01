@@ -1,0 +1,6 @@
+location: Brandywine
+next: 3946
+previous: 3861
+storyCount: 1
+summary: The blacksmith, driven by revenge and grief after his family perished in a fire set by Tories, fought fiercely at the Battle of Brandywine with only a hammer. In his final moments, he used a rifle to take down British soldiers from a tree, voicing his vengeance with his wife Mary's name before dying himself.
+title: The Blacksmith's Revenge

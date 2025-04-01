@@ -1,0 +1,6 @@
+location: Catskill Mountains
+next: 567
+previous: 511
+storyCount: 1
+summary: In the Catskill mountains, once called Ontiora by the Native Americans, an Indian witch controlled the weather for the Hudson Valley, causing chaos for those who disrespected her with fierce storms and other natural phenomena. Her playful but dangerous nature was revealed when she led hunters into perilous situations, including one tragic incident where a hunter was engulfed by a flood, giving rise to the stream now called Catskill Creek.
+title: The Catskill Witch

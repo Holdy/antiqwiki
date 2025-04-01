@@ -1,0 +1,6 @@
+location: York, Maine
+next: 4677
+previous: 4584
+storyCount: 1
+summary: Reverend Joseph Moody, known for his black veil, concealed his face throughout his life due to guilt over accidentally killing his friend, which led to speculation about his appearance. He kept the veil as a symbol of inner shame, and upon his death in York, Maine, his face revealed serene beauty.
+title: Father Moody's Black Veil

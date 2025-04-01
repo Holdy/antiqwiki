@@ -1,0 +1,6 @@
+location: Charleston, South Carolina
+next: 9257
+previous: 9148
+storyCount: 1
+summary: A young girl taken as a captive and later a wife by an Accabee chief finds herself torn between her native captor and a white trader who seduces her away. When the trader's true nature is revealed through cruelty, the chief exacts revenge, leaving the girl with the haunting legacy of the lost land in Charleston, South Carolina.
+title: Revenge of the Accabee

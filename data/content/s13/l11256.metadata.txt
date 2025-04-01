@@ -1,0 +1,6 @@
+location: Fort Snelling
+next: 11307
+previous: 11220
+storyCount: 1
+summary: At Fort Snelling, Flying Shadow from the Chippewas falls in love with Track Maker from the Sioux, but their tribes' tensions prevent them from being together. After a massacre by the Sioux in retaliation for a murder by renegade Chippewas, Track Maker is haunted by guilt over Flying Shadow's death and seeks solace in battle, where he meets his end with a smile.
+title: Flying Shadow and Track Maker

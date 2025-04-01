@@ -1,0 +1,6 @@
+location: Kenton, Ohio
+next: 9812
+previous: 9699
+storyCount: 1
+summary: Bill Quick, a trapper in early 20th-century Ohio, embarked on a vengeful mission after his father was murdered, ultimately collecting 99 skulls of the indigenous people in the area as he sought a hundredfold revenge. Passing the burden of collecting the hundredth skull to his son Tom, who struggled with the task, it was eventually Tom's own skull that fulfilled the grim oath after he succumbed to the pressures and taunts, sealing his tragic fate.
+title: The Hundredth Skull

@@ -1,0 +1,6 @@
+location: New York
+next: 2678
+previous: 2587
+storyCount: 1
+summary: Dolph Heyliger, an adventurous but penniless youth, experiences ghostly encounters at a farm on the island of Manhattoes, which lead him to discover hidden treasure linked to his family. Using the treasure to elevate his status, Dolph eventually returns from Albany, gains respect and wealth in New York, and is happily married before his sudden death at a city feast. His adventures and newfound prosperity, marked by his strategic retrieval of treasure and his subsequent marriage to the daughter of a wealthy landholder, transform Dolph from a scorned youth into a celebrated and affluent member of society, illustrating a rags-to-riches tale during the era of New Amsterdam.
+title: Dolph Heyliger

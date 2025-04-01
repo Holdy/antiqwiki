@@ -1,0 +1,6 @@
+location: Newbury
+next: 7445
+previous: 7388
+storyCount: 1
+summary: The future of Newbury is believed to be safeguarded by Samuel Sewall's prophecy, which poetically describes conditions under which peace will prevail as long as natural and communal balances are maintained. Sewall, known for his involvement as a witchcraft judge, made this enduring proclamation as part of his legacy.
+title: SAMUEL SEWALL'S PROPHECY

@@ -1,0 +1,6 @@
+location: Flatbush
+next: 3146
+previous: 3036
+storyCount: 1
+summary: Nicholas Van Wempel, a henpecked man from Flatbush, failed to resist the allure of the tavern and squandered his wife's money meant for a New Year's Eve goose on schnapps. After overhearing a conversation about hidden gold, he stumbled upon a bag of coins at an abandoned tide-mill, but was ambushed by pirates who shot him into a creek, leaving him to return home with only the stolen goose in hand.
+title: Van Wempel's Goose

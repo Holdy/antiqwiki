@@ -1,0 +1,6 @@
+location: Salem, Massachusetts
+next: 5613
+previous: 5302
+storyCount: 1
+summary: In 1692, the witchcraft madness in Danvers, Massachusetts, rapidly spread to Salem, leading to numerous unwarranted accusations, trials, and executions, including the horrible death of Giles Corey and the accusatory power of children's testimonies. Even after the hysteria subsided, suspicions and tales of witchcraft lingered across New England and beyond, illustrating the era's lasting fear and obsession with witchery and the supernatural. The Salem witchcraft trials have been a grim reflection of broader Old World witch hunts where those accused, often innocent, faced tragic fates due to widespread delusions and the manipulation of terrified communities. The saga wasn't limited to Salem, as tales of witches and supernatural misdeeds continued to haunt various communities well into the following centuries, illustrating the deep-rooted impact of those fateful events on American folklore.
+title: Salem and Other Witchcraft

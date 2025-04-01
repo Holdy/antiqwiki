@@ -1,0 +1,6 @@
+location: Toccoa Falls
+next: 9304
+previous: 9188
+storyCount: 1
+summary: In early white-occupied Georgia, a grieving elderly woman plotted revenge against the Native Americans responsible for her sons' deaths. Feigning guidance, she led a group of them to Toccoa Falls where they unwittingly plunged to their deaths, fulfilling her wish for revenge before joining them in death.
+title: Toccoa Falls

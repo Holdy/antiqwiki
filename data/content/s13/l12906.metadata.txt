@@ -1,0 +1,6 @@
+location: Tishomingo
+next: 12936
+previous: 12860
+storyCount: 1
+summary: In the area around Tishomingo, Indian Territory, mysterious battles are believed to be fought in the air, signifying upcoming calamities such as war, famine, or disease. John Willis, a United States marshal, experienced these eerie sounds firsthand while camping in a valley filled with burial mounds, unaware of its haunted reputation until he heard the ghostly combat that made his horse panic.
+title: A Battle in the Air

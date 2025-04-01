@@ -1,0 +1,6 @@
+location: Chattanooga, Tennessee
+next: 10073
+previous: 9942
+storyCount: 1
+summary: A white hunter falls in love with Arinook's daughter, a Cherokee medicine-man's daughter, in a Cherokee village near Chattanooga, Tennessee, but her father refuses to allow their union despite her feelings for the hunter. In sorrow, the couple drowns themselves in the Tennessee River, prompting retribution against the Cherokees by mythical beings, which ultimately forces the tribe to relocate to a new, peaceful valley.
+title: Wallen's Ridge

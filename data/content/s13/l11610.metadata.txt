@@ -1,0 +1,6 @@
+location: Lebanon, Missouri
+next: 11646
+previous: 11570
+storyCount: 1
+summary: In 1853, Samuel Moritz, a Hebrew peddler, disappeared after staying at the house of Daniel Baker near Lebanon, Missouri, raising suspicions about Baker's newfound wealth. Years later, the clergyman Rev. Mr. Cummings encountered an apparition on a bridge, leading to the discovery of both Baker's hanging body and Moritz's skeleton beneath the bridge, suggesting a ghastly link between the two deaths.
+title: How the Crime Was Revealed

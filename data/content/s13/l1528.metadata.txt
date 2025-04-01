@@ -1,0 +1,8 @@
+coordinates: 42.65173037566657, -72.93093876441948
+location: Zoar
+next: 1570
+previous: 1463
+storyCount: 1
+summary: In the valley of Zoar in western New York, the Wright family murdered a peddler for his money by chopping off his toes and fingers when he refused to reveal the location of hidden wealth. As the peddler lay dying, he cursed the family to bear deformed children, which came true as subsequent generations bore physical deformities, becoming known as the "crab-clawed Zoarites."
+tags: curse
+title: The Deformed of Zoar

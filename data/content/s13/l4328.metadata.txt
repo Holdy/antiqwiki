@@ -1,0 +1,6 @@
+location: null
+next: 4333
+previous: 4290
+storyCount: 0
+summary: The text does not contain any narrative or storyline elements. As a result, there is no first story to summarize from the provided content.
+title: Tales of Puritan Land

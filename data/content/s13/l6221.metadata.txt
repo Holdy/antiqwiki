@@ -1,0 +1,6 @@
+location: Westboro, Massachusetts
+next: 6274
+previous: 6182
+storyCount: 1
+summary: The Indian camp was in a flurry as Iano, the belle of the tribe, was set to marry young chief Sassacus, but she mysteriously disappeared and was later found dead in the lake. Wequoash, a former rival for Iano's affection, confessed to poisoning Sassacus and drowning Iano in a jealous rage, ultimately meeting his death in a supernatural encounter with Iano's spirit.
+title: The Hobomak

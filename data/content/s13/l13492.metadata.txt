@@ -1,0 +1,6 @@
+location: New Almaden, California
+next: 13526
+previous: 13427
+storyCount: 1
+summary: In New Almaden, California, a young native, enraged by the rejection of his romantic advances, murdered the girl's parents and kidnapped her, imprisoning her in a deserted mine shaft. He eventually left her trapped with a clue for rescuers to find her, and although she was saved just in time, the captor fled and was never found.
+title: The Prisoner in American Shaft

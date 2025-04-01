@@ -1,0 +1,6 @@
+location: Keusca
+next: 11124
+previous: 11036
+storyCount: 1
+summary: Sacred Wind, a coquette from the Dakota Indian village of Keusca, secretly loves her cousin The Shield despite tribal law forbidding them to marry, and ultimately decides to elope with him after he returns from the war-path. Her rival, The Swan, discovers their plan and alerts the village, but the couple escapes, leading The Swan to tragically end her own life by capsizing her canoe in the Mississippi River.
+title: The Keusca Elopement

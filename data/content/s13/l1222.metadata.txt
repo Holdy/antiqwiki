@@ -1,0 +1,8 @@
+coordinates: 40.87587099034347, -73.91933324619337
+location: Manhattan Island
+next: 1272
+previous: 1181
+storyCount: 1
+summary: Anthony Van Corlaer, the valiant trumpeter of New Amsterdam, daringly attempted to swim the Spuyten Duyvil creek during a storm, vowing to cross it 'in spite of the devil,' but met his end when seized by a devilish fish. His failure to alert the villages along the Hudson led to the downfall of the Dutch in America, yet his trumpet's ghostly sound is said to haunt the creek in stormy weather.
+tags: named-ghost
+title: Why Spuyten Duyvil Is So Named

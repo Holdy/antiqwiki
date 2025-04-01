@@ -1,0 +1,6 @@
+location: Pacific Coast
+next: 12941
+previous: 12906
+storyCount: 1
+summary: The story explores the experiences of characters living along the Pacific Coast, emphasizing the influence of the ocean on their daily lives. The narrative captures both the challenges and the beauty of life by the sea, with a particular focus on how the location shapes the characters' perspectives.
+title: On the Pacific Coast

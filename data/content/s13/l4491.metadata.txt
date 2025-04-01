@@ -1,0 +1,6 @@
+location: Orrington
+next: 4510
+previous: 4467
+storyCount: 1
+summary: The town of Orrington, Maine, was established by Jesse Atwood in 1778 and became a community noted for its skilled farmers and brave sailors. The town was named due to a spelling error by a township clerk, who intended to name it Orangetown after a Maryland village, but accidentally recorded it as Orrington.
+title: The Birth of Orrington: An Accidental Naming

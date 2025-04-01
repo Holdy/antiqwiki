@@ -1,0 +1,8 @@
+coordinates: 41.75211009533367, -73.94360523408187
+location: Hudson River
+next: 802
+previous: 702
+storyCount: 1
+summary: At the Devil's Dance-Chamber, between Newburg and Crom Elbow along the Hudson River, Native Americans performed sacred rituals which influenced explorers like Hudson's crew and later Stuyvesant's men. The site, believed to be haunted by spirits and remembered for its violent history, including the capture and execution of a young Dutchman, was steeped in cultural and supernatural significance.
+tags: sacred-site
+title: The Devil's Dance-Chamber

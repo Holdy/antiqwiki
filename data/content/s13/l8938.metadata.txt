@@ -1,0 +1,6 @@
+location: Dismal Swamp, Virginia
+next: 8971
+previous: 8896
+storyCount: 1
+summary: In a tragic tale from the Dismal Swamp of Virginia, a young woman dies from a fever and her betrothed, driven mad with grief, believes she is trapped in the swamp and sets out to find her. His search ends with his own death as he drowns attempting to reach a ghostly figure on the lake, but their spirits are now said to restlessly wander the swamp together, searching for an escape.
+title: Lake of the Dismal Swamp

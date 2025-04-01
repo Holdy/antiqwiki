@@ -1,0 +1,6 @@
+location: Pontoosuc Lake
+next: 7038
+previous: 6958
+storyCount: 1
+summary: Shonkeek and Moonkeek, two Mohegan cousins in love, faced a tragic fate when their forbidden romance was disrupted by the jealousy of Nockawando, who killed Shonkeek with an arrow as he was paddling to meet Moonkeek on an island in Pontoosuc Lake. The spirits of the lovers, believed to journey on the lake's surface for eternity, drove Nockawando to madness as he witnessed them disappear into the mist together, completing their ethereal voyage.
+title: Shonkeek-Moonkeek

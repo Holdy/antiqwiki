@@ -1,0 +1,6 @@
+location: Boston
+next: 6182
+previous: 6048
+storyCount: 1
+summary: Esther Dudley, a loyalist living in Boston, remained in the Province House as the last royal governor left, refusing to accept the changes brought by the American Revolution. When John Hancock arrived as the new governor, Esther, unable to reconcile the new world with her beliefs, died holding onto her loyalty to the king.
+title: Old Esther Dudley

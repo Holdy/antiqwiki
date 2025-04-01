@@ -1,0 +1,6 @@
+location: Columbia Cascades
+next: 13213
+previous: 13113
+storyCount: 1
+summary: Umatilla, a peaceful Native American chief at the Columbia Cascades, entrusts his son Benjamin to a white schoolteacher, and as the boy falls to a plague, he encourages his tribe to seek friendship with the settlers. After Benjamin's death, Umatilla persuades the tribe to promise peace, and then dies beside his son, leading to a lasting harmony with the white settlers.
+title: The Death of Umatilla

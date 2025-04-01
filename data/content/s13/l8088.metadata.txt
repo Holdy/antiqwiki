@@ -1,0 +1,6 @@
+location: Newport, Rhode Island
+next: 8109
+previous: 8052
+storyCount: 1
+summary: The old stone mill in Newport, possibly a Norse relic from 1007, is intertwined with a prophecy foreseeing the disappearance of the Native American race upon the tower's ruin. Its destruction is symbolically linked to the colonization by white settlers and the subsequent decline of the indigenous population.
+title: The Old Stone Mill

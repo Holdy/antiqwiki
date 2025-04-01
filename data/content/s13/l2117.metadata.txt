@@ -1,0 +1,7 @@
+location: Stony Creek
+next: 2152
+previous: 2078
+storyCount: 1
+summary: Lenawee, a member of the Saranac tribe by Stony Creek, offers her own life to save her people from a deadly plague, appeasing the Great Spirit with her sacrifice. In honor of her bravery, her blood transforms into the Indian plume flower, symbolizing unselfishness and revered by the tribe for generations.
+tags: myth
+title: The Indian Plume

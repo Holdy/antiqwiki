@@ -1,0 +1,6 @@
+location: null
+next: 9646
+previous: 9605
+storyCount: 0
+summary: The text does not contain any specific narrative or story elements. It seems to be a heading referencing a geographic region, possibly for informational or analytical discussion.
+title: The Central States and the Great Lakes

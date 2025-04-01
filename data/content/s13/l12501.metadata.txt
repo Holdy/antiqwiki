@@ -1,0 +1,6 @@
+location: Squaw Peak range, Arizona
+next: 12535
+previous: 12440
+storyCount: 1
+summary: In 1868, white men massacred a group of Tonto Indians in a cave under the highest butte of the Squaw Peak range in Arizona, and ever since, a mysterious figure has haunted the site, scaring away those who attempt to explore it. Tales of this terrifying presence, described as having torn flesh and bulging eyes, have spread, with one man claiming that nothing could persuade him to return to that haunted place.
+title: The Weird Sentinel at Squaw Peak

@@ -1,0 +1,8 @@
+coordinates: 40.52591764594588, -74.02040167992834
+location: Hudson River
+next: 1222
+previous: 1131
+storyCount: 1
+summary: In New Amsterdam, a mysterious ghost ship, believed to be the Flying Dutchman, was spotted defying the winds and ignored attempts to halt it, sparking tales of Captain Vanderdecken’s legendary curse. Often confused with the storm ship seen at the Palisades, this ghostly vessel is said to predict gales as it appears during ominous silences on summer nights, its crew’s eerie chants echoing through the Tappan Zee.
+tags: ghost-ship
+title: Storm Ship of the Hudson

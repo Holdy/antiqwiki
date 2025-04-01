@@ -1,0 +1,6 @@
+location: Boston
+next: 6106
+previous: 5962
+storyCount: 1
+summary: During a masquerade hosted by Sir William Howe in Boston, a somber pageant of past governors disrupted the festivities, culminating in an eerie encounter with Howe's own spectral double. This chilling incident, followed by the sounds of Washington's advancing forces, marked the end of the Province House's glories and the royal governorship in Massachusetts.
+title: Howe's Masquerade

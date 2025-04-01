@@ -1,0 +1,6 @@
+location: Plymouth
+next: 7275
+previous: 7180
+storyCount: 1
+summary: Mother Crewe, feared as a witch in Plymouth, was confronted by Southward Howland who claimed her land as his own under the law of entail. After she cursed him to die, Howland was found dead before he could return to evict her from the property.
+title: MOTHER CREWE

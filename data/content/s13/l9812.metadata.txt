@@ -1,0 +1,6 @@
+location: Munger, Ohio
+next: 9859
+previous: 9762
+storyCount: 1
+summary: Major Ward and his friend John Stow encounter the restless spirit of James Syms, whose skeleton reveals it was murdered by John Cleves, while seeking refuge in the haunted Woodbury House near Munger, Ohio. After uncovering Syms's skull beneath the hearth and hearing the tragic tale, the ghost implores them to seek justice by informing his relative and burying the bones, before the spirit finally finds peace.
+title: The Crime of Black Swamp

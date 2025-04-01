@@ -1,0 +1,6 @@
+location: Carthage, New York
+next: 1903
+previous: 1829
+storyCount: 1
+summary: Four mysterious women dressed as nuns moved into a colonial house in Carthage, New York, during the War of 1812, living in luxury and privacy behind high walls, while their true identities remained unknown to the local residents. After the war, two American officers visited the nuns and, shortly after, the house was found to be deserted, leaving the townspeople curious about the sudden departure and the lingering question of whether the nuns would ever return.
+title: The Nuns of Carthage

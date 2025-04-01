@@ -1,0 +1,6 @@
+location: Carondelet
+next: 11508
+previous: 11430
+storyCount: 1
+summary: Tompkinson, an ambitious Yankee who settled in Carondelet, a French settlement later absorbed by St. Louis, managed to build a reputation as a doctor despite his lack of medical knowledge. After a lucky incident where a woman was cured of a bone stuck in her throat, his practice flourished, and he eventually married Marie Dunois, the daughter of his benefactor, becoming a wealthy and respected citizen.
+title: The Scare Cure

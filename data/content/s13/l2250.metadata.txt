@@ -1,0 +1,6 @@
+location: Cohoes
+next: 2295
+previous: 2193
+storyCount: 1
+summary: Occuna, a young Seneca, and his beloved often drifted on the Mohawk River and were drawn into danger when the current led them over the falls, resulting in Occuna's death and his beloved's miraculous survival. After his death, Occuna was honored by his tribe for his strength and virtues, believed to watch over them and offer guidance during times of war.
+title: The Falls at Cohoes

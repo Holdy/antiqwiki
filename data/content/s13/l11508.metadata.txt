@@ -1,0 +1,6 @@
+location: Cahokia
+next: 11570
+previous: 11462
+storyCount: 1
+summary: During a Twelfth Night celebration in the French village of Cahokia, Gwen Malhon searches for a fiddler to entertain the eager dancers, leading him to a mysterious musician who captivates the crowd with a lively dance tune. When the lights go out, the musician escapes with Gwen's beloved Louison, leaving behind hints that the musician might be connected to Louison's absent lover, Beaurain, while Gwen questions if it was the devil himself who spirited her away.
+title: Twelfth Night at Cahokia

@@ -1,0 +1,6 @@
+location: Berkshire, Massachusetts
+next: 6350
+previous: 6221
+storyCount: 2
+summary: Gideon Smith, a loyalist from Stockbridge, Massachusetts, took refuge in a cave during the war as he became a target for helping British prisoners escape; his wife secretly led their children past the cave, where Smith watched them in hiding, and after the war, he reconciled with his former enemies. Another Tory in Lenox refused to swear allegiance to the colonies and endured a mock hanging twice, eventually succumbing to pressure and toasting to Washington's health.
+title: Berkshire Tories

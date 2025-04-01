@@ -1,0 +1,6 @@
+location: Hampton
+next: 7891
+previous: 7752
+storyCount: 1
+summary: General Jonathan Moulton, a man of avarice, made a pact with the Devil to have his boots filled with gold every month in exchange for his soul, employing a clever trick to increase his wealth even further. The Devil's discovery of Moulton's deceit led to the burning of his house, the disappearance of his fortune, and ultimately, a mysterious fate after his death where even his coffin was found empty.
+title: General Moulton and the Devil

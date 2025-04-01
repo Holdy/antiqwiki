@@ -1,0 +1,6 @@
+location: Davenport
+next: 11462
+previous: 11354
+storyCount: 1
+summary: A settler in the Wyoming hills near Davenport was killed by an arrow while planting corn, leaving his daughter alone and fearful as night approached. When pursued by Indians, she found refuge in a mysterious cavern that opened in the ground, saving her life and later becoming known as "Providence Hole."
+title: Providence Hole

@@ -1,0 +1,6 @@
+location: Mount Monroe
+next: 5270
+previous: 5198
+storyCount: 1
+summary: A determined man, after many attempts, reaches the elusive Great Carbuncle on Mount Monroe but dies of joy and triumph when he finally sees it up close. As other seekers witness his fate, the precious stone tumbles into the Lake of the Clouds, obscuring its brilliance, yet at times its glow still illuminates the mountain at night.
+title: The Great Carbuncle of Mount Monroe

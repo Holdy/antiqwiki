@@ -1,0 +1,6 @@
+location: Port Morris
+next: 2587
+previous: 2492
+storyCount: 1
+summary: After the fall of the French aristocracy, many nobles entrusted their valuables to Gouverneur Morris, who eventually returned to America with the remaining unclaimed riches. On the first night of 1817, as Morris's widow Anne is threatened by relatives demanding the will, the ghost of Morris appears, revealing hidden wealth throughout the house before disappearing as dawn breaks.
+title: The Rising of Gouverneur Morris

@@ -1,0 +1,6 @@
+location: Deer Isle, Maine
+next: 4431
+previous: 4333
+storyCount: 1
+summary: Swunksus, the original proprietor of Deer Isle, agreed to share his land with a white renegade named Conary, but their peaceful coexistence was disrupted due to Conary's insatiable greed and quarrelsome nature. Ultimately, Conary killed Swunksus while he was in a drunken stupor, claiming the island for himself, though Swunksus's spirit is said to still haunt the area with ghostly snores echoing through the woods.
+title: The Snoring of Swunksus

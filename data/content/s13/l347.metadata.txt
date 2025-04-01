@@ -1,0 +1,6 @@
+location: null
+next: 395
+previous: 41
+storyCount: 1
+summary: The text highlights that despite perceptions, America has its own myths and legends which have potential for artistic interpretation and historical importance. It discusses the origins and essence of American tales, often emerging from historical events entwined with mythology.
+title: American Legends and Tales

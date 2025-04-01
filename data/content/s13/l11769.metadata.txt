@@ -1,0 +1,6 @@
+location: Rocky Mountains
+next: 11805
+previous: 11764
+storyCount: 1
+summary: Western mountaineers, inspired by the tales of Spanish conquistadors, continued to seek the fabled riches of El Dorado well into the 19th century, viewing untamed lands beyond the Rocky Mountains as potential treasure troves. This perilous journey, fraught with danger and hardship, mirrored the symbolic transition to the afterlife, often referred to as 'going over the divide,' resonating with both miners and Native American beliefs of reaching a heavenly realm through challenging trials.
+title: Over the Divide

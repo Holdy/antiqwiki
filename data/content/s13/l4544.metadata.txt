@@ -1,0 +1,6 @@
+location: Norridgewock
+next: 4584
+previous: 4510
+storyCount: 2
+summary: Ruth Bonython, coerced into an unwanted engagement by her father to Mogg Megone, avenges her lover's death by killing Mogg and fleeing into the woods. Eventually, Ruth dies alone in the destruction of Norridgewock, haunted by her actions and the chaos around her.
+title: Mogg Megone

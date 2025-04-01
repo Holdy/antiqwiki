@@ -1,0 +1,6 @@
+location: Coxsackie
+next: 1100
+previous: 963
+storyCount: 1
+summary: Nick Wolsey, a trapper living near Coxsackie, faces a personal tragedy when an envious Indian from his wife's tribe brutally murders their infant child and leaves his wife fatally injured. Driven by vengeance after his wife's dying confession, Wolsey captures the murderer, secures him to his dead wife, and sets them on a horse into the wilderness, leaving a haunting legend along the Hudson as he departs his home forever.
+title: A Trapper's Ghastly Vengeance

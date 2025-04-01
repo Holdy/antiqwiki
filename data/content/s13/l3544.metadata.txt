@@ -1,0 +1,6 @@
+location: Valley Forge
+next: 3581
+previous: 3474
+storyCount: 1
+summary: During the harsh winter at Valley Forge, two soldiers were ambushed by Tory farmers while foraging, leading one, Arthur L. Carrington, to become trapped in a cave by a massive falling rock. Unable to be rescued, Carrington starved to death; his remains, found years later, included a message of love to his sweetheart, who had died of a broken heart soon after hearing of his plight.
+title: The Missing Soldier of Valley Forge

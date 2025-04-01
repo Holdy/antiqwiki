@@ -1,0 +1,6 @@
+location: Bayou Lacombe, Louisiana
+next: 9641
+previous: 9538
+storyCount: 1
+summary: Opaleeta, a chief of the Chatas tribe, was revived after drowning in Bayou Lacombe, Louisiana, and lamented his revival because he had glimpsed the idyllic Under Land, a paradise where souls thrived in eternal joy and harmony. Opaleeta's story was kept secret among the chiefs to prevent despair-driven suicides among the tribe, yet he carried his longing for the Under Land until his death, when he finally embraced it.
+title: The Under Land

@@ -1,0 +1,6 @@
+location: Plymouth
+next: 7321
+previous: 7225
+storyCount: 1
+summary: Aunt Rachel, a seer living near Plymouth, cursed a crew that had brought misfortune to her past, warning them as they sailed on their brig. Despite assurances of the brig's safety, it sank near an unknown rock, fulfilling her curse, leading to the rock being named 'Rachel's Curse'.
+title: AUNT RACHEL'S CURSE

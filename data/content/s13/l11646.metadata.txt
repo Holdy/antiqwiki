@@ -1,0 +1,6 @@
+location: Bad Lands, Dakota
+next: 11693
+previous: 11610
+storyCount: 1
+summary: In the Bad Lands of Dakota, a banshee haunts the region around a butte called 'Watch Dog,' terrorizing passersby with unearthly cries, especially by moonlight. The banshee is sometimes accompanied by a skeletal figure that plays a haunting music, which captivates listeners but leads to dangerous consequences if they pursue him.
+title: Banshee of the Bad Lands

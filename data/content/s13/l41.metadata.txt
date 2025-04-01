@@ -1,0 +1,6 @@
+location: Catskill Mountains
+next: 347
+previous: 34
+storyCount: 2
+summary: Rip Van Winkle, a man living near the Catskill Mountains, escapes his nagging wife by wandering into the mountains where he encounters mysterious gnomes who lead him to a magical sleep. When he awakens twenty years later, he finds that everything has changed, including his home, family, and the political landscape, bewildered by a world that has moved on without him.
+title: Rip Van Winkle

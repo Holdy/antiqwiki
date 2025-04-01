@@ -1,0 +1,6 @@
+location: the principal mesa
+next: 12833
+previous: 12728
+storyCount: 1
+summary: The Moquis tribe, troubled by giants from the west, is saved by the young brave Lolomi, who, with magical gifts from a horned toad, tricks the giants into falling off a cliff. Lolomi's bravery not only leads to the defeat of the giants but also earns him the kingship and the tribe's eternal admiration, with his name becoming a term of greeting.
+title: Horned Toad and Giants

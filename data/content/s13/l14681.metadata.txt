@@ -1,0 +1,6 @@
+location: Frontenac, Minnesota
+next: 14922
+previous: 14489
+storyCount: 1
+summary: A multitude of tragic tales accompany various Lover's Leaps across North America, where unfulfilled love drives couples to fatal ends. In Minnesota, Winona, a Dakota girl, jumps to her death from Maiden's Rock to escape a forced marriage and reunite with her rejected lover in death.
+title: Lovers' Leaps

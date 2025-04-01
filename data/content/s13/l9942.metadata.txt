@@ -1,0 +1,6 @@
+location: Prairie de Rocher, Illinois
+next: 10017
+previous: 9914
+storyCount: 1
+summary: Michel De Coucy, a man from Prairie de Rocher, Illinois, was relieved to learn from the local governor and a Jesuit superior that a debt he owed a Spaniard named Pedro Garcia was not enforceable under the current laws, as it was not validly documented. After his daughter Genevieve was kidnapped by Garcia in an attempt to reclaim the debt, the governor intervened, ruling that Garcia must return Genevieve without interest, leading to the resolution of the conflict and Michel's joyful reunion with his daughter.
+title: Michel De Coucy's Troubles

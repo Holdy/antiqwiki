@@ -1,0 +1,6 @@
+location: Cape Cod
+next: 6449
+previous: 6274
+storyCount: 1
+summary: Josiah Breeze defies his father's wishes and braves a dangerous sea to save the stranded crew of a British warship, despite seeing them as enemies. His heroic efforts lead to the rescue of the ship and are later celebrated by both the town and the ship's commander during a Thanksgiving feast.
+title: The Revenge of Josiah Breeze

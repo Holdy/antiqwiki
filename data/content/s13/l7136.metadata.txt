@@ -1,0 +1,6 @@
+location: Salem
+next: 7180
+previous: 7096
+storyCount: 1
+summary: Despite persecution, the Quaker siblings Daniel and Provided Southwick refused to abandon their faith, leading to their property being confiscated through fines. When the General Court ordered their sale into slavery, a Barbadoes shipmaster refused to take them, sparking public sentiment that resulted in their release.
+title: Sale of the Southwicks

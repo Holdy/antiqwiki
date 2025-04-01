@@ -1,0 +1,6 @@
+location: Lakes Waneta and Keuka, New York
+next: 1664
+previous: 1570
+storyCount: 1
+summary: Waneta, a chief's daughter, and Kayuta, a hunter from an enemy tribe, secretly met by a lake despite the ongoing war between their people, drawing the suspicion of Weutha, an unwanted suitor, who reported Kayuta's presence to the warriors. The following night, as the lovers tried to reunite, Kayuta fought off pursuers but arrived too late to save Waneta, who had tragically been consumed by a quagmire; devastated, he sat by the lakeside until he died of a broken heart to join her in the spiritland.
+title: Kayuta and Waneta

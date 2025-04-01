@@ -1,0 +1,6 @@
+location: Cedar River, Iowa
+next: 11354
+previous: 11256
+storyCount: 1
+summary: In the rough justice of the Old West, a vigilance committee formed to hang a gang of horse-thieves along Cedar River, Iowa, including a man who was believed to be falsely accused. A lightning strike saved the accused man moments before his execution, allowing him to prove his innocence and resulting in his release, while serving as a stark warning to others about the company they keep.
+title: Saved by a Lightning-stroke

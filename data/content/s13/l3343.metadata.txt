@@ -1,0 +1,6 @@
+location: Good Luck, New Jersey
+next: 3387
+previous: 3303
+storyCount: 1
+summary: John Murray, after a shipwreck in Good Luck, New Jersey, found a renewed purpose to preach about a loving and merciful God, inspired by the local fisherman Thomas Potter. Potter believed Murray was destined to teach and welcomed him to preach in a log church he had built, leading Murray to establish lasting roots in the village.
+title: The Foundation of Universalism in America

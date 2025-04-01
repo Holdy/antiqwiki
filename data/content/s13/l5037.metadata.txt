@@ -1,0 +1,6 @@
+location: Saco
+next: 5073
+previous: 4988
+storyCount: 1
+summary: When Glooskap learned that water-goblins near Katahdin were preying on the local Indian community, he took action by disguising himself and confronting them. Displaying his superior powers, Glooskap crushed their menacing game, summoned a flood from the Saco, and transformed the goblins into fish, ending their reign of terror.
+title: The Ball Game by the Saco

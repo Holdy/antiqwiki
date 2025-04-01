@@ -1,0 +1,6 @@
+location: Kern County, California
+next: 13294
+previous: 13213
+storyCount: 1
+summary: In Kern County, California, an advanced nation was destroyed by Manitou as punishment for idolizing a man over the Great Spirit, but was later redeemed and released, only to falter again under the pride of their chief. Ultimately, Manitou caused their final demise by leading them to be exterminated by a horde of savages, after which he left the land barren of human life.
+title: The Wrath of Manitou

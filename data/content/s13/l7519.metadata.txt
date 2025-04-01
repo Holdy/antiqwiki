@@ -1,0 +1,6 @@
+location: Marblehead
+next: 7562
+previous: 7469
+storyCount: 1
+summary: Skipper Floyd Ireson, accused of abandoning a stranded ship off Cape Cod, faced retribution when his townspeople tarred and feathered him in Marblehead after survivors told their tale. This incident, believed by some to be misdirected blame due to a crew mutiny, left Ireson a broken man and he later died mysteriously at sea.
+title: Skipper Ireson's Ride

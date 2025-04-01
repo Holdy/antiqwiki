@@ -1,0 +1,6 @@
+location: Chad's Ford
+next: 4009
+previous: 3910
+storyCount: 1
+summary: Fleeing soldiers from Braddock's defeated forces executed their supposed betrayer, Isaac Gates, and left his body hanging by a ravine with a sign on his chest stating his crime. Twenty years later, his legacy leads to a tragic sequence of events as Gilbert Gates, Isaac's son, betrays the trust of the community during a raid, resulting in the death of the schoolmaster, Isaac Mayland, and ultimately his own capture and brutal end by the hands of American forces at Brandywine.
+title: Father and Son

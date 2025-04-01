@@ -1,0 +1,6 @@
+location: Santa Fe
+next: 11917
+previous: 11805
+storyCount: 1
+summary: A Spanish infantry regiment from Santa Fe vanished mysteriously while attempting to open communication with Florida, carrying a chest of gold, leaving behind their families in Trinidad. The region came to be known as El Rio de las Animas Perdidas, the River of Lost Souls, with legends attributing their disappearance to natural disasters, native attacks, or buried treasure, perpetuating prayers and searches for the missing soldiers.
+title: The River of Lost Souls

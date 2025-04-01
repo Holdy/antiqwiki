@@ -1,0 +1,6 @@
+location: Spirit Lake, Iowa
+next: 11430
+previous: 11307
+storyCount: 1
+summary: In the Dakota camp by Spirit Lake, Harpstenah is forced to choose between marrying the medicine-man Cloudy Sky and killing him with the promise of a happy marriage with her love, Red Deer, by a water spirit. Despite her initial hesitation, Harpstenah kills Cloudy Sky, but after marrying Red Deer and having two sons, her family is eventually destroyed, hinting at a deceitful promise by the water spirit.
+title: The Killing of Cloudy Sky

@@ -1,0 +1,8 @@
+coordinates: 39.42196303149703, -121.00795532058753
+location: Pike City, California
+next: 13344
+previous: 13256
+storyCount: 1
+summary: Tom Bowers, a miner on Misery Hill near Pike City, disappeared mysteriously, and despite his body being found and buried, his ghost reportedly haunted the area, scaring others away. Jim Brandon attempted to work the abandoned mine but was repeatedly disturbed by a mysterious figure resembling Bowers, leading to his final, inexplicable disappearance after an encounter with the ghostly intruder.
+tags: named-ghost approx
+title: The Spook of Misery Hill

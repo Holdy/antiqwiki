@@ -1,0 +1,8 @@
+coordinates: 
+location: Croton Point
+next: 1402
+previous: 1272
+storyCount: 1
+summary: Chief Croton, who led a fierce resistance against northern enemies, died amidst the flames of his fort, but his spirit continued to haunt the ruins to encourage freedom. His ghost appeared to the manor's new master after the fort was destroyed, urging him to join the Continental army and ensuring the protection of their land's liberty.
+tags: named-ghost
+title: Chief Croton

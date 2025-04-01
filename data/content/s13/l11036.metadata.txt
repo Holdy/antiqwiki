@@ -1,0 +1,6 @@
+location: Wisconsin
+next: 11080
+previous: 10996
+storyCount: 1
+summary: Devil's Lake, located in Wisconsin, was believed by northern tribes to be under the protection of a powerful manitou, who was thought to influence the natural features and mythology surrounding the area, like Devil's Door-Way and Cleopatra's Needle. The manitou's influence was so strong that even dying Indians would refuse to drink from the lake, fearing to offend him, due to the numerous legends of punishment for those who dared to disturb the lake's mysteries.
+title: Devil's Lake

@@ -1,0 +1,6 @@
+location: Zuni
+next: 12319
+previous: 12247
+storyCount: 1
+summary: The goddess of salt, troubled by people taking her treasures without sacrifice, left her ocean home and wandered the mountains, turning pools salt and enriching the Zuni with tolls from other tribes. She married the turquoise god, but the relentless pursuit by people forced her to disappear into a mesa, leaving behind a towering monument and traces of her husband's presence in blue stone.
+title: GODDESS OF SALT

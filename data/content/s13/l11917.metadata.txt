@@ -1,0 +1,6 @@
+location: Colorado foot-hills
+next: 11999
+previous: 11881
+storyCount: 1
+summary: Ta-in-ga-ro is betrayed by a Spanish trader who abducts his wife, Zecana, leading to her tragic death upon her return. In revenge, Ta-in-ga-ro tortures the trader by tying him to Zecana's corpse, sending him into the desert until he goes mad, thereafter leaving the scene forever.
+title: Riders of the Desert

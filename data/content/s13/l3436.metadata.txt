@@ -1,0 +1,6 @@
+location: Delaware Water Gap
+next: 3474
+previous: 3392
+storyCount: 1
+summary: The Delaware Water Gap, known as Minisink, was once a dwelling place for Native American tribes, including Chief Tamanend, who died tragically at New Britain, Pennsylvania. During the Revolutionary era, the Gap was also a site of conflict, where colonial troops pursued and ultimately overcome the notorious Tory, Oran the Hawk, whose remains were discovered after autumn's leaves had fallen.
+title: The Legends of Delaware Water Gap

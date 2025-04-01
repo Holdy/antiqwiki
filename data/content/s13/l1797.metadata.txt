@@ -1,0 +1,6 @@
+location: Fort Onondaga, New York
+next: 1829
+previous: 1756
+storyCount: 1
+summary: In the area of Fort Onondaga, New York, a giant mosquito terrorized the locals until the Holder of the Heavens intervened and killed it, leading to the creation of smaller mosquitoes from its blood. The region was so affected by the presence of this monstrous creature that the story lived on through reverential marks left by the Indigenous people near Syracuse, signifying the battle and subsequent victory.
+title: The Monster Mosquito of Fort Onondaga

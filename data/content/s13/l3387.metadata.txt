@@ -1,0 +1,6 @@
+location: Delaware River
+next: 3392
+previous: 3343
+storyCount: 1
+summary: The story explores the scenic landscapes and diverse wildlife found along the Delaware River. It highlights the historical and cultural significance of the region to local communities.
+title: On and Near the Delaware

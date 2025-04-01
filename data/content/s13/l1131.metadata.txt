@@ -1,0 +1,8 @@
+coordinates: 41.08166310142327, -73.84032754223173
+location: Tarrytown
+next: 1181
+previous: 1100
+storyCount: 1
+summary: A headless horseman, believed to be the ghost of a Hessian soldier, haunts the roads of Tarrytown, instilling fear in the locals during the late hours. When the schoolmaster Ichabod Crane encounters this terrifying specter while journeying home, he vanishes from Tarrytown, leaving behind a trail of mystery involving a smashed pumpkin and unrequited love for Katrina Van Tassell.
+tags: headless-rider
+title: THE GALLOPING HESSIAN

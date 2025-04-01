@@ -1,0 +1,6 @@
+location: Germantown
+next: 3644
+previous: 3544
+storyCount: 1
+summary: During the battle of Germantown, the Americans were enraged by the killing of one of their men bearing a flag of truce, shot by British soldiers from Judge Chew's house. General Agnew, feeling a sense of foreboding, was killed by a mysterious sharpshooter from a cemetery wall, marking the last victim of the conflict.
+title: The Last Shot at Germantown

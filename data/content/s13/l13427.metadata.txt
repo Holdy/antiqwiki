@@ -1,0 +1,6 @@
+location: Presidio, California
+next: 13492
+previous: 13387
+storyCount: 1
+summary: Governor Hermenegildo Salvatierra of Presidio, California, changed drastically after acquiring a mysterious right eye, which his people feared for its rumored supernatural powers. The eye's influence turned him into a tougher leader, but its glass nature was revealed after a thief attempted to destroy it, restoring both trust in Salvatierra and the region's natural harmony.
+title: The Governor's Right Eye

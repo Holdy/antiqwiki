@@ -1,0 +1,8 @@
+coordinates: 42.65173734464103, -73.75587587513748
+location: Albany
+next: 754
+previous: 661
+storyCount: 1
+summary: Baas Volckert Jan Pietersen Van Amsterdam, a baker in Albany, encounters a mysterious old woman demanding thirteen cookies for a dozen, leading to a series of unfortunate events that seem like witchcraft. After consulting Saint Nicolaus and giving the old woman an extra cookie, the curse is lifted, establishing thirteen as the new count for a baker's dozen.
+tags: witchcraft
+title: The Baker's Dozen

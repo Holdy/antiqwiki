@@ -1,0 +1,6 @@
+location: New York
+next: 2755
+previous: 2592
+storyCount: 1
+summary: After being deceived by the woman he loved in his youth, Mr. Ellenwood, now old and reclusive, rekindles his affection for her when they meet again years later, leading to an unusual and morbid wedding ceremony. As the bell tolls ominously during the ceremony at St. Paul's Church in New York, Ellenwood wears a shroud and together with aged guests, turns the wedding into a symbol of eternal union, showing forgiveness and love overcoming past grievances.
+title: The Knell at the Wedding

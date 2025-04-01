@@ -1,0 +1,6 @@
+location: Saugus River, Massachusetts
+next: 14160
+previous: 13531
+storyCount: 2
+summary: In the seventeenth century, four crew members of a ship rowed to the shores of Saugus River, Massachusetts to exchange shackles and handcuffs for silver while the ship vanished without a trace, only returning months later with a mysterious woman believed to be a pirate's mistress. When three of the men were captured and hanged in England, the fourth, Thomas Veale, reportedly hid treasure in a cavern amidst the woods of Saugus where he lived until his presumed death in an earthquake-induced cave collapse; this story sparked a long search for the fabled treasure known as Dungeon Rock, which ultimately yielded no fortune but drew numerous seekers over the centuries.
+title: Tales of Buried Treasures

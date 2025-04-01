@@ -1,0 +1,6 @@
+location: Santa Fe
+next: 12290
+previous: 12197
+storyCount: 1
+summary: In Santa Fe, a legendary event attributes a great flood to the wrath of the Virgin Mary after the local populace disrespected her statue due to delayed rain. In their desperation, the townsfolk stripped the statue of its embellishments, but after a devastating flood threatened their town, they repented, restoring and offering prayers with renewed fervor.
+title: The Flood at Santa Fe

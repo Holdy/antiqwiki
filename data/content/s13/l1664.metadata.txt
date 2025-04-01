@@ -1,0 +1,6 @@
+location: Genesee
+next: 1716
+previous: 1601
+storyCount: 1
+summary: Kayutah, a little girl known as the Drop Star, went missing while gathering water-lilies near her home on the Genesee, causing her mother immense grief as she presumed her daughter had drowned. Years later, an Indian chief named Skenandoh revealed that Kayutah was alive, leading to her joyful reunion with her mother and eventual marriage to her cousin, who helped her readjust to a civilized life.
+title: The Drop Star

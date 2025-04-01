@@ -1,0 +1,6 @@
+location: Niagara Falls
+next: 1528
+previous: 1402
+storyCount: 2
+summary: The majestic Niagara Falls was believed to demand two lives annually, a tradition upheld by both natural accidents and ceremonial sacrifices, including that of Lelawala, a maiden who was sent over the falls in 1679 despite attempts by the French explorer La Salle to intervene. Legends speak of Stone Giants and the Holder of the Heavens, figures of mythology intertwined with the falls, symbolizing the battle between good and evil and reflecting the cultural beliefs of the Iroquois people.
+title: Legends of Niagara

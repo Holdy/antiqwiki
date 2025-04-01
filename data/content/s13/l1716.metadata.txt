@@ -1,0 +1,8 @@
+coordinates: 43.00663764395455, -77.22563877849632
+location: Palmyra, New York
+next: 1756
+previous: 1664
+storyCount: 2
+summary: Joseph Smith, in Palmyra, New York, claimed to have received divine guidance to the golden plates, which he translated into the Book of Mormon, forming the basis of a new religious movement despite its novel-based origins. After Smith's death, Brigham Young led the followers to Utah, while the inception of spiritualism in Hydesville, New York, marked the area as a fertile ground for new religious ideas.
+tags: prophet
+title: THE PROPHET OF PALMYRA

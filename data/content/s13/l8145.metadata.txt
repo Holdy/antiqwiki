@@ -1,0 +1,6 @@
+location: Franklin, Connecticut
+next: 8180
+previous: 8109
+storyCount: 1
+summary: After a peddler was found murdered beneath an apple tree on Micah Rood's farm in Franklin, Connecticut, suspicion fell on the farmer, although nothing was proven. The apples from that tree developed a red spot like a blood-drop, leading locals to believe it was due to the peddler's dying curse.
+title: MICAH ROOD APPLES

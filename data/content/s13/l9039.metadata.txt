@@ -1,0 +1,6 @@
+location: Woodstock
+next: 9125
+previous: 9003
+storyCount: 1
+summary: In 1734, after being captured by Indians with his brother, Aaron loses his speech but is later adopted by the tribe that killed his sibling. Three years later, Aaron helps warn his hometown of an impending attack and in a moment of desperation finally cries out to his father, preventing him from mistakenly taking his life.
+title: The Silence Broken

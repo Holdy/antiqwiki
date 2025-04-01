@@ -1,0 +1,8 @@
+coordinates: 40.699335994032566, -74.0384536393296
+location: Gibbet Island
+next: 2895
+previous: 2755
+storyCount: 1
+summary: Yan Yost Vanderscamp, a prankster-turned-pirate, becomes unnerved when he encounters the eerie sight of his three hanged comrades swinging in the wind on Gibbet Island, prompting a night of supernatural fear. Upon returning to the Wild Goose tavern amidst a storm, Vanderscamp is shocked to find the apparitions of his dead messmates celebrating a ghostly revelry, culminating in his own mysterious death the following morning.
+tags: folklore foreshadow
+title: The Party from Gibbet Island

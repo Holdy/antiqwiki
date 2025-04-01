@@ -1,0 +1,8 @@
+coordinates: 42.81810947205789, -73.9423784715757
+location: Schenectady
+next: 1868
+previous: 1797
+storyCount: 1
+summary: In a cellar in Schenectady, a mysterious human silhouette in mould repeatedly appeared on the floor, leading locals to suspect it was a spirit marking its grave from an old burial ground or the result of foul play. Some believed it to be a vampire's outline, unable to leave its grave due to a powerful spell, with historical tales of vampire heart-burnings contributing to the lore, but eventually the mould stopped appearing.
+tags: folklore
+title: The Green Picture

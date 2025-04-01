@@ -1,0 +1,6 @@
+location: White Island
+next: 4949
+previous: 4882
+storyCount: 1
+summary: On White Island, a pirate's mistress kept a promise to guard buried treasure after her lover perished in a naval confrontation that resulted in the destruction of his ship and an attacking man-of-war. The woman's ghost is said to haunt the rocky shores, eternally keeping watch as a spectral sentinel, her figure visible at night with her golden hair cascading over her shoulders.
+title: The Watcher on White Island

@@ -1,0 +1,6 @@
+location: Tappahannock
+next: 9003
+previous: 8938
+storyCount: 1
+summary: In Essex County, Virginia, a mysterious barge, feared as an omen of Republican victories, consistently appeared on the Rappahannock River around Democratic events, unnerving the local populace. The apparition was feared after it first appeared post-Civil War during a Democratic meeting at Tappahannock and its sightings were followed by Democratic electoral defeats attributed to shifts in voter support.
+title: The Barge of Defeat

@@ -1,0 +1,6 @@
+location: Marietta, Ohio
+next: 9762
+previous: 9646
+storyCount: 1
+summary: Major Hamtramck's interest in Marianne Navarre is thwarted by General Arthur St. Clair, who wishes his daughter Louisa to marry the Major, but Louisa instead is fond of the Indian leader Joseph Brandt. Brandt's unrequited affection for Louisa leads to tensions that contribute to a war between settlers and Indians, and ultimately, both Marianne and Major Hamtramck find themselves separated and alone due to misunderstandings and St. Clair's impositions.
+title: The Obstinacy of Saint Clair

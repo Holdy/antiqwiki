@@ -1,0 +1,6 @@
+location: Pass Christian
+next: 9605
+previous: 9509
+storyCount: 1
+summary: After marrying Julia Regalea and fleeing Montevideo due to a brewing revolution, Senhor Vineiro boarded the Nightingale to New Orleans, where Captain Dane killed him and won Julia's affection. After Dane's ship sank and left Julia to die, he settled in Pass Christian, where he was haunted by his crime until ghostly apparitions drove him to dig up his treasure, resulting in his death beneath a large oak.
+title: Pass Christian

@@ -1,0 +1,6 @@
+location: Lower Ausable Pond
+next: 2019
+previous: 1939
+storyCount: 1
+summary: When Adota, a Tahawi sachem, lost his family, he despondently reflected on his life achievements and the peaceful lands he secured for his people before passing away beneath a rock on Lower Ausable Pond. The tribe witnessed Adota's likeness and that of his grandchild, carved by lightning on the cliff, a sign interpreted by their medicine-man as the thunder god's acknowledgement of Adota's spirit joining the happy hunting-grounds.
+title: Old Indian Face

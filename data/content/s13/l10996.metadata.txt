@@ -1,0 +1,6 @@
+location: Green Bay, Wisconsin
+next: 11036
+previous: 10949
+storyCount: 1
+summary: A fortification built by the Sauks and Outagamies at Red Banks near Green Bay, Wisconsin was under siege by enemy tribes, leaving the defenders cornered inside with no access to water. A young man claimed to have seen a divine vision advising them to escape at midnight while the enemies slept, leading most to safety, although those who stayed behind were killed by the attackers in their anger at failing the siege.
+title: The Vision of Rescue

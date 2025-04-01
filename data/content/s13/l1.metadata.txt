@@ -1,0 +1,6 @@
+location: null
+next: 34
+previous: 0
+storyCount: 0
+summary: This text provides an introduction to the eBook 'Myths and Legends of Our Own Land,' available for free from Project Gutenberg. The eBook, authored by Charles M. Skinner, contains various myths and legends from the United States accessible in the public domain under specific terms provided by Project Gutenberg.
+title: 

@@ -1,0 +1,6 @@
+location: Lake Memphremagog
+next: 5302
+previous: 5233
+storyCount: 1
+summary: Skinner, a notorious smuggler on Lake Memphremagog, used the secluded rock cave on Province Island to hide his contraband goods and evade customs authorities. After being trapped on the island by his own boat drifting away, he perished of hunger, and years later, his skeleton was found in the cave.
+title: Skinner's Cave

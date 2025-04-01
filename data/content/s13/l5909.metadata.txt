@@ -1,0 +1,6 @@
+location: Boston
+next: 5962
+previous: 5867
+storyCount: 1
+summary: In Boston's Province House, a dark portrait rumored to be Edward Randolph's or the devil's seemed to become animated during Lieutenant-Governor Hutchinson's meeting about deploying British troops, casting fear upon onlookers. Hutchinson dismisses the painting's sinister warnings as a trick and proceeds with his order, but dies years later in anguish, believing Randolph's spirit haunts him.
+title: Edward Randolph's Portrait

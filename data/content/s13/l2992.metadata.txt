@@ -1,0 +1,8 @@
+coordinates: 40.766185208139575, -73.73169123896976
+location: Little Neck, Long Island
+next: 3036
+previous: 2952
+storyCount: 1
+summary: The Montauks once mined metallic nodules they believed to be silver on Little Neck, Long Island, but a settler named Gardiner discovered their location by betraying an old chief and killing him. When Gardiner tried to claim the silver for himself, the chief’s ghost placed a curse on the so-called treasure, causing it to turn into worthless dust overnight.
+tags: curse
+title: The Crumbling Silver

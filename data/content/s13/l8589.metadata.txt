@@ -1,0 +1,6 @@
+location: Reading, Connecticut
+next: 8681
+previous: 8526
+storyCount: 1
+summary: Mary Marvin, the daughter of a farmer, unknowingly sentences her royalist lover, Robert Lockwood, to death by asking him to carry a false message to the British for General Putnam, resulting in his capture and execution as a spy. Unaware of Lockwood's fate, she requests a pass for him from the general, who is devastated to realize the truth but remains silent about the incident.
+title: Robert Lockwood's Fate

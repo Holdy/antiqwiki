@@ -1,0 +1,6 @@
+location: Portsmouth, New Hampshire
+next: 14489
+previous: 14165
+storyCount: 2
+summary: In Portsmouth, New Hampshire, a widow lost her land to a neighbor, George Walton, who accused her of witchcraft; she cursed the land, resulting in Walton's home being bombarded with stones and objects thrown by unseen forces, causing chaos in his household. Despite efforts to dispel the curse, Walton and his family endured ongoing disturbances with mysterious stone attacks, ultimately finding no peace for a significant time.
+title: Stone-Throwing Devils

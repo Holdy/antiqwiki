@@ -1,0 +1,6 @@
+location: Westchester, New York
+next: 2492
+previous: 2338
+storyCount: 1
+summary: Enoch Crosby, posing as a Tory sympathizer, became a spy for the Patriot army, despite being captured by his own neighbors who were suspicious of his loyalties. During a raid by the Skinners at his home, Crosby lost his savings to them but was saved by the Cowboys, and his espionage work was later recognized by Washington, who ensured he received restitution and recognition for his service.
+title: Crosby, The Patriot Spy

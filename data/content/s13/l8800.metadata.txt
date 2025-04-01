@@ -1,0 +1,6 @@
+location: Cecil County, Maryland
+next: 8896
+previous: 8770
+storyCount: 1
+summary: Albert De Courcy escapes from British captivity on a familiar horse and races to a church to interrupt his brother Ernest's wedding to Helen Carmichael, who Albert is originally betrothed to. Arriving just in time, Albert rescues Helen from the altar, warning of an approaching British patrol, and eventually marries her himself after ensuring his brother's capture in his place.
+title: A Ride for a Bride

@@ -1,0 +1,6 @@
+location: Arizona
+next: 12728
+previous: 12535
+storyCount: 1
+summary: Ta-Vwots, a mythical hare god, embarked on a vengeful journey across Arizona, using his magic breath to overcome various obstacles and enemies, with the ultimate goal of punishing the Sun for burning him. Upon reaching the edge of the world, he shattered the Sun's surface with his magic ball, causing a devastating fire, but sacrificed himself to extinguish the flames, leading to the Sun's reprimand by other gods and forced daily journey across the sky.
+title: Ta-Vwots Conquers The Sun

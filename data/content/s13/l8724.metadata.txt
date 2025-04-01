@@ -1,0 +1,6 @@
+location: Indian Head, Maryland
+next: 8770
+previous: 8719
+storyCount: 1
+summary: In Indian Head, Maryland, the daughter of an indigenous chief courageously swam across a wide river to save her captured lover from execution. Impressed by her devotion, the tribal leaders allowed the pair to be together, granting them their freedom and union.
+title: The Swim at Indian Head

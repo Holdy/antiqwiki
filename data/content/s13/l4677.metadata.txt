@@ -1,0 +1,6 @@
+location: Katahdin
+next: 4718
+previous: 4618
+storyCount: 1
+summary: An Indian hunter discovers the spirit children of Katahdin, known to be Thunders and Lightnings, living inside the great mountain. After spending seven years with them, he returns to his village, where he is perceived to have been a roaming Thunder during that time.
+title: The Home of Thunder

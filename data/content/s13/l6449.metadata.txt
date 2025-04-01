@@ -1,0 +1,6 @@
+location: Merrymount
+next: 6499
+previous: 6350
+storyCount: 1
+summary: The people of Merrymount celebrated around their May-pole with revelry until the Puritans, led by Endicott, disrupted their festivities, condemning their practices as ungodly. In an unexpected resolution, Endicott married the couple at the heart of the celebration and softened his stance, but declared that the May-pole would never be raised again, leading to the town's eventual decline into puritanical austerity.
+title: The May-Pole of Merrymount

@@ -1,0 +1,8 @@
+coordinates: 42.21722083879823, -73.86716644103643
+location: Catskill
+next: 511
+previous: 395
+storyCount: 1
+summary: Rip Van Winkle, a carefree man from the village of Catskill, escapes into the Catskills mountains to avoid his wife's nagging and encounters eerie, silent beings who offer him a drink. Awakening twenty years later, Rip finds his world transformed: his village has changed, his wife has died, and he takes up residence with his daughter, sharing tales of his time with the ghostly crew of the Half Moon.
+tags: folklore
+title: Rip Van Winkle

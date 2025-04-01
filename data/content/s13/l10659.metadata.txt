@@ -1,0 +1,6 @@
+location: Detroit
+next: 10735
+previous: 10597
+storyCount: 1
+summary: Marie Louise Thebault, known as Kennette, was a reclusive, miserly woman in Detroit who scorned religion and ghost stories until a spectral encounter with the spirit of her deceased lodger transformed her, leading her to embrace kindness and faith. Despite her skepticism, the appearance of a ghostly light in her home drove her to repent and forgive, resulting in a profound change in her character.
+title: The Old Lodger

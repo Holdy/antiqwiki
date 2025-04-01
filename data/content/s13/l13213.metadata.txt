@@ -1,0 +1,6 @@
+location: San Francisco
+next: 13256
+previous: 13150
+storyCount: 1
+summary: Miguel Zamacona and his wife Emilia settled in a narrow valley east of San Francisco, naming it El Hambre Valley, but Miguel never returned from a trip to San Francisco, leaving Emilia to search for him only to find him dead. Emilia's efforts to return to their home ended in her demise, and years later, settlers discovered her remains in the abandoned garden, fueling legends of ghosts haunting the adobe house near present-day Martinez.
+title: HUNGER VALLEY

@@ -1,0 +1,6 @@
+location: Hampton, Massachusetts
+next: 7811
+previous: 7678
+storyCount: 1
+summary: Goodwife Eunice Cole, of Hampton, Massachusetts, was suspected of witchcraft and faced numerous accusations, including causing storms and taking animal shapes, leading to mistreatment and imprisonment. Despite dark rumors and her eventual death alone, she was spared execution due to a last-minute intervention by Goodman Dalton, who cleared her name after his wife's visions vanished.
+title: GOODY COLE

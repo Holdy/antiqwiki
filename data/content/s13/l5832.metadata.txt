@@ -1,0 +1,6 @@
+location: Nahant, Massachusetts
+next: 5867
+previous: 5795
+storyCount: 1
+summary: A young man set out in a boat from Nahant, Massachusetts, to collect forget-me-nots from Egg Rock as a token for his lover, despite warnings of an incoming storm. Tragically, the boat capsized as it returned and the man perished, later being found with the flowers still clutched in his hand.
+title: The Fatal Forget-Me-Not

@@ -1,0 +1,6 @@
+location: Detroit
+next: 10857
+previous: 10735
+storyCount: 2
+summary: Wasson, a warrior linked to Pontiac, killed a girl of his tribe and her English suitor after discovering their secret meetings at an old mill in Detroit. In a contrasting story, Kenen, a Huron who loved a half-breed girl, sacrificed himself to save a white man she nursed, offering his life to the Iroquois in exchange for the man's freedom.
+title: Two Revenges

@@ -1,0 +1,6 @@
+location: Somerville, Massachusetts
+next: 5909
+previous: 5832
+storyCount: 1
+summary: Two young lovers in Somerville, Massachusetts, secretly meet at an old wind-mill despite the disapproval of the girl's father, who plans to catch them. In a tragic accident, the father is injured by the mill's machinery, leading to his death and eventual consent to their marriage, but his spirit is said to haunt the mill afterward.
+title: The Old Mill at Somerville

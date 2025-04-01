@@ -1,0 +1,6 @@
+location: Washington, New Hampshire
+next: 4909
+previous: 4831
+storyCount: 1
+summary: While splitting rails on Lovel Mountain near Washington, New Hampshire, farmer Lovel was surrounded by six Indians who claimed him as their prisoner. Cleverly trapping their hands in a chestnut log, Lovel incapacitated them and subsequently killed all six before returning to his work.
+title: A Chestnut Log

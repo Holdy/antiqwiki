@@ -1,0 +1,5 @@
+instanceOf: book
+title:Myths and Legends of Our Own Land — Complete
+author:Charles M. Skinner
+published: 1911
+source:https://www.gutenberg.org/ebooks/6615

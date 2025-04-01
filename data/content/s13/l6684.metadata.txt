@@ -1,0 +1,6 @@
+location: Holyoke, Massachusetts
+next: 6752
+previous: 6604
+storyCount: 1
+summary: A peddler seeking shelter at the home of a blacksmith and his wife encounters a mysterious stranger who disrupts their evening and leads to a secret-filled night. By morning, the peddler's belongings are missing and the blacksmith's family has vanished, leaving unanswered questions about a stolen cushion and the stranger's intentions.
+title: The Forest Smithy

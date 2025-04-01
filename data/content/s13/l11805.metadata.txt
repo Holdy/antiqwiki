@@ -1,0 +1,6 @@
+location: Colorado
+next: 11881
+previous: 11769
+storyCount: 1
+summary: Nelson Edwards, an old engineer in Colorado, encountered a phantom train chasing his train during a night journey over Marshall Pass, causing him to make a risky escape over unsafe tracks. As he successfully avoided collision and completed his journey, he found a threatening message on the frosted cab-window, prompting him to quit the railway over fears for his safety.
+title: The Phantom Train of Marshall Pass

@@ -1,0 +1,6 @@
+location: Manhattan
+next: 2592
+previous: 2526
+storyCount: 1
+summary: The story begins with an exploration of the rich history and cultural landscape of the Isle of Manhattoes, an area now known as modern-day Manhattan. Detailed anecdotes illustrate the evolution of this region, from its indigenous peoples to early settlers and towards becoming a vibrant hub of commerce and society.
+title: The Isle of Manhattoes and Nearby

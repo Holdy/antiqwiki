@@ -1,0 +1,6 @@
+location: Youghiogheny and Monongahela
+next: 4328
+previous: 4220
+storyCount: 1
+summary: During Braddock's march to defeat, Marion, a strong and resourceful young woman, fends off an opportunistic rogue named Red Wolf with her rifle in a cabin near the Youghiogheny and Monongahela rivers. Her encounter with George Washington, who saves her and later returns to find her cabin destroyed, leaves a lasting mark on him, prompting him to keep a brown tress of her hair as a cherished memento.
+title: Marion

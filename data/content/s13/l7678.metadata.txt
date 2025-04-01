@@ -1,0 +1,6 @@
+location: Hadley
+next: 7752
+previous: 7628
+storyCount: 1
+summary: During a surprise attack on Hadley, Massachusetts by Native American chief Philip's forces in 1675, an unknown, white-haired champion rallied the settlers and led them to victory. This mysterious figure later revealed to be Colonel William Goffe, a regicide judge hiding from British authorities, was believed by townsfolk to be an angel sent to save them during the crisis.
+title: The Unknown Champion

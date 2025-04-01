@@ -1,0 +1,6 @@
+location: South Dakota
+next: 11720
+previous: 11646
+storyCount: 1
+summary: Standing Rock, a notable frontier post in South Dakota, derives its name from a stone believed by the Sioux to be the transformed body of a squaw punished by Manitou. According to legend, offerings were made to the stone for supernatural protection until missionary teachings changed these practices.
+title: Standing Rock

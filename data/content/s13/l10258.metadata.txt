@@ -1,0 +1,6 @@
+location: Lake Superior
+next: 10295
+previous: 10199
+storyCount: 1
+summary: Around Lake Superior, indigenous tribes revered various manitous, believing they controlled the elements and required offerings to ensure safe travels and successful ventures. Among these were the storm rulers at Thunder Cape and mischievous imps at Le Grand Portal, while the manitou at Superior Bay was particularly feared for causing shipwrecks to those who failed to offer tributes.
+title: Lake Superior Water Gods

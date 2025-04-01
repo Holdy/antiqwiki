@@ -1,0 +1,8 @@
+coordinates: 41.0354265177185, -73.89571659899053
+location: Tappan Zee
+next: 1131
+previous: 1005
+storyCount: 1
+summary: Rambout Van Dam, a ghost, is condemned to endlessly row on the Hudson between Kakiat and Spuyten Duyvil as penance for attempting the journey on the Sabbath. At Tappan Zee, his unseen presence contrasts with lively barges passing by, highlighting the futility and loneliness of his eternal punishment.
+tags: named-ghost
+title: The Vanderdecken of Tappan Zee

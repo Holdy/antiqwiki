@@ -1,0 +1,6 @@
+location: Penobscot
+next: 4775
+previous: 4677
+storyCount: 1
+summary: Two brothers, while hunting near Penobscot, encounter a mysterious girl who secretly cares for them but is later revealed to be perceived as a goblin's sister, causing fear and misunderstanding. The elder brother's fear leads to an attack on the girl, who transforms into a partridge and flees, while the younger brother's loyalty to her causes his spirit to leave after a forced marriage arranged by his father.
+title: The Partridge Witch

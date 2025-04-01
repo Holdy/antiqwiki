@@ -1,0 +1,6 @@
+location: Fort Snelling
+next: 11220
+previous: 11124
+storyCount: 1
+summary: During a lacrosse game near Fort Snelling, Wenonah's beauty and popularity provoke the envy of Harpstenah, who manipulates Red Cloud into dishonoring Wenonah at the Virgins' Feast, leading to her tragic suicide. Harpstenah later admits her deceitful encouragement of Red Cloud, causing guilt and regret before both Harpstenah and Red Cloud succumb to a fever that ravages the tribe.
+title: The Virgins' Feast

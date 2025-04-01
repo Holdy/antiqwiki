@@ -1,0 +1,6 @@
+location: the Dalles
+next: 13113
+previous: 12981
+storyCount: 1
+summary: In a prehistoric Northwest, the devil attempted to persuade the fiend men of the Columbia Valley to embrace peace, but faced violent rejection and pursuit. Using his powerful tail, he created three chasms that eventually unleashed a sea that drowned his pursuers, leaving behind scars in the Dalles region of the Columbia River.
+title: The Devil and The Dalles

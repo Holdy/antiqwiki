@@ -1,0 +1,6 @@
+location: Marblehead
+next: 7469
+previous: 7413
+storyCount: 1
+summary: In the seventeenth century, a Spanish ship was attacked near Marblehead by English pirates who murdered all on board except an English lady, who was later brutally killed at Oakum Bay. For a century and a half, her cries for mercy were reportedly heard each year on the anniversary of her death, haunting the townspeople.
+title: The Shrieking Woman

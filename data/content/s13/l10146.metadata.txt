@@ -1,0 +1,6 @@
+location: L'Anse Creuse
+next: 10199
+previous: 10073
+storyCount: 1
+summary: Julienne, a pious farmer's daughter from L'Anse Creuse, fell under the influence of Lizon, a disreputable tavern owner, leading her away from her home and faith. After her brief return home and a subsequent relapse into distress because of Lizon, he was excommunicated and cursed by the priest, eventually dying amid supernatural phenomena that cleansed the village of his influence.
+title: The Coffin of Snakes

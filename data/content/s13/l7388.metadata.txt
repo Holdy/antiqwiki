@@ -1,0 +1,6 @@
+location: Newbury
+next: 7413
+previous: 7350
+storyCount: 1
+summary: Richard Jacques planted an elm branch near his home in Newbury in 1713 after a late visit to his sweetheart, hoping to remind himself of her. The branch took root and became a grand tree under which future generations of his family played.
+title: Newbury's Old Elm

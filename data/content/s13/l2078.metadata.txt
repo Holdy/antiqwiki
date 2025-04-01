@@ -1,0 +1,6 @@
+location: Indian Carry
+next: 2117
+previous: 2019
+storyCount: 1
+summary: Howling Wind, a young man from Indian Carry, fell in love with a girl from Tupper Lake and faced a death sentence after his rival reported their relationship to the tribe. In a dramatic turn, the girl saved Howling Wind by slaying his rival and they fled together, later receiving the tribe's consent to marry, ultimately living a happy life.
+title: An Event in Indian Park

@@ -1,0 +1,6 @@
+location: Wessaguscus, Massachusetts
+next: 7678
+previous: 7562
+storyCount: 1
+summary: The Puritans in Wessaguscus grappled with the moral dilemma of punishing a young man who had stolen corn from Native Americans, debating whether to execute him or a bedridden weaver in his place. Ultimately, fearing the consequences of deceit, they chose to hang the true offender, despite the option of placating the Native Americans with simple gifts.
+title: THE WESSAGUSCUS HANGING

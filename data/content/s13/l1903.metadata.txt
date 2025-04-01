@@ -1,0 +1,6 @@
+location: Goshen, New York
+next: 1939
+previous: 1868
+storyCount: 1
+summary: A skull, believed to be that of the notorious Claudius Smith, was found during the construction of a courthouse in Goshen, New York, and built into its wall as a symbol of his infamy. Smith, a Loyalist who terrorized local communities during the Revolutionary War, was captured, tried, and executed in 1779, with his body buried where the courthouse now stands.
+title: The Skull in the Wall

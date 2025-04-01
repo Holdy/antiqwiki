@@ -1,0 +1,6 @@
+location: Detroit River
+next: 10552
+previous: 10415
+storyCount: 1
+summary: Sleeping Bear, a demi-god, hid his beautiful daughter on the Detroit River, where she was eventually claimed by the keeper of the water-gates before the Winds killed him and created Belle Isle to house the girl, guarded by a ring of vicious snakes. Later, with Belle Isle becoming a site of transformation and conflict, a stone idol worshiped by Native Americans was destroyed by Dollier and De Galinee, resulting in the formation of a protecting monster serpent, which was invoked by the Indians against La Salle's ship.
+title: The Snake God of Belle Isle

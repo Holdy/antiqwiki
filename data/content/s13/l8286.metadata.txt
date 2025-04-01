@@ -1,0 +1,6 @@
+location: Windham
+next: 8327
+previous: 8254
+storyCount: 1
+summary: During the early days of the Revolution, a messenger pleaded for provisions from the farmers in Connecticut Valley to aid the suffering people in Boston. Inspired by the fervent appeal, a young girl offered her beloved pet lamb to help the children in need, demonstrating a touching act of sacrifice and patriotism.
+title: The Lamb of Sacrifice

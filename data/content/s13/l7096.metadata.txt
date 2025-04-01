@@ -1,0 +1,6 @@
+location: Danvers
+next: 7136
+previous: 7038
+storyCount: 1
+summary: Eliza Wharton, believed to be Elizabeth Whitman, stayed briefly at the Bell Tavern in Danvers under mysterious circumstances, accompanied by a man who never returned. After isolating herself and claiming to be awaiting her absent husband, she died following the birth of a stillborn child, leaving behind poignant letters and a tombstone inscription praising her character.
+title: Eliza Wharton

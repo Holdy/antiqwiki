@@ -1,0 +1,6 @@
+location: Germantown
+next: 3861
+previous: 3759
+storyCount: 1
+summary: Warner, a soldier, captures his enemy Dabney after the battle of Germantown and plans to kill him as revenge for his brother's death, but is swayed by a Bible passage to spare his life. The passage, opened by Dabney's victim's widow, reads 'Love your enemies,' leading Warner to cut Dabney's bonds and let him go, an act that later brings relief when the widow’s husband is found alive.
+title: Saved by the Bible

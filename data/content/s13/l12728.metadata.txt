@@ -1,0 +1,6 @@
+location: Fort Sill
+next: 12776
+previous: 12592
+storyCount: 1
+summary: After his death near Fort Sill, an impoverished Comanche was buried with a decrepit horse, considered suitable for the afterlife, against tradition. When the deceased reappeared, lamenting his rejected entry to heaven due to the horse, it prompted the Comanche and Wichita tribes to offer their best mounts for the dead thereafter.
+title: The Comanche Rider

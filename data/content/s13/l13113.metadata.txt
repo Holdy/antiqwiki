@@ -1,0 +1,6 @@
+location: Columbia
+next: 13150
+previous: 13059
+storyCount: 1
+summary: In a tale of bravery and unrequited love, Mentonee, the priestess of the Northwestern Indians, remained unafraid as the spirits of Mount Hood and Mount Adams fought, causing chaos and destruction. Her faithful admirer seized her during the collapse of a mighty stone bridge, and together they perished beneath the cascading ruins, now known as the Cascades of the Columbia.
+title: Cascades of the Columbia

@@ -1,0 +1,6 @@
+location: Illinois River, near Ottawa, Illinois
+next: 12104
+previous: 11999
+storyCount: 3
+summary: A band of Utes, mistaken for plainsmen enemies, were driven into the hills and besieged on a rock at Bowlder Canon, where they eventually died of starvation after being cut off from supplies by their attackers. Similarly, after Pontiac's murder, the Illinois tribe was besieged by the Ottawas on Starved Rock along the Illinois River near Ottawa, Illinois, and perished due to starvation as they couldn't access supplies or water.
+title: Besieged by Starvation

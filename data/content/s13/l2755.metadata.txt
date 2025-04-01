@@ -1,0 +1,8 @@
+coordinates: 40.71133507309194, -74.00920862271332
+location: New York
+next: 2822
+previous: 2678
+storyCount: 1
+summary: Dirck Van Dara and his friend Rooney, known for their late-night revelry in 19th-century New York, encounter an eerie supernatural presence while returning home one night. After being lured into a nightmarish dance by spectral figures, Dirck Van Dara disappears without a trace, leaving behind a somber legacy in the tavern circles.
+tags: folklore
+title: Roistering Dirck Van Dara

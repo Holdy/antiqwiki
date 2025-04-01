@@ -1,0 +1,8 @@
+coordinates: 40.93451059803162, -73.79112317971625
+location: New Rochelle, New York
+next: 2526
+previous: 2388
+storyCount: 1
+summary: Thomas Paine, after his death, was buried under a walnut tree in New Rochelle, New York, but his grave's exact location became uncertain over time. Despite an attempt to honor him with a monument, confusion about the true site of his burial persists, fueled by tales of his restless spirit lamenting the neglect.
+tags: named-ghost
+title: The Lost Grave of Paine

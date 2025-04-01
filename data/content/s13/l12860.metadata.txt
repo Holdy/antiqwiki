@@ -1,0 +1,6 @@
+location: Rosita, Colorado
+next: 12906
+previous: 12833
+storyCount: 1
+summary: When Acantow, a Ute chief, returned from a council meeting, he found that his wife, Manetabee, had been kidnapped by Arapahoes, prompting him to embark on a daring rescue mission. Amidst a storm and divine intervention, Acantow rescued Manetabee while a rockslide destroyed the trail, preventing their pursuers from crossing it ever again.
+title: The Lost Trail

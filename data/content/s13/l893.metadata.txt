@@ -1,0 +1,8 @@
+coordinates: 41.286069774580895, -73.98686205608753
+location: Dunderberg
+next: 930
+previous: 855
+storyCount: 1
+summary: Dunderberg is home to a bulbous goblin leader, the Heer, and his crew of imps, who control the winds and storms at the southern gate of the Hudson Highlands, often causing mischief to passing ships. To appease these supernatural forces, mariners traditionally lower their peaks in respect to the mountain's spirit, ensuring safe passage and avoiding the Heer's playful disturbances.
+tags: goblin folklore
+title: Dunderberg: The Mischievous Spirit of Thunder Mountain

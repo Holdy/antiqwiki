@@ -1,0 +1,6 @@
+location: Bloomfield, New York
+next: 1797
+previous: 1716
+storyCount: 1
+summary: A young married couple lived happily near Bloomfield, New York, until the wife's spurned admirer killed her husband while he was fishing on Lake Delaware. In revenge, the wife lured her husband's killer into a cave and cremated him, before ultimately casting herself into the lake to join her husband in death.
+title: A Villain's Cremation

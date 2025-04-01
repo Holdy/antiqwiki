@@ -1,0 +1,6 @@
+location: Cape Ann
+next: 14375
+previous: 14160
+storyCount: 2
+summary: Multiple sightings and tales of sea-serpents and water monsters have been reported across various locations, including the New England coast, Newbury, and Crater Lake, often described as enormous and terrifying creatures with reptilian features but rarely harming humans. Locations such as Nahant and Cape Ann in Massachusetts have been noted for multiple sea-serpent sightings, with attempts made historically to capture or kill these elusive creatures, while various legends and folklore about these monsters exist in cultural traditions across North America.
+title: Monsters and Sea-Serpents

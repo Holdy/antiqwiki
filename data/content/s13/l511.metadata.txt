@@ -1,0 +1,8 @@
+coordinates: 42.14626334383423, -74.49430581572294
+location: Catskills
+next: 529
+previous: 400
+storyCount: 1
+summary: In the Catskill Mountains, near the New Grand Hotel, mythical beings known as pygmies were said to forge metals, dance on precipices, and brew a magical liquor that deformed those who drank it. When Hudson and his crew visited, they were affected by the pygmies’ potent drink, an encounter later witnessed by Rip Van Winkle before his legendary sleep.
+tags: folklore
+title: CATSKILL GNOMES

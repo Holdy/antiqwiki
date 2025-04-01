@@ -1,0 +1,6 @@
+location: Mount Katahdin
+next: 4804
+previous: 4718
+storyCount: 1
+summary: An Indian girl from a nearby tribe wished for a husband as she gathered berries on the slopes of Mount Katahdin, ultimately disappearing only to return years later with a boy who possessed supernatural powers given by the mountain spirit father. Her eventual revelation of the boy's divine paternity in anger led to a curse upon her tribe, causing them to diminish in strength and number.
+title: The Marriage of Mount Katahdin

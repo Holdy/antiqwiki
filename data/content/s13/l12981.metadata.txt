@@ -1,0 +1,6 @@
+location: Mount Tacoma
+next: 13059
+previous: 12941
+storyCount: 1
+summary: A legend tells of a solitary survivor of a great flood climbing Mount Tacoma, saved from drowning by a tamanous who turned his feet to stone, and who later, with a woman created from his rib, began to repopulate the earth from their forest home. Many years later, an Indian miser, driven by greed for hiaqua, discovers a treasure cave on Mount Tacoma, only to lose it all in a storm sent by the mountain's spirit, but ultimately finds joy in life and love back at home, sharing his hidden wealth with others.
+title: Tamanous of Tacoma

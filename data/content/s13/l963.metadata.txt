@@ -1,0 +1,6 @@
+location: Moodua Creek
+next: 1005
+previous: 930
+storyCount: 1
+summary: Naoman, a warrior from a neighboring tribe, frequently visited the Murdock family and warned them of an impending attack, prompting them to flee across the Hudson River. Despite their attempt to escape, the family was captured, and all were killed, with Naoman sacrificing himself by revealing he had warned them, leading to his execution and the conversion of a tribe member to Christianity.
+title: Moodua Creek

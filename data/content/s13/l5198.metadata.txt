@@ -1,0 +1,6 @@
+location: Mount Adams
+next: 5233
+previous: 5073
+storyCount: 1
+summary: In 1765, a detachment from Rogers's Rangers, guided by an unfaithful Indian, were led astray into the wilderness near Mount Adams, where they succumbed one by one, with only a sole survivor returning carrying a knapsack filled with human flesh. Years later, spectral phenomena continued to be reported, including sightings of a ghostly church and a silver statue that vanished mysteriously into the mountains, sparking persistent legends around the area.
+title: The Vision on Mount Adams

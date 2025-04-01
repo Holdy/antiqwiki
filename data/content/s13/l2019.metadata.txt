@@ -1,0 +1,6 @@
+location: Upper Saranac
+next: 2078
+previous: 1984
+storyCount: 1
+summary: A rivalry between two young Saranac warriors, the Wolf and the Eagle, led to turmoil after the Eagle went missing during a hunt and the Wolf was accused of jealousy and murder by an old sachem, which resulted in the sachem mistakenly killing the Wolf's wife before being slain himself. Years later, the Eagle returned, having been rescued by hunters and lived away, only to reconcile the divided tribe and re-establish peace upon his death.
+title: The Division of the Saranacs

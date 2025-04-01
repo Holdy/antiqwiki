@@ -1,0 +1,6 @@
+location: Pokepsie
+next: 893
+previous: 802
+storyCount: 1
+summary: In the town of Pokepsie, a young Pequot chief was captured by Delawares and faced torture unless he switched allegiance, but a Pequot maiden intervened, pleading for his life as they were betrothed. Amidst an ensuing battle with Huron invaders, the chief escaped and subsequently rescued the maiden, allowing them to flee together to safety and marry in their homeland.
+title: Pokepsie: A Tale of Love and Escape

@@ -1,0 +1,6 @@
+location: Lewiston, Maine
+next: 4467
+previous: 4401
+storyCount: 1
+summary: A recluse living on an island above the Androscoggin falls in Lewiston, Maine, learned of a planned attack against him by the local natives. Through a cunning strategy of misdirection, he caused their canoes to be swept away by the current, resulting in their demise over the cataract.
+title: The Lewiston Hermit's Stratagem

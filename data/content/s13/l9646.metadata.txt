@@ -1,0 +1,6 @@
+location: North Bend, Ohio
+next: 9699
+previous: 9641
+storyCount: 1
+summary: In 1786 at North Bend, Ohio, Colonel George Rogers Clarke faced a precarious situation with the Shawnee tribe during treaty negotiations, as tensions were high due to the presence of French and English emissaries stirring unrest. By exhibiting remarkable composure and authority when challenged with a gesture of hostility by the Shawnee chief, Clarke managed to avert a potential massacre and secure a treaty, despite the precarious circumstances.
+title: An Averted Peril

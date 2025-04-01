@@ -1,0 +1,6 @@
+location: Block Island
+next: 8589
+previous: 8469
+storyCount: 1
+summary: Lee, a ruthless buccaneer from Block Island, lures a grieving Spanish widow aboard his ship, driven by greed for her jewels, only to meet his undoing when the spectral image of her horse haunts him after her tragic death at sea. After a year of living cursed and abandoned on the island, his fate is sealed as he is taken by the ghostly horse into the sea, joining the souls of those he wronged.
+title: The Buccaneer

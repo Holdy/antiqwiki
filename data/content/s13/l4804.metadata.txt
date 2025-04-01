@@ -1,0 +1,6 @@
+location: Nova Scotia
+next: 4831
+previous: 4775
+storyCount: 1
+summary: Glooskap, known as the god of the Passamaquoddies, was a creator figure who lived on the rocky height of Blomidon in Nova Scotia and shaped the landscape with his actions. He killed a colossal moose at Mount Kineo, transforming it into a landform, and the Indians still trace the moose's shape in the landscape.
+title: The Moose of Mount Kineo

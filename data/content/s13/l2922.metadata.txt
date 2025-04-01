@@ -1,0 +1,6 @@
+location: Long Island Sound
+next: 2952
+previous: 2895
+storyCount: 1
+summary: The devil, thwarted in his attempt to claim land in the north of Long Island Sound, retreated across East River where he left behind the famed Devil's Stepping-Stones. Later, he created chaos by throwing rocks from Long Island at the Indians on the Connecticut shore, establishing himself at Coram and troubling the local people for years.
+title: The Devil's Stepping-Stones

@@ -1,0 +1,6 @@
+location: Death Valley
+next: 13387
+previous: 13294
+storyCount: 1
+summary: In the heart of Death Valley, legend speaks of a once fertile kingdom ruled by a beautiful but ruthless queen who exploited her subjects, including her own daughter, to build a magnificent palace. After her daughter cursed the queen, the land became barren and the queen died alone, leaving the half-completed palace to stand in perpetual desolation.
+title: The Queen of Death Valley

@@ -1,0 +1,6 @@
+location: New York City
+next: 13745
+previous: 13526
+storyCount: 1
+summary: Captain Kidd, notorious for his piracy, allegedly buried treasure across numerous locations from Key West to Halifax, sparking countless and often supernatural efforts to unearth it. Stories abound of spectral guardians and elusive chests, such as those on Gardiner's Island, Monhegan Island, and near the Piscataqua River, suggesting the treasure remains hidden and guarded by spirits or supernatural forces.
+title: Kidd's Treasure

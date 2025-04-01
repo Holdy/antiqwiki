@@ -1,0 +1,6 @@
+location: Long Island
+next: 2992
+previous: 2922
+storyCount: 1
+summary: A great drought on Long Island led the Native American tribes to pray for water, and they were eventually guided by the Great Spirit to Manet or Manetta Hill, where a miraculous spring appeared. When the English arrived, they deceitfully massacred many of the Native Americans during a false treaty meeting, causing the Great Spirit to mark the site with blood and ensure no grass would grow there again.
+title: The Springs of Blood and Water

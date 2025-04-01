@@ -1,0 +1,6 @@
+location: Virginia
+next: 9039
+previous: 8971
+storyCount: 1
+summary: Natural Bridge in Virginia spans Clear Creek and is a famous rock formation, previously owned by Thomas Jefferson, where George Washington carved his name. The Mohegans attributed the creation of the bridge to divine intervention during a time of peril when pursued, leading to their victorious stand against a hostile tribe.
+title: Natural Bridge

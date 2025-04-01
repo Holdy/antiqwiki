@@ -1,0 +1,6 @@
+location: Pond Cove, Maine
+next: 4544
+previous: 4491
+storyCount: 1
+summary: Every summer in Pond Cove, Maine, a mysterious light appears, tracing the path of a fisherman named Jack Welch who vanished without a trace. Years later, Tom Wright, another fisherman who feared the light, disappeared under similar circumstances, only to be revealed posthumously as Welch's murderer, haunted by his crime until his death.
+title: Jack Welch's Death Light

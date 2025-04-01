@@ -1,0 +1,6 @@
+location: Nebraska
+next: 11764
+previous: 11693
+storyCount: 1
+summary: A chief of an Indian tribe, grieving his wife, retreats into isolation until tribal pressure forces him back into action, leading him to a supernatural encounter. He battles a Salt Witch on the Nebraska plain, where his wife appears as a spirit, resulting in the formation of a salt pillar that becomes a storied fixture of the land.
+title: The Salt Witch

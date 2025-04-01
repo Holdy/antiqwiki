@@ -1,0 +1,6 @@
+location: Sault Sainte Marie
+next: 10506
+previous: 10377
+storyCount: 1
+summary: Father Marquette, determined to spread Christianity, ventured into hostile Ojibway territory and was captured, but was saved by the chief’s daughter, Wanena, who freed him and his companion, Du Lhut. In an attempt to convert the tribe, Marquette used a burning-glass to set fire to their idol, convincing the chief, White Otter, to convert his people to Christianity and save Wanena from her father’s wrath, thus securing peace and acceptance for future missions.
+title: The Sun Fire at Sault Sainte Marie
