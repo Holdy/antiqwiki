@@ -1,0 +1,6 @@
+location: Omaha Creek
+next: 14818
+previous: 14794
+storyCount: 1
+summary: Matiwana, an Omaha chief's daughter, was married to a trader who returned from St. Louis with another woman and rejected her, despite promising to educate their son. Matiwana was later found dead at the bottom of a bluff, near her village by Omaha Creek.
+title: The Tragic Tale of Matiwana

@@ -1,0 +1,6 @@
+location: Santa Barbara Island
+next: 14254
+previous: 14232
+storyCount: 1
+summary: Santa Barbara Island was long considered haunted by monsters and sirens, causing superstitious sailors to avoid it. In reality, the island is inhabited by descendants of a shipwrecked cat, which have thrived by preying on sea-fowl.
+title: The Legend of Santa Barbara Island's Cats

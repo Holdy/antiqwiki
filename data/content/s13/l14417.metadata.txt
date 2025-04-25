@@ -1,0 +1,6 @@
+location: Salisbury, Connecticut
+next: 14432
+previous: 14375
+storyCount: 1
+summary: In the Berkshire Hills in 1802, an unusual series of assaults started with a barrage of objects thrown at a tailor's shop in Salisbury, Connecticut, and continued at the home of Ezekiel Landon for a week, causing significant damage. The mysterious attacks, characterized by stones and sticks breaking windows with precise accuracy, occurred under cover of darkness with no assailants visible, leaving the community anxious and confused.
+title: The Mysterious Assault of Berkshire Hills

@@ -1,0 +1,6 @@
+location: Canandaigua Lake, New York
+next: 14282
+previous: 14263
+storyCount: 1
+summary: In a tale from Canandaigua Lake, New York, a massive serpent that was once tamed by the local Indians grew so large that it began to pose a deadly threat to its keepers. The creature was ultimately slain by a brave young boy who used a red willow arrow, anointed with blood, which pierced the serpent's heart after prolonged effort.
+title: The Spotted Serpent of Canandaigua Lake

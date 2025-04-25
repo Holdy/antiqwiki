@@ -1,0 +1,6 @@
+location: Looking-Glass Mountain, North Carolina
+next: 14246
+previous: 14228
+storyCount: 1
+summary: A tradition among the poor whites of the South suggests that the sea-monster that swallowed Jonah transported him to the Carolinas, where he was expelled due to his smoking habit. Once landed, Jonah mingled with a local tribe, leading to a white lineage that lived in abundance at Looking-Glass Mountain, North Carolina, long before Columbus's arrival.
+title: The Southern Legend of Jonah and the Sea-Monster

@@ -1,0 +1,6 @@
+location: Sharon, Connecticut
+next: 14473
+previous: 14450
+storyCount: 1
+summary: In 1754, the men of Sharon, Connecticut acquired their town-site from the Indians, but subsequently experienced disturbances involving mysterious noises and stone throwing. These events, including sightings of men in the starlight who were impervious to gunfire, ceased only after the Indians were compensated with money.
+title: The Unsettling of Sharon

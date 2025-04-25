@@ -1,6 +1,8 @@
+coordinates: 35.65470121491624, -82.60208132611604
 location: Asheville, North Carolina
 next: 9148
 previous: 9039
 storyCount: 1
 summary: In the French Broad River near Asheville, North Carolina, lives a siren who enchants weary travelers with her mesmerizing song, drawing them into the water with her haunting beauty. Once in the river, the siren reveals her true form as a grinning skull, pulling the victim into the depths amidst mocking laughter.
+tags: siren approx
 title: Siren of the French Broad

@@ -1,0 +1,6 @@
+location: Chattanooga, Tennessee
+next: 14870
+previous: 14818
+storyCount: 1
+summary: Stella, the quick-witted daughter of a family living near Chattanooga, Tennessee, began to lose her cheerful demeanor after being seen with a mysterious lawyer, ultimately leading to her tragic death on Sunrise Rock. Her funeral was attended by many locals offering sympathy, but the lawyer was notably absent.
+title: The Mystery of Stella's Gaze

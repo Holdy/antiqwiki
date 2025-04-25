@@ -1,6 +1,8 @@
+coordinates: 38.899042575893354, -117.54266523308398
 location: Dakota
 next: 10996
 previous: 10857
 storyCount: 1
 summary: In 1890, a frenzy spread across the American West as Native American tribes, inspired by prophecies of an impending Messiah believed to be Hiawatha, threatened to reclaim their land from white settlers. Sitting Bull reported having seen the new Christ in the Shoshone Mountains, who instructed the Native Americans to perform a ghost-dance until divine intervention occurred to remove the whites; however, such events never transpired.
+tags: folklore approx
 title: The Indian Messiah

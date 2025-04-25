@@ -1,6 +1,8 @@
+coordinates: 42.61698876329083, -70.66220433252512
 location: Gloucester
 next: 5680
 previous: 5342
 storyCount: 1
 summary: In Gloucester, mysterious events unfolded as unsettling apparitions and phantom attacks from a supposed force of French and Indians plagued the town, leading the inhabitants to believe they were haunted by devils or spirits instead of human foes. Despite the relentless efforts of the town's defenders and assistance from nearby garrisons, the otherworldly enemies could not be defeated until prayers seemed to drive them away permanently, ending their spectral siege.
+tags: haunting past
 title: The Gloucester Leaguers

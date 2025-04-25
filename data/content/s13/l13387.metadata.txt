@@ -1,6 +1,8 @@
+coordinates: 37.716756120468844, -119.64653769327782
 location: Yo Semite
 next: 13427
 previous: 13344
 storyCount: 1
 summary: In the mystical valley of Yo Semite, Chief Tutokanula became enraptured with the spirit Tisayac, neglecting his tribe as he pined for her presence. Ultimately, as the valley was restored by Tisayac's plea to the Great Spirit, Tutokanula reunited with the spirit by leaping into the Bridal Veil waterfall, disappearing into legend.
+tags: folklore
 title: Bridal Veil Fall

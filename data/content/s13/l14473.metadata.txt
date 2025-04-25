@@ -1,0 +1,6 @@
+location: New England
+next: 14489
+previous: 14467
+storyCount: 1
+summary: In New England, the house of an unpopular gentleman was targeted with pranks involving dead cats and mysterious noises, causing him significant trouble. The haunting manifestations ceased for a while after he caught the writer and an altercation ensued during an attempted seance.
+title: Pranks and Manifestations in New England

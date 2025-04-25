@@ -3,4 +3,5 @@ next: 8719
 previous: 8589
 storyCount: 1
 summary: In 17th century Naugatuck, a Yankee trader offered Chief Toby rum in exchange for his daughter, who only agreed if she could have half the rum; after drinking it, she fled and tragically fell off Squaw Rock. A monument remains where her legend endures - some say she leapt to avoid a detested lover, becoming a spirit seen twice a year as a seven-headed snake with a carbuncle said to bring wealth to anyone who captures it.
+tags: haunting
 title: Love and Rum

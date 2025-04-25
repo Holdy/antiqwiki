@@ -1,6 +1,8 @@
+coordinates: 42.33162474485354, -70.94416715013556
 location: Boston harbor
 next: 7350
 previous: 7275
 storyCount: 1
 summary: In 1636, Nix's Mate was the site of a gallows used for executing pirates, and a captain named Nix was found murdered, with his mate suspected and executed based on circumstantial evidence. Before his death, the mate proclaimed his innocence and called upon God to prove it, after which the island began to mysteriously erode away, convincing many of his innocence.
+tags: gallows
 title: NIX'S MATE

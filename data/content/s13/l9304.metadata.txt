@@ -3,4 +3,5 @@ next: 9354
 previous: 9257
 storyCount: 1
 summary: In Macon, Georgia, a traveler on his way to Alabama is murdered by two robbers who later squander their spoils and separate. Years later, one of the murderers encounters the haunting presence of his victim's spirit near the Ocmulgee River, leading to a tragic confrontation where he accidentally kills his own brother and is subsequently lynched for his crimes.
+tags: haunting
 title: Two Lives for One

@@ -1,0 +1,8 @@
+coordinates: 44.50150306263568, -92.28799271404351
+location: Keoxa, Minnesota
+next: 14772
+previous: 14731
+storyCount: 1
+summary: Winona, a Dakota girl from Keoxa, Minnesota, was pressured to marry a chief she did not love, despite her own love for a different hunter. In despair over her family's insistence, she tragically leapt from Maiden's Rock, leading to her untimely death.
+tags: dark-tale
+title: Winona's Tragic Leap at Maiden's Rock

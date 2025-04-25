@@ -1,6 +1,8 @@
+coordinates: 43.68629304282849, -69.99487080065703
 location: Harpswell
 next: 4491
 previous: 4431
 storyCount: 1
 summary: In Harpswell, Maine, a spectral ship with tattered sails and ancient build mysteriously appears near the shore at sunset. Although the ship never seems to have a crew or make a sound, its ominous presence sometimes coincides with funerals crossing the harbor shortly after its sightings.
+tags: ghost-ship
 title: The Dead Ship of Harpswell

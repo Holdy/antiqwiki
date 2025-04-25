@@ -1,0 +1,6 @@
+location: Huntington, Indiana
+next: 14204
+previous: 14165
+storyCount: 1
+summary: In Huntington, Indiana, three local girls witnessed a mysterious creature in the Wabash River, featuring a large leonine skull and a tail that churned the water. The creature, seemingly shy, disappeared beneath the surface upon noticing the girls.
+title: The Shy River Monster of Huntington

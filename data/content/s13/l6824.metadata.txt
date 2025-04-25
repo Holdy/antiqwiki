@@ -1,6 +1,8 @@
+coordinates: 42.46294828079866, -73.24055141459002
 location: Lanesboro
 next: 6850
 previous: 6752
 storyCount: 1
 summary: In the town of Lanesboro, a mysterious woman clad in a black cloak visits the cemetery at midnight to knock on the iron door of a tomb adorned with Masonic symbols, causing speculation among the townspeople about her intentions. Some believe she might be calling for the dead to rise or seeking entry to the tomb herself, but her true motives remain a mystery as she now lies buried beneath the same sod she once tried to disturb.
+tags: witchcraft approx
 title: Knocking at the Tomb

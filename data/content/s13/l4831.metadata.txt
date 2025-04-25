@@ -1,6 +1,8 @@
+coordinates: 43.46943576782539, -70.71985064297017
 location: Alfred, Maine
 next: 4882
 previous: 4804
 storyCount: 1
 summary: Rev. Charles Sharply disappeared after collecting money to build a church, leading to rumors of foul play when Deacon Dickerman extended his business and wealth soon after. Years later, Dickerman confessed to Sharply's murder for the money, revealing the clergyman's body hidden under the owl tree, before taking his own life out of guilt.
+tags: dark-tale approx
 title: The Owl Tree

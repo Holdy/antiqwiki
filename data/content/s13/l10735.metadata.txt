@@ -1,6 +1,8 @@
+coordinates: 42.34203, -83.0143
 location: Detroit
 next: 10819
 previous: 10659
 storyCount: 1
 summary: The Nain Rouge, or Red Dwarf, was a feared omen in early Detroit, often appearing before calamities such as the city's burning in 1805 and Hull's surrender. This sinister creature delighted in chaos and frequently appeared before tragic events, including sabotaging love affairs and presiding over ruinous curses on properties, always maintaining a threatening presence among the settlers.
+tags: goblin approx
 title: The Nain Rouge

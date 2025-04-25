@@ -1,6 +1,8 @@
+coordinates: 38.9039, -77.0806
 location: Georgetown
 next: 8800
 previous: 8724
 storyCount: 1
 summary: Above Georgetown on the Potomac River, three rocks known as the Three Sisters are believed to moan before river deaths, following the drowning of three sisters at the site over a century ago. In May 1889, the eerie moans were heard again, foretelling the tragic drowning of a young rower whose boat capsized near the rocks.
+tags: folklore
 title: The Moaning Sisters

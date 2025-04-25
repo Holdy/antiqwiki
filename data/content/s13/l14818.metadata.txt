@@ -1,0 +1,8 @@
+coordinates: 39.829747266236154, -79.71000164930639
+location: Fayette County, Pennsylvania
+next: 14841
+previous: 14810
+storyCount: 1
+summary: In Fayette County, Pennsylvania, a farmer's daughter and her lover frequently met at White Rocks, but after a quarrel, she was found dead at the base of the rocks, having been pushed by him in a moment of anger. Haunted by guilt, the lover fled and joined the army, eventually returning to the site where, overcome with remorse, he leapt to his death from the same spot.
+tags: dark-tale
+title: The Tragedy at White Rocks

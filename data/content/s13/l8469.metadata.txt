@@ -1,6 +1,8 @@
+coordinates: 41.200947650485574, -71.62722011210444
 location: Block Island
 next: 8526
 previous: 8418
 storyCount: 1
 summary: In the winter of 1750-51, the ship Palatine, filled with Dutch merchants and emigrants, faced tragedy as a rebellious crew abandoned the passengers after stealing their money, leaving them to die, after which the ship was set ablaze off Block Island, creating a spectral image seen years later. This ghostly sight and echoes of a woman's screams hauntingly reappeared annually, terrifying the islanders, symbolizing the ship's doomed fate and unearthly vengeance.
+tags: ghost-ship
 title: Block Island and the Palatine

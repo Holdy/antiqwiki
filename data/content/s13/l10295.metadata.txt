@@ -1,6 +1,8 @@
+coordinates: 46.56921502533608, -86.31958657416541
 location: Lake Superior
 next: 10338
 previous: 10258
 storyCount: 1
 summary: An Ojibway woman living on Lake Superior's Pictured Rocks grew jealous of her relative's wife and caused her to fall into the lake during a swing, taking the wife's place in disguise. After the hunter's child recognized the imposter and the hunter prayed for his wife's return, a lightning bolt and a series of events revealed the wife transformed into a gull, leading to the witch's departure in the form of a black bird.
+tags: witch
 title: The Witch of Pictured Rocks

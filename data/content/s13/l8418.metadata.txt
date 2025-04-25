@@ -1,6 +1,8 @@
+coordinates: 41.47702912024325, -72.51224343795674
 location: Haddam, Connecticut
 next: 8469
 previous: 8327
 storyCount: 1
 summary: In the town of Haddam, Connecticut, witchcraft accusations led to a folklore of sinister old women, rituals at eerie landmarks, and a legendary hag in a red hood who terrorized farmers after dusk. One notorious event involved a farmer named Blakesley, who shot at a strange bird with silver buttons, only for an old woman miles away to fall dead simultaneously, suggesting a mystical connection.
+tags: witchcraft approx
 title: HADDAM ENCHANTMENTS

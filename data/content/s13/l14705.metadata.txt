@@ -1,0 +1,8 @@
+coordinates: 40.02541838034684, -75.19582885725164
+location: Wissahickon
+next: 14708
+previous: 14702
+storyCount: 1
+summary: A girl in Wissahickon sought death because her lover betrayed her. Her heartbreak led her to a tragic decision at the rock by the Wissahickon.
+tags: dark-tale
+title: Betrayed at Wissahickon

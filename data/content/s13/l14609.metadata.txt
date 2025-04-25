@@ -1,0 +1,8 @@
+coordinates: 42.871477527381835, -71.38503290305043
+location: Londonderry, New Hampshire
+next: 14615
+previous: 14606
+storyCount: 1
+summary: The lithia springs in Londonderry, New Hampshire, were historically visited by Indians from the Merrimack region for their healing properties. These visitors performed rituals to honor the spirit believed to reside in the springs, leaving behind stone tools and arrowheads in the surrounding fields.
+tags: folklore-spring
+title: The Healing Waters of Londonderry

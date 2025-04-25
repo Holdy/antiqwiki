@@ -1,0 +1,8 @@
+coordinates: 33.0846776886626, -114.14381398221853
+location: Castle Dome range, Arizona
+next: 14540
+previous: 14521
+storyCount: 1
+summary: A group of Yuma Apaches accidentally entered a forbidden canyon in Castle Dome range, Arizona, and discovered gold nuggets while drinking from a spring. However, a sudden cloudburst swept them away, leaving only one survivor to recount the tale, as white men later unsuccessfully sought the elusive spring.
+tags: folklore-spring approx
+title: The Golden Spring of Castle Dome

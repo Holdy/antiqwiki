@@ -1,6 +1,8 @@
+coordinates: 42.68004292733688, -70.83236964193836
 location: Ipswich
 next: 6221
 previous: 6106
 storyCount: 1
 summary: Jacob Hurd, a strict witch-hunter from Ipswich, becomes troubled by his imaginative son, whose tales of a golden horse lead the father to fear enchantment and react with violence. After the boy's death during a fever, Jacob himself meets a tragic end, but the mother finds comfort in a vision of her son's spirit riding the mythical horse he once described.
+tags: witching approx
 title: The Loss of Jacob Hurd

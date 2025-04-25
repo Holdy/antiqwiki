@@ -1,6 +1,8 @@
+coordinates: 45.86537425867427, -84.62919674406419
 location: Mackinack
 next: 10258
 previous: 10146
 storyCount: 1
 summary: Mackinack, believed to be the birthplace of Hiawatha and home to the god Manitou, is steeped in myth with spirits residing in subterranean halls and rocks that serve as monuments to divinities. The island's creation myths and the tales of Manibozho, who is destined to renew the world, reflect the spiritual beliefs and prophecies held by local Native American tribes.
+tags: folklore approx
 title: Mackinack

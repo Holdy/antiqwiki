@@ -1,0 +1,6 @@
+location: Manitou, Colorado
+next: 14609
+previous: 14599
+storyCount: 1
+summary: In Manitou, Colorado, visitors brought offerings to the spirit believed to inhabit the local springs. These gifts were meant to honor and appease the manitou residing in the waters.
+title: Division of Two Tribes

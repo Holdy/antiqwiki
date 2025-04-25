@@ -1,0 +1,6 @@
+location: Arizona
+next: 14570
+previous: 14540
+storyCount: 1
+summary: A mail rider traversing the desert of Arizona arrives at Devil's Well only to confront a stranger, who turns out to be the corpse of his own brother. Attacked by Apaches, the rider defends himself fiercely but ultimately meets his demise, leaving the well forever tainted with blood.
+title: The Tragedy of Devil's Well

@@ -1,0 +1,6 @@
+location: Lefferts Height
+next: 14716
+previous: 14708
+storyCount: 1
+summary: A girl at Lefferts Height confronted her unfaithful lover as he was going to visit another woman. In an act of desperation, she rode her horse off the bluff, leaping into the air.
+title: The Desperate Leap

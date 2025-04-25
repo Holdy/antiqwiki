@@ -1,0 +1,6 @@
+location: Hutton Lake, Wyoming
+next: 14357
+previous: 14339
+storyCount: 1
+summary: The serpent queen of Hutton Lake, Wyoming, lures men into the water using a red swan as decoy, only to enslave them as they are not her expected lover. If a man kills the red swan, he gains divine power, but seeing the serpent queen is deadly unless from a safe hiding spot, as her snake spies will otherwise ensure his death.
+title: The Legend of the Serpent Queen of Hutton Lake

@@ -20,7 +20,7 @@ const contentIdMatch = queryString.match(/s\d+[\/-]l\d+/i);
 const contentId = contentIdMatch
   ? contentIdMatch[0].toLowerCase().replace("-", "/")
   : null;
-const sourceId = contentId.split("/")[0];
+const sourceId = contentIdMatch ? contentId.split("/")[0] : null;
 
 const itemData = {};
 

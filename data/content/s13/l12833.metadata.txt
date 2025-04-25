@@ -1,6 +1,8 @@
+coordinates: 36.107666797186575, -109.35032214239583
 location: Dead Man's Canon
 next: 12860
 previous: 12776
 storyCount: 1
 summary: A hunter in Dead Man's Canon was pursued by hostiles and found unexpected help from a spider that lowered a silken cord from a sandstone spire, allowing him to climb to safety. The hunter stayed at the summit, surviving on dew and eagles' eggs, until the attackers left, and then safely descended by the cord, leading to the spire being named the Spider Tower.
+tags: folklore
 title: The Spider Tower

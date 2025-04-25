@@ -1,6 +1,8 @@
+coordinates: 42.44672827106905, -73.3813274193855
 location: Onota
 next: 6919
 previous: 6824
 storyCount: 1
 summary: In the Berkshire Hills, a white deer considered a sacred omen visited an Indian band, bringing them prosperity until a French officer convinced a tribesman to kill it for the officer's gain, leading to the tribe's downfall. Despite the death of the deer, its white fawn survived and evaded an English hunter, with the hunter experiencing an eerie encounter with a mysterious and potentially magical figure known for shape-shifting.
+tags: omen approx
 title: The White Deer of Onota

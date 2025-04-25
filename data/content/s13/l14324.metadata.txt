@@ -1,0 +1,6 @@
+location: Rock Lake, Washington
+next: 14329
+previous: 14303
+storyCount: 1
+summary: In Rock Lake, Washington, a monstrous reptile inhabits the waters, consuming everything it encounters. In 1853, a group of Indians seeking refuge at the lake were attacked and devoured by the creature.
+title: The Creature of Rock Lake

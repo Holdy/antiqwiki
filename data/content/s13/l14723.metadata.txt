@@ -1,0 +1,8 @@
+coordinates: 41.48684962674536, -71.26813462936045
+location: Newport, Rhode Island
+next: 14731
+previous: 14716
+storyCount: 1
+summary: An Indian couple tragically sacrificed themselves at Purgatory, a chasm in Newport, Rhode Island, driven by a hopeless love. An older tale speaks of a guilty squaw who was thrown from the cliff by the devil, who left hoof-marks on the rocks.
+tags: dark-tale
+title: Tales of Purgatory in Newport

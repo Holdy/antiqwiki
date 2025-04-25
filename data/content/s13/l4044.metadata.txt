@@ -1,6 +1,8 @@
+coordinates: 39.86160428737443, -75.30300345295286
 location: Chester, Pennsylvania
 next: 4132
 previous: 4009
 storyCount: 1
 summary: Fiddler Peter Matthews accepts a job to watch over the supposedly haunted Printz Hall in Chester, Pennsylvania, only to encounter the ghost of Governor Peter Printz during the autumnal equinox. The ghostly revel ends with Peter imagining rich rewards, only to awaken with his fiddle broken and no money, and shortly after, the hall mysteriously burns down.
+tags: named-ghost
 title: The Last Revel in Printz Hall

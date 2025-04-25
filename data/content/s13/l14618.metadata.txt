@@ -1,0 +1,6 @@
+location: White Marsh, Maryland
+next: 14621
+previous: 14615
+storyCount: 1
+summary: A miracle spring once flowed by the Virgin's statue in White Marsh, Maryland, captivating locals and visitors. This spring held significant spiritual importance for those who believed in its divine origins.
+title: The Miracle Spring of White Marsh

@@ -1,0 +1,8 @@
+coordinates: 39.52116070082943, -98.38459185853189
+location: Southwestern Kansas
+next: 14551
+previous: 14527
+storyCount: 1
+summary: In Southwestern Kansas, a mystical pool known as the Sacred Water exists where a turtle god is said to reside, attracting offerings from the local tribes. A Pani hunter, after stepping onto a massive turtle, was taken into the depths of the pool by the creature, linking the turtle to the site's mythology.
+tags: folklore-spring
+title: The Turtle God of Sacred Water

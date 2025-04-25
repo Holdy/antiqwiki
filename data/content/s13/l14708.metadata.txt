@@ -1,0 +1,6 @@
+location: Muscatine
+next: 14712
+previous: 14705
+storyCount: 1
+summary: In Muscatine, a young maid and her lover meet their tragic end due to the maid's father's disapproval of their relationship. The father forbid the match as the suitor could not prove his courage in the absence of a war, resulting in the couple's demise.
+title: A Forbidden Love in Muscatine

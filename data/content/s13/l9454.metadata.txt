@@ -1,6 +1,8 @@
+coordinates: 30.3449876492817, -88.56765818960932
 location: Pascagoula River, Mississippi
 next: 9509
 previous: 9428
 storyCount: 1
 summary: The Biloxi, a peaceful and musically inclined people, were driven to the mouth of the Pascagoula River by the Choctaws and chose to die together rather than face slaughter, joining hands in a final song as they stepped into the water. A different version of the legend tells that the Biloxi, believing themselves to be children of the sea, drowned willingly in a meeting with a mermaid, whose music still echoes from beneath the moonlit waters.
+tags: merfolk approx
 title: LAST STAND OF THE BILOXI

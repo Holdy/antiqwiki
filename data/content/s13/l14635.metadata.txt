@@ -1,0 +1,6 @@
+location: Spring River, Arkansas
+next: 14658
+previous: 14625
+storyCount: 1
+summary: In Spring River, Arkansas, three hundred years ago, a large Indian feast turned tragic when Chief Wampahseesah's daughter, Nitilita, died from exhaustion due to a water shortage during her wedding celebration. Her husband's death from grief and the subsequent sacrifice order by the chief were interrupted by an earthquake that filled the valley with water, leading to the chief's death and the belief that the dead's faces could be seen through the foam of a dam built there later.
+title: The Tragedy of Spring River

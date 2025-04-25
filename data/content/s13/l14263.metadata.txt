@@ -1,0 +1,6 @@
+location: Chalcedony Park, Arizona
+next: 14271
+previous: 14259
+storyCount: 1
+summary: The Zuni people revere a plumed serpent that resides in the sacred spring waters, believing that to kill snakes would deplete their precious water supply. According to their lore, the agatized trees of Chalcedony Park are seen as arrows cast by gods to strike down the troublesome creatures of the region.
+title: The Zuni Reverence of Snakes and Sacred Springs

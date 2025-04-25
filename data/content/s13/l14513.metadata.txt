@@ -1,0 +1,8 @@
+coordinates: 25.740446065926697, -79.25824024542864
+location: Bimini
+next: 14516
+previous: 14508
+storyCount: 1
+summary: There is a mythical fountain located on the island of Bimini, which is part of the Bahamas. This fountain is reminiscent of legendary tales associated with mysterious locations.
+tags: folklore-spring approx
+title: The Mystical Fountain of Bimini

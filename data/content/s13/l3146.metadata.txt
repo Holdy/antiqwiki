@@ -1,6 +1,8 @@
+coordinates: 40.696957069982695, -73.98410095030988
 location: Brooklyn
 next: 3180
 previous: 3075
 storyCount: 1
 summary: A woman in Brooklyn becomes a recluse after she mistakenly believes her husband has been unfaithful and waits for his return, only to die from sorrow as her health deteriorates over the years. After her death, her spirit is said to haunt her former home, continuing her watch from the windows.
+tags: haunting approx
 title: The Weary Watcher

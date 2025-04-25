@@ -1,0 +1,6 @@
+location: Paterson, New Jersey
+next: 14375
+previous: 14342
+storyCount: 1
+summary: Michael Pauw, a heroic fisherman from Paterson, New Jersey, engaged in a fierce battle with a mysterious creature at Passaic Falls. After a comrade was momentarily carried away by the beast, the fishermen managed to kill it and reportedly discovered it was a sturgeon.
+title: Michael Pauw and the Battle of Passaic Falls

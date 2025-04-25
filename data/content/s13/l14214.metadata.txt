@@ -1,0 +1,6 @@
+location: Newbury, Massachusetts
+next: 14219
+previous: 14208
+storyCount: 1
+summary: In Newbury, Massachusetts, a peculiar double-headed snake was discovered. Before it was killed, the snake demonstrated hostility by chasing and attempting to strike a boy who encountered it.
+title: The Double-Headed Snake of Massachusetts

@@ -1,6 +1,8 @@
+coordinates: 42.33871440083449, -71.1588525935002
 location: Brighton, Massachusetts
 next: 6604
 previous: 6449
 storyCount: 1
 summary: Tom Walker, a miserly man living near Brighton, Massachusetts, encounters the devil in the woods, who offers him a treasure in exchange for his soul. After initially refusing, Tom eventually makes a deal with the devil, amassing wealth through a usurious business, but ultimately he is taken by the devil, leaving behind only ephemeral riches.
+tags: devil approx
 title: The Devil and Tom Walker

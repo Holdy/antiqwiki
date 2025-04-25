@@ -1,0 +1,6 @@
+location: null
+next: 14527
+previous: 14516
+storyCount: 1
+summary: The Spaniards, driven by romanticism and superstition, invested time and resources in their quest for mythical springs. Inspired by the exotic landscapes of the new world, figures like Ponce de Leon pursued the dream of finding the legendary fountain of youth.
+title: The Quest for the Fountain of Youth

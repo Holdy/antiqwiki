@@ -1,6 +1,8 @@
+coordinates: 34.0326535216572, -85.55533116359065
 location: Oxford, Alabama
 next: 9454
 previous: 9398
 storyCount: 1
 summary: In 1765, a baneful omen appeared in an Indian village near present-day Oxford, Alabama, when two mothers simultaneously gave birth to leopard-spotted children, leading to accusations of witchcraft and resulting plans for execution by fire. As the entire tribe gathered, the earth suddenly opened up in a catastrophic earthquake, swallowing nearly everyone except two braves, and later forming the body of water known as Blue Pond.
+tags: origin-folklore
 title: The Swallowing Earthquake

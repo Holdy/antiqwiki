@@ -1,0 +1,6 @@
+location: New Milford, Connecticut
+next: 14922
+previous: 14870
+storyCount: 1
+summary: In New Milford, Connecticut, a love story unfolds as Chief Waramaug's daughter, Lillinonah, falls for a white man she nurses back to health, only for him to leave with a promise to return. When her lover finally returns, it is too late; Lillinonah, betrothed to another, chooses to end her life in the river, where they both ultimately perish after a desperate but failed attempt to reunite.
+title: The Tragic Tale of Lillinonah

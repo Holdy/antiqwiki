@@ -1,0 +1,8 @@
+coordinates: 37.93723930907284, -79.42086126540626
+location: Lexington, Virginia
+next: 14705
+previous: 14681
+storyCount: 1
+summary: An Indian couple leaped from Jump Mountain near Lexington, Virginia, due to insurmountable obstacles to their marriage. Their drastic action was driven by the societal and familial barriers preventing their union.
+tags: dark-tale
+title: Leap of Faith at Jump Mountain

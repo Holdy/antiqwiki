@@ -1,0 +1,6 @@
+location: Catskills
+next: 14885
+previous: 14841
+storyCount: 2
+summary: The cliff known as Indian Maiden's Cliff in the Catskills is named after a tragic event where a young Native American woman chose death over capture when pursued by her tribe. Separated from her lover during an escape, she found herself trapped on the edge of a precipice and leapt into the shadows to avoid her pursuers.
+title: Indian Maiden's Cliff and Lover's Leap Stories

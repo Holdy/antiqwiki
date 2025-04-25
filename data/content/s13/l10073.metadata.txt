@@ -1,6 +1,8 @@
+coordinates: 43.672841273470375, -83.89074197800961
 location: Saginaw Bay
 next: 10146
 previous: 10017
 storyCount: 1
 summary: Cloud Catcher, an Ojibway youth, encounters a radiant woman who invites him to ascend into the sky, where he experiences life in a beautiful realm filled with abundance. Despite living happily in the Sky Land, Cloud Catcher longs for his people and returns to earth, only to ultimately be taken back to the sky after ignoring a warning about marrying another earthly woman.
+tags: folklore approx
 title: The Sky Walker of Huron

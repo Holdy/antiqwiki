@@ -1,0 +1,6 @@
+location: Wolf Pond, Pennsylvania
+next: 14228
+previous: 14214
+storyCount: 1
+summary: In September 1887, a massive snake, allegedly a relic of the Silurian age, appeared at Wolf Pond, Pennsylvania, revealing thirty feet of its black and yellow-banded body to an unsuspecting fisherman. After being struck with a pole, the snake retaliated by capsizing the boat, but refrained from attacking the fisherman before disappearing into the depths.
+title: The Relic of Wolf Pond

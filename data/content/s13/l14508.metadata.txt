@@ -1,0 +1,6 @@
+location: Chicora, Georgia
+next: 14513
+previous: 14489
+storyCount: 1
+summary: In the legendary land of Chicora, Georgia, a sacred stream is said to possess rejuvenating powers, making all who bathe in it young again. A group of native people, upon discovering a delightful spring in that area during their travels, became so enchanted that they chose to remain there indefinitely.
+title: The Enchantment of Chicora's Waters

@@ -14193,7 +14193,7 @@ head six feet above water and fell upon him tooth and nail--if he had
 nails. In their struggles these unpleasant neighbors made such waves that
 the fishermen's boat was nearly upset.
 
-Even the humble Wabash has its terror, for at Huntington, Indiana, three
+~Even the humble Wabash has its terror, for at Huntington, Indiana, three
 truthful damsels of the town saw its waters churned by a tail that
 splashed from side to side, while far ahead was the prow of the animal--a
 leonine skull, with whiskers, and as large as the head of a boy of a
@@ -14201,22 +14201,22 @@ dozen years. As if realizing what kind of a report was going to be made
 about him, the monster was overcome with bashfulness at the sight of the
 maidens and sank from view.
 
-In April, 1890, a water-snake was reported in one of the Twin Lakes, in
+~In April, 1890, a water-snake was reported in one of the Twin Lakes, in
 the Berkshire Hills, but the eye-witnesses of his sports let him off with
 a length of twenty-five feet.
 
-Sysladobosis Lake, in Maine, has a snake with a head like a dog's, but it
+~Sysladobosis Lake, in Maine, has a snake with a head like a dog's, but it
 is hardly worth mentioning because it is only eight feet long-hardly
 longer than the name of the lake. More enterprise is shown across the
 border, for Skiff Lake, New Brunswick, has a similar snake thirty feet
 long.
 
-In Cotton Mather's time a double-headed snake was found at Newbury,
+~In Cotton Mather's time a double-headed snake was found at Newbury,
 Massachusetts,--it had a head at each end,--and before it was killed it
 showed its evil disposition by chasing and striking at the lad who first
 met it.
 
-A snake haunts Wolf Pond, Pennsylvania, that is an alleged relic of the
+~A snake haunts Wolf Pond, Pennsylvania, that is an alleged relic of the
 Silurian age. It was last seen in September, 1887, when it unrolled
 thirty feet of itself before the eyes of an alarmed spectator--again a
 fisherman. The beholder struck him with a pole, and in revenge the
@@ -14225,11 +14225,11 @@ to the bottom, disappeared. The creature had a black body, about six
 inches thick, ringed with dingy-yellow bands, and a mottled-green head,
 long and pointed, like a pike's.
 
-Silver Lake, near Gainesville, New York, was in 1855 reported to be the
+~Silver Lake, near Gainesville, New York, was in 1855 reported to be the
 lair of a great serpent, and old settlers declare that he still comes to
 the surface now and then.
 
-A tradition among the poor whites of the South Jruns to the effect that
+~A tradition among the poor whites of the South Jruns to the effect that
 the sea-monster that swallowed Jonah--not a whale, because the throat of
 that animal is hardly large enough to admit a herring--crossed the
 Atlantic and brought up at the Carolinas. His passenger was supplied with
@@ -14243,7 +14243,7 @@ ignorant and uncourageous whites and led them to Looking-Glass Mountain,
 North Carolina, where He caused corn and game to be created, and while
 this race endured it lived in plenty.
 
-Santa Barbara Island, off the California coast, was, for a long time, the
+~Santa Barbara Island, off the California coast, was, for a long time, the
 supposed head-quarters of swimming and flying monsters and sirens, and no
 Mexican would pass in hearing of the yells and screams and strange songs
 without crossing himself and begging the captain to give the rock a wide
@@ -14251,16 +14251,16 @@ berth. But the noise is all the noise of cats. A shipwrecked tabby
 peopled the place many years ago, and her numerous progeny live there on
 dead fish and on the eggs and chicks of sea-fowl.
 
-Spirit Canon, a rocky gorge that extends for three miles along Big Sioux
+~Spirit Canon, a rocky gorge that extends for three miles along Big Sioux
 River, Iowa, was hewn through the stone by a spirit that took the form of
 a dragon. Such were its size and ferocity that the Indians avoided the
 place, lest they should fall victims to its ire.
 
-The Hurons believed in a monster serpent--Okniont--who wore a horn on his
+~The Hurons believed in a monster serpent--Okniont--who wore a horn on his
 head that could pierce trees, rocks, and hills. A piece of this horn was
 an amulet of great value, for it insured good luck.
 
-The Zunis tell of a plumed serpent that lives in the water of sacred
+~The Zunis tell of a plumed serpent that lives in the water of sacred
 springs, and they dare not destroy the venomous creatures that infest the
 plains of Arizona because, to them, the killing of a snake means a
 reduction in their slender water-supply. The gods were not so kind to the
@@ -14268,7 +14268,7 @@ snakes as men were, for the agatized trees of Chalcedony Park, in
 Arizona, are held to be arrows shot by the angry deities at the monsters
 who vexed this region.
 
-Indians living on the shore of Canandaigua Lake, New York, tamed a pretty
+~Indians living on the shore of Canandaigua Lake, New York, tamed a pretty
 spotted snake, and fed and petted it until it took a deer at a meal. It
 grew so large that it eventually encircled the camp and began to prey on
 its keepers. Vainly they tried to kill the creature, until a small boy
@@ -14279,7 +14279,7 @@ and twist its way into the serpent's body. The serpent rolled into the
 lake and made it foam in its agony. It swallowed water and vomited it up
 again, with men dead and alive, before it died.
 
-The monster Amhuluk, whose home is a lake near Forked Mountain, Oregon,
+~The monster Amhuluk, whose home is a lake near Forked Mountain, Oregon,
 had but one passion-to catch and drown all things; and when you look into
 the lake you see that he has even drowned the sky in it, and has made the
 trees stand upside down in the water. Wherever he set his feet the ground
@@ -14300,7 +14300,7 @@ days they showed themselves, but after that they went down and he saw and
 heard no more of them. Ambuluk had taken the children and they would live
 with him for ever after.
 
-Crater Lake, Oregon, was a haunt of water-devils who dragged into it and
+~Crater Lake, Oregon, was a haunt of water-devils who dragged into it and
 drowned all who ventured near. Only within a few years could Indians be
 persuaded to go to it as guides. Its discoverers saw in it the work of
 the Great Spirit, but could not guess its meaning. All but one of these
@@ -14321,25 +14321,25 @@ eager for men's blood. The rock on the south side of the lake, called the
 Phantom Ship, is believed by the Indians to be a destructive monster,
 innocent as it looks in the daytime.
 
-So with Rock Lake, in Washington. A hideous reptile sports about its
+~So with Rock Lake, in Washington. A hideous reptile sports about its
 waters and gulps down everything that it finds in or on them. Only in
 1853 a band of Indians, who had fled hither for security against the
 soldiers, were overtaken by this creature, lashed to death, and eaten.
 
-The Indians of Louisiana, Mississippi, and Texas believed that the King
+~The Indians of Louisiana, Mississippi, and Texas believed that the King
 Snake, or God Snake, lived in the Gulf of Mexico. It slept in a cavern of
 pure crystal at the bottom, and its head, being shaped from a solid
 emerald, lighted the ocean for leagues when it arose near the surface.
 
-Similar to this is the belief of the Cherokees in the kings of
+~Similar to this is the belief of the Cherokees in the kings of
 rattlesnakes, “bright old inhabitants” of the mountains that grew to a
 mighty size, and drew to themselves every creature that they looked upon.
 Each wore a crown of carbuncle of dazzling brightness.
 
-The Indians avoided Klamath Lake because it was haunted by a monster that
+~The Indians avoided Klamath Lake because it was haunted by a monster that
 was half dragon, half hippopotamus.
 
-Hutton Lake, Wyoming, is the home of a serpent queen, whose breathing may
+~Hutton Lake, Wyoming, is the home of a serpent queen, whose breathing may
 be seen in the bubbles that well up in the centre. She is constantly
 watching for her lover, but takes all men who come in her way to her
 grotto beneath the water, when she finds that they are not the one she
@@ -14354,7 +14354,7 @@ she is a lovely girl in all but her face, and that is shaped like the
 head of a monster snake. Her name is never spoken by the Indians, for
 fear that it will cost them their lives.
 
-Michael Pauw, brave fisherman of Paterson, New Jersey, hero of the fight
+~Michael Pauw, brave fisherman of Paterson, New Jersey, hero of the fight
 with the biggest snapping-turtle in Dover Slank, wearer of a scar on his
 seat of honor as memento of the conflict, member of the Kersey Reds--he
 whose presence of mind was shown in holding out a chip of St. Nicholas's
@@ -14414,7 +14414,7 @@ Walton could not go out at night without being assailed with stones.
 Bell, book, candle, and witch-broth availed nothing, and it was many a
 day before peace came to the Walton household.
 
-In 1802 an epidemic of assault went through the Berkshire Hills. The
+~In 1802 an epidemic of assault went through the Berkshire Hills. The
 performance began in a tailor's shop in Salisbury, Connecticut, at eleven
 of the clock on the night of November 2, when a stick and lumps of stone,
 charcoal, and mortar were flung through a window. The moon was up, but
@@ -14429,13 +14429,13 @@ there. Windows were broken on both sides of buildings at the same time,
 and many sticks and stones came through the same holes in the panes, as
 if aimed carefully by a gunner.
 
-A hamlet that stood in Sage's ravine, on the east side of the Dome of the
+~A hamlet that stood in Sage's ravine, on the east side of the Dome of the
 Taconics, was assailed in the same way after nightfall. One house was
 considerably injured. No causes for the performance were ever discovered,
 and nobody in the place was known to have an enemy--at least, a malicious
 one.
 
-At Whitmire Hill, Georgia, the spot where two murders were committed
+~At Whitmire Hill, Georgia, the spot where two murders were committed
 before the war, is a headless phantom that comes thundering down on the
 wayfarer on the back of a giant horse and vanishes at the moment when the
 heart of his prospective victim is bumping against his palate. At times,
@@ -14447,7 +14447,7 @@ The legends of buried treasure, instanced in another place, frequently
 include assaults by the ghosts of pirates and misers on the daring ones
 who try to resurrect their wealth.
 
-Forty-seven years ago, in the township of St. Mary's, Illinois, two lads
+~Forty-seven years ago, in the township of St. Mary's, Illinois, two lads
 named Groves and a companion named Kirk were pelted with snowballs while
 on their way home from a barn where they had been to care for the stock
 for the night. The evening had shut in dark, and the accuracy of the
@@ -14464,13 +14464,13 @@ and laid about them with pitchforks, but nothing came of that, and not
 until the sun arose was the pelting stopped. Young Kirk, who was badly
 hurt, died within a year.
 
-The men of Sharon, Connecticut, having wheedled their town-site from the
+~The men of Sharon, Connecticut, having wheedled their town-site from the
 Indians in 1754, were plagued thereafter by whoops and whistlings and the
 throwing of stones. Men were seen in the starlight and were fired upon,
 but without effect, and the disturbances were not ended until the Indians
 had received a sum of money.
 
-Without presuming to doubt the veracity of tradition in these matters, an
+~Without presuming to doubt the veracity of tradition in these matters, an
 incident from the writer's boyhood in New England may be instanced. The
 house of an unpopular gentleman was assailed--not in the ostentatious
 manner just described, yet in a way that gave him a good deal of trouble.
@@ -14505,26 +14505,26 @@ of eighty feet, was thought to be the source of the life-giving waters,
 but, though Ponce de Leon heard of this, he never succeeded in fighting
 his way to it through the jungle.
 
-In Georgia, in the reputed land of Chicora, were a sacred stream that
+~In Georgia, in the reputed land of Chicora, were a sacred stream that
 made all young again who bathed there, and a spring so delectable that a
 band of red men, chancing on it in a journey, could not leave it, and are
 there forever.
 
-In the island of “Bimini,” one of the Lucayos (Bahamas), was another such
+~In the island of “Bimini,” one of the Lucayos (Bahamas), was another such
 a fountain.
 
-Between the Flint and Ocmulgee Rivers the Creeks declared was a spring of
+~Between the Flint and Ocmulgee Rivers the Creeks declared was a spring of
 life, on an island in a marsh, defended from approach by almost
 impenetrable labyrinths,--a heaven where the women were fairer than any
 other on earth.
 
-The romantic and superstitious Spaniards believed these legends, and
+~The romantic and superstitious Spaniards believed these legends, and
 spent years and treasure in searching for these springs. And, surely, if
 the new and striking scenes of this Western world caused Columbus to
 “boast that he had found the seat of paradise, it will not appear strange
 that Ponce de Leon should dream of discovering the fountain of youth.”
 
-The Yuma Apaches had been warned by one of their oracles never to enter a
+~The Yuma Apaches had been warned by one of their oracles never to enter a
 certain canon in Castle Dome range, Arizona, but a company of them forgot
 this caution while in chase of deer, and found themselves between walls
 of pink and white fluorite with a spring bubbling at the head of the
@@ -14537,7 +14537,7 @@ the canon; but a cloudburst came, and on the swiftly rising tide all were
 swept away but one, who survived to tell the story. White men have
 frequently but vainly tried to find that spring.
 
-In Southwestern Kansas, on a hill a quarter-mile from Solomon River, is
+~In Southwestern Kansas, on a hill a quarter-mile from Solomon River, is
 the Sacred Water, pooled in a basin thirty feet across. When many stand
 about the brink it slowly rises. Here two Panis stopped on their return
 from a buffalo hunt, and one of them unwittingly stepped on a turtle a
@@ -14548,7 +14548,7 @@ remains, and beads, arrows, ear-rings, and pipes that are dropped in, it
 swallows greedily. The Indians use the water to mix their paint with, but
 never for drinking.
 
-The mail rider, crossing the hot desert of Arizona, through the cacti and
+~The mail rider, crossing the hot desert of Arizona, through the cacti and
 over holes where scorpions hide, makes for Devil's Well, under El
 Diablo--a dark pool surrounded with gaunt rocks. Here, coming when the
 night is on, he lies down, and the wind swishing in the sage--brush puts
@@ -14567,7 +14567,7 @@ bullet has sped into a red man's heart, they rise in a body and with
 knives and hatchets hew him to death. And that is why the Devil's Well
 still tastes of blood.
 
-Among the Balsam Mountains of Western North Carolina is a large spring
+~Among the Balsam Mountains of Western North Carolina is a large spring
 that promises refreshment, but, directly that the wayfarer bends over the
 water, a grinning face appears at the bottom and as he stoops it rises to
 meet his. So hideous is this demon that few of the mountaineers have
@@ -14596,33 +14596,33 @@ It is her face--so altered as to disclose the evil once hid behind
 it--that peers up at the hardy one who passes there and knows it as the
 Haunted Spring.
 
-The medicinal properties of the mineral springs at Ballston and Saratoga
+~The medicinal properties of the mineral springs at Ballston and Saratoga
 were familiar to the Indians, and High Rock Spring, to which Sir William
 Johnson was carried by the Mohawks in 1767 to be cured of a wound, was
 called “the medicine spring of the Great Spirit,” for it was believed
 that the leaping and bubbling of the water came from its agitation by
 hands not human, and red men regarded it with reverence.
 
-The springs at Manitou, Colorado (see “Division of Two Tribes”), were
+~The springs at Manitou, Colorado (see “Division of Two Tribes”), were
 always approached with gifts for the manitou that lived in them.
 
-The lithia springs of Londonderry, New Hampshire, used to be visited by
+~The lithia springs of Londonderry, New Hampshire, used to be visited by
 Indians from the Merrimack region, who performed incantations and dances
 to ingratiate themselves with the healing spirit that lived in the water.
 Their stone implements and arrow-heads are often found in adjacent
 fields.
 
-The curative properties of Milford Springs, New Hampshire, were revealed
+~The curative properties of Milford Springs, New Hampshire, were revealed
 in the dream of a dying boy.
 
-A miracle spring flowed in the old days near the statue of the Virgin at
+~A miracle spring flowed in the old days near the statue of the Virgin at
 White Marsh, Maryland.
 
-Biddeford Pool, Maine, was a miracle pond once a year, for whoso bathed
+~Biddeford Pool, Maine, was a miracle pond once a year, for whoso bathed
 there on the 26th of June would be restored to health if he were ill,
 because that day was the joint festival of Saints Anthelm and Maxentius.
 
-There was a wise and peaceable chief of the Ute tribe who always
+~There was a wise and peaceable chief of the Ute tribe who always
 counselled his people to refrain from war, but when he grew old the fiery
 spirits deposed him and went down to the plains to give battle to the
 Arapahoe. News came that they had been defeated in consequence of their
@@ -14632,7 +14632,7 @@ forthwith came a gush of water that has never ceased to flow--the Hot
 Sulphur Springs of Colorado. The Utes often used to go to those springs
 to bathe--and be cured of rheumatism--before they were driven away.
 
-Spring River, Arkansas, is nearly as large at its source as at its mouth,
+~Spring River, Arkansas, is nearly as large at its source as at its mouth,
 for Mammoth Spring, in the Ozark Mountains, where it has its rise, has a
 yield of ninety thousand gallons a minute, so that it is, perhaps, the
 largest in the world. Here, three hundred years ago, the Indians
@@ -14655,7 +14655,7 @@ was borne to his death. The red men built a dam there later, and often
 used to sit before it in the twilight, watching, as they declared, the
 faces of the dead peering at them through the foam.
 
-During the rush for the California gold-fields in the '50's a party took
+~During the rush for the California gold-fields in the '50's a party took
 the route by Gila River, and set across the desert. The noon temperature
 was 120, the way was strewn with skeletons of wagons, horses, and men,
 and on the second night after crossing the Colorado the water had given
@@ -14699,28 +14699,28 @@ Pittston, Pennsylvania, where its name-giver jumped off to escape
 Indians; and Peabody's leap, of thirty feet, on Lake Champlain, where Tim
 Peabody, a scout, escaped after killing a number of savages.
 
-At Jump Mountain, near Lexington, Virginia, an Indian couple sprang off
+~At Jump Mountain, near Lexington, Virginia, an Indian couple sprang off
 because there were insuperable bars to their marriage.
 
-At the rock on the Wissahickon a girl sought death because her lover was
+~At the rock on the Wissahickon a girl sought death because her lover was
 untrue to her.
 
-At Muscatine the cause of a maid's demise and that of her lover was the
+~At Muscatine the cause of a maid's demise and that of her lover was the
 severity of her father, who forbade the match because there was no war in
 which the young man could prove his courage.
 
-At Lefferts Height a girl stopped her recreant lover as he was on his way
+~At Lefferts Height a girl stopped her recreant lover as he was on his way
 to see her rival, and urging his horse to the edge of the bluff she
 leaped with him into the air.
 
-Monument Mountain, a picturesque height in the Berkshires, is faced on
+~Monument Mountain, a picturesque height in the Berkshires, is faced on
 its western side by a tall precipice, from which a girl flung herself
 because the laws of her tribe forbade her marriage with a cousin to whom
 she had plighted troth. She was buried where her body was found, and each
 Indian as he passed the spot laid a stone on her grave--thus, in time,
 forming a monument.
 
-“Purgatory,” the chasm at Newport, Rhode Island, through which the sea
+~“Purgatory,” the chasm at Newport, Rhode Island, through which the sea
 booms loudly after a storm, was a scene of self-sacrifice to a hopeless
 love on the part of an Indian pair in a later century, though there is an
 older tradition of the seizure of a guilty squaw, by no less a person
@@ -14728,7 +14728,7 @@ than the devil himself, who flung her from the cliff and dragged her soul
 away as it left her body. His hoof-marks were formerly visible on the
 rocks.
 
-At Hot Springs, North Carolina, two conspicuous cliffs are pointed out on
+~At Hot Springs, North Carolina, two conspicuous cliffs are pointed out on
 the right bank of the French Broad River: Paint Rock--where the
 aborigines used to get ochre to smear their faces, and which they
 decorated with hieroglyphics--and Lover's Leap. It is claimed that the
@@ -14743,7 +14743,7 @@ reconciliation come in time,--he scaled the rock in her company and
 leaped with her into the stream. They awoke as man and wife in the happy
 hunting-ground.
 
-In 1700 there lived in the village of Keoxa, below Frontenac, Minnesota,
+~In 1700 there lived in the village of Keoxa, below Frontenac, Minnesota,
 on the Mississippi River, a Dakota girl named Winona (the First Born),
 who was loved by a hunter in her tribe, and loved him in return. Her
 friends commended to her affections a young chief who had valiantly
@@ -14769,7 +14769,7 @@ her that he would no longer oppose her choice. She gave no heed to their
 appeals, but, when the song was finished, walked to the edge of the rock,
 leaped out, and rolled lifeless at the feet of her people.
 
-When we say that the real name of Lover's Leap in Mackinac is
+~When we say that the real name of Lover's Leap in Mackinac is
 Mechenemockenungoqua, we trust that it will not be repeated. It has its
 legend, however, as well as its name, for an Ojibway girl stood on this
 spire of rock, watching for her lover after a battle had been fought and
@@ -14791,7 +14791,7 @@ these doings, restored them to the island and banished the devil, who
 fell to a world of evil spirits underground, where he became the father
 of the white race, and has ever since persecuted the Indians by proxy.
 
-On the same island of Mackinac the English had a fort, the garrison of
+~On the same island of Mackinac the English had a fort, the garrison of
 which was massacred in 1763. A sole survivor--a young officer named
 Robinson--owed his life to a pretty half-breed who gave him hiding in a
 secluded wigwam. As the spot assured him of safety, and the girl was his
@@ -14807,7 +14807,7 @@ stepping back, with her arms still around his neck, she fell from the
 cliff, dragging him with her, and both were killed. The edge of the rock
 fell shortly after, carrying the house with it.
 
-Matiwana, daughter of the chief of the Omahas, whose village was near the
+~Matiwana, daughter of the chief of the Omahas, whose village was near the
 mouth of Omaha Creek, married a faithless trader from St. Louis, who had
 one wife already, and who returned to her, after an absence among his own
 people, with a third, a woman of his own color. He coldly repelled the
@@ -14815,7 +14815,7 @@ Indian woman, though he promised to send her boy--and his--to the
 settlements to be educated. She turned away with only a look, and a few
 days later was found dead at the foot of a bluff near her home.
 
-White Rocks, one hundred and fifty feet above Cheat River, in Fayette
+~White Rocks, one hundred and fifty feet above Cheat River, in Fayette
 County, Pennsylvania, were the favorite tryst of a handsome girl, the
 daughter of a well-to-do farmer of that region, and a dashing fellow who
 had gone into that country to hunt. They had many happy days there on the
@@ -14838,7 +14838,7 @@ summit when an irresistible impulse came upon him to leap down where the
 girl had fallen, and atone with his own blood for the shedding of hers.
 He gave way to this prompting, and the fall was fatal.
 
-Some years before the outbreak of the Civil War a man with his wife and
+~Some years before the outbreak of the Civil War a man with his wife and
 daughter took up their residence in a log cabin at the foot of Sunrise
 Rock, near Chattanooga, Tennessee. It seemed probable that they had known
 better days, for the head of the household was notoriously useless in the
@@ -14867,7 +14867,7 @@ people came from far and near to offer sympathy to the mother, garbed in
 black, and the father, with his hair turned white, but the lawyer from
 Chattanooga was not there.
 
-The name of Indian Maiden's Cliff--applied to a precipice that hangs
+~The name of Indian Maiden's Cliff--applied to a precipice that hangs
 above the wild ravine of Stony Clove, in the Catskills--commemorates the
 sequel to an elopement from her tribe of an Indian girl and her lover.
 The parents and relatives had opposed the match with that fatal fatuity
@@ -14882,7 +14882,7 @@ shadows.
 Similar to this is the tale of Lover's Leap in the dells of the Sioux,
 among the Black Hills of South Dakota.
 
-At New Milford, Connecticut, they show you Falls Mountain, with the cairn
+~At New Milford, Connecticut, they show you Falls Mountain, with the cairn
 erected by his tribe in 1735 to chief Waramaug, who wished to be buried
 there, so that, when he was cold and lonely in the other life, he could
 return to his body and muse on the lovely landscape that he so enjoyed.

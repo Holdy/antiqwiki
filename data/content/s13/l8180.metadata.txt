@@ -1,6 +1,8 @@
+coordinates: 42.01657145180047, -72.13338587365885
 location: Thompson, Connecticut
 next: 8217
 previous: 8145
 storyCount: 1
 summary: After being invited by the Narragansetts for a feast, the Nipmucks returned the gesture but ended up in a deadly quarrel with their guests which resulted in a massacre. The Great Spirit later punished the Nipmucks for their treachery by causing the ground to collapse and create Mashapaug Lake, drowning all but one elder.
+tags: origin-myth
 title: A Dinner and Its Consequences

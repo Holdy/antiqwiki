@@ -1,0 +1,8 @@
+coordinates: 35.366819678667476, -82.98952444233356
+location: Balsam Mountains
+next: 14599
+previous: 14551
+storyCount: 1
+summary: A Cherokee girl's vanity and manipulation lead to tragedy in the Balsam Mountains when her actions incite jealousy and violence, culminating in her own downfall. The haunted spring now reflects her disfigured face, a testament to her past deeds and the curse brought upon her.
+tags: folklore-spring approx
+title: The Haunted Spring

@@ -1,6 +1,8 @@
+coordinates: 44.01332490201716, -96.3252179950082
 location: Coteau des Prairies, Minnesota
 next: 11165
 previous: 11080
 storyCount: 1
 summary: Pipestone forms a revered quarry on the Coteau des Prairies where all tribes, in a spirit of peace, created pipe-bowls as Manitou decreed, viewing it as a vital symbol of brotherhood. Guarded by the spirits of two squaws, this site is imbued with spiritual significance and legendary tales, celebrating indigenous traditions and the origin of people.
+tags: folklore approx
 title: Pipestone

@@ -1,6 +1,8 @@
+coordinates: 42.34093682557616, -82.9799214145358
 location: Detroit
 next: 10597
 previous: 10506
 storyCount: 1
 summary: Jacques Morand sought the help of a witch to transform into a were-wolf to kidnap Genevieve Parent, but as he attempted to capture her, he was turned to stone by the Virgin's image. Meanwhile, another maiden named Archange Simonet was abducted by a were-wolf during her wedding, and despite her husband's relentless search, she remained lost, with only local superstitions about were-wolves and catfish left behind in the Detroit area.
+tags: were-wolf approx
 title: Were-Wolves of Detroit

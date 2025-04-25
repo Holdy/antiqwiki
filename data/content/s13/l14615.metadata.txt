@@ -1,0 +1,8 @@
+coordinates: 42.84380964574824, -71.66096577709321
+location: Milford Springs, New Hampshire
+next: 14618
+previous: 14609
+storyCount: 1
+summary: A dying boy's dream revealed the curative powers of Milford Springs. The discovery brought hope to many seeking healing in New Hampshire.
+tags: folklore-spring approx
+title: The Healing Dream of Milford Springs

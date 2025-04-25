@@ -1,44 +1,36 @@
 <html>
-    <head>
-        <link rel="stylesheet" href="style.css">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script src="./index.js" ></script>
-    </head>
-    <body>
-        
+  <head>
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="./index.js"></script>
+  </head>
+  <body>
+    <div id="nav-row"></div>
 
-            <div id="nav-row">
+    <div id="main-column">
+      <div id="main-top"></div>
+
+      <div id="main-row">
+        <div id="main-left"></div>
+
+        <div id="main-content">
+          <div id="main-header">
+            <div id="main-header-content"></div>
+            <div id="main-header-end">
+              <a onclick="go('previous')">(previous)</a>
             </div>
-            
-            <div id="main-column">
-                <div id="main-top"></div>
-
-                <div id="main-row">
-
-                    <div id="main-left"></div>
-
-                    <div id="main-content">
-                <div id="main-header">
-                    <div id="main-header-content"></div>
-                    <div id="main-header-end"><a onclick="go('previous')">(previous)</a></div>
-                </div>
-                <div id="main-body">
-                    This place is but a whisper of what it will become. <br/>
-                    Like an untouched scroll waiting for the storyteller's quill, this page slumbers in quiet anticipation. <br/>
-                    Soon, words will weave their magic, paths will unfold, and secrets will stir beneath the surface. <br/>
-                    But for now, be patient - every great <a href="/?The_Mermaid_wife_s1-l7410">tale</a> begins in silence.<br/>
-                </div>
-                <div id="main-footer">
-                    <div id="main-footer-content"></div>
-                    <div id="main-footer-end"><a onclick="go('next')">(next)</a></div>
-                </div>
-                    </div>
-
-                    <div id="main-right"></div>
-                </div>
-
-                <div id="main-bottom"></div>
-
+          </div>
+          <div id="main-body"></div>
+          <div id="main-footer">
+            <div id="main-footer-content"></div>
+            <div id="main-footer-end"><a onclick="go('next')">(next)</a></div>
+          </div>
         </div>
-    </body>
+
+        <div id="main-right"></div>
+      </div>
+
+      <div id="main-bottom"></div>
+    </div>
+  </body>
 </html>

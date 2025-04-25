@@ -1,0 +1,6 @@
+location: Mackinac Island
+next: 14810
+previous: 14772
+storyCount: 1
+summary: In 1763 on Mackinac Island, a young English officer named Robinson was saved by a half-breed woman during a massacre and they lived together as a couple until he returned to service with another wife. Before parting forever, the woman asked for a final meeting, during which she tragically pulled Robinson off a cliff, resulting in both of their deaths.
+title: Love and Tragedy on Mackinac Island

@@ -1,6 +1,8 @@
+coordinates: 42.52149826033214, -70.8985422352867
 location: Salem
 next: 7096
 previous: 6992
 storyCount: 1
 summary: In Salem, a reclusive alchemist tried to create an elixir of life, working tirelessly with herbs and concoctions. After failing to stay awake and finish his complex brew, he consumed an incomplete potion that tragically ended his life instead.
+tags: practitioner approx
 title: The Salem Alchemist

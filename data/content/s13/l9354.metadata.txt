@@ -4,5 +4,5 @@ next: 9398
 previous: 9304
 storyCount: 1
 summary: In the aftermath of the Civil War, Lieutenant Charles Murphy in Cuthbert, Georgia, encounters the ghost of his murdered brother, who leads him to the site of his own body in a swamp, revealing through supernatural means that Jim Brown was the murderer. Brown, motivated by the chance to rob a Union officer carrying funds, is arrested based on evidence and spiritual intervention, lynched by soldiers, and ultimately hanged after a formal conviction.
-tags: named-ghost approx
+tags: ghost-informant
 title: A Ghostly Avenger

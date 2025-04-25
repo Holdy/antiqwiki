@@ -1,6 +1,8 @@
+coordinates: 40.97579377949512, -72.24682944593503
 location: Long Island
 next: 3303
 previous: 3180
 storyCount: 1
 summary: Wyandank, known as the "Washington of the Montauks," was a revered chief who often led his people into battle, known for his legendary war cries inspired by the scream of eagles. While hunting on Block Island, his actions led to a fight where he was the sole survivor; upon returning to Long Island, he was pursued by a malicious magician whose plots ultimately failed, leading to legends around Whooping Hollow.
+tags: wizard approx
 title: WYANDANK

@@ -1,6 +1,8 @@
+coordinates: 40.88763523515969, -75.76682603192017
 location: Mauch Chunk, Pennsylvania
 next: 4044
 previous: 3946
 storyCount: 1
 summary: In Mauch Chunk, Pennsylvania, the young chief Onoko and his wife Wenonah's happiness and success incite the envy of Mitche Manitou, who creates a chasm in the mountains, leading to the tragic death of the couple as the lake rushes through the gap. Their doomed love story is immortalized in the name of a nearby glen and cascade, while Manitou's jealousy reminds all that excessive happiness invites the wrath of the gods.
+tags: legend
 title: The Envy of Manitou

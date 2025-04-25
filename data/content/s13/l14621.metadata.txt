@@ -1,0 +1,8 @@
+coordinates: 43.446190702457834, -70.35684454643213
+location: Biddeford Pool, Maine
+next: 14625
+previous: 14618
+storyCount: 1
+summary: Every year on June 26th, Biddeford Pool in Maine becomes a miraculous place where those who bathe in its waters are restored to health. This phenomenon is linked to the joint festival of Saints Anthelm and Maxentius, celebrated on that day.
+tags: folklore-spring
+title: The Miracle of Biddeford Pool

@@ -1,0 +1,6 @@
+location: Whitmire Hill, Georgia
+next: 14450
+previous: 14432
+storyCount: 2
+summary: In Whitmire Hill, Georgia, a terrifying headless phantom on a giant horse appears before travelers, vanishing once it frightens them, or alternatively, assaults them with stones while remaining invisible. Additionally, legends of buried treasure often involve encounters with the ghosts of pirates and misers protecting their hidden riches.
+title: The Haunting of Whitmire Hill and The Perils of Buried Treasure

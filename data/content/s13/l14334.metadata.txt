@@ -1,0 +1,6 @@
+location: mountains
+next: 14339
+previous: 14329
+storyCount: 1
+summary: The Cherokee people believe in the existence of kings of rattlesnakes, revered as ancient and majestic creatures residing in the mountains. These rattlesnake kings, thought to possess great power, have a crown of dazzling carbuncle and can attract any creature they gaze upon.
+title: The Rattlesnake Kings of the Cherokee

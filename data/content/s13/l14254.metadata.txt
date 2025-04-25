@@ -1,0 +1,6 @@
+location: Iowa
+next: 14259
+previous: 14246
+storyCount: 1
+summary: Spirit Canon, a rocky gorge along Big Sioux River in Iowa, was believed to be carved by a spirit that manifested as a dragon. Due to the dragon's immense size and ferocity, the local Indian tribes avoided the area to escape its wrath.
+title: The Dragon of Spirit Canon

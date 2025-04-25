@@ -1,6 +1,8 @@
+coordinates: 39.643704189461694, -75.75274585998818
 location: Newark, Delaware
 next: 3436
 previous: 3387
 storyCount: 1
 summary: During the British occupation of Iron Hill near Newark, Delaware, a phantom horseman, dressed in white, haunted the American outposts, causing fear and confusion among the pickets. When an experienced corporal took charge, he discovered the ghost was actually a British scout posing as a specter to gather intelligence, successfully neutralizing him with a well-aimed shot.
+tags: hoax-ghost
 title: The Phantom Dragoon

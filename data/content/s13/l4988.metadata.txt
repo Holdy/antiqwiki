@@ -1,6 +1,8 @@
+coordinates: 44.2703001640504, -71.30335562509661
 location: Mount Washington
 next: 5037
 previous: 4949
 storyCount: 1
 summary: Passaconaway, a revered chief and possible native missionary, was known for his wisdom and reputed magical powers, which he used to resist the encroachment of white settlers. At an advanced age, he embarked on a mystical journey to heaven, carried by a sled drawn by wolves across the New England wilderness, finally ascending as a fiery meteor into the skies from the peak of Mount Washington.
+tags: prophet approx
 title: PASSACONAWAY'S RIDE TO HEAVEN

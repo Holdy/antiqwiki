@@ -1,6 +1,8 @@
+coordinates: 41.63702679825656, -71.57442626783335
 location: Hopkins Hill, Rhode Island
 next: 8088
 previous: 8008
 storyCount: 1
 summary: In Hopkins Hill, Rhode Island, an old witch was believed to haunt the woods around a boulder known as Witch Rock, causing mysterious events like disappearing items, suffering livestock, and storms she seemingly controlled. Attempts to break the curse failed, culminating in a climactic moment when a crow transformed into the witch and then into a black cat that vanished into the ground, leaving the area shunned and overgrown.
+tags: witch approx
 title: The Crow and Cat of Hopkins Hill

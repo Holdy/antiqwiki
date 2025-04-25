@@ -1,6 +1,8 @@
+coordinates: 43.859679255778246, -71.26263126733308
 location: Tamworth
 next: 4988
 previous: 4909
 storyCount: 1
 summary: After Chocorua's son dies from ingesting poison at Cornelius Campbell's home in Tamworth, Chocorua believes the death was due to treachery and kills Campbell's family in retaliation. In pursuit of revenge, Campbell tracks Chocorua to a mountain summit where Chocorua curses the white men before being fatally shot by Campbell, leading to a series of misfortunes for the settlers.
+tags: curse approx
 title: Chocorua

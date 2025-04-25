@@ -1,0 +1,6 @@
+location: Twin Lakes
+next: 14208
+previous: 14196
+storyCount: 1
+summary: In April 1890, a water-snake was sighted in one of the Twin Lakes located in the Berkshire Hills. Witnesses estimated its length to be around twenty-five feet during its appearance.
+title: The Water-Snake of Twin Lakes

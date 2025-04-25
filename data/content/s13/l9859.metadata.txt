@@ -1,6 +1,8 @@
+coordinates: 38.819858393104504, -82.17661864877309
 location: Gallipolis, Ohio
 next: 9914
 previous: 9812
 storyCount: 1
 summary: Herman Deluse, suspected to be a former pirate, lived alone in an old house near Gallipolis, Ohio, which was rumored to be cursed; after his mysterious death, the house was left abandoned until a clergyman seeking shelter found it haunted by Deluse's ghost. The clergyman returned to the house with his son and a lawyer to investigate, only for his son to mysteriously die while discovering a hidden cache of Spanish coins, leaving a rustic jury to conclude that both deaths were acts of God.
+tags: named-ghost approx
 title: The House Accursed

@@ -1,0 +1,6 @@
+location: Crater Lake, Oregon
+next: 14324
+previous: 14282
+storyCount: 1
+summary: The Klamaths were wary of Crater Lake, known for water-devils that drowned anyone who approached, and while one man saw it as a divine site and received visions, his actions led to his violent death by these mythical creatures. Ever since, the lake's waters have been considered dangerous, and the Phantom Ship rock is viewed as a monstrous entity to the local tribes.
+title: The Haunting of Crater Lake

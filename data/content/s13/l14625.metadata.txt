@@ -1,0 +1,8 @@
+coordinates: 40.0742069363544, -106.11148221003566
+location: Colorado
+next: 14635
+previous: 14621
+storyCount: 1
+summary: An elderly chief of the Ute tribe, known for his wise counsel against war, was overthrown by younger warriors who suffered defeat in battle due to their rash actions. Heartbroken, the chief's spirit transformed into a gushing spring at the site of his death, believed to be the origin of the Hot Sulphur Springs in Colorado, which the Utes utilized for healing purposes.
+tags: folklore-spring
+title: The Origin of Hot Sulphur Springs

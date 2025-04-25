@@ -1,6 +1,8 @@
+coordinates: 42.48630860902287, -73.18418620234293
 location: Pittsfield, Massachusetts
 next: 6958
 previous: 6850
 storyCount: 1
 summary: In the eerie valley known as Wizard's Glen near Pittsfield, Massachusetts, a hunter named John Chamberlain witnessed a sinister ceremony led by demons and an Indian priest, where a human sacrifice was nearly made to the devil. Chamberlain's intervention with a Bible dispersed the demonic forces during a storm, saving a girl from a sacrificial fate and restoring calm to the haunted hills.
+tags: wizard
 title: Wizard's Glen Encounter

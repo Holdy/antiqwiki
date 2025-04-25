@@ -1,0 +1,8 @@
+coordinates: 35.89273180485488, -82.82140164818435
+location: Hot Springs, North Carolina
+next: 14746
+previous: 14723
+storyCount: 1
+summary: In Hot Springs, North Carolina, the cliffs along the French Broad River tell two legends, one being that a doomed Indian couple leaped from Lover's Leap into the stream to escape tribal opposition to their union. The other tale suggests hostiles drove a girl from the same cliff into the gulf below.
+tags: dark-tale
+title: Legends of Lover's Leap

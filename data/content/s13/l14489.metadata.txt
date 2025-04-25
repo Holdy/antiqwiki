@@ -1,6 +1,8 @@
+coordinates: 29.215976282673413, -82.05291047678001
 location: Florida
-next: 14681
-previous: 14375
+next: 14508
+previous: 14473
 storyCount: 2
 summary: In ancient times, both the indigenous people and the early European explorers believed in magical springs endowed with healing properties and spirit guardians, with varying legends about the elusive fountain of youth inspiring quests and long treks across the American landscape. Among the most famous of these stories is that of Ponce de Leon, who searched the jungles of Florida for a miraculous spring, but despite the fascination and myth surrounding these waters, many were never found or their stories ended in tragic mishaps, leaving the mysterious springs enshrined in local lore across multiple locations.
+tags: folklore spring
 title: Storied Springs

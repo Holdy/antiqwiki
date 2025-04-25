@@ -1,6 +1,8 @@
+coordinates: 38.8978, -90.199
 location: Alton, Illinois
 next: 9942
 previous: 9859
 storyCount: 1
 summary: Father Marquette recounted legends of the 'piasa bird,' a mythical creature depicted in relief on the bluffs near Alton, Illinois, and described it as a terrifying man-eater preying on local tribes. The vivid description combined animalistic and humanoid features, leading some to speculate whether early encounters with prehistoric creatures inspired such myths.
+tags: folklore
 title: Marquette's Man-Eater

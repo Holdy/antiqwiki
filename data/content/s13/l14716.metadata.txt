@@ -1,0 +1,8 @@
+coordinates: 42.257917240552594, -73.34988923626257
+location: Monument Mountain
+next: 14723
+previous: 14712
+storyCount: 1
+summary: A girl from an indigenous tribe tragically threw herself from a precipice on Monument Mountain due to a forbidden marriage with her cousin. As a tribute, passing tribe members added stones to her grave, eventually creating a monument.
+tags: dark-tale approx
+title: The Tragedy of Monument Mountain

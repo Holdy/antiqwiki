@@ -1,6 +1,8 @@
+coordinates: 40.98711286126347, -74.74269059521306
 location: Andover, New Jersey
 next: 3343
 previous: 3250
 storyCount: 1
 summary: After an agreement among three friends in Andover, New Jersey, to show a sign from the afterlife, Hill dies and later seemingly returns to leave a ghostly handprint on Evans. This incident profoundly affects Evans, who decreases his visits to the tavern, and carries the eerie mark until his own death.
+tags: haunting approx
 title: MARK OF THE SPIRIT HAND

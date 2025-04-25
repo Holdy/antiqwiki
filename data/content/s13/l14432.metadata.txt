@@ -1,0 +1,6 @@
+location: Sage's ravine
+next: 14438
+previous: 14417
+storyCount: 1
+summary: A hamlet in Sage's ravine, located on the east side of the Dome of the Taconics, experienced an unexplained assault after nightfall, resulting in considerable damage to one house. The cause of this mysterious event was never identified, and none of the residents was known to harbor any malicious enemies.
+title: The Unseen Attack on the Taconics

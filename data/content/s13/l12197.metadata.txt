@@ -1,6 +1,8 @@
+coordinates: 35.904957257455216, -105.01150844684851
 location: Fort Union, New Mexico
 next: 12247
 previous: 12153
 storyCount: 1
 summary: At Fort Union, New Mexico, a young lieutenant fell in love with a captivating woman, who promised to marry him if he survived a mission against Apaches. After the lieutenant died, the woman planned to marry another, but during the wedding, the lieutenant’s ghost appeared, danced her to death, then vanished.
+tags: haunting
 title: The Death Waltz

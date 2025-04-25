@@ -1,0 +1,6 @@
+location: Yuma
+next: 14681
+previous: 14635
+storyCount: 1
+summary: During their journey across the desert by the Gila River, a group of travelers in the 1850s faced extreme thirst and uncertainty until a child's prayer seemingly caused a spring to miraculously appear from the sand. This unexpected source of water provided relief, but when migration patterns changed years later, the spring, known as New River Spring, dried up.
+title: The Miracle of New River Spring

@@ -1,6 +1,8 @@
+coordinates: 40.097090780336444, -75.46965859781386
 location: Valley Forge
 next: 3544
 previous: 3436
 storyCount: 1
 summary: Colonel Howell, of the king's troops, secretly falls in love with the farmer's daughter near Valley Forge, but their romance is ominously foreshadowed by the mysterious sound of a phantom drum heralding approaching calamity. On their wedding day, despite attempts to leave the army for love, Howell is betrayed, tried for desertion, and executed, with the eerie drum sound mirroring his fate.
+tags: drumming approx
 title: The Phantom Drummer

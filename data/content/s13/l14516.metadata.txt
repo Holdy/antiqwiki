@@ -1,0 +1,8 @@
+coordinates: 33.2676296197339, -84.19583749012921
+location: null
+next: 14521
+previous: 14513
+storyCount: 1
+summary: The Creeks believed in the existence of a mystical spring of life located between the Flint and Ocmulgee Rivers. This sacred place was described as an island in a marsh, protected by labyrinths and home to the most beautiful women on earth.
+tags: folklore-spring approx
+title: The Sacred Spring of the Creeks

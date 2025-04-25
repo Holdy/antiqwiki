@@ -1,0 +1,8 @@
+coordinates: 45.85292353855447, -84.60397908864604
+location: Mackinac
+next: 14794
+previous: 14746
+storyCount: 2
+summary: An Ojibway girl named Mechenemockenungoqua leapt from the rock of Lover's Leap at Mackinac after a vision revealed her lover's fate, allowing her spirit to join his. In another tale from the same rock, a woman was saved from falling by her lover, leading to their restoration while the devil who desired her was banished.
+tags: dark-tale
+title: Tales of Lover's Leap

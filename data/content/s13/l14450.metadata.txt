@@ -1,0 +1,6 @@
+location: St. Mary's, Illinois
+next: 14467
+previous: 14438
+storyCount: 1
+summary: In St. Mary's, Illinois, two young men, Groves and Kirk, were mysteriously pelted with tightly packed snowballs thrown with great accuracy despite the dark evening, causing significant injury to Kirk. The snowball attack continued until dawn, with no visible assailant in sight, and Kirk, who was severely bruised, tragically died within the year.
+title: The Mysterious Snowball Attack

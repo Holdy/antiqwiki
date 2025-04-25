@@ -1,6 +1,8 @@
+coordinates: 40.644678062459626, -73.98841316493125
 location: Brooklyn
 next: 3250
 previous: 3146
 storyCount: 1
 summary: Joost, a fiddler who had been playing at a wedding and drinking heavily, encounters a mysterious stranger who challenges him to a musical duel on a rock in Brooklyn. After an intense contest through the night, Joost's final hymn exclaims his victory, causing the stranger to vanish in a burst of fire, leaving behind a hoof mark as proof of their encounter.
+tags: devil approx
 title: The Rival Fiddlers

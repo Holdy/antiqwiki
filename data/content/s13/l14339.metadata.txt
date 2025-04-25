@@ -1,0 +1,6 @@
+location: Klamath Lake
+next: 14342
+previous: 14334
+storyCount: 1
+summary: The Native Americans stayed away from Klamath Lake, believing it was haunted by a monstrous creature. This creature was said to be part dragon and part hippopotamus, instilling fear in those who heard its tale.
+title: The Haunted Lake of Klamath

@@ -1,0 +1,6 @@
+location: null
+next: 14263
+previous: 14254
+storyCount: 1
+summary: The Hurons believed in a monster serpent named Okniont, renowned for its horn capable of piercing trees, rocks, and hills. A piece of this horn was considered a valuable amulet, providing good luck to its possessor.
+title: Legend of the Huron Serpent Okniont

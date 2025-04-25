@@ -1,6 +1,8 @@
+coordinates: 41.49765169370695, -72.47962604375904
 location: Moodus, Connecticut
 next: 8418
 previous: 8286
 storyCount: 2
 summary: In Moodus, Connecticut, mysterious noises have been reported since the early 1700s, attributed by locals to everything from subterranean movements to witchcraft battles beneath Mount Tom. Dr. Steele, an Englishman, attempted to seize a powerful gem believed to cause these noises, but his endeavor ended disastrously, with the gem reportedly sinking his ship in mid-ocean, though its eerie glow persists beneath the waters.
+tags: folklore
 title: Moodus Noises

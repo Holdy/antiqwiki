@@ -1,6 +1,8 @@
+coordinates: 41.249489669209545, -72.92819357538366
 location: New Haven
 next: 8254
 previous: 8180
 storyCount: 1
 summary: In 1647, a New Haven ship bound for Ireland met ill omens from the start, with ice blocking its path and fog enveloping it as it departed, leading to its mysterious disappearance. Months later, townspeople witnessed a ghostly vision of the ship sailing flat against the wind with no crew, only to vanish, confirming the feared fate that it was lost at sea with Captain Lamberton.
+tags: ghost-ship
 title: THE NEW HAVEN STORM SHIP

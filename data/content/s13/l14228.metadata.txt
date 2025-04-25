@@ -1,0 +1,6 @@
+location: Silver Lake, Gainesville, New York
+next: 14232
+previous: 14219
+storyCount: 1
+summary: In 1855, a great serpent was reportedly seen residing in Silver Lake, near Gainesville, New York. Local old settlers claim that the serpent still emerges from the surface occasionally.
+title: The Serpent of Silver Lake

@@ -1,0 +1,6 @@
+location: Sysladobosis Lake, Maine
+next: 14214
+previous: 14204
+storyCount: 1
+summary: Sysladobosis Lake in Maine is home to a snake that has a head resembling a dog's, measuring only eight feet long. In contrast, Skiff Lake in New Brunswick boasts a similar but much larger snake, which is thirty feet long.
+title: Snake Tales of North America

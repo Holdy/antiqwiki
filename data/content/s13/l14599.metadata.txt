@@ -1,0 +1,8 @@
+coordinates: 38.591753837402045, -113.18407384686765
+location: Ballston
+next: 14606
+previous: 14570
+storyCount: 1
+summary: The Mohawks carried Sir William Johnson to High Rock Spring in Ballston in 1767 to heal a wound, which was renowned among the Indians for its medicinal properties. The spring, deemed sacred, was believed to have been stirred by the Great Spirit, causing its waters to leap and bubble non-naturally.
+tags: folklore-spring
+title: The Sacred Healing Waters of High Rock Spring

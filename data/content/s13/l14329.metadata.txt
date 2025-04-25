@@ -1,0 +1,6 @@
+location: Gulf of Mexico
+next: 14334
+previous: 14324
+storyCount: 1
+summary: The Indians of Louisiana, Mississippi, and Texas believed in the existence of a mystical King Snake living in the Gulf of Mexico. This snake resided in a cavern of pure crystal, and its emerald-shaped head illuminated the ocean when it neared the surface.
+title: The Legend of the King Snake
