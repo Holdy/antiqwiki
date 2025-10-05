@@ -1,0 +1,6 @@
+location: null
+next: 62
+previous: 1
+storyCount: 0
+summary: The text lists various titles by the same author, focusing primarily on themes of supernatural occurrences and haunted locations. The works mentioned range from ghost tales specific to regions like Scotland to broader tales of ghostly phenomena.
+title: Multiple Works by the Author

@@ -1,0 +1,6 @@
+location: Highlands
+next: 10765
+previous: 10758
+storyCount: 1
+summary: Amidst the mysterious fog-laden Highlands, two young siblings find themselves lost and must rely on each other and their instincts to survive. Guided by old legends and the echo of familiar voices, they uncover hidden truths about their past and their connection to the land.
+title: CHILDREN OF THE MIST

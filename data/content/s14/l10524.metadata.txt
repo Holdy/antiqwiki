@@ -1,0 +1,6 @@
+location: null
+next: 10529
+previous: 10522
+storyCount: 2
+summary: Jennie Baxter is a determined and resourceful journalist navigating the challenges of her profession. Her investigations often take her through complex situations, demanding quick thinking and bravery.
+title: CHRIS OF ALL SORTS

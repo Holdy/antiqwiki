@@ -1,0 +1,6 @@
+location: Sydenham
+next: 3157
+previous: 2802
+storyCount: 1
+summary: In a small house in Sydenham, a family named the Parminters experienced unexplainable supernatural occurrences involving strange noises and sightings of a mysterious, scaly creature crawling over them. Despite attempts from scientists, a priest, and an occultist to address the hauntings, the phenomena persisted until they discovered the source, a large black Indian centipede pinned at the bottom of a trunk in their loft.
+title: A Strange Case of Haunting in Sydenham

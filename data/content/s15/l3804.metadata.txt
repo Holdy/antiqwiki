@@ -1,0 +1,6 @@
+location: Syderstone
+next: 3823
+previous: 3775
+storyCount: 1
+summary: Elizabeth Goff, a widow from Docking, Norfolk, recounts her experiences while serving the Rev. William Mantle when he moved from Docking to Syderstone, where she witnessed unsettling occurrences in the parsonage. During her six-month tenure, a frightening incident involving Mrs. Mantle's sister was particularly memorable, contributing to the family's alarm over unusual events in the house.
+title: The Unsettling Experiences at Syderstone Parsonage

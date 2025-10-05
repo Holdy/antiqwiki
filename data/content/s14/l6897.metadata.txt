@@ -1,0 +1,6 @@
+location: Spain
+next: 6917
+previous: 6882
+storyCount: 1
+summary: The story follows Don Juan of Austria, the son of Charles V, whose ambitions to attain royal status lead to his downfall, orchestrated by his brother, Philip II. Set against the backdrop of the Spanish Empire in the late sixteenth century, it explores the dramatic and tragic events of his life, culminating in his untimely death near Namur.
+title: A KNIGHT OF SPAIN

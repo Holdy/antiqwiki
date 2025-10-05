@@ -1,0 +1,6 @@
+location: null
+next: 3827
+previous: 3657
+storyCount: 1
+summary: The text describes the practice of Spiritualism, which involves communicating with supposed spirits of the dead, as carrying elements similar to necromancy, and is seen as being embraced by former skeptics of the supernatural. Spiritualism challenges traditional religious doctrines, particularly rejecting eternal damnation, and presents itself as a belief in universal salvation.
+title: The Rise and Beliefs of Modern Spiritualism

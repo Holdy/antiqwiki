@@ -1,0 +1,6 @@
+location: Russia
+next: 6269
+previous: 5977
+storyCount: 1
+summary: Werwolves in Russia and Siberia are prevalent due to the primitive and wild conditions that favor anomalies like lycanthropy, with dense forests and vast plains creating an ideal habitat for these creatures. The preferred regions for werwolves are the Caucasus and Ural Mountains, where invoking rituals involving black magic and incantations are practiced to become werwolves, highlighting a significant cultural lore and fear surrounding these entities.
+title: The Werwolf in Russia and Siberia

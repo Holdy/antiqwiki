@@ -1,0 +1,6 @@
+location: Chicago
+next: 2804
+previous: 2800
+storyCount: 1
+summary: In the bustling city of Chicago, an unsuspecting family discovers an old trunk hidden in the attic of their ancestral home. As they delve deeper into the trunk's contents, they uncover secrets that change their understanding of their family's history.
+title: The Trunk

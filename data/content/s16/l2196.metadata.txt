@@ -1,0 +1,8 @@
+coordinates: 51.50835276724348, -0.07573472568114238
+location: Tower of London
+next: 2234
+previous: 2137
+storyCount: 1
+summary: A sentry at the Tower of London reported seeing a ghostly figure resembling a bear, which frightened him so much that he collapsed and died soon after. The account is disputed by an eyewitness, Edmund Lenthal Swifte, who claims the apparition emerged from a different location, deepening the mystery surrounding the soldier's death.
+tags: haunting
+title: The Phantom of the Tower

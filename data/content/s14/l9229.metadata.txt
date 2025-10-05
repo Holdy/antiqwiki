@@ -1,0 +1,6 @@
+location: null
+next: 10471
+previous: 9228
+storyCount: 0
+summary: The text is a comprehensive catalog listing various books and their editions covering a range of genres including poetry, fiction, art, and travel, likely aimed at providing potential readers with numerous options for Christmas gifts. The catalog includes notable literary works such as Lyrical Ballads by Wordsworth and Coleridge, The Rubaiyat of Omar Khayyam by Edward FitzGerald, and various plays, highlighting the breadth of literary offerings available.
+title: 

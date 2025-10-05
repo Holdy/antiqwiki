@@ -1,0 +1,6 @@
+location: London
+next: 1864
+previous: 1615
+storyCount: 1
+summary: John W. Mayhewe, while using dressing room 25 at the Prince Regent Theatre, experienced unsettling occurrences, including seeing gloves being moved by invisible hands and feeling an inexplicable presence in his coat. His unsettling experience was consistent with previous reports of hauntings tied to room 25, possibly stemming from a past tragic event involving madness.
+title: Haunted Rooms at the Prince Regent Theatre

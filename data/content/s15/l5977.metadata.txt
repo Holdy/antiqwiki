@@ -1,0 +1,6 @@
+location: quaint village
+next: 5982
+previous: 5972
+storyCount: 1
+summary: In the quaint village, Molly navigates the complexities of fortune and family, discovering unexpected alliances and opportunities. Her journey through personal challenges leads to transforming insights, shaping her future in unexpected ways.
+title: MOLLY'S FORTUNES

@@ -1,0 +1,6 @@
+location: Canada
+next: 795
+previous: 614
+storyCount: 1
+summary: While stationed in Canada, John Cope Sherbroke and George Wynyard experienced a supernatural event when they both saw the apparition of Wynyard's brother in broad daylight, who they later discovered died at the exact same time they saw his spirit. Despite the overwhelming coincidence and confirmation of Wynyard's brother's death, Sherbroke remained skeptical of the supernatural, even when encountering a man in England who bore a striking resemblance to the apparition.
+title: The Apparition in Canada

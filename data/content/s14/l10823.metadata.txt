@@ -1,0 +1,6 @@
+location: London
+next: 10828
+previous: 10818
+storyCount: 2
+summary: In the bustling city of London, a group of daring individuals set out on an unexpected journey that challenges their courage and resilience. As they navigate through unforeseen obstacles, they discover uncharted strengths and form lasting bonds that change their lives forever.
+title: The Adventurers

@@ -1,0 +1,6 @@
+location: null
+next: 128
+previous: 80
+storyCount: 0
+summary: The text provided is a title without any story description or content. It lacks narrative elements and details to summarize.
+title: WERWOLVES

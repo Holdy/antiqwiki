@@ -1,0 +1,6 @@
+location: null
+next: 10816
+previous: 10809
+storyCount: 1
+summary: In a bustling city, two cousins reunite after several years and embark on a journey to explore their family's hidden past. As they uncover long-lost secrets, their bond grows stronger, leading to new revelations about their heritage and themselves.
+title: COUSINS

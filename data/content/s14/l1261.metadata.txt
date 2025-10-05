@@ -1,0 +1,6 @@
+location: Montenegro
+next: 1597
+previous: 1037
+storyCount: 2
+summary: The text describes the process by which one can become a werewolf through the performance of specific rites, requiring a remote location and the invocation of various spirits. In a story shared by Dr. Broniervski, a geologist in Montenegro, a guide named Kniaz transforms into a werewolf after drinking from an enchanted stream, intending to use his new form for revenge, but is killed before causing harm.
+title: How to Become a Werewolf

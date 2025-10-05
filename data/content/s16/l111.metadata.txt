@@ -1,0 +1,6 @@
+location: null
+next: 124
+previous: 93
+storyCount: 1
+summary: The Editor presents a variety of examples of spectral appearances, both ancient and modern, selecting those that are backed by high authority and interest. These examples are carefully chosen for their authenticity and the Editor's challenging task was to narrow down which to include in the collection.
+title: SPECTRAL APPEARANCES

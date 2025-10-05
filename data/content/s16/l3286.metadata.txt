@@ -1,0 +1,6 @@
+location: null
+next: 3354
+previous: 3213
+storyCount: 1
+summary: Mr. Crookes, a scientific investigator, conducted extensive research on spiritualistic phenomena, challenging his own disbelief by meticulously ensuring that deceptive practices were impossible during his experiments. He concluded that the unusual occurrences, such as levitating tables and unexplained percussive sounds, were evidence of some intelligent force, not necessarily emanating from any present person, acting independently of known natural laws.
+title: Mr. Crookes' Investigations into Spiritualistic Phenomena

@@ -1,0 +1,6 @@
+location: Australia
+next: 1246
+previous: 1062
+storyCount: 2
+summary: In 1848, a father in England saw the apparition of his son, who died in Australia at that same moment, while his daughter, en route to Australia, experienced a similar vision aboard her ship. Letters later confirmed the son's sudden death, reinforcing the family's belief in the supernatural experience they both shared.
+title: Supernatural Apparitions from Across the Miles

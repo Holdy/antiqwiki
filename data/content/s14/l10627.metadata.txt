@@ -1,0 +1,6 @@
+location: small island community
+next: 10629
+previous: 10625
+storyCount: 1
+summary: In the small island community, the arrival of a mysterious stranger disrupts the usual routine of the locals. As tensions simmer beneath the surface, long-hidden secrets begin to emerge, changing the islanders' lives forever.
+title: PHROSO

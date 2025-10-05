@@ -1,0 +1,8 @@
+coordinates: 52.32883387262476, -1.2044251709884344
+location: Barby, Northamptonshire
+next: 2307
+previous: 2196
+storyCount: 1
+summary: A house in the small village of Barby, Northamptonshire, was rumored to be haunted following the death of a miserly old woman named Mrs. Webb in 1851, with strange noises and the apparition of her ghost reported by the new occupants. The disturbances ceased only after Mrs. Webb's hidden money was used to repay her debts, which were uncovered following numerous sightings of her ghostly presence demanding resolution.
+tags: haunting approx
+title: The Haunted House of Barby

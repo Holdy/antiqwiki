@@ -1,0 +1,6 @@
+location: Riverbend
+next: 10703
+previous: 10699
+storyCount: 1
+summary: Sam navigates through the complexities of first love during a summer in the charming town of Riverbend. His journey intertwines with the local culture, creating unforgettable memories and lessons learned.
+title: Sam's Sweetheart

@@ -1,0 +1,6 @@
+location: England
+next: 4727
+previous: 4517
+storyCount: 1
+summary: Modern Spiritualism, despite being forbidden in religious texts, has been gaining followers for several decades due to the public's disregard for warning against its practices. In contrast to Spiritualism, the Christian Church recognizes meticulously evaluated miracles under strict conditions, highlighting a deeply rooted belief in divine, rather than spiritual, intervention.
+title: The Rise of Modern Spiritualism and the Response of the Christian Church

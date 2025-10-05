@@ -1,0 +1,8 @@
+location: Regency Square, Brighton
+next: 3381
+previous: 3159
+storyCount: 1
+summary: Pelamon Harrison was drawn to an allegedly haunted house in Regency Square, Brighton, where he encountered eerie sounds and shadows that followed him, including a disturbing cough, believed to belong to Mrs. Nimkin, the deceased former resident. Despite his fear, Pelamon entered the house with an electric torch, and as he attempted to confront the apparition, a chauffeur claimed to see the ghostly lady enter his taxi, leading Pelamon on a bewildering chase to a villa linked to Mr. Nimkin, who had also died recently.
+title: A Case of Haunting in Regency Square, Brighton
+coordinates:50.822826697604086, -0.15027078359782442
+tags: haunting

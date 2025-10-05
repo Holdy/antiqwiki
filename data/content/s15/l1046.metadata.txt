@@ -1,0 +1,6 @@
+location: The Mayfields
+next: 1316
+previous: 975
+storyCount: 1
+summary: Lucy, a maid at 'The Mayfields,' is terrorized by an unseen presence in a cupboard, prompting her to leave her job after a series of frightening incidents that involve laughter and movement behind the cupboard door. Despite Lady Cookham's determination to find rational explanations for the strange occurrences, her own harrowing encounter with the malevolent force convinces her to leave the house, while Sir George Cookham remains skeptical until he too is confronted with its terrifying presence.
+title: The Haunting at The Mayfields

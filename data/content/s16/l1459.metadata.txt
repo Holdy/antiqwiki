@@ -1,0 +1,6 @@
+location: Edinburgh
+next: 1508
+previous: 1425
+storyCount: 1
+summary: Lord Brougham recounts a peculiar incident from his life where he saw an apparition of his old friend G---- while taking a bath, despite having had no prior contact or memory of him for years. After later learning of G----'s death on the same day as the vision, Brougham concluded it was a confirmation of their pact about life after death, though he initially believed it was just a vivid dream.
+title: The Apparition of G----

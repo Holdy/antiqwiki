@@ -1,0 +1,8 @@
+coordinates: 56.62014201773772, -3.0017343832496937
+location: Glamis Castle
+next: 2326
+previous: 2234
+storyCount: 1
+summary: A mysterious 'Haunted Room' in Glamis Castle is closed off to all except the castle's lord and a few others, and numerous people have reported hearing strange noises emanating from it. One night, a lady staying at the castle heard a violent noise, but when she mentioned it at breakfast, the topic was quickly changed, indicating that the family prefers not to discuss the haunting.
+tags: haunting
+title: The Haunted Room of Glamis Castle

@@ -1,0 +1,6 @@
+location: null
+next: 9228
+previous: 9139
+storyCount: 0
+summary: The text lists book titles, specifically 'Memoriam, The Princess, Maud' and 'Vanity Fair' and 'Pendennis' by W. M. Thackeray. These entries suggest a focus on literature and possibly a collection of classic novels or works.
+title: 

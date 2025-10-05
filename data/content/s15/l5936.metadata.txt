@@ -1,0 +1,6 @@
+location: null
+next: 5942
+previous: 5933
+storyCount: 0
+summary: The text announces a book titled 'God's Fairy Tales' by Enid Dinnis. This book explores supernatural stories set in everyday life.
+title: GOD'S FAIRY TALES

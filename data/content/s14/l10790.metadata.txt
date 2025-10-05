@@ -1,0 +1,6 @@
+location: secluded island
+next: 10795
+previous: 10788
+storyCount: 2
+summary: David, a reclusive artist, retreats to a secluded island to find inspiration for his latest painting. Amidst the serenity of the island, he discovers love and unexpected challenges that change his outlook on life.
+title: His Island Princess

@@ -1,0 +1,6 @@
+location: India
+next: 6800
+previous: 6774
+storyCount: 1
+summary: The heroine of 'The Anglo-Indians' feels a deep affection for India, contrasting her experiences there with her life in England. This strong connection leads her into a love adventure, highlighting the cultural dilemmas between East and West.
+title: The Anglo-Indians

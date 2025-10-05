@@ -1,0 +1,8 @@
+coordinates: 52.47085430435207, -1.87875568465888
+location: Birmingham
+next: 1307
+previous: 1250
+storyCount: 1
+summary: In the autumn of 1868, a woman experienced a vivid apparition of her friend Mrs. G, believing she saw the spirit visit her at night. Two days later, a letter confirmed that Mrs. G had died at exactly the same time as the apparition occurred in her vision.
+tags: haunting
+title: An Apparition in the Night

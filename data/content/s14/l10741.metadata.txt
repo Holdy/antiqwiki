@@ -1,0 +1,6 @@
+location: a vibrant town
+next: 10743
+previous: 10739
+storyCount: 1
+summary: In a vibrant town, two estranged brothers unexpectedly reunite at their father's funeral. As they navigate through their shared grief, they rediscover their bond and reconcile past differences.
+title: The Prodigals

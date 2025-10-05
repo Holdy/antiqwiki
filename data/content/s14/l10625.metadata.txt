@@ -1,0 +1,6 @@
+location: null
+next: 10627
+previous: 10623
+storyCount: 1
+summary: Count Antonio, a nobleman with a troubled past, seeks redemption through acts of heroism and introspection. His journeys take him through various challenges as he navigates the complexities of honor and love.
+title: The Chronicles of Count Antonio

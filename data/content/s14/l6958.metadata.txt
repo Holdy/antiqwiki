@@ -1,0 +1,6 @@
+location: null
+next: 6972
+previous: 6948
+storyCount: 1
+summary: A. A. Milne, known for his humorous contributions to Punch, has released a new collection titled 'The Holiday Round'. This book continues the history of characters like the Rabbits and includes various plays, stories, and dialogues.
+title: THE HOLIDAY ROUND

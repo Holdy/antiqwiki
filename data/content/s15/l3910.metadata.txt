@@ -1,0 +1,6 @@
+location: Syderstone, Norfolk
+next: 3950
+previous: 3879
+storyCount: 1
+summary: William Ofield, a gardener and groom from Syderstone, Norfolk, recounted strange noises he witnessed while working for Rev. Thomas Skrimshire, including unexplained sounds of moving furniture and rattling glass, despite no one being present in those areas. His experiences were so unsettling that they caused concern among family members and other servants, yet investigations found everything in order, leading Ofield to believe the noises were not caused by any person or animal.
+title: The Unexplained Noises at the Parsonage

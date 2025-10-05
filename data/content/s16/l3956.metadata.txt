@@ -1,0 +1,6 @@
+location: null
+next: 3960
+previous: 3849
+storyCount: 1
+summary: The appendix discusses the intersection between spiritualism and science, exploring the differing viewpoints of adherents from each field. It highlights the challenges scientists face reconciling empirical evidence with spiritualist claims that defy scientific explanation.
+title: Spiritualism and Science

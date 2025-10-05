@@ -1,0 +1,6 @@
+location: New York City
+next: 10781
+previous: 10775
+storyCount: 1
+summary: In a dystopian future, a renegade lawyer named Alice defies the oppressive state by secretly providing legal advice to those in need. Her clandestine operations in the underground world of New York City become a beacon of hope for the oppressed citizens yearning for justice.
+title: A Breaker of Laws

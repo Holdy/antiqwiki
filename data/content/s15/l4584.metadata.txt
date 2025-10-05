@@ -1,0 +1,6 @@
+location: Caspar Beeches
+next: 4831
+previous: 4088
+storyCount: 1
+summary: Vane's timely intervention saved the protagonist and Sir Eldred from mysterious fumes that almost killed them, leading them to suspect a conspiracy within the household involving the Parry family and a mysterious cousin named George Mansfield. With Vane's cunning plan, they uncovered a plot involving an old clock rigged to release toxic fumes, orchestrated by George Mansfield who sought to inherit Sir Eldred's estate, ending tragically with George's suicide after confessing to the scheme.
+title: The Mystery of the Clock and the Evil Spirits

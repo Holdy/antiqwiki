@@ -1,0 +1,6 @@
+location: Mr. Crookes' house
+next: 3421
+previous: 3354
+storyCount: 1
+summary: During a séance at Mr. Crookes' home, a dark, shadowy form resembling a man appeared, moved a curtain, and vanished, while later, a phantom played an accordion before disappearing when it startled a guest. Mr. Crookes discusses various theories about these occurrences, including the notion that such manifestations might be evil spirits attempting to undermine Christianity.
+title: Spectral Visitations at Mr. Crookes' Séance

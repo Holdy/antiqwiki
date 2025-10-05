@@ -1,0 +1,6 @@
+location: null
+next: 7152
+previous: 7105
+storyCount: 1
+summary: The catalog outlines a variety of book series and genres available in July 1912, featuring collections such as Ancient Cities and the Arden Shakespeare. It showcases literature across different subjects, including art and religion, with specific sections dedicated to fiction and travel books.
+title: July 1912 Book Catalog Overview

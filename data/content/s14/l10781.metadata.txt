@@ -1,0 +1,6 @@
+location: null
+next: 10786
+previous: 10779
+storyCount: 1
+summary: Russell W. Clark finds himself stranded and alone after a failed expedition leaves him abandoned. Desperate and without resources, he must navigate the harsh wilderness to survive.
+title: Abandoned

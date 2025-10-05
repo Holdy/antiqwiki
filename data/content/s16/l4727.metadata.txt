@@ -1,0 +1,6 @@
+location: Oxford
+next: 4877
+previous: 4592
+storyCount: 1
+summary: The Oxford movement significantly neglected the presence of contemporary miracles in the Christian Church, focusing more on apologizing for their perceived absence rather than establishing their foundational importance. Despite acknowledging the supernatural, the movement failed to reweave the traditions of miracles into its practice, allowing the perception of the supernatural to remain faint against the era's tendencies.
+title: The Oversight of the Supernatural in the Oxford Movement

@@ -1,0 +1,6 @@
+location: English countryside
+next: 10809
+previous: 10799
+storyCount: 1
+summary: The adventures of Mr. Sponge, who embarks on a series of hunting escapades in the English countryside, showcase his eccentricities and peculiar encounters. Amidst a backdrop of lively hunts and social gatherings, Mr. Sponge navigates a world filled with quirky characters and unpredictable scenarios.
+title: MR. SPONGE'S SPORTING TOUR.

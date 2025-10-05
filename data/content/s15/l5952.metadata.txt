@@ -1,0 +1,6 @@
+location: null
+next: 5957
+previous: 5947
+storyCount: 1
+summary: "THE ONION PEELERS." by R. P. Garrold is a novel potentially exploring themes of complexity and revelation. Details about the story content or plot are not provided in the brief text segment.
+title: THE ONION PEELERS.

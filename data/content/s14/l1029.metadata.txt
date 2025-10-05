@@ -1,0 +1,6 @@
+location: null
+next: 1037
+previous: 526
+storyCount: 1
+summary: A definition of 'elementals' is provided, describing them as spirits that have never inhabited a material body. These entities are categorized as part of a large order that includes numerous species.
+title: Understanding Elementals

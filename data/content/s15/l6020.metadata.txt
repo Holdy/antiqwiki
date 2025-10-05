@@ -1,0 +1,6 @@
+location: null
+next: 6031
+previous: 6015
+storyCount: 0
+summary: The text appears to describe two published literary works, without providing any story narrative or content. There is no narrative or story included within the given description, only publication details.
+title: Literary Publications Description

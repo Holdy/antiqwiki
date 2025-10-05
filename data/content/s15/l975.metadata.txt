@@ -1,0 +1,6 @@
+location: Birmingham
+next: 1046
+previous: 973
+storyCount: 1
+summary: In the case of "The Mayfields," a country house near Birmingham owned by Sir George Cookham, a discussion about hauntings arises during a visit by Dr. Sickertorft, leading to debates on the existence and creation of ghosts. Sir George dismisses the supernatural, attributing alleged hauntings to psychological phenomena, while Dr. Sickertorft believes in the reality of ghosts and suggests that intense concentration can create them, sparking a philosophical debate.
+title: A Case of Hauntings Near Birmingham

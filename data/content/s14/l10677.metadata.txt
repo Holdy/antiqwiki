@@ -1,0 +1,6 @@
+location: null
+next: 10682
+previous: 10672
+storyCount: 2
+summary: Peter Simple, a young and naive midshipman, embarks on an adventurous naval career filled with challenges and personal growth. Through various ordeals at sea, he learns about bravery, friendship, and the harsh realities of life in the Royal Navy.
+title: Peter Simple

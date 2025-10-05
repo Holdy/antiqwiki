@@ -1,0 +1,6 @@
+location: High Alps
+next: 6828
+previous: 6800
+storyCount: 1
+summary: Three Englishmen - a surgeon, an artist, and a barrister - encounter the Spirit of Romance in the High Alps, each pursuing it in uniquely personal ways. Their journey is filled with mental, moral, and physical challenges, woven into a narrative rich with life's joys, sorrows, and tragedies.
+title: The Quest of the Golden Rose

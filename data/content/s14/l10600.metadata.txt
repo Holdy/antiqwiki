@@ -1,0 +1,6 @@
+location: London
+next: 10602
+previous: 10595
+storyCount: 1
+summary: Moving to London aims to be a transformative journey for a small-town writer seeking recognition and inspiration. However, the bustling city presents unexpected challenges and opportunities that test her resolve and creativity.
+title: The Conquest of London

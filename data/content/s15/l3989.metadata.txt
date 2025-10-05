@@ -1,0 +1,6 @@
+location: Syderstone
+next: 4037
+previous: 3950
+storyCount: 1
+summary: Phoebe Steward recounts a series of unsettling and unexplained noises she heard in the Syderstone Parsonage, including footsteps at night and loud knocks on the bed while nobody else was present. She expresses her certainty about the supernatural occurrences during her 45 years frequenting the parsonage, despite never finding a logical explanation.
+title: The Haunting of Syderstone Parsonage

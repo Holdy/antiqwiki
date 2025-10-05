@@ -1,0 +1,6 @@
+location: Helvore
+next: 5836
+previous: 5516
+storyCount: 1
+summary: In Helvore, a tragic murder occurred where a habitual drunkard was caught and executed for killing his wife, leaving the town shaken and filled with rumors of screams in the haunted woods. An old friend, Frank Leethwaite, visits the narrator, engaging them in a supernatural investigation in the same eerie location, despite the narrator's foreboding fears.
+title: The Ghosts of Helvore Woods

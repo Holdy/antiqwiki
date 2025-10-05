@@ -1,0 +1,6 @@
+location: null
+next: 6841
+previous: 6815
+storyCount: 1
+summary: Madame Albanesi's novel, following 'The Glad Heart,' explores new themes with its deep and touching portrayal of simple yet profound emotions. The book is noted for its capable character depiction and unique charm, differentiating it from her previous works.
+title: OLIVIA MARY

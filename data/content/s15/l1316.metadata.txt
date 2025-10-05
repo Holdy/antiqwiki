@@ -1,0 +1,6 @@
+location: The Mayfields
+next: 1335
+previous: 1046
+storyCount: 1
+summary: Sir George is found unconscious on the floor at 'The Mayfields' by Morgan and others, suffering from a heart condition and subsequent fits, but chooses not to reveal what happened to him. Despite Morgan's attempts to contact Dr. Sickertorft to learn more, he discovers that the doctor had already died of cerebral tuberculosis, attributed to supernormal concentration, three months after the incident at 'The Mayfields'.
+title: The Incident at The Mayfields

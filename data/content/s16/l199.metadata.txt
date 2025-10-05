@@ -1,0 +1,8 @@
+coordinates: 51.97960634343543, -1.2437545620615897
+location: Souldern, Oxfordshire
+next: 268
+previous: 124
+storyCount: 1
+summary: In December 1706, Edward Walter recounts a story told to him by Mr. Grove about an apparition of Mr. Naylor, a former Fellow of S. John's College, who appeared to Mr. Shaw, the Rector of Souldern, revealing future deaths, including Mr. Orchard's, which occurred shortly after the visit. Following Mr. Orchard's death, Mr. Shaw himself passed away from an apoplexy, lending credibility to the apparition's warning and prompting Mr. Grove to share the story with others, emphasizing the integrity of the men involved.
+tags: haunting
+title: The Apparition of the Rev. Mr. Naylor

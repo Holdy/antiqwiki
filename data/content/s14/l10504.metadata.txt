@@ -1,0 +1,6 @@
+location: Surrey
+next: 10506
+previous: 10502
+storyCount: 1
+summary: In rural Surrey, a young broom maker named Judith faces the hardship of her trade while discovering a mysterious heirloom. Amidst the isolation of her craft, she uncovers secrets tied to her family's history and the local community.
+title: The Broom Squire

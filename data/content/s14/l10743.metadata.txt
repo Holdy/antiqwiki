@@ -1,0 +1,6 @@
+location: null
+next: 10751
+previous: 10741
+storyCount: 2
+summary: A story by Sir Gilbert Parker explores the opulent lifestyle and intricate societal roles of a family known as the Lavilettes. The narrative delves into their influence and standing within their community, shedding light on both grandeur and personal ambitions.
+title: The Pomp of the Lavilettes

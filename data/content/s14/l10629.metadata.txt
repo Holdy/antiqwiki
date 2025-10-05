@@ -1,0 +1,6 @@
+location: null
+next: 10643
+previous: 10627
+storyCount: 5
+summary: E. W. Hornung's "Dead Men Tell No Tales" presents a gripping tale of mystery and deception. The story explores themes of betrayal and the quest for truth through the eyes of its intriguing characters.
+title: Dead Men Tell No Tales

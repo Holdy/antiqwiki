@@ -1,0 +1,6 @@
+location: null
+next: 6665
+previous: 6618
+storyCount: 1
+summary: The story explores modern social life and the impact of harsh divorce laws on an innocent spouse in an unhappy marriage. Through the contrasting characters of Cynthia and Elizabeth, and the destructive influence of Lady Juliet, the narrative delves into themes of human sympathy and societal pressures.
+title: The Oakum Pickers

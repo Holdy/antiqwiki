@@ -1,0 +1,8 @@
+coordinates: 53.955745795332014, -1.0801787193486256
+location: York
+next: 1973
+previous: 1892
+storyCount: 1
+summary: A soldier on guard at Clifford Tower in York witnessed a mysterious scroll of paper transform into a monkey and then into a turkey-cock the night after a witch's arraignment. He reported the incident to the prison's under-keeper, who also saw the scroll move and dance under a door with a very narrow opening.
+tags: haunting
+title: The Strange Occurrence at Clifford Tower

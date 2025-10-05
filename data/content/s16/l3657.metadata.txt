@@ -1,0 +1,6 @@
+location: null
+next: 3764
+previous: 3610
+storyCount: 2
+summary: During a séance, Mr. C----, initially believing he was in communication with the spirit of his child, becomes suspicious when the invisible entity reveals itself as a malevolent spirit. He ultimately dismisses the entity by breaking and burning the table used for communication, convinced of the presence of evil spirits rather than the spirit of his child.
+title: The Séance Revelations

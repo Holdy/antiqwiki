@@ -1,0 +1,6 @@
+location: United Kingdom
+next: 9139
+previous: 8826
+storyCount: 1
+summary: This text lists various counties in the United Kingdom along with authors associated with them, suggesting a collection of written guides or books. The list includes locations such as Cornwall, Devon, Essex, and Yorkshire, highlighting documentation possibly specific to each area's geographic and cultural details.
+title: County Guides

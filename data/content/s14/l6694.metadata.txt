@@ -1,0 +1,6 @@
+location: Manchester
+next: 6709
+previous: 6679
+storyCount: 1
+summary: Nance, deemed 'the bravest girl in Manchester,' assumed maternal responsibilities early in life to ensure her children's well-being. Her later life in the South of England saw her forge a cheerful and uplifting friendship with Miss Denise Martayne.
+title: NANCE OF MANCHESTER

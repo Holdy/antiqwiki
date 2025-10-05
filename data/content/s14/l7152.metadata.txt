@@ -1,0 +1,6 @@
+location: null
+next: 7154
+previous: 7107
+storyCount: 1
+summary: Methuen & Co. is preparing to publish a selection of fine books, showcasing a diverse range of topics and esteemed authors. The collection reflects the publisher's commitment to bringing quality literature to discerning readers.
+title: A Selection of Messrs. Methuen's

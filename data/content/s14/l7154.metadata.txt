@@ -1,0 +1,6 @@
+location: null
+next: 8767
+previous: 7152
+storyCount: 0
+summary: The 'Publications' section provides a list of various books categorized under the names of their authors, highlighting details such as pricing, editions, and special editions available for circulation. Each entry includes specific information about the book, such as the edition number, type of cover available, if illustrated, price, and in some cases, a brief description of the content or additional commentary from the editors.
+title: Publications Catalogue

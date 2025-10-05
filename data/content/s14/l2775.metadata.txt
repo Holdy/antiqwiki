@@ -1,0 +1,6 @@
+location: Bordeaux
+next: 2823
+previous: 2598
+storyCount: 1
+summary: In 1603 Bordeaux, fourteen-year-old Jean Garnier was tried for lycanthropy, confessing to over fifty child murders and vividly recounting his transformations into a wolf to hunt isolated women and children. During one spree, he attacked a bathing girl whom he devoured over two days and once had to fight off a group of girls equipped with stakes when confronted by them.
+title: Trials of a Werewolf: The Case of Jean Garnier

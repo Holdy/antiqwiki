@@ -1,0 +1,6 @@
+location: null
+next: 10533
+previous: 10529
+storyCount: 1
+summary: Countess Tekla navigates the tumultuous politics of her land, striving to maintain her family's honor amidst growing unrest. Her strength and dedication serve as a beacon of hope for her people during these challenging times.
+title: THE COUNTESS TEKLA

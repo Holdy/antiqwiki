@@ -1,0 +1,6 @@
+location: null
+next: 9229
+previous: 9223
+storyCount: 1
+summary: Set in the early 1700s, the story follows the life of Henry Esmond, an orphan raised by his noble relatives, the Esmonds, during the reign of Queen Anne. Esmond navigates the complexities of English society and politics, facing challenges related to family loyalty, love, and his own noble lineage.
+title: Henry Esmond

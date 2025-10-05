@@ -1,0 +1,6 @@
+location: Lombard Theatre
+next: 1959
+previous: 1617
+storyCount: 1
+summary: Miss Dawkins experienced a chilling encounter with a ghostly clown resembling Tom Weston, a former pantomime actor who once attempted to set the Lombard Theatre on fire. This apparition, linked to Weston's tragic history and his annual haunting of box 3, left both Miss Dawkins and her mother deeply unsettled during their visit.
+title: The Haunting at the Lombard Theatre

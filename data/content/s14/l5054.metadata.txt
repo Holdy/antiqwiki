@@ -1,0 +1,6 @@
+location: Denmark
+next: 5124
+previous: 5032
+storyCount: 2
+summary: Peter Andersen, a hereditary werwolf, married Elisa without revealing his curse, fearing she would leave him. During a transformation near their home, Elisa bravely thwarted his attack with her apron, unknowingly curing him of his lycanthropy.
+title: THE CASE OF PETER ANDERSEN, WERWOLF

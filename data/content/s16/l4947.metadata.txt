@@ -1,0 +1,6 @@
+location: null
+next: 5857
+previous: 4877
+storyCount: 1
+summary: A young child receives a mysterious warning in their dream, alerting them to an impending danger they must avoid. The dream's vivid nature impacts the child's behavior, leading to their successful evasion of harm.
+title: Warning Dream of a Child

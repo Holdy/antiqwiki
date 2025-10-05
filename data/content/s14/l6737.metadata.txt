@@ -1,0 +1,6 @@
+location: null
+next: 6746
+previous: 6722
+storyCount: 1
+summary: 'Buried Alive' by Arnold Bennett is a reprinted edition of a previously out-of-print story that showcases his storytelling charm. The narrative details remain unspecified, but the work is appreciated as one of Bennett's captivating tales.
+title: Buried Alive

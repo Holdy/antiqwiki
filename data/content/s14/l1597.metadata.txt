@@ -1,0 +1,6 @@
+location: null
+next: 1607
+previous: 1261
+storyCount: 1
+summary: Psychic influences are related to the alignment of celestial bodies, like the new moon's position affecting the presence of superphysical entities on earth. The specific arrangement, such as the conjunction of Saturn and opposition to Jupiter, is believed to heighten these sinister influences.
+title: Celestial Psychic Influences

@@ -1,0 +1,6 @@
+location: Boston
+next: 6758
+previous: 6737
+storyCount: 1
+summary: The new book by the anonymous author of 'The Wild Olive' follows a financial man's case of conscience, reflecting on moral dilemmas. Set primarily in Boston, the story explores themes encapsulated by the New England proverb, suggesting a journey towards beauty and righteousness.
+title: THE STREET CALLED STRAIGHT

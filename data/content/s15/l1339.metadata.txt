@@ -1,0 +1,6 @@
+location: St. John's Wood
+next: 1613
+previous: 1337
+storyCount: 1
+summary: Barcombe House in St. John's Wood was haunted by the ghost of a little girl believed to be heartbroken over the loss of her dog, leading to an experience that fused fascination with the supernatural for the narrator and his friend's Irish terrier, Ghoul. Despite attempts to dispel the haunting, it culminated in a tragic yet mysteriously joyful encounter with the child's spirit, wherein Ghoul seemingly joins her, leaving the narrator in awe and skepticism regarding his supernatural experience.
+title: A CASE OF HAUNTING IN ST. JOHN'S WOOD

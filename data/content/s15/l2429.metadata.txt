@@ -1,0 +1,6 @@
+location: The Coombe
+next: 2431
+previous: 2427
+storyCount: 1
+summary: In the bustling district of The Coombe, a young girl named Molly discovers a forgotten secret hidden within the old cobblestone streets. As she unveils layers of the district's history, she finds herself understanding her own family heritage more deeply, ultimately connecting her with her roots.
+title: THE COOMBE

@@ -1,0 +1,6 @@
+location: Peruvian mountains
+next: 10612
+previous: 10602
+storyCount: 2
+summary: A young explorer embarks on a dangerous journey to discover a legendary Inca treasure hidden deep within the Peruvian mountains. Along the way, he faces treacherous terrain, ancient traps, and mysterious guardians sworn to protect the treasure.
+title: THE CROWN OF LIFE

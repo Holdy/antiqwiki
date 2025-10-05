@@ -1,0 +1,6 @@
+location: Syderstone
+next: 4070
+previous: 3989
+storyCount: 1
+summary: Robert Hunter, a shepherd from Syderstone, Norfolk, was alarmed one night in March 1832 by loud, lamentable groans coming from the unoccupied Parsonage as he passed by. The incident left a lasting impression on Hunter, who recounted how he continued to hear the eerie sounds even as he walked 100 yards away.
+title: The Groans at Syderstone Parsonage

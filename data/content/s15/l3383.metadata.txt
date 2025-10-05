@@ -1,0 +1,8 @@
+location: Syderstone
+next: 3488
+previous: 3381
+storyCount: 1
+summary: In Syderstone Parsonage, alarming and mysterious noises, including knocking and moaning, disturbed the residents and visitors, arousing neighborhood curiosity and fear. Despite thorough investigations by local gentlemen and assurances that no tricks were played, the source of the disturbances remained unexplained, leading some to believe in supernatural causes.
+title: The Syderstone Hauntings
+coordinates:52.859953850836895, 0.7186238523507916
+tags:haunting

@@ -1,0 +1,6 @@
+location: London
+next: 975
+previous: 971
+storyCount: 1
+summary: In an old house in London, a young girl named Emily discovers a secret cupboard that leads to a magical world. As she explores this enchanting realm, she encounters mystical creatures and uncovers hidden truths about her ancestors.
+title: The Cupboard

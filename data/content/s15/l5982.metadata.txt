@@ -1,0 +1,6 @@
+location: null
+next: 5987
+previous: 5977
+storyCount: 1
+summary: The collection 'The Mother, and Other Stories' by P. H. Pearse is a compilation of short narratives that explore varied themes and characters. Each story delves into different aspects of human experiences and emotions, offering a diverse range of perspectives.
+title: The Mother, and Other Stories

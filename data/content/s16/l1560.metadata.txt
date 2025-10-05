@@ -1,0 +1,6 @@
+location: Berkshire
+next: 1605
+previous: 1508
+storyCount: 1
+summary: On a bright autumn day in October 1856, the widow of a Bristol merchant and a parish curate both witnessed a spectral dog-cart believed to carry her son, an officer in the Indian army, despite no vehicle having arrived. Following this eerie apparition, the widow received letters confirming her son's sudden illness and death, coinciding with the day of the spectral sighting.
+title: The Spectral Dog-Cart of October 1856

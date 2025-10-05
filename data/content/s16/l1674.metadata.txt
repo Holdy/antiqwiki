@@ -1,0 +1,6 @@
+location: null
+next: 1685
+previous: 1646
+storyCount: 1
+summary: Throughout history, different cultures, from ancient barbarians to deeply spiritual Christians, have believed that some locations are inhabited by restless spirits. This enduring notion of haunted places crosses cultural and spiritual boundaries, reflecting a universal human fascination with the supernatural.
+title: Haunted Houses and Localities

@@ -1,0 +1,6 @@
+location: null
+next: 3956
+previous: 3827
+storyCount: 1
+summary: The text explores the discord between the Church of England and Spiritualism, emphasizing that spirits align with the belief that the resurrection involves a spiritual body, not a physical one, contrasting with traditional Christian teachings. It criticizes Protestantism for denying intermediate states after death, portraying this denial as a massive moral and theological failure, leading individuals toward Spiritualism to seek answers beyond institutional religion.
+title: The Conflict of Spiritualism and Theology

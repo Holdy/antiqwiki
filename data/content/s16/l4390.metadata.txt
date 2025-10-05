@@ -1,0 +1,6 @@
+location: Egypt
+next: 4436
+previous: 4318
+storyCount: 1
+summary: In Egypt, a Maghrabee magician was summoned by a consul-general to reveal a thief among his servants by using a boy and magical rituals to identify the guilty party. The boy saw the thief's image in a magical ink drawing, leading to the thief's immediate confession after being confronted.
+title: The Magician's Revelation in Egypt

@@ -1,0 +1,6 @@
+location: Brasenose College, Oxford
+next: 4318
+previous: 4254
+storyCount: 1
+summary: In 1829, the Hell-Fire Club, a notorious society mimicking an infamous 18th-century group, met at Brasenose College in Oxford, engaging in blasphemy and skepticism. The club disbanded following the death of a leading member, who collapsed while giving a blasphemous speech during one of their meetings.
+title: The Fall of the Hell-Fire Club at Brasenose

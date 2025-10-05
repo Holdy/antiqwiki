@@ -1,0 +1,6 @@
+location: null
+next: 1250
+previous: 1153
+storyCount: 2
+summary: The narrative discusses numerous instances of apparitions appearing to friends and relatives at the time of death. It introduces two specific examples that are well and duly authenticated.
+title: Examples of Apparitions at the Time of Death

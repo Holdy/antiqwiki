@@ -1,0 +1,6 @@
+location: a small coastal village
+next: 10508
+previous: 10504
+storyCount: 1
+summary: In a small coastal village, tensions rise as the community grapples with superstitions and the mysterious disappearance of a local fisherman. As secrets unravel, the townspeople must confront their fears and uncover the truth beneath the surface of their tranquil lives.
+title: In the Roar of the Sea

@@ -1,0 +1,6 @@
+location: null
+next: 70
+previous: 56
+storyCount: 1
+summary: During a tumultuous time marked by the backdrop of World War I, a surge of mysterious reports began to surface, capturing the attention of military and civilian entities alike. These reports detailed the unexplained occurrences of paranormal activities in various locales, prompting investigations and widespread intrigue, with many stories emerging from the epicenter of these anomalies.
+title: The Paranormal Surge of 1917

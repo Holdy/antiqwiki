@@ -1,0 +1,6 @@
+location: null
+next: 111
+previous: 62
+storyCount: 1
+summary: A person experiences a chilling vision at night, feeling fear as a spirit passes before them, leaving them unable to discern its form. This haunting encounter leaves the observer shaken, with only a vague image remaining in their memory.
+title: Spectral Appearances

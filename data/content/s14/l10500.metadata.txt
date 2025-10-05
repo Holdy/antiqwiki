@@ -1,0 +1,6 @@
+location: null
+next: 10502
+previous: 10498
+storyCount: 1
+summary: In a quiet rural village, a young girl named Kitty finds herself navigating the complexities of her lonely predicament. She overcomes several challenges, demonstrating resilience and finding solace in unexpected friendships.
+title: KITTY ALONE

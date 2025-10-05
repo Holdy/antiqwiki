@@ -1,0 +1,6 @@
+location: null
+next: 5997
+previous: 5987
+storyCount: 1
+summary: The text refers to 'My Man Sandy' authored by J. B. Salmond, indicating its price as 2 shillings net. There is no detailed story content provided within the text.
+title: My Man Sandy

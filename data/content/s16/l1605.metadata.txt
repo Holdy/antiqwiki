@@ -1,0 +1,6 @@
+location: Paris
+next: 1646
+previous: 1560
+storyCount: 1
+summary: A young German lady staying at a Paris hotel witnessed an apparition of a French naval officer who appeared, shot himself, and then vanished, leaving her in a state of shock and paralysis until the following morning. The hotel proprietor later confirmed that the officer had truly committed suicide in the same room days earlier, and the incident profoundly affected both the young lady and the Archbishop of Paris, who urged her towards embracing the Catholic faith.
+title: The Haunted Hotel Room

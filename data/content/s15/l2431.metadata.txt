@@ -1,0 +1,6 @@
+location: Devizes
+next: 2667
+previous: 2429
+storyCount: 1
+summary: Robert Fitzsimmons moves to a newly built house in a coombe near Devizes, Wiltshire, hoping for a quiet life but soon encounters strange supernatural occurrences including a spectral tree and unexplained noises, leading to a rapid deterioration in his children's behavior. The hauntings grow more sinister, affecting all residents of the house and culminating in Fitzsimmons's wife eloping with a friend and blaming the malevolent presence for the family's misfortunes.
+title: A Case of a Wiltshire Elemental

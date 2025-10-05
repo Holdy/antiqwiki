@@ -1,0 +1,6 @@
+location: Milton
+next: 10600
+previous: 10593
+storyCount: 2
+summary: Margaret Hale, a young woman from the rural South of England, moves to the industrial northern town of Milton. She confronts social challenges and differences between the two regions while forming meaningful relationships, especially with mill owner John Thornton.
+title: North and South

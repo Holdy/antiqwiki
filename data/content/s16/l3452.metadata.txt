@@ -1,0 +1,6 @@
+location: null
+next: 3535
+previous: 3445
+storyCount: 1
+summary: During a séance held for investigation, a series of unexplainable manifestations occurred as a table leaf moved seemingly on its own, and voices were heard speaking and playing music from an accordion without visible human intervention. A ghostly presence was felt in the room, manifesting as luminous hands and a spirit that interacted audibly and physically with the participants, creating an eerie and uncanny atmosphere.
+title: The Mysterious Séance

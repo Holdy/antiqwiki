@@ -1,0 +1,6 @@
+location: null
+next: 0
+previous: 10848
+storyCount: 1
+summary: The story entails a group of individuals involved in strategic planning and maneuvers, displaying a blend of tactical decisions and unexpected events. It captures the intricacies and challenges faced by those navigating complex scenarios, highlighting the importance of adaptability.
+title: Maneuvers

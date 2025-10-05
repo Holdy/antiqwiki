@@ -1,0 +1,8 @@
+location: Coalbrookdale
+next: 5480
+previous: 4831
+storyCount: 1
+summary: Upon visiting Coalbrookdale, Robert Casson, unexpectedly captivated by an eerie painting of stepping-stones, investigates the area's haunting history, discovering strange occurrences and elusive sightings, including the spectral presence of his old friend Wotherall who once lodged there. Driven by peculiar experiences and a troubling encounter with the malevolent son of the current resident, Casson's involvement culminates in the uncovering of skeletal remains in a sinister stream, hinting at past murders thwarted by an unexplained apparition. 
+title: The Stepping-Stones
+coordinates:52.650360085889325, -2.51224073750219
+tags:haunting

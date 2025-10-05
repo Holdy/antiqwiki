@@ -1,0 +1,6 @@
+location: Stewponey
+next: 10524
+previous: 10520
+storyCount: 1
+summary: Bladys, known for her beauty and grace, becomes entangled in a complex inheritance dispute at the Stewponey, a historic inn. Amidst tension and intrigue, Bladys must navigate treacherous alliances and unexpected revelations to secure her rightful legacy.
+title: BLADYS OF THE STEWPONEY

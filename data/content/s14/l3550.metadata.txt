@@ -1,0 +1,6 @@
+location: Magdeburg
+next: 3838
+previous: 3159
+storyCount: 1
+summary: During a holiday in the Harz Mountains, Count Von Breber and his wife, the Countess Hilda, encounter a haunted brook, which Hilda drinks from, despite local warnings about its cursed nature. Soon after, back home in Magdeburg, a series of child disappearances unfold, and as the Count investigates, he discovers the truth: his beloved Hilda, transformed into a lycanthrope by the brook's waters, has been responsible for the horrors, ending with her tragic death at his hand.
+title: A Lycanthropous Brook in the Harz Mountains

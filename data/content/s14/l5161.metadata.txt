@@ -1,0 +1,8 @@
+coordinates: 56.03246108425648, 9.335889202487511
+location: Jutland
+next: 5184
+previous: 5124
+storyCount: 2
+summary: Near a village in Jutland, reapers found a seemingly asleep naked woman under a hedge, whom a shepherd identified as a mara with plans to ride someone that night. After a small creature entered her mouth, the woman sprang to life, leaped a bush, and vanished without a trace.
+tags: folklore approx
+title: A Case of a Mara in Jutland

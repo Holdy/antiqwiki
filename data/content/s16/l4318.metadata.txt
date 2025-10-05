@@ -1,0 +1,6 @@
+location: Thyatira
+next: 4390
+previous: 4266
+storyCount: 1
+summary: The text discusses the widespread historical belief in witchcraft and the supernatural, emphasizing that early Christian figures like S. Gregory Thaumaturgus recognized the real power of sorcery and magical practices. Despite attempts by church and state to condemn and outlaw these practices, belief in sorcery persisted for centuries, with religious and historical texts acknowledging the interactions between humans and demons.
+title: Historical Beliefs in Witchcraft and Sorcery

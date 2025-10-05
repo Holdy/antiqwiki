@@ -1,0 +1,6 @@
+location: India
+next: 4517
+previous: 4390
+storyCount: 2
+summary: The text describes astonishing performances by Indian jugglers, including tricks involving live snakes and dramatic, seemingly violent acts that result in no harm, demonstrating their reputed supernatural abilities passed down through generations. These feats, paralleling those of ancient Egyptian magicians, often occur in open settings before large audiences, defying logical explanations and continuing to intrigue and bewilder observers.
+title: Supernatural Feats in Egypt and India

@@ -1,0 +1,6 @@
+location: Cranford
+next: 10593
+previous: 10568
+storyCount: 8
+summary: Cranford is a quaint English town where life is gentle and the social dynamics among the women of the community are charmingly observed. The story explores themes of friendship and societal norms, set against a backdrop of rural Victorian England.
+title: Cranford

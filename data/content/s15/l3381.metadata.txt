@@ -1,0 +1,6 @@
+location: city
+next: 3383
+previous: 3161
+storyCount: 1
+summary: In a bustling city, a young detective faces the challenge of solving a mysterious case that has stumped the local police. Determined to prove his worth, he uncovers hidden clues that lead to an unexpected perpetrator.
+title: The Enigma of the City

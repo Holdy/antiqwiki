@@ -1,0 +1,6 @@
+location: Scotland
+next: 6815
+previous: 6788
+storyCount: 1
+summary: A girl embarks on a motor tour across Scotland in search of her mother, who wishes to remain hidden from her now grown-up daughter. Alongside her journey, she aids a man in discovering the truth behind his lost illusions, leading to a unique and multifaceted romance.
+title: THE HEATHER MOON

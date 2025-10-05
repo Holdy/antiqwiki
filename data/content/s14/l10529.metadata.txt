@@ -1,0 +1,6 @@
+location: null
+next: 10531
+previous: 10524
+storyCount: 1
+summary: In a small town, tensions rise as misunderstandings and miscommunications lead to unexpected conflict. Despite the initial turmoil, the community finds a way to come together and resolve their differences peacefully.
+title: IN THE MIDST OF ALARMS

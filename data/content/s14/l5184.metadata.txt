@@ -1,0 +1,8 @@
+coordinates: 50.92649219473762, 4.425550019356037
+location: Vilvorde
+next: 5282
+previous: 5161
+storyCount: 2
+summary: Nielsen, plagued by horrific nightmares, follows Osdeven's advice to sleep with a knife, leading to a terrifying encounter with the mara, Christine Jansen, who vanishes upon contact with the blade. The evidence of blood confirms his experience, and after Christine's sudden illness forces her abroad, his nightmares cease, leading him and Osdeven to vow caution in future relationships.
+tags: folklore approx
+title: The Mara of Vilvorde

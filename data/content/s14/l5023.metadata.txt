@@ -1,0 +1,6 @@
+location: null
+next: 5032
+previous: 4916
+storyCount: 1
+summary: A phantom horseman, accompanied by phantom dogs, is said to go hunting on certain nights of the year. The author claims to have witnessed this supernatural phenomenon personally.
+title: The Phantom Horseman

@@ -1,0 +1,6 @@
+location: Paris
+next: 10799
+previous: 10795
+storyCount: 1
+summary: In the bustling city of Paris, a mysterious yellow diamond becomes the center of intrigue and danger as various parties vie to possess it. Amidst deception and betrayal, a determined detective follows the tangled web of clues to uncover the truth behind the diamond's origin.
+title: THE YELLOW DIAMOND

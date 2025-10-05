@@ -1,0 +1,6 @@
+location: null
+next: 10699
+previous: 10689
+storyCount: 3
+summary: The story 'Clementina' revolves around a protagonist who embarks on a journey of self-discovery navigating through societal expectations. The protagonist's determination and courage lead to unforeseen challenges and revelations.
+title: CLEMENTINA

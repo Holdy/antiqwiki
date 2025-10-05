@@ -1,0 +1,6 @@
+location: English village
+next: 10498
+previous: 10488
+storyCount: 3
+summary: In a quaint English village, the vibrant yellow flowers of furze bloom transform the landscape, highlighting the change of seasons. As the locals immerse themselves in the beauty of nature, they uncover hidden connections that weave their community together.
+title: Furze Bloom

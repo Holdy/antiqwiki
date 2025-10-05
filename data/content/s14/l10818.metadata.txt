@@ -1,0 +1,6 @@
+location: null
+next: 10823
+previous: 10816
+storyCount: 2
+summary: The Troublesome Daughters is an exploration of family challenges, focusing on complex relationships between parents and their independent daughters. It delves into the nuances and conflicts that arise in modern family dynamics, highlighting the generational differences and struggles for understanding.
+title: Troublesome Daughters

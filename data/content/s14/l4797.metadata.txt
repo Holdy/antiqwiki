@@ -1,0 +1,6 @@
+location: Waterloo
+next: 4804
+previous: 4753
+storyCount: 1
+summary: A young man returning from Quatre Bras to Waterloo was attacked by three werewolves. He escaped by leaping into a rye-field.
+title: A Similar Case Near Waterloo

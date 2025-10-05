@@ -1,0 +1,8 @@
+coordinates: 54.85899044500871, -1.5741779456465568
+location: Chester-in-the-Street
+next: 199
+previous: 111
+storyCount: 1
+summary: In 1632 near Chester-in-the-Street, a yeoman named Walker and a collier, Mark Sharp, were implicated in the murder of Walker's kinswoman, whose apparition later revealed the crime to a miller named James Graham. The apparition's persistence eventually led the miller to report the crime, resulting in the discovery of her body and the execution of Walker and Sharp, although they never confessed to the murder.
+tags: haunting
+title: The Chester-le-Street Apparition

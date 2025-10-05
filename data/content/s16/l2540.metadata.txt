@@ -1,0 +1,6 @@
+location: northern Scottish city
+next: 2602
+previous: 2504
+storyCount: 1
+summary: An English clergyman and his family experienced haunting phenomena after moving into an old-fashioned house near a northern Scottish city, hearing unusual noises and feeling invisible presences. It was believed that the house was haunted due to a historical murder involving a nobleman's mistress, driving some residents, including a servant who lost her reason, to madness.
+title: The Haunted House in Northern Scotland

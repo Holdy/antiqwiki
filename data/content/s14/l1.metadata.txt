@@ -1,0 +1,6 @@
+location: null
+next: 42
+previous: 0
+storyCount: 1
+summary: The story explores the lore surrounding werewolves and their presence in folklore across various cultures. It delves into historical accounts and personal anecdotes, aiming to provide a comprehensive understanding of werewolf mythology.
+title: Werwolves

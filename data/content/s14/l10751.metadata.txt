@@ -1,0 +1,6 @@
+location: Pontiac
+next: 10753
+previous: 10743
+storyCount: 1
+summary: Valmond, a mysterious and charismatic figure, arrives in the small town of Pontiac, sparking intrigue and speculation among the townspeople about his true identity. His arrival sets off a series of events that challenge the town's perceptions and lead to surprising revelations about their own history.
+title: When Valmond Came to Pontiac

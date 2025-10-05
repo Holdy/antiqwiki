@@ -1,0 +1,6 @@
+location: null
+next: 526
+previous: 123
+storyCount: 1
+summary: The text explores the complex nature and origins of werwolves, detailing various cultural beliefs and historical accounts that both affirm and dispute their existence. It also highlights the different interpretations of werwolfery, whether as a physical, voluntary transformation or a superstition born from human imagination and psychological phenomena.
+title: Exploring the Complexity and Origins of Werwolves

@@ -1,0 +1,8 @@
+location: Red Lion Square
+next: 589
+previous: 98
+storyCount: 1
+summary: A curious chair believed to be from a haunted house in Red Lion Square intrigues a man, leading him to experience strange events and tormented dreams involving spirits and a sinister drama from the past. Through episodes of perceived hauntings and spectral presences, the protagonist is overwhelmed by the chilling atmosphere of the house and the historical visions tied to it, struggling to discern reality from supernatural encounters.
+title: The Case of a Haunted House in Red Lion Square
+coordinates:51.51920968664001, -0.11900143367134099
+tags: haunting

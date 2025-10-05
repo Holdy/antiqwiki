@@ -1,0 +1,6 @@
+location: England
+next: 2854
+previous: 2724
+storyCount: 1
+summary: In response to the rise of sceptical liberalism and the rejection of Historical Christianity in England, individuals have become more receptive to schools of thought that ignore the supernatural, leading to significant societal and political shifts. Amidst this environment, the phenomenon of Spiritualism, initially dismissed and scorned, has gained traction among various religious and non-religious groups, reflecting a renewed interest in the supernatural despite contemporary scepticism.
+title: Modern Spiritualism and its Sociopolitical Context in England

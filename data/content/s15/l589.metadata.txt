@@ -1,0 +1,6 @@
+location: null
+next: 603
+previous: 100
+storyCount: 1
+summary: The protagonist returned a chair to its owner after experiencing unsettling sensations while sitting in it, which matched those of previous sitters. Speculation arises about a possible murder in the house due to an old, persistent red stain on the floor that resembles blood.
+title: The Haunted Chair Mystery

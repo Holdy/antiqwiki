@@ -1,0 +1,6 @@
+location: null
+next: 838
+previous: 634
+storyCount: 1
+summary: Lord Chedworth experienced a spiritual visitation from a deceased friend, confirming the existence of an afterlife, which resolved his long-standing doubts. This revelation had a profound and permanent impact on his belief system, strengthening his faith.
+title: Lord Chedworth's Revelatory Visitation

@@ -1,0 +1,6 @@
+location: Ballarat
+next: 1425
+previous: 1273
+storyCount: 2
+summary: In Australia, a grazier witnessed the apparition of his murdered partner pointing towards a pond, which ultimately led to the discovery of the partner's body and the arrest of the murderer in Ballarat. The apparition assisted in solving the murder mystery by guiding investigators to where the victim's body and murder weapon were hidden, leading to the conviction of the guilty party.
+title: The Apparition of the Grazier in Ballarat

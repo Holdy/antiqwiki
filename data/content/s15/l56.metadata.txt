@@ -1,0 +1,6 @@
+location: null
+next: 63
+previous: 48
+storyCount: 0
+summary: The author clarifies that all names of people and houses related to the hauntings in the book, except in Chapter X, are fictitious. This statement is given to emphasize the fictional nature of the stories within the volume.
+title: PREFACE

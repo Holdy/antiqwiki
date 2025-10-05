@@ -1,0 +1,6 @@
+location: null
+next: 10732
+previous: 10728
+storyCount: 1
+summary: Lord Leonard, burdened with perpetual misfortune, embarks on a quest to change his fate. Despite encountering numerous challenges, he remains determined to find a way to escape his unlucky destiny.
+title: LORD LEONARD THE LUCKLESS

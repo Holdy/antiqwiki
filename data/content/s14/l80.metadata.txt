@@ -1,0 +1,6 @@
+location: null
+next: 123
+previous: 62
+storyCount: 2
+summary: The book provides a comprehensive exploration of the phenomenon of werwolves, beginning with definitions and different metamorphoses. It examines cultural variations and historical accounts from various regions, detailing werwolf-related beliefs and practices in those areas.
+title: An Overview of Werwolves Across Cultures

@@ -1,0 +1,6 @@
+location: Clifton
+next: 3610
+previous: 3535
+storyCount: 1
+summary: In 1865, a _séance_ held at Victoria Place, Clifton, featured the medium Mrs. Marshall, where a participant's wife communicated with the spirit of her mother and received accurate answers to a series of pre-prepared questions without any foreknowledge being given to the medium. The answers provided by the spirit, regarding personal and specific questions about past events, convinced the participant that the revelations were neither influenced by the medium's prior knowledge nor by any mind reading.
+title: Séance at Victoria Place

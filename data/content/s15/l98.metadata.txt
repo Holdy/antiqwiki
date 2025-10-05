@@ -1,0 +1,6 @@
+location: attic
+next: 100
+previous: 96
+storyCount: 1
+summary: In an unexpected turn of events, Oliver discovers that the old chair in his attic is actually a haunted relic from the Victorian era. As mysterious occurrences begin to unfold, he must confront the secrets hidden within the chair to unlock its enigmatic past.
+title: The Chair

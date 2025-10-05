@@ -1,0 +1,6 @@
+location: null
+next: 3452
+previous: 3421
+storyCount: 1
+summary: The continuation of Chapter IX explores the evolution and influence of modern spiritualism, emphasizing the central figures and societal changes that have shaped its practices. The chapter delves deeper into the impact of spiritualism on contemporary thought, highlighting key events and philosophical shifts.
+title: Modern Spiritualism

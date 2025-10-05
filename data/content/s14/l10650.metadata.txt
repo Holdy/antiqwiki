@@ -1,0 +1,6 @@
+location: null
+next: 10661
+previous: 10645
+storyCount: 3
+summary: In a small town, Joshua Davidson's journey unfolds as he challenges societal norms with his radical views and altruistic endeavors. Despite facing opposition and misunderstandings, Joshua remains steadfast in his mission to bring change and compassion to his community.
+title: The True History of Joshua Davidson

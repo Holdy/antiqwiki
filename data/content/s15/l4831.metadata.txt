@@ -1,0 +1,6 @@
+location: Paris
+next: 4833
+previous: 4584
+storyCount: 1
+summary: In the heart of Paris, Emily discovers a clandestine network beneath the city's famed streets, one that could change the course of her investigation. She must navigate through hidden passages and cryptic messages to unveil the truth behind the mysterious group threatening to upend society.
+title: Secrets Beneath the Streets

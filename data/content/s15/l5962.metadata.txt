@@ -1,0 +1,6 @@
+location: Clare
+next: 5967
+previous: 5957
+storyCount: 1
+summary: O'Loghlin of Clare is a novel by Rosa Mulholland. The book likely takes place in the region of Clare.
+title: O'Loghlin of Clare

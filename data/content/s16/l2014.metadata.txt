@@ -1,0 +1,8 @@
+coordinates: 55.599470824407675, -2.7816012032089623
+location: Abbotsford
+next: 2048
+previous: 1973
+storyCount: 1
+summary: Sir Walter Scott experienced unsettling noises at Abbotsford during its construction, which coincided with the sudden death of a craftsman named Mr. Bullock. Despite initial thoughts of disorderly visitors, Scott confirms that the disturbances occurred with certainty of no one being present on the premises.
+tags: haunting
+title: The Unexplainable Noises of Abbotsford

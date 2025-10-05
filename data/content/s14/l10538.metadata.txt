@@ -1,0 +1,6 @@
+location: null
+next: 10558
+previous: 10533
+storyCount: 1
+summary: In "A FLASH OF SUMMER," the story revolves around a young woman's introspective journey through unexpected challenges that arise during a summer filled with personal growth and self-discovery. As she navigates through these hurdles, she finds strength and understanding about herself and the world around her.
+title: A FLASH OF SUMMER

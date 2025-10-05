@@ -1,0 +1,6 @@
+location: null
+next: 10848
+previous: 10846
+storyCount: 0
+summary: The text does not provide any storyline or narrative elements. Therefore, it seems there is no story present.
+title: 

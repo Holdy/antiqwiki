@@ -1,0 +1,6 @@
+location: Thames
+next: 10687
+previous: 10677
+storyCount: 2
+summary: Jacob Faithful is a tale of a young boy growing up and navigating the challenges of life after losing his parents in a tragic accident. Living aboard a barge on the Thames, Jacob learns valuable life lessons from the various individuals he encounters.
+title: Jacob Faithful

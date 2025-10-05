@@ -1,0 +1,6 @@
+location: Diolen
+next: 6077
+previous: 5846
+storyCount: 1
+summary: In Finland, stories of werwolves are prevalent, with peasants believing that these beings have the ability to cause harm to cattle and people and can sometimes paralyze their prey with a mere glance. An encounter near the village of Diolen with a supposed werwolf results in Savanich killing the creature, who then transforms into an old hag, leaving a poisonous scratch that tragically kills his son Peter.
+title: Finland Werwolves

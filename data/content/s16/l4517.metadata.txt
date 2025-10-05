@@ -1,0 +1,6 @@
+location: London
+next: 4592
+previous: 4436
+storyCount: 1
+summary: A house in one of the London Squares is rumored to be haunted, and a lady used a 'Planchette,' a divination tool, to inquire about the spirits and possible murder associated with the house. The responses received through this divination revealed that the house was haunted due to a murder, leading those involved to ultimately discard the divination practice as unlawful and wicked.
+title: The Haunted House and the Planchette Inquiry

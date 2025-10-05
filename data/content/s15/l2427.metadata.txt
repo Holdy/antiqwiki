@@ -1,0 +1,6 @@
+location: New York City
+next: 2429
+previous: 1961
+storyCount: 1
+summary: In the midst of bustling New York City, a young artist struggles to find his unique voice amidst the chaos of urban life. His journey navigates through personal and professional challenges, ultimately leading to self-discovery and artistic breakthrough.
+title: Urban Symphony

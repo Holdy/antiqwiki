@@ -1,0 +1,6 @@
+location: Creslow
+next: 1959
+previous: 1880
+storyCount: 1
+summary: A gentleman known for his skepticism of haunted rooms spent the night in a notorious chamber in Creslow, where he experienced mysterious noises resembling a woman's footsteps and a rustling silk gown, though he found no intruder. Despite his attempts to investigate the sounds with candled light twice during the night, he could not find an explanation, which further contributed to the room's eerie reputation.
+title: The Haunted Chamber of Creslow

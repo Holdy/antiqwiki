@@ -1,0 +1,6 @@
+location: Helvore
+next: 5921
+previous: 5684
+storyCount: 1
+summary: The protagonist and Leethwaite, members of the New Supernatural Investigation Society, witness a chilling scene near a knoll in Helvore, where they anticipate a supernatural event. As the clock strikes midnight, they encounter a mysterious figure resembling the protagonist, committing a ghastly act against a woman on the moonlit path.
+title: The Mystery Under the Moonlight

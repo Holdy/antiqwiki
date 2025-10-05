@@ -1,0 +1,6 @@
+location: null
+next: 6933
+previous: 6897
+storyCount: 1
+summary: A young gentleman, unfamiliar with business, finds himself entangled in complex situations but is ultimately saved by his love for nature and the help of outsiders who believe in him. Despite the challenges, he surprises everyone by muddling through, with elements of romance and social commentary woven into the story.
+title: REMITTANCE BILLY

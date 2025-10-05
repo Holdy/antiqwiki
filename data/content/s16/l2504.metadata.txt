@@ -1,0 +1,8 @@
+coordinates: 29.962593528536527, -90.07128115229999
+location: New Orleans
+next: 2540
+previous: 2399
+storyCount: 1
+summary: A haunted cell in New Orleans' Fourth Precinct police station, known for the suicide of Ann Murphy, reportedly causes inmates to experience ghostly encounters with her spirit, leading to multiple suicide attempts. Mary Taylor, a recent victim of the cell's haunting, survived her attempt and described the ghost urging her actions, matching the description of Ann Murphy, which she had never heard before.
+tags: haunting approx site
+title: The Haunted Cell in Fourth Precinct

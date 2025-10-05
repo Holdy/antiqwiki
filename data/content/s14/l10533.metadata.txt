@@ -1,0 +1,6 @@
+location: England
+next: 10538
+previous: 10531
+storyCount: 2
+summary: The narrative centers around Dodo, a charming and unpredictable woman navigating her social life. Her interactions and decisions create ripples within her elite English society.
+title: The Mutable Many

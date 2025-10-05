@@ -1,0 +1,6 @@
+location: Riverton
+next: 3159
+previous: 2804
+storyCount: 1
+summary: As winter blankets the small town of Riverton, the community rallies to organize a charity event to support local families in need. Despite the challenges of snowstorms, the townspeople come together, showcasing the true spirit of unity and compassion.
+title: Community Spirit in Riverton

@@ -1,0 +1,6 @@
+location: null
+next: 5992
+previous: 5982
+storyCount: 1
+summary: Alice Dease presents a collection of factual tales centered around her experiences with the French Red Cross. These stories likely highlight the challenges and heroic efforts involved in humanitarian aid work during crises.
+title: With the French Red Cross

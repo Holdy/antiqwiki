@@ -1,0 +1,6 @@
+location: Syderstone, Norfolk
+next: 4086
+previous: 4037
+storyCount: 1
+summary: The document certifies the good character and reliability of several residents of Syderstone, Norfolk, as vouched by the parish's chief inhabitants. These residents include Elizabeth Parsons, Thomas Mase, William Ofield, Elizabeth Hooks, Phoebe Steward, and Robert Hunter, who have declared truthful statements annexed to the certificate.
+title: Certificate of Character from Syderstone Parish

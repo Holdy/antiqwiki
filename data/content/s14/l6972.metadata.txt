@@ -1,0 +1,6 @@
+location: London
+next: 6989
+previous: 6958
+storyCount: 1
+summary: The story follows Edward Hankey, a courageous working man from London, as he navigates the hardships of life while maintaining hope through love. This narrative reflects England's current struggles and subtly prophesizes a hopeful future despite its stern depiction of reality.
+title: THE ROYAL ROAD: Being the Story of the Life, Death, and Resurrection of Edward Hankey of London

@@ -1,0 +1,6 @@
+location: null
+next: 10473
+previous: 9229
+storyCount: 1
+summary: A young maiden possesses a mysterious and enchanting aura that captivates those around her. Her presence transforms mundane environments into magical realms, leaving a lasting impression on everyone she encounters.
+title: I Know a Maiden

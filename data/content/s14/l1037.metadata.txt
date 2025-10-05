@@ -1,0 +1,6 @@
+location: Estonia
+next: 1261
+previous: 1029
+storyCount: 1
+summary: On a journey to visit friends in Estonia, Stanislaus and Anno D'Adhemar experience a terrifying chase through a forest by a supernatural, lupine figure during their droshky ride. Escaping just in time, they later learn from their host that the forest is reputed to be haunted by the spirit of a werwolf killed there years ago.
+title: The Spirits of Werwolves

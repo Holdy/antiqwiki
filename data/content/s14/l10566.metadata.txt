@@ -1,0 +1,6 @@
+location: New York
+next: 10568
+previous: 10558
+storyCount: 1
+summary: In the bustling city of New York, political aides scramble to address a leaked state secret that could change the course of upcoming elections. Amidst the chaos, a young journalist uncovers the truth behind the leak, revealing a tangled web of deception and power struggles.
+title: A STATE SECRET

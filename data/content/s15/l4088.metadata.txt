@@ -1,0 +1,6 @@
+location: Bournemouth
+next: 4584
+previous: 4086
+storyCount: 1
+summary: Sir Eldred Mansfield consults amateur detective Mark Wildbridge about mysterious deaths in his family, occurring at the Caspar Beeches near Bournemouth, believed to be caused by an unknown poison or supernatural curse. As a series of investigations unfold, Wildbridge discovers connections to an exotic Bornean gas that causes ghastly deaths and is linked to a possible family curse, with the story culminating in a near-fatal encounter with the deadly phenomenon.
+title: The Green Vapour

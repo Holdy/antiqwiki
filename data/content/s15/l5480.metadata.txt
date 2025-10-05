@@ -1,0 +1,6 @@
+location: Eldoria
+next: 5482
+previous: 4833
+storyCount: 1
+summary: The story revolves around a mystical island known as Eldoria, where inhabitants possess the ability to communicate with nature. Amidst a brewing storm, a young girl named Alia discovers a hidden path that could unlock the island's most guarded secret.
+title: Whispers of Eldoria

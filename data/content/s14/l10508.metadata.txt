@@ -1,0 +1,6 @@
+location: null
+next: 10512
+previous: 10506
+storyCount: 1
+summary: A collection of enchanting fairy tales brings to life magical creatures and adventures in mystical lands. Beautiful illustrations accompany the tales, enhancing the reader's journey through the fantastical narratives.
+title: Noemi: A Book of Fairy Tales

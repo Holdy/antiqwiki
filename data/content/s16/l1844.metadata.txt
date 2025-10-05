@@ -1,0 +1,8 @@
+coordinates: 51.55723912443498, -0.7796647799255338
+location: Bisham Abbey in Berkshire
+next: 1880
+previous: 1685
+storyCount: 1
+summary: Elizabeth Cooke Hobby, after accompanying her husband, Sir Thomas Hobby, to France, returned to Bisham Abbey in Berkshire where she allegedly killed her son due to his aversion to learning, and her spirit is said to haunt the house as punishment for this act. A hidden packet of antique copy-books was discovered in an old oak window-shutter, corroborating the legend about her son's resistance to writing.
+tags: haunting
+title: The Ghost of Bisham Abbey: The Tale of Elizabeth Cooke Hobby

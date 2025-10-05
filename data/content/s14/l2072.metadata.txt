@@ -1,0 +1,6 @@
+location: Merionethshire
+next: 2401
+previous: 2061
+storyCount: 3
+summary: Miss St. Denis, while staying on a farm in Merionethshire, experienced a terrifying encounter with the phantasm of a werwolf, whose frightening wolf-like appearance dissipated when she shined a light on it. Similarly unsettling experiences plagued the Anderson family in their Cumberland villa, where growling noises and an uncanny apparition resembling a werwolf haunted the household, prompting them to eventually sell the property.
+title: Phantoms of the Werwolf: Tales from the British Isles

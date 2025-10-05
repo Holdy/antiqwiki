@@ -1,0 +1,6 @@
+location: Kerovitch, Roumanian side of the Transylvanian Alps
+next: 3999
+previous: 3550
+storyCount: 2
+summary: In the village of Kerovitch, on the Roumanian side of the Transylvanian Alps, Olga and her brother Ivan discover a mysterious flower in a forest pit; upon wearing it, Olga transforms into a wolf and attacks Ivan. Their mother, upon finding them, tragically ends up killing the wolf, saving Ivan but discovering to her horror it was Olga, as both children lay dead, victims of the flower's curse.
+title: The Case of the Family of Kloska and the Lycanthropous Flower

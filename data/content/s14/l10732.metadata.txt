@@ -1,0 +1,6 @@
+location: null
+next: 10734
+previous: 10730
+storyCount: 1
+summary: Matthew Austen is a resident of a small town who encounters various personal and emotional challenges. Throughout his journey, he learns valuable lessons about resilience and the importance of community support.
+title: MATTHEW AUSTEN

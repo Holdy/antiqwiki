@@ -1,0 +1,6 @@
+location: Oxford
+next: 1560
+previous: 1459
+storyCount: 1
+summary: One evening, while deep in thought in his library, the narrator perceives a mist forming into the apparition of an old friend who had passed away seven years prior. The apparition, resembling the deceased friend from Oxford, points upwards, enveloped in a luminous mist, before gradually fading away, leaving the narrator with an overwhelming, inexplicable sensation.
+title: The Spectral Visit of an Oxford Companion

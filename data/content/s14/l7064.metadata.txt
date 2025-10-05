@@ -1,0 +1,6 @@
+location: null
+next: 7080
+previous: 7052
+storyCount: 1
+summary: Charles the Great is a light comedy by Mrs. H. H. Penrose, focusing on the protagonist's humorous attempts to fabricate his own greatness. The story is filled with mirth-provoking scenes as Charles's ambitious endeavors affect his circle of friends.
+title: CHARLES THE GREAT

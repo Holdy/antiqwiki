@@ -1,0 +1,6 @@
+location: null
+next: 10814
+previous: 10807
+storyCount: 1
+summary: The novel "Mr. Smith" by Mrs. L. B. Walford unfolds a charming tale centered around the unpredictable events in the life of Mrs. Smith. Amidst societal expectations and personal twists, Mrs. Smith must navigate through the challenges that life presents.
+title: Mr. Smith

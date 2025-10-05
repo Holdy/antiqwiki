@@ -1,0 +1,6 @@
+location: riverside town
+next: 10775
+previous: 10765
+storyCount: 2
+summary: In a small riverside town, a mysterious white wolf appears, captivating the townspeople. As rumors spread, the presence of the wolf leads to unexpected alliances and revelations about the area's past.
+title: The River

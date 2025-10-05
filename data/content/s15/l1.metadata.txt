@@ -1,0 +1,6 @@
+location: London
+next: 28
+previous: 0
+storyCount: 1
+summary: A house in London is known to be haunted by the ghost of a woman who was once a governess and tragically drowned in a nearby river. The current residents frequently hear unexplained weeping sounds and have witnessed eerie apparitions in the mirrors, causing great distress among them.
+title: Haunted Places in England

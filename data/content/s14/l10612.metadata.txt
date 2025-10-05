@@ -1,0 +1,6 @@
+location: Kloof
+next: 10623
+previous: 10607
+storyCount: 1
+summary: A young bride from the secluded area of Kloof faces mysterious challenges upon her sudden disappearance after the wedding. Her determined groom uncovers sinister secrets hidden in the town, leading to a revelation of old rivalries and hidden fortunes.
+title: The Kloof Bride

@@ -1,0 +1,6 @@
+location: null
+next: 5962
+previous: 5952
+storyCount: 1
+summary: Felicia Curtis' novel, titled 'A More Excellent Way', explores themes of personal growth and moral dilemmas in a richly developed narrative. Set in an undefined location, the novel weaves a tale that challenges its characters to find a superior path in life.
+title: A More Excellent Way

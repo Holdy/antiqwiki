@@ -1,0 +1,6 @@
+location: Great Malvern
+next: 3569
+previous: 3452
+storyCount: 1
+summary: During a gathering at a friend's house in Great Malvern, unexpected supernatural phenomena occurred when spirit-forms appeared and moved between the gathering and the illuminated wall. The room alternated between darkness and illumination, with shadowy figures attempting to speak, but the manifestations abruptly ended within ten minutes.
+title: Supernatural Encounter in Great Malvern

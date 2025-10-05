@@ -1,0 +1,6 @@
+location: Syderstone
+next: 3989
+previous: 3910
+storyCount: 1
+summary: Elizabeth Hooks recounts eerie experiences during her time at Syderstone Parsonage, including mysterious noises and unexplained knocking, which were never explained despite investigation. She remains convinced that these occurrences were not caused by any family member and expresses her belief in their supernatural origin.
+title: The Mysterious Noises at Syderstone Parsonage

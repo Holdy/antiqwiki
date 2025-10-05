@@ -1,0 +1,6 @@
+location: null
+next: 10797
+previous: 10790
+storyCount: 1
+summary: Balbara found herself in a tight financial spot after unexpectedly losing her job just before her rent was due. Determined to turn her situation around, she begins utilizing her artistic talents to create and sell handmade crafts, eventually gaining a small following online.
+title: Balbara's Money

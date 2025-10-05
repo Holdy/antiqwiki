@@ -1,0 +1,6 @@
+location: Gulf of Lions
+next: 2598
+previous: 2460
+storyCount: 1
+summary: Andre Bonivon, during one of his attacks on Huguenot settlements, gets lost in a storm and believes he is saved by a werewolf, only to discover it was a Huguenot minister whose village his crew had raided. Despite the captain's role in his suffering, the minister helps him, leading Bonivon to change his ways and become a friend to the Huguenots.
+title: The Case of Roland Bertin

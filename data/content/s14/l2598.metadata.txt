@@ -1,0 +1,6 @@
+location: Blois
+next: 2775
+previous: 2486
+storyCount: 1
+summary: In 18th-century Blois, a spurned youth named Henri seeks revenge on his former object of affection, Beatrice, with the help of a local witch. The witch, Mere Maxim, gives Henri enchanted gifts for Beatrice that transform her into a werwolf, leading to a chilling encounter in the forest.
+title: Henri's Revenge and the Werwolf of Blois

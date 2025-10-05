@@ -1,0 +1,6 @@
+location: Oxford
+next: 4266
+previous: 4233
+storyCount: 1
+summary: A remarkable event unfolded at Oxford approximately forty-five years ago, involving members of Brasenose College. This account, shared with the Editor in June 1854, is well-known in broad strokes among Oxford men.
+title: A Remarkable Event at Oxford

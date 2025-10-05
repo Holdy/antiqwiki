@@ -1,0 +1,6 @@
+location: null
+next: 91
+previous: 70
+storyCount: 13
+summary: The story begins with an introduction to a mysterious old chair that seems to have an eerie presence in the household. Strange occurrences and supernatural events unfold, centering around the chair, leading to unsettling discoveries for the residents.
+title: The Chair

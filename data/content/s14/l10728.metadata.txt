@@ -1,0 +1,6 @@
+location: null
+next: 10730
+previous: 10726
+storyCount: 1
+summary: The story explores the dynamics of financial reputation affecting a community. Tensions arise when a misunderstanding about debt and trust threatens longstanding relationships among residents.
+title: The Credit of the County

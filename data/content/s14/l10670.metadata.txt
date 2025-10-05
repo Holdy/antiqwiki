@@ -1,0 +1,6 @@
+location: Patten
+next: 10672
+previous: 10668
+storyCount: 1
+summary: Dr. Harris embarked on a groundbreaking experiment in the secluded village of Patten, aiming to understand the effects of prolonged isolation on human psychology. As the experiment unfolded, unexpected emotional connections developed among the participants, challenging the initial hypothesis and revealing the complexity of human interaction.
+title: The Patten Experiment

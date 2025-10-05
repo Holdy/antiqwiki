@@ -1,0 +1,6 @@
+location: null
+next: 10846
+previous: 10823
+storyCount: 0
+summary: The list features various books by different authors, including "Captain Fortune" and "The Sea Lady." "The Result of an Accident" and "A Passionate Pilgrim" are among the other titles mentioned in the selection.
+title: 

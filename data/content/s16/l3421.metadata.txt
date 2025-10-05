@@ -1,0 +1,6 @@
+location: null
+next: 3445
+previous: 3392
+storyCount: 1
+summary: The text discusses the concept of superstition, particularly in the context of modern spiritualism, and how it is often linked to the worship of evil spirits, as highlighted by religious figures and scriptures. It warns against deception by evil forces, suggesting that such delusions lead people away from salvation and towards spiritual downfall.
+title: Modern Spiritualism

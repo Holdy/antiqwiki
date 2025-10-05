@@ -1,0 +1,6 @@
+location: forest
+next: 10645
+previous: 10629
+storyCount: 1
+summary: A wandering knight embarks on a perilous journey through a desolate forest to uncover the truth behind the strange disappearances plaguing a nearby village. Faced with treacherous paths and mystical creatures, he must rely on his wits and courage to solve the mysteries of the forest and bring peace to the land.
+title: THE CROOKED WAY

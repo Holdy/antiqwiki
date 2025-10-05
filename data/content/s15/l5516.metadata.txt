@@ -1,0 +1,6 @@
+location: Helvore
+next: 5684
+previous: 5482
+storyCount: 1
+summary: The narrator encounters a haunting night in the countryside where the eerie sounds of the wind are interrupted by the presence of a mysterious woman and, later, a terrified man. The discovery of a woman's murdered body leads to a struggle with her mad, murderous husband and eventual intervention by the police.
+title: Whispers of the Night

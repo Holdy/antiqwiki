@@ -1,0 +1,6 @@
+location: null
+next: 2746
+previous: 2649
+storyCount: 1
+summary: The text describes a future where enemies of God will form a universal kingdom, leading a final assault on Christianity with followers seduced by false miracles. This Antichrist reign will deceptively mimic the Church's worship, rapidly attracting widespread apostasy.
+title: Modern Spiritualism

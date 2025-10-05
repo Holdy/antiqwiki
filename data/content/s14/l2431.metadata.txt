@@ -1,0 +1,6 @@
+location: France
+next: 2460
+previous: 2401
+storyCount: 1
+summary: In France, particularly in regions such as Brittany and Burgundy, the phenomenon of werwolves, known locally as 'loup garou', has been prevalent for centuries, with the creatures sometimes even targeting convents and monasteries. Some werwolves were virtuous individuals transformed against their will, occasionally exhibiting remarkable acts of kindness by protecting rather than harming humans.
+title: The Werwolf in France

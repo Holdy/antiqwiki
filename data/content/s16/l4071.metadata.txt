@@ -1,0 +1,6 @@
+location: null
+next: 4233
+previous: 3960
+storyCount: 1
+summary: Mr. Wallace presents a defense of Modern Spiritualism by arguing for the scientific reality of its phenomena, challenging traditional religious notions and suggesting that this new understanding could lead to a purer morality based on natural consequences rather than dogmatic beliefs. He posits that humans consist of a duality with spirits that evolve and communicate through mediums, which could reshape our understanding of morality and the afterlife, while acknowledging that the science is still developing.
+title: A Defense of Modern Spiritualism

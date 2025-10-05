@@ -1,0 +1,6 @@
+location: England
+next: 6135
+previous: 6112
+storyCount: 1
+summary: The book provides a detailed account of the private lives of the English royal family, focusing on their personal histories rather than their public reigns. It covers the family members' roles and impacts in English history, complete with genealogical tables.
+title: A HISTORY OF THE ROYAL FAMILY OF ENGLAND

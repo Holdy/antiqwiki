@@ -1,0 +1,6 @@
+location: urban neighborhood
+next: 1339
+previous: 1335
+storyCount: 1
+summary: In a bustling urban neighborhood, a girl named Emily searches for her runaway dog, Max, who slipped out of his leash during a walk. Along the way, Emily encounters various neighbors who help her in her search, ultimately finding Max playing in a nearby park.
+title: THE EMPTY LEASH

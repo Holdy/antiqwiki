@@ -1,0 +1,6 @@
+location: London
+next: 10607
+previous: 10600
+storyCount: 1
+summary: Mr. Bunting, a curious and cautious businessman, navigates the bustling dynamics of London while entangled in unexpected social adventures. His journey through the city's vibrant streets leads to encounters that challenge his perception and decisions.
+title: The Town Traveller

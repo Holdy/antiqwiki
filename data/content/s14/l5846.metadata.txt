@@ -1,0 +1,8 @@
+coordinates: 68.99501778693063, 27.743392821334698
+location: Lake Enara
+next: 5977
+previous: 5761
+storyCount: 1
+summary: In Lapland, a peasant couple believe their landlord's wife is a werwolf after their child narrowly escapes being eaten by her and her werwolf children. After the violent abduction of another child, the peasants rally together, capture the werwolf family, and drown them in Lake Enara before burning their home to eliminate the threat.
+tags: werewolf
+title: The Werwolves of Lapland

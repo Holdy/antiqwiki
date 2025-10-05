@@ -1,0 +1,6 @@
+location: null
+next: 10666
+previous: 10650
+storyCount: 1
+summary: Mrs. Peter Howard navigates the complexities of societal expectations and personal aspirations. Set against the backdrop of Victorian society, she seeks a balance between her public duties and private desires.
+title: A Counsel of Perfection

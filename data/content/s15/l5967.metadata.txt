@@ -1,0 +1,6 @@
+location: null
+next: 5972
+previous: 5962
+storyCount: 1
+summary: The narrative unfolds around a poignant event involving a character named Chris, exploring themes of loss and emotional hardship. Set against the backdrop of personal turmoil, the story delves deeply into the complexities of human emotion and resilience during trying times.
+title: The Tragedy of Chris

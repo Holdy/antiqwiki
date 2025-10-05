@@ -1,0 +1,6 @@
+location: Syderstone Parsonage
+next: 3804
+previous: 3721
+storyCount: 1
+summary: Mysterious and inexplicable noises have been reported at the Syderstone Parsonage, disturbing the residents with varying intensity over the years. The credibility of these accounts is supported by multiple witnesses, although some legal challenges arose regarding the formal assertion of these experiences.
+title: Whispers of Syderstone Parsonage

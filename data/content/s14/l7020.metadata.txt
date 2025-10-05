@@ -1,0 +1,6 @@
+location: London
+next: 7038
+previous: 7007
+storyCount: 1
+summary: In "The Suburban," H. C. Bailey explores the struggles of a middle-class man in modern London as he climbs from poverty to suburban respectability, while juxtaposing his journey with that of a more radical figure advocating for revolutionary change. The narrative delves into the interactions they have with a powerful figure in finance and industry, and provides a vivid depiction of a modern young woman from the middle class.
+title: The Suburban

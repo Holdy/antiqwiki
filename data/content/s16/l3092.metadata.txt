@@ -1,0 +1,6 @@
+location: England
+next: 3163
+previous: 2896
+storyCount: 1
+summary: In the mid-19th century, mediums like Daniel Home and the Davenport brothers gained notoriety by conducting spiritualist sessions across England and Europe, where witnesses reported extraordinary phenomena such as floating tables, unexplained musical performances, and spirit communications through knocks and written messages. Testimonies from reputable individuals, including clergymen, vouched for these occurrences, with some participants convinced of the spirits' authenticity; one clergyman even decided never to engage in such activities again after witnessing a séance in northern England.
+title: Spiritual Manifestations by Daniel Home and the Davenport Brothers

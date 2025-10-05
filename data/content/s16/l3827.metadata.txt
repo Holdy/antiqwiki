@@ -1,0 +1,6 @@
+location: null
+next: 3849
+previous: 3764
+storyCount: 1
+summary: Spiritualism asserts that death is merely the transition of the soul from the body, and what observers perceive as a lifeless body is actually undergoing transformation according to a perpetual law of life. This philosophy denies the Christian concept of bodily resurrection, suggesting instead that even the so-called dead matter continues to contribute to the cycle of life and spiritual evolution.
+title: The Philosophy of Spiritualism vs. Resurrection Doctrine

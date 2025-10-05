@@ -1,0 +1,8 @@
+coordinates: 52.46719106179263, -1.875470409800239
+location: Birmingham
+next: 1273
+previous: 1246
+storyCount: 1
+summary: In the summer of 1816, a woman saw the apparition of her sister approaching her house at night, only for the figure to vanish before she could meet it. The next morning, she learned that her sister had died at the same time the apparition appeared.
+tags: haunting
+title: The Apparition of Sister B

@@ -1,0 +1,6 @@
+location: Denmark
+next: 5054
+previous: 5023
+storyCount: 1
+summary: The werwolves in Denmark were commonly encountered in the past and were predominantly male, but there is little evidence about specific Danish exorcism practices against them. Despite differing opinions on their current existence, there are beliefs they still inhabit the secluded regions.
+title: The Werwolves and Maras of Denmark

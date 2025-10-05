@@ -1,0 +1,8 @@
+coordinates: 42.81212977080342, -1.649290924283147
+location: Pamplona
+next: 4710
+previous: 3999
+storyCount: 1
+summary: In 1853, Paul Nicholas, a wealthy young man, arrives at l'Hotel Hervada in Pamplona and becomes enamored with a mysterious woman, Isabelle de Nurrez, who repeatedly leaves with various suitors only to return shortly thereafter. Eventually, Isabelle convinces Paul to accompany her to a remote house, under the pretense of evading an unwanted suitor, where he ultimately discovers she is married to a werwolf who seeks human victims, revealing her true intentions of delivering him to her husband. The story unfolds in Pamplona, Spain, where despite multiple warnings and bizarre occurrences, Paul finds himself ensnared by Isabelle’s charm, ultimately leading him to a life-threatening situation involving her werewolf husband.
+tags: werewolf approx
+title: The Werwolf in Pamplona

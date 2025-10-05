@@ -1,0 +1,6 @@
+location: Kentish Town
+next: 6882
+previous: 6855
+storyCount: 1
+summary: The Happy Family is a comedic yet realistic exploration of suburban life in London, focusing on the contrasting temperaments and lives of its characters. Primarily set in Kentish Town, the story delves into the conflicts between idealism and reality, offering insights into the publishing industry as a backdrop.
+title: THE HAPPY FAMILY

@@ -1,0 +1,6 @@
+location: Smyrna
+next: 6774
+previous: 6746
+storyCount: 1
+summary: The story follows Tony Paynter as he embarks on an adventurous journey starting from a German liner off the East African coast, proceeding through Port Said to Smyrna and into the interior of Turkey-in-Asia. In the bustling bazaars of Smyrna, Tony and Sylvia Sayers meet a Turk who significantly impacts their lives, culminating in a happy ending as they finally sail away from Smyrna.
+title: IT HAPPENED IN SMYRNA

@@ -1,0 +1,6 @@
+location: Paris
+next: 2934
+previous: 2775
+storyCount: 1
+summary: In 1847 Paris, cemeteries were plagued by grave violations seemingly orchestrated by a creature of both human and animal traits, ultimately identified as Sergeant Bertrand, after evidence and a soldier's confession linked him to the crimes. Bertrand admitted to being driven by an uncontrollable force, confessing to unearthing and gnawing on numerous corpses under bizarre, trance-like conditions, leading to his brief imprisonment despite being deemed sane by medical experts.
+title: The Case of Sergeant Bertrand

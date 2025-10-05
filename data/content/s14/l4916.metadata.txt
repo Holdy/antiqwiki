@@ -1,0 +1,6 @@
+location: Rousse
+next: 5023
+previous: 4804
+storyCount: 1
+summary: Werwolves in the Netherlands are less common than in France or Belgium and the method to cleanse them involves performing a spell involving whipping and the use of unpleasant mixtures. In a noted incident, Van Renner unknowingly shot a werwolf, later discovering it was his friend, the Burgomaster, who confessed his condition and died seeking forgiveness.
+title: WERWOLVES IN THE NETHERLANDS

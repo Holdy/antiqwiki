@@ -1,0 +1,6 @@
+location: null
+next: 6097
+previous: 6033
+storyCount: 1
+summary: The 'Falstaff' Edition of Shakespeare's Works presents the plays in the order of the first folio edition of 1623, while including poems and the play 'Pericles' at the end of the volume. The editor's task was to select between different readings chosen by Shakespearean critics, primarily following the text by Delius.
+title: Falstaff Edition of Shakespeare's Works

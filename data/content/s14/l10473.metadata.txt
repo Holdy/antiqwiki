@@ -1,0 +1,6 @@
+location: the bustling city
+next: 10475
+previous: 10471
+storyCount: 1
+summary: An amateur detective stumbles upon a conspiracy while trying to solve a simple case. His naive mistakes unwittingly lead him to uncover a massive criminal operation in the bustling city.
+title: The Blunder of an Innocent

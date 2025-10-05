@@ -1,0 +1,6 @@
+location: London
+next: 2724
+previous: 2602
+storyCount: 2
+summary: Captain Morgan, staying in an old-fashioned London house, was woken by a large spectral bird attacking him in the night. Despite attempts to ward it off, the bird vanished mysteriously, and his friend experienced the same phenomenon the next night.
+title: The Spectral Bird Encounter in London

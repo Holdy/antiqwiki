@@ -1,0 +1,6 @@
+location: null
+next: 9223
+previous: 9076
+storyCount: 1
+summary: A collection of literary works, including both prose and poetry, features multiple notable authors such as Jane Austen, Dante Alighieri, and Nathaniel Hawthorne, providing a diverse selection for readers. These works are presented in a series called 'The Little Library,' with each volume offering insights and introductions to classic literature.
+title: The Little Library Collection

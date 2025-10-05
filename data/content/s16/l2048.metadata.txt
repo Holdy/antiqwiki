@@ -1,0 +1,6 @@
+location: York
+next: 2137
+previous: 2014
+storyCount: 1
+summary: On a November night, a clergyman walking between two villages near York hears terrifying shrieks and attributes them to a prank, though he finds no one in the moonlit fields. A local gardener later recounts how his mother was frightened by an eerie figure near the same gate where a murder victim was found decades earlier, leading both men to avoid the path at night.
+title: The Haunted Path Near York

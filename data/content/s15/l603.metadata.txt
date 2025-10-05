@@ -1,0 +1,6 @@
+location: Riverville
+next: 605
+previous: 589
+storyCount: 1
+summary: The town of Riverville faced an unexpected challenge as the river flooded, affecting many homes and businesses. The community quickly banded together to provide shelter and aid to those affected.
+title: Riverville's Great Flood

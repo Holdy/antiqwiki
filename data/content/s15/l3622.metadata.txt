@@ -1,0 +1,6 @@
+location: Syderstone
+next: 3720
+previous: 3488
+storyCount: 1
+summary: An account from the Norfolk Chronicle discusses the mysterious noises reported at Syderstone Parsonage in 1833, with skepticism toward claims of supernatural activity. The writer suggests that a thorough investigation by experienced police could uncover any deceptions behind these disturbances, hinting at the possibility of human, rather than ghostly, involvement.
+title: The Syderstone Ghost Mystery

@@ -1,0 +1,6 @@
+location: Glamis Castle
+next: 2335
+previous: 2307
+storyCount: 1
+summary: A group led by the head of the family at Glamis Castle attempted to investigate mysterious noises emanating from the alleged Haunted Room. Upon opening the door, the head of the family fainted and never spoke about the experience again, suggesting the presence of something unsettling.
+title: The Mystery of Glamis Castle

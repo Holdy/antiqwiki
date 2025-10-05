@@ -1,0 +1,6 @@
+location: a quaint coastal village
+next: 10520
+previous: 10516
+storyCount: 1
+summary: In a quaint coastal village, renowned for its serene waters and warm-hearted inhabitants, the legend of the Queen of Love persisted. Tales of her immortal kindness and unmatched beauty attracted visitors from afar, each seeking solace and inspiration from her legacy.
+title: The Queen of Love

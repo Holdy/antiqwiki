@@ -1,0 +1,6 @@
+location: Epsom
+next: 930
+previous: 795
+storyCount: 1
+summary: Lord Lyttelton, known for his wit and debauched lifestyle, dreamt of a woman in white who foretold his death in three days, a vision some attributed to his guilty conscience. Following his death at Pitt Place, Epsom, his apparition was reportedly seen by his friend Miles Peter Andrews in Dartford, who was later shocked to receive news of Lyttelton's demise, affirming the haunted tale.
+title: The Lyttelton Ghost Story

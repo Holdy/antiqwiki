@@ -1,0 +1,6 @@
+location: Berne
+next: 2649
+previous: 2540
+storyCount: 1
+summary: Monsieur de Goumoëns, a magistrate in Berne, Switzerland, and his family experienced severe disturbances in their home, including inexplicable noises and ghostly occurrences, which eventually drove them to flee the house. A more thorough examination revealed a hidden room where a previous tenant, known as 'the Black Styger', had committed suicide, leading to the belief that his spirit haunted the residence.
+title: The Haunted House of Berne

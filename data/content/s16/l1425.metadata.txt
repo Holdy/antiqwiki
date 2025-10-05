@@ -1,0 +1,6 @@
+location: null
+next: 1459
+previous: 1307
+storyCount: 1
+summary: During the winter of 1872-3, an individual was gravely ill and attended by a dedicated nurse, who witnessed a spectral apparition bending over the patient at two o'clock in the morning, resembling the patient's father. It was later confirmed that the father had died at the exact time the apparition was seen, suggesting a connection between the apparition and the father's death.
+title: The Apparition at Two O'Clock

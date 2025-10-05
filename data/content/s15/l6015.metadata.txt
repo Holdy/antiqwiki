@@ -1,0 +1,6 @@
+location: null
+next: 6020
+previous: 6010
+storyCount: 1
+summary: The collection "Turquoise" by L. D'O. Walters offers enigmatic verses. The book is priced at 3 shillings net, inviting readers to explore its poetic insights.
+title: TURQUOISE

@@ -1,0 +1,6 @@
+location: Sudbury
+next: 740
+previous: 605
+storyCount: 1
+summary: After missing the last train home and getting caught in a rainstorm, two men encounter a mysterious headless woman on a dark road near Sudbury, causing them to flee in terror. As they process what they've seen and realize the woman's footsteps still echo in the distance, they are convinced they have witnessed a ghostly apparition.
+title: A Derbyshire Haunting

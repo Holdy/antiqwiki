@@ -1,0 +1,6 @@
+location: Pitt Place
+next: 0
+previous: 5857
+storyCount: 1
+summary: Lord Lyttelton experienced a supernatural visitation in which the spectral figure of a woman he had wronged warned him of his impending death in three days if he did not repent. Despite his friends' skepticism and efforts to convince him otherwise, the prophecy came true, and Lord Lyttelton was found dead at the predicted hour, shocking those gathered at his estate.
+title: The Fatal Prophecy of Lord Lyttelton

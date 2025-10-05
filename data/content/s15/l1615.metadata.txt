@@ -1,0 +1,6 @@
+location: theater
+next: 1617
+previous: 1613
+storyCount: 1
+summary: In a bustling theater, actress Emily navigates the challenges of fame while grappling with her inner insecurities. As the closing night approaches, she finds solace and strength through unexpected friendships formed in the dressing room.
+title: The Dressing-Room

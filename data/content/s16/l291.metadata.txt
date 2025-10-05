@@ -1,0 +1,6 @@
+location: Ireland
+next: 535
+previous: 268
+storyCount: 1
+summary: Lady Beresford experienced the spectral appearance of her close friend Lord Tyrone, who warned her about the veracity of the Revealed Religion and foretold significant events in her life, including her own demise shortly after her supposedly true age was discovered to be forty-seven. Despite initially doubting the apparition, the fulfillment of Tyrone's prophecies, combined with her own spiritual transformation, led Lady Beresford to face her approaching death with acceptance and left a notable mark with her mysterious wrist injury that followed her until her last breath.
+title: The Beresford Apparition

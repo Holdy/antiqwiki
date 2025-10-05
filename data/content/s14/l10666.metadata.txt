@@ -1,0 +1,6 @@
+location: null
+next: 10668
+previous: 10661
+storyCount: 1
+summary: In a rural town, a man stumbles upon an estate that was believed to be lost for many years. As he explores the grounds, he uncovers secrets that could change the town's history forever.
+title: A Lost Estate

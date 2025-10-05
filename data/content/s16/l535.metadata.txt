@@ -1,0 +1,6 @@
+location: null
+next: 541
+previous: 291
+storyCount: 2
+summary: The first spectral appearance is recounted by Glanville, who is noted for his learned and devout nature. The second involves Dr. Ferrar, and the third is the famous 'Wynyard Ghost Story.'
+title: Examples of Spectral Appearances

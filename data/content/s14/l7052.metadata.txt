@@ -1,0 +1,6 @@
+location: null
+next: 7064
+previous: 7038
+storyCount: 1
+summary: Gerhart Hauptmann's novel, 'The Fool in Christ', presents the idea of a living human Christ, depicted through the intriguing character of Quint. This thought-provoking piece is expected to spark discussion with its portrayal of a figure both pathetic and inspiring.
+title: The Fool in Christ

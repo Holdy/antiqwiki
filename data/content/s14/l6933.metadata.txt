@@ -1,0 +1,6 @@
+location: null
+next: 6948
+previous: 6917
+storyCount: 1
+summary: Professor Clifford's will stipulates that a large sum of money will be awarded to the scientist who completes his life research within a specified time. Humphrey Wyatt takes on the challenge, becoming romantically involved with the professor's stepdaughter, leading to a charming conclusion.
+title: Honours Easy

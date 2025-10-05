@@ -1,0 +1,6 @@
+location: null
+next: 4071
+previous: 3956
+storyCount: 1
+summary: Alfred R. Wallace recounts his thorough investigation into Spiritualism, which convinced him of the authenticity of its phenomena despite skepticism from the scientific community. He argues that these spiritual experiences, similar to unexplained natural occurrences, deserve scientific investigation and acknowledgment as they have profound implications for our understanding of history and human nature.
+title: A Scientist's Case for Spiritualism

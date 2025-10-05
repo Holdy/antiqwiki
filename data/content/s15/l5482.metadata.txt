@@ -1,0 +1,6 @@
+location: Cumberland
+next: 5516
+previous: 5480
+storyCount: 1
+summary: Dr. Custance introduces a visitor to George Richard Dacre, an elderly man with a connection to a haunting event in Cumberland forty years ago. Dacre shares his singular supernatural experience, reminiscing about a time when he felt like a tree experiencing the scents and breezes of a long-past summer.
+title: The Pines

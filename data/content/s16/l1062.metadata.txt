@@ -1,0 +1,6 @@
+location: Southampton
+next: 1153
+previous: 981
+storyCount: 1
+summary: Philip Weld, a young boy of great piety, tragically drowned on a college outing, and his spirit, accompanied by a saint, appeared to his family at the same time of his death. Later, Mr. Weld identified the saint as St. Stanislaus Kostka, Philip's Confirmation patron, confirming his son's peaceful passing in divine grace.
+title: The Weld Ghost Story

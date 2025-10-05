@@ -1,0 +1,6 @@
+location: Shiganska
+next: 6600
+previous: 6077
+storyCount: 1
+summary: Ivan, a hunter from the now obliterated village of Shiganska, falls in love with the beautiful but mysterious Breda he encounters in the wilderness, eventually marrying her despite strange occurrences and community suspicions surrounding her. After a series of family tragedies linked to a suspected werwolf, Ivan discovers that Breda is indeed a werwolf who chose this fate to exact revenge on a former abusive husband, leading to dramatic efforts to hide this truth from their community and an ill-fated attempt at exorcism.
+title: The Case of Ivan of Shiganska

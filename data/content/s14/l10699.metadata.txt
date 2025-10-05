@@ -1,0 +1,6 @@
+location: Griffithscourt
+next: 10701
+previous: 10691
+storyCount: 1
+summary: Griff lived in the ancient village of Griffithscourt, where he was known for his strong character and wisdom. He was often sought out by his neighbors for advice on everything from disputes to planting methods, making him a respected figure in the community.
+title: Griff of Griffithscourt

@@ -1,0 +1,6 @@
+location: Brittany
+next: 3139
+previous: 2991
+storyCount: 1
+summary: Constance Armande, a young girl from Brittany, became deeply involved in spiritualism against her family's wishes, leading to her being haunted by malevolent spirits, incessantly disturbing her peace and causing terrifying dreams that were actually projections of her own spirit interacting with ghouls. Her engagement to Alphonse Mabane ends tragically when Constance, under the influence of a ghoul that took over her body, is found feeding on the corpse of Alphonse's recently deceased mother, culminating in her fleeing the scene and ultimately drowning in a river.
+title: The Case of Constance Armande, Ghoul

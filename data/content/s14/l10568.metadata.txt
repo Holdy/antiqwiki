@@ -1,0 +1,6 @@
+location: Barton
+next: 10570
+previous: 10566
+storyCount: 1
+summary: In the town of Barton, young Peggy embarks on a journey of self-discovery and resilience. As she navigates the challenges of growing up, she finds strength and friendship in unexpected places.
+title: PEGGY OF THE BARTONS

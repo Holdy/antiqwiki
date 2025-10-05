@@ -1,0 +1,6 @@
+location: Oxford
+next: 0
+previous: 6125
+storyCount: 1
+summary: Set in Oxford, this narrative delves into the extensive Catholic history of the city, exploring its religious influences and heritage through detailed maps and illustrations. The book offers an insightful exploration of Oxford's past from a Catholic perspective, emphasizing its cultural and historical significance.
+title: The Mirror of Oxford

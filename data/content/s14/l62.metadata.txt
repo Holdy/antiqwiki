@@ -1,0 +1,6 @@
+location: London
+next: 80
+previous: 42
+storyCount: 0
+summary: This document is the title page of the book 'Werewolves' by Elliott O'Donnell, first published in 1912. No story is present in the provided text, as it contains only publication details.
+title: Werewolves

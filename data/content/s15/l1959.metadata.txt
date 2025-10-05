@@ -1,0 +1,6 @@
+location: Glenwood Manor
+next: 1961
+previous: 1864
+storyCount: 1
+summary: A mysterious figure was seen lurking around the old mansion, raising suspicions among the townsfolk. The detective assigned to the case must unravel the secret behind the ghostly appearances and bring peace to the community.
+title: The Specter of Glenwood Manor

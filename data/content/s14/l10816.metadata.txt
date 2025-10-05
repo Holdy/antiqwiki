@@ -1,0 +1,6 @@
+location: Hamilton
+next: 10818
+previous: 10814
+storyCount: 1
+summary: Evelyn struggles with the challenges of balancing her new life as a mother while dealing with her overbearing mother-in-law's constant interference. The story unfolds in the bustling town of Hamilton, a place where family ties are both a blessing and a source of tension.
+title: The Baby's Grandmother

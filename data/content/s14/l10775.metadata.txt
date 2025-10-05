@@ -1,0 +1,6 @@
+location: train station
+next: 10779
+previous: 10767
+storyCount: 1
+summary: In a bustling train station, a young woman named Emma discovers a mysterious suitcase filled with seemingly lost treasures, leading her on a journey to track down their rightful owners. Along the way, she encounters various people with fascinating stories, each connected to the items, eventually unveiling a deeper understanding of humanity and connection.
+title: LOST PROPERTY

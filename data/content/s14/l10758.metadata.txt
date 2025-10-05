@@ -1,0 +1,6 @@
+location: null
+next: 10763
+previous: 10753
+storyCount: 1
+summary: A young boy navigates the challenges of growing up, learning important lessons about friendship and integrity. Set in the backdrop of a boys' school, friendships and moral values are tested in various amusing and serious episodes.
+title: THE HUMAN BOY

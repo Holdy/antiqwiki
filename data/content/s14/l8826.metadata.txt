@@ -1,0 +1,6 @@
+location: null
+next: 9076
+previous: 8767
+storyCount: 0
+summary: The text is a catalogue listing various literary works and series, including titles on religion, art, and guides to locations. This catalogue includes renowned authors and editors, covering subjects from spiritual texts to detailed art histories and geographic guides.
+title: 

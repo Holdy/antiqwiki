@@ -1,0 +1,6 @@
+location: Dartford
+next: 1062
+previous: 930
+storyCount: 1
+summary: Mr. Andrews experienced a mysterious visit from the ghost of Lord Lyttelton the night before news of Lord Lyttelton's death reached him, leading Andrews to believe it was a trick, but later causing him significant distress when the truth was revealed. This encounter at Dartford had a profound impact on Andrews, leaving him deeply troubled for several years.
+title: The Ghostly Visit of Lord Lyttelton

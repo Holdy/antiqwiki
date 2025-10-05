@@ -1,0 +1,6 @@
+location: Scotland
+next: 291
+previous: 199
+storyCount: 1
+summary: A gentleman and his companion in the army of the Duke of York in Flanders witnessed the apparition of their absent friend, who revealed he had been killed and requested them to retrieve a vital document from an agent in England. Despite initial denial from the agent, the document was found in a specified drawer, following the guidance of the apparition, and was subsequently restored to the widow of the deceased.
+title: The Apparition in Scotland

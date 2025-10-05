@@ -1,0 +1,6 @@
+location: Paris
+next: 1337
+previous: 1316
+storyCount: 1
+summary: In the bustling streets of Paris, Marie grapples with her newfound independence after moving away from her small hometown. As she navigates the challenges of city life, she finds unexpected solace in her friendship with a local bookstore owner.
+title: Marie's Journey to Independence

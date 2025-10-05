@@ -1,0 +1,6 @@
+location: the ocean
+next: 10788
+previous: 10781
+storyCount: 1
+summary: The story follows a couple who decide to marry on a ship amidst the vast ocean, seeking adventure and new beginnings. Facing unforeseen challenges, they rely on their love and partnership to navigate through the stormy seas, strengthening their bond in the process.
+title: A Marriage at Sea

@@ -1,0 +1,6 @@
+location: null
+next: 5952
+previous: 5942
+storyCount: 0
+summary:  
+title: THE CALL OF THE PAST

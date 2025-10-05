@@ -1,0 +1,6 @@
+location: small town
+next: 10500
+previous: 10490
+storyCount: 1
+summary: In a small town, Zita, a cunning vendor known as "Cheap Jack", navigates the challenges of selling second-hand goods while dreaming of a better life. Amidst personal struggles and community tensions, her determination and wit help her uncover unexpected opportunities.
+title: CHEAP JACK ZITA

@@ -1,0 +1,6 @@
+location: Everwood
+next: 4088
+previous: 4070
+storyCount: 1
+summary: In this chapter, the protagonist embarks on a journey through the dense forests of Everwood to uncover the mysteries hidden within its shadows. During the expedition, unexpected alliancesare formed and secrets of the past are revealed, altering the course of their adventure.
+title: Secrets of Everwood

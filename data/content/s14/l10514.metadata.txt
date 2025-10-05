@@ -1,0 +1,6 @@
+location: null
+next: 10516
+previous: 10512
+storyCount: 1
+summary: Winefred embarks on an unexpected journey after discovering a mysterious key hidden at her grandmother's estate. As she uncovers hidden family secrets, she must decide whether to trust her instincts or the cryptic advice from strangers she meets along the way.
+title: WINEFRED

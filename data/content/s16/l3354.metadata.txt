@@ -1,0 +1,6 @@
+location: null
+next: 3392
+previous: 3286
+storyCount: 1
+summary: Mr. Crookes describes multiple instances of luminous phenomena, such as self-luminous bodies and luminous clouds performing various actions, under strict test conditions in the presence of a medium. During an experiment with Miss Fox, a glowing hand appeared, took a pencil from Mr. Crookes, wrote on paper, and then vanished, demonstrating the unexplained phenomena associated with modern spiritualism.
+title: Luminous Appearances in Modern Spiritualism

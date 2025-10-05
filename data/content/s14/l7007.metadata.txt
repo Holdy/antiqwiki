@@ -1,0 +1,6 @@
+location: England
+next: 7020
+previous: 6989
+storyCount: 1
+summary: The novel follows a young woman in England who feels disconnected and unfulfilled, having no close relationships and not yet experiencing love. Her life takes an unexpected turn when adventure and love finally find her, allowing her to truly live for the first time.
+title: The Silver Dress

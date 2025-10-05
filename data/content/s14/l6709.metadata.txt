@@ -1,0 +1,6 @@
+location: Devon
+next: 6722
+previous: 6694
+storyCount: 1
+summary: The novel explores the life of a young clergyman embroiled in the struggle of Ritualism in England, revealing startling facts about the country's future. Through its pages, readers encounter both the tragic personal conflicts and vivid descriptions of social life and scenery in Devon and Biarritz.
+title: A Kingdom Divided

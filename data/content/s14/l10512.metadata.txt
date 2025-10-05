@@ -1,0 +1,6 @@
+location: Bramblewood
+next: 10514
+previous: 10508
+storyCount: 1
+summary: In a remote village named Bramblewood, a young girl named Ellie discovers an old, forgotten coin that brings magical creatures into her life. As she navigates the challenges and wonders that the coin brings, Ellie learns the true power of friendship and bravery.
+title: Little Tu'penny

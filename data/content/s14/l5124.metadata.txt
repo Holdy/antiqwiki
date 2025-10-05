@@ -1,0 +1,8 @@
+coordinates: 56.03246108425648, 9.335889202487511
+location: Jutland
+next: 5161
+previous: 5054
+storyCount: 1
+summary: A mara is a mythical creature found across Scandinavia, especially in Jutland, known to be a woman by day and a tormenting spirit by night causing nightmares to humans and horses. Maras are believed to acquire their abilities through inheritance or Black Magic, allowing them to project a conscious, mischievous spirit for malevolent purposes during the night.
+tags: none
+title: Maras and Their Mystical Nature

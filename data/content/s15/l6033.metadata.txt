@@ -1,0 +1,6 @@
+location: Milan
+next: 6074
+previous: 6031
+storyCount: 1
+summary: A powerful storm orchestrated by Prospero, a magician and rightful Duke of Milan, strands a group of Italian nobles on a remote island. Through a series of magical encounters and schemes, Prospero seeks to restore his daughter Miranda's place in the world and secure his revenge.
+title: The Tempest

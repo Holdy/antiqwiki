@@ -1,0 +1,6 @@
+location: Iceland
+next: 5846
+previous: 5439
+storyCount: 1
+summary: Rerir, a Bersekir capable of transforming into a bear and a wolf, seeks revenge on Signi, a woman who rejected him, by attacking her household in his bear form, killing her mother and nearly bringing Signi harm. The attack is thwarted when a servant throws a concoction at Rerir, causing him to revert to his human form, leading to his capture and execution the next morning.
+title: The Revenge of the Bersekir Rerir

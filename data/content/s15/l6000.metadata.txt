@@ -1,0 +1,6 @@
+location: null
+next: 6005
+previous: 5997
+storyCount: 1
+summary: The collection "Dreams and Realities" presents a series of evocative poems by Rosa Mulholland. The volume offers a glimpse into the poetic exploration of various themes through Mulholland's lyrical voice.
+title: Dreams and Realities

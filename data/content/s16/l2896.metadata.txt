@@ -1,0 +1,6 @@
+location: Maidstone
+next: 3092
+previous: 2888
+storyCount: 1
+summary: The Outward stratum primarily involves mediumship where spirits utilize electrical or magnetic emanations to move objects or influence the medium's body without the participation of their spirit, beginning with vibratory phenomena and extending to impersonating mediums where the spirit fully possesses the medium. Each subsequent stratum delves deeper into different interactions between spirits and mediums, such as the Inward group where communications involve thoughts and visions, and the Onward and Upward groups which include symbolic predictions and therapeutic or missionary pursuits driven by spiritual influence, respectively.
+title: The Exploration of Mediumship Strata

@@ -1,0 +1,6 @@
+location: Norway and Sweden
+next: 5439
+previous: 5184
+storyCount: 2
+summary: In Norway and Sweden, werwolves were once prevalent, but with the rise of tourism and population, they are now mostly found in remote places like the Kiolen Mountains and Lapland. Local peasants believe in rituals involving lycanthropous water, flowers, and magical incantations to transform into werwolves, amid terrifying encounters with phantoms.
+title: Werwolves in Norway and Sweden

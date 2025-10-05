@@ -1,0 +1,6 @@
+location: Ardennes
+next: 4797
+previous: 4710
+storyCount: 1
+summary: Bernard Vernand narrowly escapes from three monstrous werwolves in the Ardennes, using his wit to climb a mountain ash for protection. The werwolves, deterred by the tree, leave disappointed, allowing Vernand to evade capture.
+title: A CASE OF WERWOLVES IN THE ARDENNES

@@ -1,0 +1,6 @@
+location: null
+next: 3009
+previous: 2934
+storyCount: 1
+summary: The story explains the nature of ghoulism, detailing how ghouls, akin to elementals, visit grave sites to feed on remains, showing a preference for brains. Ghouls can inhabit living bodies by waiting for the spirit to separate during sleep, leaving the original owner to wander as a ghost if the ghoul continues to occupy their body.
+title: Ghoulism and Lycanthropy

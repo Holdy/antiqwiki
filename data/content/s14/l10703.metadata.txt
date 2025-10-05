@@ -1,0 +1,6 @@
+location: harbor
+next: 10726
+previous: 10701
+storyCount: 1
+summary: In a quiet harbor town, the enigmatic ferryman serves as both a guide and a guardian, helping travelers navigate the mysterious and often treacherous waters. As he aids various characters, secrets about the town and the ferryman's own past are gradually revealed, challenging perceptions and deepening ties within the community.
+title: THE FERRYMAN.

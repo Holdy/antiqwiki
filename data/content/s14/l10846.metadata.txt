@@ -1,0 +1,6 @@
+location: Brixton
+next: 10847
+previous: 10828
+storyCount: 1
+summary: In Brixton, an unexpected friendship between an aspiring musician and a retired librarian blossoms as they discover their shared love for vinyl records. Their bond grows stronger as they work together to revive a once-abandoned music shop in their community.
+title: Melodies of Connection

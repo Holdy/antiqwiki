@@ -1,0 +1,6 @@
+location: Tuscany
+next: 973
+previous: 740
+storyCount: 1
+summary: In a small village in Tuscany, Maria discovers a mysterious diary hidden in her grandmother's attic. As she reads through its pages, she uncovers secrets about her family's past that could change their future forever.
+title: The Secrets of Tuscany

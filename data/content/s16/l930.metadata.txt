@@ -1,0 +1,6 @@
+location: London
+next: 981
+previous: 838
+storyCount: 1
+summary: Thomas, Lord Lyttelton experienced an unsettling dream in which a woman prophesied his death within three days, which he shared casually with those around him at his home in London. Despite maintaining a cheerful demeanor and good health through the period, he suddenly died in his bed on the third night after the dream, as predicted.
+title: Remarkable Dream of Thomas, Lord Lyttelton

@@ -1,0 +1,6 @@
+location: London
+next: 7105
+previous: 7080
+storyCount: 0
+summary: The text does not describe any particular stories but rather lists a selection of books published by Methuen and Co. Ltd. in London. As there are no narrative details, characters, or events, it does not meet the criteria for a story summary.
+title: A Selection of Books

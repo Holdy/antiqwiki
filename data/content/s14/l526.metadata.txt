@@ -1,0 +1,6 @@
+location: Orissa
+next: 1029
+previous: 128
+storyCount: 1
+summary: The story delves into the practice of lycanthropy among various cultures, focusing primarily on the Kandhs of Orissa, who possess the hereditary or magical ability to transform into wer-tigers. Several incidents are recounted, including a chilling encounter by Mr. K---- in the jungle, revealing the mystical connection between the Kandhs, their totemic tiger deity, and the supernatural transformations associated with their occult practices. Further exploration uncovers similar shapeshifting phenomena across different regions, such as wer-jaguars in Arawak and wer-leopards in West Africa, each linked to spiritual beliefs or occult practices, often resulting in brutal revenge or cannibalistic behaviors within these communities. Observations and testimonies reveal both genuine and fraudulent expressions of lycanthropy, raising questions about the mysterious Elemental forces underlying these transformations across various cultures.
+title: Werwolf Metamorphosis Compared with Other Branches of Lycanthropy

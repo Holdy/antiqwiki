@@ -1,0 +1,6 @@
+location: null
+next: 8826
+previous: 7154
+storyCount: 0
+summary: This text lists a collection of published books, mainly featuring themes related to sports, adventures, and historical figures, with several editions attributed to authors such as R. S. Surtees, William Combe, and Pierce Egan. The books cover various topics including the life of sportsmen, adventures in the navy, and tours in search of picturesque landscapes, reflecting a broad array of interests documented in 19th-century English literature.
+title: 

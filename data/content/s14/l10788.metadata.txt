@@ -1,0 +1,6 @@
+location: Copenhagen
+next: 10790
+previous: 10786
+storyCount: 1
+summary: A young sailor falls in love with a Danish girl while visiting Copenhagen, captivated by her charm and their shared moments by the sea. Despite their language barrier and differing cultures, their connection deepens, leaving him longing for her as he embarks on his next voyage.
+title: My Danish Sweetheart

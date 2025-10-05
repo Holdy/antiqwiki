@@ -1,0 +1,8 @@
+coordinates: 55.174035438386014, -3.4182058308287964
+location: Spedlin's Tower
+next: 2014
+previous: 1959
+storyCount: 1
+summary: A miller named Porteous, who was imprisoned in Spedlin's Tower by Sir Alexander Jardine and accidentally left to die, became a ghost that haunted the tower. Porteous's spirit was eventually confined by exorcists to the tower using a large black-lettered Bible, which, when once removed, caused the ghost to cross the river and disturb the Jardine family until the book was returned.
+tags: haunting
+title: The Haunting of Spedlin's Tower

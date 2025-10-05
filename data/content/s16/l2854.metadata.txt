@@ -1,0 +1,8 @@
+coordinates: 43.07046350539125, -77.10768931657697
+location: Hydesville, New York
+next: 2888
+previous: 2746
+storyCount: 1
+summary: In December 1847, the Fox family settled in Hydesville, New York, and soon experienced mysterious knockings that led to the development of 'spirit-rapping,' laying the foundation for modern Spiritualism. These phenomena, initially explored in Rochester, revealed past murders and demonstrated supernatural interactions through mediums, gaining significant public attention and leading to organized investigations.
+tags: practitioner
+title: The Rise of Modern Spiritualism

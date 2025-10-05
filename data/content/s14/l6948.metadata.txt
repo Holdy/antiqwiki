@@ -1,0 +1,6 @@
+location: London
+next: 6958
+previous: 6933
+storyCount: 1
+summary: E.V. Lucas's fourth novel, referred to as an 'Entertainment', displays a variety of peculiar characters having refined adventures set in London. Fans of his prior works might recognize familiar faces in this engaging narrative.
+title: LONDON LAVENDER: An Entertainment

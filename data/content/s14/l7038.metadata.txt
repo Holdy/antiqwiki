@@ -1,0 +1,6 @@
+location: Chicago
+next: 7052
+previous: 7020
+storyCount: 1
+summary: Betty Harris, the only child of an American millionaire, forms a unique friendship with Greek fruit-dealer Achilles Alexandrakis after witnessing the liberation of a butterfly in his shop. Their evolving relationship, set in a old-world meets new-world atmosphere in a Chicago shop, leads to an unexpected rescue.
+title: Betty Harris

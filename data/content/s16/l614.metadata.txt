@@ -1,0 +1,6 @@
+location: London
+next: 634
+previous: 541
+storyCount: 1
+summary: Nicholas Ferrar's brother, a physician in London, made a pact with his daughter that they would appear to each other after death if allowed by God, despite her initial reluctance. After the daughter's sudden death due to poison, her spirit appeared to her father, confirming her death days before any formal notification arrived.
+title: The Pact and The Spirit

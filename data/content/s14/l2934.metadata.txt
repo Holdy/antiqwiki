@@ -1,0 +1,6 @@
+location: Madveiga
+next: 2991
+previous: 2823
+storyCount: 1
+summary: In the district of Madveiga, a man named Arnold Paul was reportedly crushed to death but allegedly returned as a vampire, causing terror and multiple deaths by sucking blood from the living. The authorities intervened by exhuming and destroying several bodies found in a vampire state, which eventually ended the epidemic of vampirism in the area, with the details reported to and verified by officials of Louis XV's court.
+title: The Vampire Epidemic in Madveiga

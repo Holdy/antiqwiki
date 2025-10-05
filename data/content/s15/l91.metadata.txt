@@ -1,0 +1,6 @@
+location: England
+next: 96
+previous: 73
+storyCount: 1
+summary: The text discusses various haunted places in England. It highlights the spooky histories and ghostly activities reported at these sites.
+title: Haunted Places in England

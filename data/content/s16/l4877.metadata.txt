@@ -1,0 +1,6 @@
+location: Plymouth
+next: 4947
+previous: 4727
+storyCount: 1
+summary: In a letter from R. S. Hawker to his nephew, the debate between science and faith is discussed, highlighting science's explanation of the material universe as a collection of atoms and natural forces that shape all phenomena, but still leaving questions unanswered regarding the origin of these atoms and forces. The letter suggests turning to faith and the realms of spirituality to understand the unseen powers that govern creation, portraying immortal creatures or angels as the intermediaries fulfilling divine orders in the universe.
+title: The Claims of Science and Faith

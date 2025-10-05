@@ -1,0 +1,6 @@
+location: Peru
+next: 6618
+previous: 6600
+storyCount: 1
+summary: The story follows the adventurous journey of searching for the lost treasure of the Incas, known as 'The Big Fish,' beginning in a London auction room and culminating in the Peruvian mountains. Despite facing numerous tragic events along the way, the seekers find an unexpected conclusion to their quest, one that ultimately satisfies them both.
+title: The Big Fish

@@ -1,0 +1,6 @@
+location: Quebec
+next: 6694
+previous: 6665
+storyCount: 1
+summary: A young heir to an English earldom embarks on thrilling adventures amidst the early French-Canadian pioneers. The story is set against a backdrop of historical events, including La Salle's expeditions and unique occurrences like the marriage market in Quebec.
+title: A Wilderness Wooing

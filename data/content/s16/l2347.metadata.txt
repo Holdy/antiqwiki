@@ -1,0 +1,6 @@
+location: Glamis Castle
+next: 2365
+previous: 2335
+storyCount: 2
+summary: During a feud with the Lindsays, the Ogilvies sought refuge at Glamis Castle, where they were covertly imprisoned and left to starve, their remains still lying in an isolated chamber. This grim history was revealed when the late Lord Strathmore discovered the haunting sight of their skeletons, striking a chilling image of desperation and death.
+title: The Tragic Tale of Glamis Castle

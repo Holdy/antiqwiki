@@ -1,0 +1,6 @@
+location: Maidstone
+next: 2896
+previous: 2854
+storyCount: 1
+summary: A pamphlet written by T. Grant of Maidstone provides a systematic exposition of the principles of Modern Spiritualism. These principles, widely circulated, offer insights into the beliefs and practices associated with Spiritualism.
+title: Exploring the Principles of Modern Spiritualism

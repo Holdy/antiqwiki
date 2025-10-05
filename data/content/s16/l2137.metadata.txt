@@ -1,0 +1,6 @@
+location: Tower of London
+next: 2196
+previous: 2048
+storyCount: 1
+summary: E. Lenthal Swifte recounts a haunting experience in the Jewel House of the Tower of London in 1817, where he and his family witnessed a mysterious cylindrical apparition during supper, causing significant terror, especially to his wife who believed it had seized her. The apparitional encounter culminated in further eerie incidents, including a guard being terrified by a bear-like figure, who later died—a sequence of events for which Swifte pledges his credibility and honour.
+title: The Haunted Room in the Tower of London

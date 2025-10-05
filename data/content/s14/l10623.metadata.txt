@@ -1,0 +1,6 @@
+location: Blandford
+next: 10625
+previous: 10612
+storyCount: 1
+summary: In the small town of Blandford, the air unexpectedly shifts, bringing with it a sense of renewal and unforeseen challenges for the townspeople. Among these changes, a mysterious new resident arrives, capturing the interest and curiosity of everyone in town.
+title: A CHANGE OF AIR

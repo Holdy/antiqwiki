@@ -1,0 +1,6 @@
+location: null
+next: 5936
+previous: 5928
+storyCount: 1
+summary: A small town experiences bizarre phenomena, challenging its residents’ perceptions of reality and leading them to discover shocking truths about their past. As the mysteries unfold, a courageous group must confront their greatest fears to save the town from impending doom.
+title: FICTION

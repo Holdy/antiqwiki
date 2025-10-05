@@ -1,0 +1,6 @@
+location: Central India
+next: 6649
+previous: 6605
+storyCount: 2
+summary: Disillusioned with Western civilization, the protagonist embraces Eastern ideals and becomes a powerful white ruler in Central India. His estranged wife finds him, rekindling their relationship despite ensuing chaos that leads to the loss of his power and a desperate escape.
+title: HER SERENE HIGHNESS

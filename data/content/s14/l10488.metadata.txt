@@ -1,0 +1,6 @@
+location: null
+next: 10490
+previous: 10475
+storyCount: 1
+summary: The narrative explores the metaphorical use of 'casting nets' in the pursuit of dreams and opportunities. It illustrates how seeking new experiences can lead to personal growth and unforeseen rewards.
+title: Casting of Nets

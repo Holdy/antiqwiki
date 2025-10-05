@@ -1,0 +1,6 @@
+location: null
+next: 6868
+previous: 6841
+storyCount: 1
+summary: Lamorna watches as her cousin becomes entangled in a tragic life, falling victim to a rueful man and a malicious meddler. Lamorna's own life becomes dangerously intertwined with her cousin's troubles, forcing her to use all her resolve to avoid the traps set by an unscrupulous man.
+title: LAMORNA

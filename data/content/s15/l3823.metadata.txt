@@ -1,0 +1,6 @@
+location: Syderstone, Norfolk
+next: 3879
+previous: 3804
+storyCount: 1
+summary: Elizabeth Parsons, wife of George Parsons, experienced unexplained and frightening noises in their residence at Syderstone Parsonage over a span of nine years, beginning with violent knocks during their first year there. Despite thorough investigations revealing no visible disturbance, these noises, including crashes resembling broken sashes and shutters, persisted intermittently, primarily at night, causing great alarm.
+title: The Mysterious Noises at Syderstone Parsonage

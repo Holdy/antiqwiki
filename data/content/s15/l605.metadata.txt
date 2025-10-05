@@ -1,0 +1,6 @@
+location: small village
+next: 607
+previous: 603
+storyCount: 1
+summary: "The Head" is a suspenseful tale set in a small village where a mysterious statue has appeared overnight. The villagers are both terrified and intrigued, leading them to uncover secrets about the origins and purpose of the ominous figure.
+title: THE HEAD

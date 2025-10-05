@@ -1,0 +1,6 @@
+location: Loire
+next: 2486
+previous: 2431
+storyCount: 1
+summary: After being thrown from his horse, Abbot Gilbert was saved from wild cats by a werewolf while in a forest near a village fair. The werewolf, later revealed to be a church dignitary, lectured Gilbert and enforced penance that resulted in his resignation from the monastery.
+title: The Case of the Abbot Gilbert

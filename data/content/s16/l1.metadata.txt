@@ -1,0 +1,6 @@
+location: null
+next: 27
+previous: 0
+storyCount: 1
+summary: The volume consists of accounts and stories exploring supernatural phenomena, offering readers a collection of eerie and mysterious experiences. Frederick George Lee compiles tales exploring ghostly apparitions, spiritual encounters, and otherworldly events.
+title: The Other World; or, Glimpses of the Supernatural (Vol. 2 of 2)

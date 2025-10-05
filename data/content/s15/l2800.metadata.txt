@@ -1,0 +1,6 @@
+location: London
+next: 2802
+previous: 2667
+storyCount: 1
+summary: The protagonist embarks on a journey of self-discovery after facing a major life crisis. In the bustling streets of London, they encounter various challenges and allies that shape their path forward.
+title: Chapter VIII

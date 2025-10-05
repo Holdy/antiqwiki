@@ -1,0 +1,8 @@
+coordinates: 51.75003399560763, 10.633048445858359
+location: Harz Mountains
+next: 3159
+previous: 3009
+storyCount: 1
+summary: Germany is rich in supernatural stories, with the Rhine River known for its nymphs and sirens and the Harz Mountains famous for werwolf sightings. Though many tales of werwolves in Germany are well-known, there are still some lesser-known accounts worth exploring.
+tags: none
+title: Werwolves in Germany

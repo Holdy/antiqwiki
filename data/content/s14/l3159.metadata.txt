@@ -1,0 +1,8 @@
+coordinates: 51.75003399560763, 10.633048445858359
+location: Harz Mountains
+next: 3550
+previous: 3139
+storyCount: 1
+summary: Hellen and Schiller, while hiking in the Harz Mountains, encounter supernatural forces after Schiller injures his ankle, leading Hellen to enter a mysterious clearing and meet Wilfred, a man who claims the spot can grant wishes. As night descends and strange events unfold, including the manifestation of Hellen's family through seemingly granted wishes and a gruesome death, Hellen becomes entangled with werewolves, ending with tragic consequences tied directly to his wishes.
+tags: werewolf
+title: The Case of Herr Hellen and the Werewolves of the Harz Mountains

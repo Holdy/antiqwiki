@@ -1,0 +1,6 @@
+location: null
+next: 10522
+previous: 10518
+storyCount: 1
+summary: Arminell struggles with the rigid societal expectations of her time, which challenge her desire for independence and personal happiness. Amidst the constraints of a conventional society, she navigates her own path in search of fulfillment, facing numerous personal and social obstacles along the way.
+title: ARMINELL

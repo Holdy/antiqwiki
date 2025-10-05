@@ -1,0 +1,6 @@
+location: Manchester
+next: 10595
+previous: 10570
+storyCount: 1
+summary: Mary Barton, a young woman from a working-class family in Manchester, navigates love and social struggles during the Industrial Revolution. Her journey explores themes of class conflict and personal sacrifice as she tries to find a path of her own amid societal upheaval.
+title: Mary Barton

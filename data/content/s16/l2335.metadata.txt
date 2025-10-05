@@ -1,0 +1,6 @@
+location: the castle
+next: 2347
+previous: 2326
+storyCount: 1
+summary: A lady staying at a castle with her child experienced a mysterious cold blast that extinguished her night-light, followed by the sighting of a tall mailed figure entering her child's room. Hearing her child's scream, the lady rushed to find it terrified, describing the figure as a giant that leaned over its face.
+title: The Haunting at the Castle

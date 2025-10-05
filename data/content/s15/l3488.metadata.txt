@@ -1,0 +1,6 @@
+location: Syderstone
+next: 3622
+previous: 3383
+storyCount: 1
+summary: Reverend Spurgin recounts his night at Syderstone Parsonage, where mysterious knocks and vibrations occurred, with no identifiable source or explanation despite thorough investigation. These disturbances, reported by Mr. Stewart's family, included gentle knocks, bed vibrations, moans, groanings, and untraceable atmospheric shrieks, staunchly defying logical interpretation.
+title: Unexplained Sounds at Syderstone Parsonage

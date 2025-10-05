@@ -1,0 +1,6 @@
+location: null
+next: 6605
+previous: 6269
+storyCount: 0
+summary: The text provides a list of popular novels published by Methuen in Autumn 1912. No specific story details or plotlines for the novels are given.
+title: Methuen's Popular Novels

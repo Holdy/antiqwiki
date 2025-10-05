@@ -1,0 +1,6 @@
+location: null
+next: 10488
+previous: 10473
+storyCount: 1
+summary: Peter, the central character, strikes an unusual deal with a parasite to save himself from a dire situation. As the story unfolds, the consequences of this peculiar bargain reveal themselves in unexpected ways.
+title: Peter a Parasite

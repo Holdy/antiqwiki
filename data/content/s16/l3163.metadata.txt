@@ -1,0 +1,6 @@
+location: London
+next: 3213
+previous: 3092
+storyCount: 1
+summary: In 1862, a Church of England clergyman, initially skeptical about Spiritualism, attended a séance in Notting Hill Square, London, where he witnessed a table seemingly moved by spirits during the session. Disturbed by the event, he used a blessed crucifix and prayed for intervention, which resulted in the table becoming motionless, leading him to exhort others in the room not to participate in such activities again.
+title: The Séance in Notting Hill: A Clergyman's Account

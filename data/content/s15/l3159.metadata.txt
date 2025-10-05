@@ -1,0 +1,6 @@
+location: Greenfield
+next: 3161
+previous: 3157
+storyCount: 1
+summary: Dr. Morgan grapples with an escalating mystery as her patients in the small town of Greenfield begin to suffer from an incurable, persistent cough. As she races against time to find the cause, strange occurrences around town hint at something more sinister lurking beneath the surface.
+title: The Cough

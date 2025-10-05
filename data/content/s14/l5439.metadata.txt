@@ -1,0 +1,6 @@
+location: Soroa
+next: 5761
+previous: 5282
+storyCount: 1
+summary: Liso, a self-absorbed and spoilt woman, embarks on a journey to visit her wealthy aunt with her children, but faces a deadly ordeal involving ravenous wolves that forces her to make perilous sacrifices. After narrowly escaping the wolves, she faces a harsh reckoning with her husband over the loss of their children and is ultimately rejected, leading her to a profound realization about love.
+title: Liso of Soroa

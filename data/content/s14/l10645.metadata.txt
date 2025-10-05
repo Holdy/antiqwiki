@@ -1,0 +1,6 @@
+location: The Valley
+next: 10650
+previous: 10643
+storyCount: 2
+summary: In a tale set against the dramatic backdrop of a mysterious valley, characters navigate through complex alliances and betrayals. The story delves into the themes of trust and deception as protagonists are drawn deeper into a web of intrigue and danger.
+title: THE VALLEY OF THE SHADOW

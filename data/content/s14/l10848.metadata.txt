@@ -1,0 +1,6 @@
+location: null
+next: 10869
+previous: 10847
+storyCount: 1
+summary: Transcriber's notes detail variations and anomalies in spelling and punctuation found in the original manuscript. These include different spellings for certain words and the use of ligatures, as well as an inconsistent hyphenation of 'earth-bound'.
+title: Linguistic Anomalies in a Transcribed Text

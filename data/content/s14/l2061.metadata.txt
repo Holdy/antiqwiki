@@ -1,0 +1,6 @@
+location: null
+next: 2072
+previous: 1607
+storyCount: 2
+summary: Two wild animals, the wolf and puma, are known for surrendering when cornered, unlike other savage creatures. Many hauntings in houses are believed to be linked to the land they are built on rather than the structures themselves.
+title: Observations on Wilderness and Hauntings

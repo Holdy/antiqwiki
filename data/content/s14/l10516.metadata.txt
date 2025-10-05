@@ -1,0 +1,6 @@
+location: Frobisher
+next: 10518
+previous: 10514
+storyCount: 1
+summary: In the quaint town of Frobisher, an unexpected event brings the tight-knit community together. As they navigate this challenge, deep-rooted values and friendships are both tested and reaffirmed.
+title: The Frobishers

@@ -1,0 +1,6 @@
+location: Myra
+next: 10691
+previous: 10687
+storyCount: 1
+summary: In the ancient city of Myra, a humble sculptor discovers a mystical stone that brings his statues to life. With the help of a divine entity, his creations inspire the townspeople and transform the once-dull city into a place of wonder and reverence.
+title: THE GODDESS

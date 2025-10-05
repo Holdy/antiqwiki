@@ -1,0 +1,8 @@
+coordinates: 51.88924379997562, -0.8222656822370344
+location: Creslow, Buckinghamshire
+next: 1892
+previous: 1844
+storyCount: 1
+summary: A ghostly lady haunts a sleeping chamber in the oldest part of Creslow Manor House, emerging from the crypt and entering through a specific door. Visitors have reported hearing her stately or hurried movements, often accompanied by the distinctive rustle of a silk dress.
+tags: haunting
+title: The Ghost of Creslow Manor

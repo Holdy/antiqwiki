@@ -1,0 +1,6 @@
+location: Orsk
+next: 2061
+previous: 1597
+storyCount: 1
+summary: Tina Peroviskei, a wealthy widow from Moscow, marries Ivan Baranoff, who is later discovered to be a werwolf after strange and terrifying events occur at his ancestral home near Orsk. With the help of a Colonel and a priest, werewolves are confronted and defeated, but their spirits are believed to continue haunting the site despite efforts of exorcism.
+title: The Curse of Orsk

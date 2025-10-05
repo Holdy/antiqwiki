@@ -1,0 +1,6 @@
+location: England
+next: 6897
+previous: 6868
+storyCount: 1
+summary: The story revolves around a wealthy English landowner who leads a double life due to the consequences of abducting an Italian noble's daughter in his youth. The novel explores themes such as Italian Spiritualism and includes familiar characters from Bagot's previous book, The Passport.
+title: DARNELEY PLACE

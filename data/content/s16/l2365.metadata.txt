@@ -1,0 +1,6 @@
+location: Cardiff, South Wales
+next: 2399
+previous: 2347
+storyCount: 1
+summary: Captain S and his wife experienced a terrifying encounter with a ghostly carriage while traveling late at night on a haunted road near Cardiff, where they saw spectral figures seemingly without heads. Efforts by local landowners to alter the landscape to remove the apparition's influence have been unsuccessful, as the eerie figures continue to haunt and frighten those passing through the area.
+title: The Haunting of the Monmouth Road

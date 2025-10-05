@@ -1,0 +1,6 @@
+location: Shane Garth
+next: 2800
+previous: 2431
+storyCount: 1
+summary: Fitzsimmons, heartbroken over the departure of his wife, is haunted by supernatural occurrences in his home, culminating in a tragic encounter with the ghost of Rosalie, who had committed suicide due to alleged influences of the coombe. After Rosalie's death is confirmed by a doctor to be from strychnine poisoning, Fitzsimmons decides to leave Shane Garth with his children, vowing never to return to the cursed coombe.
+title: The Haunting at Shane Garth

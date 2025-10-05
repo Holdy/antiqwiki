@@ -1,0 +1,6 @@
+location: Innsbruck
+next: 4296
+previous: 3838
+storyCount: 1
+summary: Madame Mildau, a beautiful and admired woman in Innsbruck, cunningly deceives her husband to attend three balls in one night, highlighting her desire for admiration and social triumphs. However, on her return home, she encounters a mysterious man claiming to be a werwolf, who, after binding her, spares her life in exchange for her husband's, leaving her grateful only for the safety of her diamonds.
+title: A Werewolf in Innsbruck

@@ -1,0 +1,6 @@
+location: Norwich
+next: 2427
+previous: 1959
+storyCount: 1
+summary: Miss Smith and Miss Raven, two fashion designers, embark on a countryside walk near Norwich and end up at a mysteriously gloomy ruin known for its haunted reputation, where they experience eerie phenomena including a changing shadow in a deep pool which quickly becomes a roaring whirlpool. Terrified, the women flee but get lost in a foggy quagmire until a ghostly figure resembling a local hunchback, who had drowned years earlier, leads them back to safety, only to vanish after unsuccessfully attempting to hand Miss Smith a reticule.
+title: The Reticule

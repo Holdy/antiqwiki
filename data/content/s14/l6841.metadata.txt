@@ -1,0 +1,6 @@
+location: Connemara
+next: 6855
+previous: 6828
+storyCount: 1
+summary: In the wilds of Connemara, a withdrawn man suffering from melancholia finds solace in hunting across the mountains and bogs. His life takes a turn when Sally Stannard arrives, drawing him out of his solitude, leading to a series of romantic complications.
+title: Sally

@@ -1,0 +1,6 @@
+location: Somerset
+next: 614
+previous: 535
+storyCount: 1
+summary: Captain William Dyke and Major George Sydenham, two friends and skeptics from Somerset, made a pact to appear to the other after death to confirm the existence of an afterlife, but when Major Sydenham died, no apparition appeared to Captain Dyke at the agreed-upon time. However, weeks later, Captain Dyke claimed to have seen the ghost of Major Sydenham in Eton, delivering a warning about a just and terrible God, which profoundly impacted Dyke's life before his own death two years later.
+title: The Pact and the Ghost of Major Sydenham

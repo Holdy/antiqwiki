@@ -1,0 +1,8 @@
+coordinates: 57.070243234864904, -3.6692330003980214
+location: Ben MacDhui
+next: 2431
+previous: 2072
+storyCount: 2
+summary: In a small village near Ben MacDhui, a shepherd named Colin Graeme recounts a tale passed down from his grandfather about a man named Tam McPherson, who linked the village's history with suspicions of a local named Saunderson being a werewolf, living in a cave full of mysterious bones. The narrative expands beyond Scotland, recounting similar werewolf legends from Wales and Ireland, involving curses that transformed individuals into wolves.
+tags: werewolf approx
+title: The Tale of Saunderson the Werewolf and Other Legends

@@ -1,0 +1,6 @@
+location: Crystal Springs
+next: 10670
+previous: 10666
+storyCount: 1
+summary: In the small town of Crystal Springs, a mysterious cedar tree is believed to grant a single wish to those who truly need it. When young Peter discovers the tree's secret, he must decide whether to use the wish for himself or to help his sister, who dreams of becoming a dancer.
+title: THE CEDAR STAR

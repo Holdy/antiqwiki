@@ -1,0 +1,6 @@
+location: London
+next: 6788
+previous: 6758
+storyCount: 1
+summary: The story follows a girl in London who is sent to work by her stepmother and takes control of her career, leading her to new opportunities. Her journey includes adventures in various parts of the city, showcasing her relationships and the person to whom she is devoted.
+title: Devoted Sparkes

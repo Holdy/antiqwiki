@@ -1,0 +1,6 @@
+location: Carcassonne
+next: 10728
+previous: 10703
+storyCount: 1
+summary: Giles Ingilby embarks on a quest to find the legendary artifact believed to be hidden in the ancient city of Carcassonne. Facing numerous challenges and adversaries, Giles must use his wits and courage to unlock the secrets of Carcassonne and secure his legacy.
+title: Giles Ingilby's Quest

@@ -1,0 +1,6 @@
+location: null
+next: 6033
+previous: 6020
+storyCount: 1
+summary: Sir John Falstaff, known for his larger-than-life personality, is a comedic character in Shakespeare's plays who often finds himself in humorous situations. He is particularly famous for his wit, charm, and complex moral tones which bring light-heartedness to the narratives in which he appears.
+title: The Falstaff Shakespeare

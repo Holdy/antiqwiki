@@ -1,0 +1,6 @@
+location: Belgium
+next: 4753
+previous: 4296
+storyCount: 1
+summary: In Belgium, werewolf stories are prevalent and often hereditary, occurring frequently along the sea coast sand-dunes and the district of the Sambre. Various methods of exorcism, such as sprinkling with specific compounds, are employed, although their efficacy remains uncertain, while plants like rye, mistletoe, and mountain ash are used as safeguards.
+title: The Werwolf in Belgium and the Netherlands

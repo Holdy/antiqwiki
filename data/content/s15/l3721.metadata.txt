@@ -1,0 +1,6 @@
+location: Syderstone
+next: 3775
+previous: 3720
+storyCount: 1
+summary: John Spurgin writes to the Norfolk Chronicle, defending the integrity of Mr. Stewart and his family against accusations of trickery regarding unexplained noises at the Syderstone Parsonage. Despite suspicions of ventriloquism or mechanical devices, Spurgin insists the occurrences could not have been staged by the family, as mysterious disturbances have reportedly been heard for over thirty years.
+title: Mysterious Noises at Syderstone Parsonage

@@ -1,0 +1,6 @@
+location: Madeira
+next: 7098
+previous: 7064
+storyCount: 1
+summary: An English Member of Parliament vacationing in Madeira in 1912 becomes unintentionally involved in a plot against the Republican Government. After being captured by the conspirators, he escapes and experiences various adventures on the rugged landscapes of the island, amid a backdrop of a love story.
+title: The Ace of Hearts

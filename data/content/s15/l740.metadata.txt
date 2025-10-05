@@ -1,0 +1,6 @@
+location: Sudbury
+next: 971
+previous: 607
+storyCount: 1
+summary: Brown became obsessed with a ghostly figure lacking a head he saw and tracked down mediums and stories about the apparition, leading him to a peculiar séance as suggested by Madame Valenspin, a psychic, accompanied by the de Roscovis in Sudbury. During the séance, a supposed spirit claims the ghost was a murdered girl unable to show her head, and when the phantom finally appears, Brown chases after it only to find a terrifying disembodied head that laughs at him in the moonlight.
+title: The Headless Phantom of Sudbury

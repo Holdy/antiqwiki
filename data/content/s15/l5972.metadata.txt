@@ -1,0 +1,6 @@
+location: null
+next: 5977
+previous: 5967
+storyCount: 1
+summary: Mary O'Murrough returns to her homeland after several years, only to find that much has changed in her absence. She must navigate the challenges of reconnecting with her past and forging a future in a land that feels both familiar and new.
+title: The Return of Mary O'Murrough

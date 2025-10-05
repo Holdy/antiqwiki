@@ -1,0 +1,6 @@
+location: Lambeth
+next: 62
+previous: 1
+storyCount: 1
+summary: The book 'Glimpses of the Supernatural' edited by Rev. Frederick George Lee explores various paranormal topics such as dreams, omens, and apparitions through facts, records, and traditions. This collection is divided into themes like witchcraft, necromancy, and warnings, offering a comprehensive look into the supernatural realm.
+title: The Other World

@@ -1,0 +1,6 @@
+location: sand-dunes
+next: 4916
+previous: 4797
+storyCount: 2
+summary: Von Grumboldt and Nina Gosset discover a mysterious girdle on the sand-dunes, which turns Von Grumboldt's dog into a terrifying werwolf-like creature before Nina manages to remove it, reverting the dog back to its normal state. Realizing its dark powers, they decide to burn the girdle to prevent further harm and reflect on the efficacy of destruction by fire to dispel supernatural influences.
+title: A Case on the Sand-Dunes

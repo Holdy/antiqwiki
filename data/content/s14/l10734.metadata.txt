@@ -1,0 +1,6 @@
+location: Scottish estate
+next: 10739
+previous: 10732
+storyCount: 1
+summary: Set in the historical grounds of a Scottish estate, the narrative follows the experiences of a young governess employed at an old manor where she uncovers secrets of the past. As she delves deeper into the mysteries surrounding the estate, she finds herself becoming increasingly entangled in the lives and histories of its inhabitants.
+title: The Lady's Walk

@@ -1,0 +1,6 @@
+location: null
+next: 1844
+previous: 1674
+storyCount: 1
+summary: The text discusses the longstanding belief in haunted houses and localities where evil spirits, particularly those of the condemned, are thought to linger due to their misdeeds committed there. Christian tradition, as well as writings by figures like John Wesley and the Marquis de Marsay, support the idea of spirits returning to their places of sin to haunt them, which persists despite modern skepticism.
+title: Haunted Houses and Localities

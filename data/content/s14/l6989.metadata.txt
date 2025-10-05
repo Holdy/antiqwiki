@@ -1,0 +1,6 @@
+location: Sussex
+next: 7007
+previous: 6972
+storyCount: 1
+summary: Mary Pechell is a sweeping tale set in a quiet Sussex village, revolving around Mary Pechell's irresistible charm and the backdrop of a historic castle tied to an ancient romance. The narrative contrasts her story with Miss Rose Charnwood's middle-aged romance, highlighting themes of love in its varied forms.
+title: MARY PECHELL

@@ -1,0 +1,6 @@
+location: Cheshire
+next: 2504
+previous: 2365
+storyCount: 1
+summary: A family who moved into an old-fashioned mansion in Cheshire experienced unsettling noises and ghostly apparitions, including that of an old man with a sorrowful face and a large wig, leading to the departure of guests and servants who believed the house was haunted. Despite initial skepticism, the experiences culminated in an intense encounter with the ghost that altered the brother's disbelief in haunted locations, and later, tradition revealed the mansion was associated with a historical tale of murder.
+title: The Haunting of the Cheshire Mansion

@@ -1,0 +1,6 @@
+location: France
+next: 10758
+previous: 10751
+storyCount: 2
+summary: A young adventurer travels through 17th century France seeking both fortune and revenge. His journey is marked by betrayal, friendship, and a quest for justice.
+title: THE TRAIL OF THE SWORD

@@ -1,0 +1,6 @@
+location: France
+next: 6112
+previous: 6097
+storyCount: 1
+summary: Baron Hyde de Neuville's memoirs narrate his perilous experiences during the French Revolution and his subsequent roles as a diplomat. The volumes cover his narrow escapes in France and his diplomatic missions to the United States and Portugal.
+title: The Memoirs of Baron Hyde de Neuville

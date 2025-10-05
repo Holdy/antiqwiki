@@ -1,0 +1,6 @@
+location: Syderstone
+next: 3910
+previous: 3823
+storyCount: 1
+summary: Thomas Mase experienced unexplained noises and disturbances while staying at Syderstone Parsonage, once hearing a deafening crash that seemed to come from a falling chimney, but found everything intact upon investigation. On another occasion, Mase was certain he heard a door opening which he knew required lifting to move, yet found it closed as he left it, leaving him perplexed about the origins of these events.
+title: Unexplained Noises at Syderstone Parsonage

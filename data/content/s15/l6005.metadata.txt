@@ -1,0 +1,6 @@
+location: null
+next: 6010
+previous: 6000
+storyCount: 0
+summary:  
+title: THE STATION PLATFORM, And Other Verses

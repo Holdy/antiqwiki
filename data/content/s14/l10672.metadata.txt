@@ -1,0 +1,6 @@
+location: Marchmont
+next: 10677
+previous: 10670
+storyCount: 1
+summary: In the quaint town of Marchmont, the elusive Miser Hoadley guards a mysterious secret, stirring intrigue amongst the townsfolk. The story navigates through local theories and legends surrounding Hoadley's hidden mystery, promising unexpected revelations.
+title: Miser Hoadley's Secret

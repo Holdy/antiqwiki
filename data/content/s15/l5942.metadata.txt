@@ -1,0 +1,6 @@
+location: null
+next: 5947
+previous: 5936
+storyCount: 0
+summary: The text provides the title "Mystics All" by the author Enid Dinnis, indicating its publication format and price. However, there is no actual story content provided within the text to summarize.
+title: MYSTICS ALL

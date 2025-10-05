@@ -1,0 +1,6 @@
+location: null
+next: 6679
+previous: 6649
+storyCount: 1
+summary: An English girl named Elaine Westcourt, raised in harsh conditions, finds that new opportunities bring sinister challenges as she enters a world fraught with terror. Her reluctant journey is dictated by a harsh fate that plunges her into darkness, revealing the grim implications for herself and those around her.
+title: HAUNTING SHADOWS; or, The House of Terror

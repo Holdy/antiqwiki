@@ -1,0 +1,6 @@
+location: null
+next: 10807
+previous: 10797
+storyCount: 3
+summary: The story of "The Love That Overcame" unfolds in the midst of socio-political challenges as a couple navigates their tumultuous relationship. Their love ultimately triumphs over the various adversities they face together, reinforcing themes of resilience and unity.
+title: The Love That Overcame

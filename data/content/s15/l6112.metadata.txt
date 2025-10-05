@@ -1,0 +1,6 @@
+location: Paris
+next: 6125
+previous: 6100
+storyCount: 1
+summary: Mgr. de Salamon served as a papal envoy in Paris during the tumultuous period of the French Revolution, offering a first-hand account of the events. His memoirs highlight the dangers he faced, frequently being close to death, while presenting historical insights into the era.
+title: A Papal Envoy During the Reign of Terror

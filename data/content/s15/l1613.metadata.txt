@@ -1,0 +1,6 @@
+location: the bustling city
+next: 1615
+previous: 1339
+storyCount: 1
+summary: The protagonist embarks on a journey to the bustling city where unexpected challenges test their resolve. Amidst the urban chaos, they encounter allies and adversaries who shape their path forward.
+title: City Trials
