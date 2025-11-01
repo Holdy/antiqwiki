@@ -1,0 +1,8 @@
+coordinates: 52.834708387149036, -3.4480428035974398
+location: Melangell
+next: 314
+previous: 147
+storyCount: 1
+summary: St. Melangell lived a solitary life in the Montgomeryshire mountains, avoiding marriage arranged by her father, and befriending animals for fifteen years before meeting Prince Brochwel during a hare hunt. Impressed by her holiness and the miraculous events surrounding her, the Prince granted her land to found a sanctuary, where Melangell protected hares and continued her devout life.
+tags: saint
+title: St. Melangell and Her "Lambs"

@@ -1,0 +1,7 @@
+location: Reading
+next: 1295
+previous: 1207
+storyCount: 1
+summary: "Summer Is Icumen In" celebrates the arrival of summer through vivid imagery of nature's renewal and joyous sounds, as creatures and landscapes come to life. The poem uses the repetitive and cheerful call of the cuckoo to emphasize the season's lively atmosphere.
+tags: none
+title: Summer Is Icumen In

@@ -1,0 +1,7 @@
+location: Fowey
+next: 1311
+previous: 1114
+storyCount: 1
+summary: The song 'John Dory' commemorates the bravery of a Cornish seaman named Nicholas who defeated the Genoese adversary John Dory, believed to be employed by the French king, in a fierce sea battle. Fowey, an ancient Cornish seaport, famed for its mariners' valorous exploits, provided a significant number of ships for Edward III's fleet, and its sailors were renowned participants in historical naval engagements such as those against the Armada.
+tags: none
+title: The Story of John Dory

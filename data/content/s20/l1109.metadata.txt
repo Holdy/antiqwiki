@@ -1,0 +1,8 @@
+coordinates: 51.431208378187016, -1.561522605371705
+location: Littlecote Manor
+next: 1207
+previous: 1024
+storyCount: 1
+summary: In the dead of night, a village nurse was taken under mysterious circumstances to a manor where she witnessed a masked man kill a newborn baby, only to later realize that the incident was real when she discovered a grim token from the scene. The manor was identified as Littlecote, and "Wild Darrell," believed responsible for the heinous crime, escaped death through bribery but could not escape the spectral hauntings that led to his own untimely end.
+tags: folklore
+title: The Story of Wild Darrell

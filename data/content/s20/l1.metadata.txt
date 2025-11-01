@@ -1,0 +1,6 @@
+location: null
+next: 30
+previous: 0
+storyCount: 0
+summary: There is no story content provided in the text of 'Legend Land, Vol. 4'. The text includes information about the ebook's publication and usage rights instead.
+title: Legend Land, Vol. 4

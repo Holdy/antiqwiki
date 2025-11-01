@@ -1,0 +1,8 @@
+coordinates: 52.95223064064862, -4.381283637584083
+location: Lleyn
+next: 573
+previous: 413
+storyCount: 1
+summary: In Carnarvonshire, North Wales, a village girl named Grace neglected her duty of covering the well she tended, leading to a flood that created Llyn Glasfryn, and as a punishment, she was transformed into a swan, doomed to swim the lake until the Day of Judgment. The region, full of legends and historic tales, is also known for its scenic beauty, from its dramatic coastlines to its mountains, attracting sportsmen, artists, and those seeking tranquillity.
+tags: folklore
+title: The Swan of Glasfryn

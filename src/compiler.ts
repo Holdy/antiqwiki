@@ -106,6 +106,7 @@ const knownUECategory: string[] = [
     "ghost-ship",
     "witch",
     "folklore-giant",
+    "arthurian",
     "sunken-settlement",
     "haunting",
     "saint",

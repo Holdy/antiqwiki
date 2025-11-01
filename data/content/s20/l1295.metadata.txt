@@ -1,0 +1,7 @@
+location: null
+next: 0
+previous: 1264
+storyCount: 0
+summary: The transcriber's note highlights the preservation of original spellings and the silent correction of obvious typos in the text. The cover was designed by Distributed Proofreaders and is placed in the public domain, while 'Lyonesse' is a pseudonym for George Basil Barham.
+tags: none
+title: Transcriber's Note

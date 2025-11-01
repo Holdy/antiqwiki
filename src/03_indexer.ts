@@ -217,6 +217,8 @@ function pause(seconds) {
 }
 
 async function go() {
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s20");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s19");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s18");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s17");
     await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s16");

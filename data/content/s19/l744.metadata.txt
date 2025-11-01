@@ -1,0 +1,8 @@
+coordinates: 50.22000049788328, -4.8027966806748275
+location: Dodman Point
+next: 833
+previous: 655
+storyCount: 1
+summary: Dodman Point, a headland on the south coast of Cornwall, earned its name from a legend about a giant who terrorized the locals until a clever doctor engineered his demise by bleeding him and pushing him off the cliff. The giant's death led the headland to be known as 'Deadman' or 'Dodman,' and the story has been passed down through generations as the explanation for the name, celebrating the doctor's bravery.
+tags: giant
+title: The Legend of Dodman Point

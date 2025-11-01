@@ -1,0 +1,6 @@
+location: Western Britain
+next: 66
+previous: 1
+storyCount: 1
+summary: This volume of 'Legend Land' is a collection of ancient tales from the regions served by the Great Western Railway in Western Britain. These stories cover various locations including the Malvern Hills, Cadbury Castle, and the Rollright Stones.
+title: Legend Land: Western Tales of Old Britain

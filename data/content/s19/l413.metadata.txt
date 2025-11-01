@@ -1,0 +1,8 @@
+coordinates: 52.86001152741844, -4.1090945214243835
+location: Harlech
+next: 488
+previous: 314
+storyCount: 1
+summary: Bronwen, a British princess, was married to the Irish king Matholwch, but after a series of insults and mistreatment, she was relegated to being a cook in his palace. Unable to communicate her plight to her brother Bran due to interference from the Irish, Bronwen ingeniously sent a message via a starling, prompting Bran to launch a rescue mission which led to a tragic battle where Bran died, and Bronwen survived him only briefly before passing away, broken-hearted.
+tags: folklore
+title: Bronwen and the Starling

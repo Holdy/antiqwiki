@@ -1,0 +1,8 @@
+coordinates: 50.10645230056993, -5.383251806688703
+location: Pengersick Castle
+next: 921
+previous: 744
+storyCount: 1
+summary: Grim tales surrounded the original Pengersick Castle and its inhabitants, particularly a lord who dabbled in sorcery and his mysterious Saracen bride whose enchanting voice could tame even the foulest practices. Their extraordinary lives ended abruptly when the castle was consumed by flames on a stormy night, leading to their mysterious disappearance and the eventual construction of a new, more peaceful version of the castle.
+tags: practitioner
+title: The Charmer of Pengersick

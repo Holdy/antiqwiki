@@ -1,0 +1,8 @@
+coordinates: 51.97554282606755, -1.5707752902053034
+location: Rollright Stones
+next: 230
+previous: 103
+storyCount: 1
+summary: The Rollright Stones, situated on a spur of the Cotswold hills, are said to be remnants of a king and his army who were transformed into stone by a witch, as they were about to conquer England but were thwarted by treachery and magic. The king became the "King Stone," while his five conspiring knights turned into 'Whispering Knights,' and his soldiers into a stone circle, all surrounded by elder trees believed to be linked to the witch's curse.
+tags: witch
+title: The Whispering Knights

@@ -1,0 +1,8 @@
+coordinates: 52.279295989760676, -1.5848948003679726
+location: Warwick
+next: 665
+previous: 494
+storyCount: 1
+summary: Guy, Earl of Warwick, known for his valorous deeds, including the defeat of a giant and the legendary Dun Cow, chose to live a life of solitude disguised as a hermit near his home in Warwick. Before his death, he sent his wedding ring to Lady Phyllis, who joined him in his final moments, marking a poignant close to their story, which echoes through the halls of Warwick's heritage.
+tags: folklore
+title: Guy, of Guy's Cliff

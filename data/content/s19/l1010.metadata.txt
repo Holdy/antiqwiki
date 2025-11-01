@@ -1,0 +1,8 @@
+coordinates: 50.221433541285464, -5.246413777030965
+location: Rosewarne
+next: 1114
+previous: 921
+storyCount: 1
+summary: Ezekiel Grosse, an avaricious attorney who obtained Rosewarne through shady means, was haunted by a ghostly figure promising gold, leading him to great wealth but eventual isolation and misery due to the spectre's persistent presence at his gatherings. In the end, Ezekiel was forced to give up his wealth to his clerk to rid himself of the ghost, which ultimately led to his lonely death, allegedly attended by demons at his funeral.
+tags: folklore
+title: The Spectre of Rosewarne

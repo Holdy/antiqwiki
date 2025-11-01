@@ -1,0 +1,7 @@
+location: Reading
+next: 1264
+previous: 1109
+storyCount: 1
+summary: A monk in Reading Abbey composed the song 'Sumer is icumen in' between 1226 and 1240, capturing the essence of Spring with its simple yet expressive melody. Today, the remains of the Abbey and other historical sites in Reading continue to reflect the town's rich history, with the original song manuscript displayed at the British Museum.
+tags: none
+title: A Song of the XIII Century

@@ -1,0 +1,6 @@
+location: Whispering Knights
+next: 103
+previous: 30
+storyCount: 2
+summary: In "The Whispering Knights", the story unfolds around a mysterious group of stones in a field that seem to come to life with secrets of the past when the wind blows through them. The legend suggests that these stones are ancient knights, cursed and brought to life only by whispers carried by the wind, creating an eerie and enchanting atmosphere.
+title: The Whispering Knights

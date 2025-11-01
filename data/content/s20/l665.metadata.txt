@@ -1,0 +1,8 @@
+coordinates: 51.613748644432064, -0.8797238923049998
+location: Fingest
+next: 754
+previous: 583
+storyCount: 1
+summary: Bishop Burghersh of Fingest, known for his tyrannical behavior and land theft during his lifetime, is said to haunt the village of Fingest, seeking to return the stolen land for peace in death. The ghostly bishop roams the fields, pleading for the land to be restored to its rightful owners, as the villagers and subsequent landholders continue to ignore his restless spirit.
+tags: named-ghost
+title: The Ghostly Bishop of Fingest

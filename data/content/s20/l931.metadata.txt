@@ -1,0 +1,8 @@
+coordinates: 51.55765622200044, -0.7796421077457261
+location: Bisham Abbey
+next: 1024
+previous: 840
+storyCount: 1
+summary: The ghost of Lady Hobby haunts Bisham Abbey, unable to find peace after having beaten her son, Hobby, to death centuries ago for not keeping his schoolwork neat. Her spirit is a curious site, appearing with reversed colors and constantly trying to wash her hands in a basin she can never reach, symbolizing her eternal guilt.
+tags: named-ghost
+title: The Ghost of Bisham Abbey

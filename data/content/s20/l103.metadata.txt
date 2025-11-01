@@ -1,0 +1,6 @@
+location: London
+next: 146
+previous: 66
+storyCount: 2
+summary: The collection of tales in Volume Four includes historic and pre-historic romances, featuring legends from areas near cities like London, Birmingham, and Bristol. Stories such as 'Herne the Hunter' and 'King Arthur's Camelot' reflect both the rich folklore tied to famous figures and the enduring nature of these ancient narratives.
+title: Legend Land Volume Four

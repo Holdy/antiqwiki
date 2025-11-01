@@ -1,0 +1,6 @@
+location: Cornwall
+next: 30
+previous: 0
+storyCount: 1
+summary: In Cornwall, a tale unfolds about an ancient standing stone formation believed to come alive under the full moon. Villagers speak of the mysterious stones dancing and the hidden treasure they guard beneath the earth.
+title: The Dancing Stones of Cornwall

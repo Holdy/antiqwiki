@@ -1,0 +1,8 @@
+coordinates: 50.1155083716875, -5.379689866945001
+location: Rame Head
+next: 1010
+previous: 833
+storyCount: 1
+summary: Saint Germanus was sent by the Roman Emperor to Cornwall to correct religious heresies but faced resistance and hostility from the local population who preferred their traditional beliefs. After being persecuted and almost attacked by a mob, Saint Germanus was miraculously saved by angels in a fiery chariot and later returned overseas to continue his mission.
+tags: saint
+title: How St. German Left Cornwall

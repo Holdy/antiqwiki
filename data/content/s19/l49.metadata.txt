@@ -1,0 +1,6 @@
+location: Western Britain
+next: 68
+previous: 30
+storyCount: 1
+summary: The text is a publication titled 'Legend Land,' which is a collection of old tales from Western Britain. This volume, published by the Great Western Railway in 1923, includes stories retold by Lyonesse.
+title: Legend Land

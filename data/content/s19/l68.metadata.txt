@@ -1,0 +1,6 @@
+location: null
+next: 104
+previous: 49
+storyCount: 1
+summary: A prince has an unusual confrontation with a mouse, leading to a surprising outcome. This narrative explores themes of power, mercy, and the unexpected impact of small creatures.
+title: A Prince who would hang a Mouse

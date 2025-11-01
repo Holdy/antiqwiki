@@ -1,0 +1,8 @@
+coordinates: 50.37749196425495, -5.129233686049742
+location: Perran Bay
+next: 1213
+previous: 1010
+storyCount: 1
+summary: In the hamlet of Ellenglaze, near Perran Bay, a young Lord builds a fourth hall, undeterred by warnings of the sands that previously consumed the area, but after a fierce storm and the threat of the sands approaching, his bride persuades him to spare an old witch, prompting a miraculous stream that saves the hall. This stream, created by tears from a kiss given by the bride to the old woman, prevents the sands from advancing, ensuring the safety of Ellenglaze as long as it continues to flow.
+tags: witch site
+title: The Legend of the Four Halls

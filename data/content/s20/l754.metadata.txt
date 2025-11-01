@@ -1,0 +1,8 @@
+coordinates: 51.56635408411138, -1.5956649629932709
+location: Berkshire Downs
+next: 840
+previous: 665
+storyCount: 1
+summary: Wayland Smith, believed to be a deity related to Thor, settled in Pagan England and eventually took up a blacksmith's trade, offering to shoe horses for a silver penny at a remote cave near the ancient Ridgeway in the Berkshire Downs. Though few people visit now, it's said that if you follow the correct procedure, you might still have your horse shod by the legendary smith for a sixpence.
+tags: folklore
+title: Wayland Smith and His Cave

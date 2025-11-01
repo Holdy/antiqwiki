@@ -1,0 +1,6 @@
+location: Western Britain
+next: 49
+previous: 1
+storyCount: 1
+summary: The story recounts old tales from Western parts of Britain, highlighting mythical and historical locations served by the Great Western Railway. Each legend brings to life the mystique and folklore associated with places like Narberth Castle and Harlech Castle.
+title: Legend Land

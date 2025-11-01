@@ -1,0 +1,8 @@
+coordinates: 51.59870013781257, -4.936789135587744
+location: St. Govan's Head, Pembrokeshire
+next: 655
+previous: 488
+storyCount: 1
+summary: The story of St. Govan’s Chapel, located at St. Govan’s Head in Pembrokeshire, tells of a saint who sought refuge from pirates and pagan tribes with the help of a magical rock that opened to hide him. Today, the chapel remains a site of wonder where visitors believe the rock and surrounding well possess healing and wish-granting powers, preserving the legendary miracles associated with St. Govan.
+tags: saint
+title: The Wonders of St. Govan’s Chapel

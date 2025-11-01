@@ -1,0 +1,8 @@
+coordinates: 51.79648947773277, -4.7429610962272415
+location: Narberth Castle
+next: 231
+previous: 104
+storyCount: 1
+summary: Prince Manawyddan and his daughter-in-law faced a mysterious calamity when their corn fields were ravaged by mice, leading the prince to capture one with the intent to hang it, despite various attempts by strangers to ransom the creature. In a twist, the final stranger revealed himself as a sorcerer whose wife had been transformed into the mouse, leading to a bargain that restored the prince's family and lands to prosperity.
+tags: wizard
+title: A Prince Who Would Hang a Mouse

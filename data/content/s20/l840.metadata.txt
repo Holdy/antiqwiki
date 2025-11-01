@@ -1,0 +1,7 @@
+location: Windsor Forest
+next: 931
+previous: 754
+storyCount: 1
+summary: Herne the Hunter, once a beloved royal keeper renowned for his hunting skills, becomes the victim of a jealous conspiracy led by his fellow foresters who are aided by a mysterious dark stranger. After Herne's apparent suicide during a thunderstorm, a ghostly figure resembling him with stag horns begins haunting Windsor Forest, leading the King to discover the foresters' deception and punishing them, although the ghostly huntsman continues his spectral chase.
+tags: none
+title: Herne the Hunter

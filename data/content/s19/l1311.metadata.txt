@@ -1,0 +1,7 @@
+location: Fowey
+next: 0
+previous: 1213
+storyCount: 2
+summary: The text describes how to sing the traditional 'Three Man’s Song,' a precursor to the 'Round,' highlighting the step-by-step process for three singers to harmonize sequentially. The second story addresses a translation note and offers insights into the rendering of a phrase about revenge from old French to modern English, elucidating language intricacies from a historical context.
+tags: none
+title: How to Sing a 'Three Man's Song' and More

@@ -1,0 +1,8 @@
+coordinates: 51.75962249743218, -3.577550518389526
+location: Craig-y-Ddinas
+next: 413
+previous: 231
+storyCount: 1
+summary: A Welshman from Llantrisant encounters a mysterious man on London Bridge who leads him to King Arthur and his sleeping knights' hidden treasure inside a cave at Craig-y-Ddinas, cautioning him not to ring the bell that could awaken the warriors. The Welshman initially succeeds but eventually becomes greedy, returns for more gold, inadvertently rings the bell again, and in failing to respond to the awakened knights, suffers a brutal beating that leaves him impoverished and unable to find the treasure again.
+tags: arthurian
+title: Where King Arthur Sleeps

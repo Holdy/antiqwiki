@@ -1,0 +1,8 @@
+coordinates: 51.22612178006389, -2.67275127058707
+location: Wookey
+next: 583
+previous: 413
+storyCount: 1
+summary: The Witch of Wookey, known for her malice driven by rejection, blighted the crops and sowed discord with the help of imps until a brave monk from Glastonbury Abbey confronted and petrified her, neutralizing the threat she posed to Somersetshire. To this day, visitors can see her petrified form in Wookey Hole, a testament to the monk's exorcism, while exploring the historic and scenic surroundings of Wells and Glastonbury.
+tags: witch
+title: The Witch of Wookey and the Monk's Exorcism

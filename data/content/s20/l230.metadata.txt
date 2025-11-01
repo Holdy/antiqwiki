@@ -1,0 +1,8 @@
+coordinates: 52.02562247618915, -2.3503746172407807
+location: Little Malvern
+next: 324
+previous: 146
+storyCount: 1
+summary: A rebellious monk from Little Malvern was ordered to crawl on hands and knees to the top of Raggedstone Hill as punishment, ultimately cursing the hill's shadow to bring misfortune upon those it touched. The curse is said to have affected figures such as Cardinal Wolsey, who experienced misfortune after the shadow fell upon him during his time as a tutor near Raggedstone.
+tags: curse
+title: The Shadow Curse of the Raggedstone

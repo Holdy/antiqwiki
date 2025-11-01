@@ -1,0 +1,8 @@
+coordinates: 51.02448915928599, -2.5316284613799245
+location: Cadbury Castle
+next: 494
+previous: 324
+storyCount: 1
+summary: The countryside's tradition claims Cadbury Castle as King Arthur’s Camelot, where Arthur kept court with his knights and the legendary Round Table. Witnesses report that on moonlit nights, King Arthur and his knights can be seen amidst the remnants of Camelot's ancient fortifications, riding in formation towards Glastonbury's fabled Avalon.
+tags: arthurian
+title: King Arthur’s Camelot

@@ -1,0 +1,6 @@
+location: Cornwall
+next: 147
+previous: 68
+storyCount: 1
+summary: In a remote village in Cornwall, a kind-hearted woodcutter named Alistair stumbles upon a mysterious enchanted forest known to be the home of the mythical fey creatures. Despite local legends warning of dire consequences, Alistair ventures deep into the woods, seeking to understand the secrets hidden within its enchanted glades.
+title: The Enchanted Forest of Cornwall

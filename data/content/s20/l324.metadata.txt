@@ -1,0 +1,8 @@
+coordinates: 51.38096850967347, -2.3594578839927856
+location: Bath
+next: 413
+previous: 230
+storyCount: 1
+summary: Prince Bladud, afflicted with leprosy, discovered the hot springs near Bath when his pigs rolled in the hot mud and were cured of their skin diseases. Cured himself, Bladud built a city at the site of his healing, which became known as Bath, a city famed for its healing waters even before the Romans popularized it as Aquæ Sulis.
+tags: folklore
+title: How Bath Was Discovered

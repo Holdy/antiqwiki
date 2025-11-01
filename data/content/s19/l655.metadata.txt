@@ -1,0 +1,8 @@
+coordinates: 50.043497265115086, -5.636114474682551
+location: Treen Castle
+next: 744
+previous: 573
+storyCount: 1
+summary: The Small Folk, known to many as fairies, tend their unique gardens around the rugged Cornish coast, particularly near Treen Castle, where these magical spaces are filled with vibrant flowers and mesmerizing lights at night. These elusive creatures are known for their joyful nighttime gatherings and the enchanting music that fishermen occasionally hear from their boats, but they are also known to mischievously punish those who disturb them, though they later bestow good fortune to those who wish them well.
+tags: fairy
+title: The Fairy Gardens of Treen
