@@ -1,0 +1,6 @@
+location: Padstow
+next: 1249
+previous: 1131
+storyCount: 1
+summary: "The May Morning Song" is a traditional song celebrating the arrival of summer, encouraging people to unite and partake in joyful activities like gathering flowers and singing. The verses involve various characters being called upon to embrace the seasonal change with festive cheer, set against the backdrop of Padstow.
+title: The May Morning Song

@@ -1,0 +1,8 @@
+coordinates: 50.1171564007357, -5.477955490588012
+location: St. Michael's Mount
+next: 562
+previous: 390
+storyCount: 1
+summary: Cormoran, a giant, built St. Michael's Mount from huge stones carried from nearby granite hills, with the help of his Giantess wife, Cormelian, who did much of the laborious work. After catching Cormelian using greenstone instead of the required grey, Cormoran scolded her, resulting in her dropping the greenstone, which remains isolated and known as Chapel Rock.
+tags: giant
+title: The Giants Who Built the Mount

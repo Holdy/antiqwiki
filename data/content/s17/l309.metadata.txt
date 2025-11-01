@@ -1,0 +1,8 @@
+coordinates: 50.35832788637148, -5.155182954760209
+location: Cornwall
+next: 390
+previous: 231
+storyCount: 1
+summary: St. Piran, a pious man from South Ireland, performed numerous miracles but was cast into the sea with a millstone by jealous locals; miraculously, the storm abated and he drifted safely to Cornwall on the millstone. In Cornwall, he converted the locals to Christianity, discovered tin, significantly impacting the economy, and left a lasting legacy, particularly commemorated in the district of the Perran Sands where he lived and died.
+tags: saint
+title: How St. Piran at Perran Beach

@@ -1,0 +1,8 @@
+coordinates: 50.138752091725635, -5.6573156265936255
+location: St. Just
+next: 1131
+previous: 964
+storyCount: 1
+summary: On a moonless night, two miners returning home from Morvah encounter a mysterious, dark-robed horseman near the Hooting Carn, who leads them to a supernatural gathering at the hill's summit. Amid a spectral wrestling match illuminated by the horseman's fiery eyes, the miners witness a ghostly company that vanishes in thunder and wind upon hearing a holy prayer, revealing the secret behind the eerie phenomena of the Carn Kenidjack.
+tags: haunting
+title: The Hooting Carn

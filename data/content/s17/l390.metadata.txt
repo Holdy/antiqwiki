@@ -1,0 +1,8 @@
+coordinates: 50.314566825528, -5.060713968097929
+location: St. Allen
+next: 479
+previous: 309
+storyCount: 1
+summary: A young boy from the parish of St. Allen near Trefronick, Cornwall vanished while picking flowers but was found unharmed two days later, claiming to have been in an enchanted kingdom of piskies. The wise folk believed this experience marked the boy as special, leading to a long, prosperous life under the piskies' care, and their presence is still said to grace the area today.
+tags: piskie approx
+title: The Lost Child of St. Allen

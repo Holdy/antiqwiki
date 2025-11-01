@@ -1,0 +1,8 @@
+coordinates: 50.188656022137714, -5.436342852661493
+location: Lelant Church
+next: 798
+previous: 633
+storyCount: 1
+summary: Old Richard, while returning home from St. Ives, witnessed a mysterious piskie funeral at Lelant Church during midnight, where tiny piskies mourned their Queen's death. As Richard joined the lamentations, the lights went out and the piskies fled in panic, leaving Richard convinced he barely escaped with his life.
+tags: piskie
+title: The Piskie's Funeral

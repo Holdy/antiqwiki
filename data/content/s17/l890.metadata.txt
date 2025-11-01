@@ -1,0 +1,7 @@
+location: Aberystwyth
+next: 970
+previous: 816
+storyCount: 1
+summary: Old Megan Llandunach cleverly fooled the devil, disguised as a cowled monk, by tossing a bread crust across the newly built bridge, causing her dog to be the first living being to cross the bridge instead of herself. Upon realizing he had been tricked, the devil vanished in smoke, but the bridge he built remained, allowing Megan to retrieve her lost cow from the other side of the gorge.
+tags: none
+title: The Old Woman Who Fooled the Devil

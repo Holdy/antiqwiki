@@ -1,0 +1,6 @@
+location: Padstow
+next: 1293
+previous: 1165
+storyCount: 1
+summary: "The Day Song" merges local tradition with scenes of summer celebration and nautical imagery, depicting the transition from winter to summer in highly symbolic verses. The narrative touches on local elements, like the fetching of St. George, and contrasts English and French seafarers, all within the cultural context of Padstow, a notable fishing town in Cornwall.
+title: The Day Song

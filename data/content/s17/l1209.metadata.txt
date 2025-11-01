@@ -1,0 +1,7 @@
+location: Helston, Cornwall
+next: 0
+previous: 1160
+storyCount: 1
+summary: The Furry Dance is a traditional event in Helston, Cornwall, known for preserving old customs and music played on the pipe and tabor. This picturesque town serves as a perfect backdrop for this relic of the past and draws those interested in the history and mystery of Cornwall.
+tags: none
+title: The Furry-Dance Tune

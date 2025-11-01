@@ -1,0 +1,8 @@
+coordinates: 50.51657482786348, -4.4581353923852785
+location: St. Cleer
+next: 309
+previous: 157
+storyCount: 1
+summary: In ancient time, the people of St. Cleer were so fervent about their traditional game of Hurling that they neglected their Sunday church services, prompting the local saint to transform those who defied him into standing stones, known as "The Hurlers," still visible today on Craddock Moor. This transformation served as a permanent symbol of the consequences of impiety, casting a timeless reminder within the wild, expansive landscapes of Cornwall.
+tags: folklore
+title: The Stone Men of St. Cleer

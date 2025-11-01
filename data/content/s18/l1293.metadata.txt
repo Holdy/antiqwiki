@@ -1,0 +1,6 @@
+location: null
+next: 0
+previous: 1249
+storyCount: 1
+summary: The text lists various locations and pages from a document related to the Great Western Railway (G.W.R), focusing on different places such as St. Neot, Lelant Church, and Padstow. These appear to be contents or chapter headings from a publication titled 'The Line to Legend Land, Vol. Two', suggesting stories or descriptions related to these places.
+title: The Line to Legend Land

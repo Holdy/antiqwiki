@@ -1,0 +1,7 @@
+location: merry England
+next: 1209
+previous: 1133
+storyCount: 1
+summary: The song celebrates the arrival of summer and pays homage to legendary figures such as Robin Hood and Saint George while emphasizing the joy of a seasonal festival. It also includes a playful jab at the Spaniards and wishes for peace in England, combining folklore with a sense of national pride.
+tags: none
+title: The Furry-Day Song

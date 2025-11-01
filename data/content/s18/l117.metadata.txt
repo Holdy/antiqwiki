@@ -1,0 +1,6 @@
+location: Dartmoor
+next: 156
+previous: 81
+storyCount: 2
+summary: The western parts of the country are rich with legend, particularly in the Devon region where stories center around the wild landscapes of Dartmoor, often featuring the devil and ancient tales. Cornish stories, such as those about Lyonesse and Parson Dodge, combine historical elements with older myths, celebrating the timeless appeal of these narratives.
+title: Lyonesse

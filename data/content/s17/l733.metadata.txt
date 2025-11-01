@@ -1,0 +1,8 @@
+coordinates: 51.88190715232489, -5.2689339244781435
+location: St. Davids
+next: 816
+previous: 652
+storyCount: 1
+summary: St. David, born to a pious Welsh princess named Non and a barbarous chief, established a sanctuary known as 'The Monk's Dyke' on lands given by his remorseful grandfather, leading a peaceful life of conversion and miracles. Following his death, a cathedral was built in his honor in the city of St. Davids, a unique and picturesque location on the Welsh coast that visitors can still explore today.
+tags: saint
+title: St. David and His Mother

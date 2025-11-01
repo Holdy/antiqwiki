@@ -1,0 +1,8 @@
+coordinates: 50.03335995994569, -5.263143233980825
+location: Cury
+next: 1044
+previous: 886
+storyCount: 1
+summary: An old man from Cury helps a stranded mermaid return to the sea and in return, she grants him the powers to heal sickness, break spells, and find thieves. He fulfills his promise and carries her back to the ocean, later returning to a designated rock to receive his gifts, along with a comb that ensures her presence whenever he needs it.
+tags: merfolk
+title: The Old Man of Cury

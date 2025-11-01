@@ -1,0 +1,8 @@
+coordinates: 50.359844539580614, -4.167120729030333
+location: Plymouth
+next: 480
+previous: 323
+storyCount: 1
+summary: Drake's friendly demon magically transformed wood chips into gunboats to help him defend against the Spanish Armada. The demon also sped up the construction of Buckland Abbey's outbuildings, startling a servant who observed the spectral builders.
+tags: folklore
+title: The Demon Who Helped Drake

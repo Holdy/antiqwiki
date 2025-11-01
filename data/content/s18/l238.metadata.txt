@@ -1,0 +1,8 @@
+coordinates: 50.592440027655954, -3.4438429017208825
+location: Dawlish
+next: 323
+previous: 156
+storyCount: 1
+summary: A parson known for his violent temper became lost on a stormy night while journeying to visit a dying bishop at Dawlish, guided by his parish clerk. After a night of revelry with mysterious companions at the behest of a stranger guide, the parson and clerk were transformed into rocks off the Dawlish coast, legend attributing this to their encounter with demons.
+tags: folklore
+title: The Parson and the Clerk

@@ -1,0 +1,7 @@
+location: Padstow
+next: 1165
+previous: 1044
+storyCount: 1
+summary: May Day in Padstow, located on the north Cornish coast, is celebrated with the traditional Hobby Horse Dance accompanied by two ancient tunes. Padstow's May songs, dating back to the Middle Ages, have evolved over time but continue to play a vital role in the festivity, despite the challenges of fitting their irregular verses to the music.
+tags: none
+title: Padstow and Its May Day Songs

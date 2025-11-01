@@ -1,0 +1,8 @@
+coordinates: 50.46770855620234, -3.8077116051280075
+location: Dean Combe
+next: 401
+previous: 238
+storyCount: 1
+summary: After the death of a skilled weaver named Knowles from Dean Combe, his ghost appears weaving at his loom until a priest forces him to leave. As punishment for his worldly desires, the weaver's spirit is transformed into a hound and condemned to an eternal task at Hound's Pool.
+tags: canine
+title: The Weaver and the Hound

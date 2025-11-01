@@ -1,0 +1,8 @@
+coordinates: 51.88162654143112, -3.742098294365015
+location: Llandovery
+next: 733
+previous: 562
+storyCount: 1
+summary: A cowherd from near Llandovery falls in love with a beautiful lady who emerges from Llyn-y-Fan-Fach, and she agrees to marry him under the condition that he must never strike her thrice without cause. Years later, after the third inadvertent blow, she leaves, returning to the lake with their livestock, and their sons grow up to be famous doctors thanks to her mystical influence.
+tags: folklore
+title: The Lady of Llyn-y-Fan Fach

@@ -1,0 +1,6 @@
+location: London
+next: 117
+previous: 59
+storyCount: 1
+summary: The content list of a book includes a variety of stories such as 'The Church the Devil Stole' and 'The Parson and the Clerk,' with a separate supplement dedicated to 'The Padstow May Day Songs.' The book comprises a collection of legends from Devon and Cornwall as indicated by the maps provided within the book.
+title: The Line to Legend Land

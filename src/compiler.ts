@@ -105,8 +105,10 @@ const knownUECategory: string[] = [
     "unavoidable-fate",
     "ghost-ship",
     "witch",
+    "folklore-giant",
     "sunken-settlement",
     "haunting",
+    "saint",
     "grave",
 ];
 

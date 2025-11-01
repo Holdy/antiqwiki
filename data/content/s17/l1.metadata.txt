@@ -1,0 +1,6 @@
+location: Zennor
+next: 57
+previous: 0
+storyCount: 2
+summary: Legend Land, Vol. 1, is a collection of stories tied to specific locations in the United Kingdom, weaving folklore with familiar geography. The book includes tales about places like Zennor, St Michael's Mount, and Perran Sands, known for their rich mythological associations.
+title: Legend Land, Vol. 1

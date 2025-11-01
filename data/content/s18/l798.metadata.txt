@@ -1,0 +1,8 @@
+coordinates: 50.383891190245066, -4.560236521648827
+location: Talland
+next: 886
+previous: 714
+storyCount: 1
+summary: Parson Dodge, renowned for his supernatural prowess, was called to Lanreath to banish a terrifying ghost that haunted the moor in a black coach with headless horses. Upon encountering the spectre, Dodge's exorcisms were so powerful that the ghost fled, allowing him to rescue his unconscious fellow parson from danger.
+tags: haunting approx
+title: The Spectre Coach

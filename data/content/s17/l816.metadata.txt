@@ -1,0 +1,8 @@
+coordinates: 51.57651695194606, -4.102244600304373
+location: Gower Peninsula
+next: 890
+previous: 733
+storyCount: 1
+summary: During a wedding celebration at Pennard Castle on the Gower Peninsula, drunken revelers mistakenly disrupted a fairy gathering, provoking the fairies' vengeful plan to bury the village in sand. Although the fairies' efforts failed to completely cover the castle, the surrounding lands were destroyed, marking the decline of the once prosperous area.
+tags: fairy
+title: The Vengeance of the Fairies

@@ -1,4 +1,4 @@
-fairy elle-maid fay wild-woman
+fairy elle-maid fay wild-woman piskie
 household-spirit brownie nisse nis tomte
 haunting ghost
 merfolk Merrow 
@@ -8,6 +8,7 @@ folklore hill-man
 folklore dwarf
 folklore witching
 dwarf hill-man 
+folklore-giant giant
 
 water-people nixen nixes
 folklore banshee

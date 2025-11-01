@@ -1,0 +1,6 @@
+location: Western Parts of Britain
+next: 79
+previous: 1
+storyCount: 1
+summary: "Legend Land" is a collection of old tales from the western parts of Britain, as told by Lyonesse. These stories were published in 1922 by the Great Western Railway to preserve regional folklore.
+title: Legend Land

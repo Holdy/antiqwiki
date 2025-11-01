@@ -1,0 +1,8 @@
+coordinates: 50.54981770982856, -4.145398369951404
+location: Tavistock
+next: 633
+previous: 401
+storyCount: 2
+summary: In Tavistock, a thousand years ago, lived a giant named Ordulph, known for his extraordinary strength which he demonstrated by effortlessly destroying city gates and walls during a visit with King Edward to Exeter. Tavistock church contains one of Ordulph's thigh bones.
+tags: folklore-giant physical
+title: The Samson of Tavistock

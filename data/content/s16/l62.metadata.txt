@@ -2,5 +2,5 @@ location: null
 next: 93
 previous: 27
 storyCount: 0
-summary:  
+summary: The contents list of Volume II outlines chapters on spectral appearances, haunted localities, and discussions on modern spiritualism. The book also includes a summary and conclusion chapter, providing a comprehensive exploration of these themes.
 title: 

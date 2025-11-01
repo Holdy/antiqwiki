@@ -1,0 +1,7 @@
+location: Zennor
+next: 115
+previous: 57
+storyCount: 1
+summary: The story of 'The Mermaid of Zennor' narrates the enchanting tale of a mysterious mermaid who visits the village of Zennor, captivating the local people with her voice. Ultimately, it is revealed that she lures a young man named Mathew Trewhella back to the sea, never to be seen again.
+tags: none
+title: The Mermaid of Zennor

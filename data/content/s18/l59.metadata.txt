@@ -1,0 +1,6 @@
+location: null
+next: 81
+previous: 1
+storyCount: 0
+summary: The text introduces a collection of folk tales from the Western regions of Britain serviced by the Great Western Railway. This volume, published in 1922 by the railway company itself, seeks to retell these old stories.
+title: Legend Land

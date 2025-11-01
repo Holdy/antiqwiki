@@ -1,0 +1,6 @@
+location: null
+next: 157
+previous: 79
+storyCount: 0
+summary: In the foreword, the author reflects on the tradition of storytelling in simpler times, where legends and tales were shared around fires on winter nights, evolving slowly through generations. The author encourages readers to cherish and preserve these stories, which connect us to the dawn of history, even as the practice of storytelling changes with the advent of widespread literacy and books.
+title: 

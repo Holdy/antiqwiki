@@ -1,0 +1,7 @@
+location: Helston, South Cornwall
+next: 1160
+previous: 1050
+storyCount: 1
+summary: Furry Day, celebrated annually on May 8th in Helston, South Cornwall, is a vibrant holiday where townspeople collect flowers and dance through the streets and homes. The festival's origins are debated, with some linking it to Roman Floralia or a Cornish victory, and its music and lyrics reflect an Elizabethan era influence.
+tags: none
+title: The Furry Day Song

@@ -1,0 +1,8 @@
+coordinates: 50.60326508104305, -4.162459146051316
+location: Brent Tor
+next: 238
+previous: 117
+storyCount: 1
+summary: In the village near Brent Tor, the Devil stole a newly built church during a dark autumn night, placing it atop the hill to mock the villagers. However, the villagers summoned a bishop who dedicated the church on the hill to St. Michael, resulting in the Archangel defeating the Devil and securing the church's position.
+tags: devil
+title: The Church the Devil Stole

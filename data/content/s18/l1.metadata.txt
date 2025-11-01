@@ -1,0 +1,6 @@
+location: Tavistock
+next: 59
+previous: 0
+storyCount: 2
+summary: The book "Legend Land, Vol. 2" is a collection of folklore and legends from the English countryside focused on specific locales. It includes stories set in places like Tavistock and Brent Tor, offering a mystical exploration of these historic sites.
+title: Legend Land, Vol. 2

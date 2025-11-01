@@ -1,0 +1,8 @@
+coordinates: 50.54227413981535, -4.549763315032913
+location: Cornwall
+next: 652
+previous: 479
+storyCount: 1
+summary: Tregeagle, once an evil man of Cornwall, finds himself condemned to endless torment after his death by performing impossible tasks set by Churchmen to save his soul from demons. His tasks include emptying Dozmary Pool with a perforated shell, spinning sand ropes, and moving sands between beaches, all of which are reset by natural forces or demon intervention, ensuring his perpetual struggle near Cornwall's rugged coasts.
+tags: folklore
+title: The Tasks of Tregeagle

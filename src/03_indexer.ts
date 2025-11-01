@@ -131,43 +131,46 @@ function indexFile(directory: string, fileName: string): void {
  *  2) Linking if files together. (previous and next links)
  */
 export async function indexItemsIn(directory: string): Promise<void> {
-  // find the 'l' files
-  const entries = fs
-    .readdirSync(directory)
-    .filter((entry) => entry.match(PART_FILENAME_PATTERN));
+    // find the 'l' files
+    const entries = fs
+        .readdirSync(directory)
+        .filter((entry) => entry.match(PART_FILENAME_PATTERN));
 
-  entries.sort((a, b) => {
-    if (a.match(PART_FILENAME_PATTERN) && b.match(PART_FILENAME_PATTERN)) {
-      const aNum = Number(a.replace("l", "").replace(".txt", ""));
-      const bNum = Number(b.replace("l", "").replace(".txt", ""));
-      return aNum - bNum;
-    } else {
-      return a < b ? 1 : -1;
-    }
-  });
+    entries.sort((a, b) => {
+        if (a.match(PART_FILENAME_PATTERN) && b.match(PART_FILENAME_PATTERN)) {
+            const aNum = Number(a.replace("l", "").replace(".txt", ""));
+            const bNum = Number(b.replace("l", "").replace(".txt", ""));
+            return aNum - bNum;
+        } else {
+            return a < b ? 1 : -1;
+        }
+    });
 
-  const partFiles = entries.filter((entry) =>
-    entry.match(PART_FILENAME_PATTERN)
-  );
+    const partFiles = entries.filter((entry) =>
+        entry.match(PART_FILENAME_PATTERN)
+    );
 
-  let previousItemNumber = 0;
-  for (let index = 0; index < partFiles.length; index++) {
-    const entry = partFiles[index];
+    let previousItemNumber = 0;
+    for (let index = 0; index < partFiles.length; index++) {
+        const entry = partFiles[index];
 
-    const fullFilePath = path.join(directory, entry);
-    console.log("would index: " + fullFilePath);
+        const fullFilePath = path.join(directory, entry);
+        console.log("would index: " + fullFilePath);
 
-    indexFile(directory, entry);
+        indexFile(directory, entry);
 
-    const nextFileNumber =
-      index + 1 < partFiles.length
-        ? numberFromFilename(partFiles[index + 1])
-        : 0;
-    const fileNumber = numberFromFilename(entry);
-    const indexFileName = path.join(directory, `l${fileNumber}.metadata.txt`);
+        const nextFileNumber =
+            index + 1 < partFiles.length
+                ? numberFromFilename(partFiles[index + 1])
+                : 0;
+        const fileNumber = numberFromFilename(entry);
+        const indexFileName = path.join(
+            directory,
+            `l${fileNumber}.metadata.txt`
+        );
 
-    // TODO - -preserve summary and title
-    /*  Providate a 2 sentence summary and the title (made up if necessary) of the story below.
+        // TODO - -preserve summary and title
+        /*  Provide a 2 sentence summary and the title (made up if necessary) of the story below.
             If there's no story, set the containsStory boolean to false.
 
             -- The summary will be shown in search results,
@@ -176,58 +179,61 @@ export async function indexItemsIn(directory: string): Promise<void> {
                 title will be the title.
         */
 
-    const indexData = readDataObjectFileIfPresent(indexFileName);
+        const indexData = readDataObjectFileIfPresent(indexFileName);
 
-    indexData.previous = previousItemNumber;
-    indexData.next = nextFileNumber;
+        indexData.previous = previousItemNumber;
+        indexData.next = nextFileNumber;
 
-    if (!indexData.summary) {
-      const story = fs
-        .readFileSync(indexFileName.replace(/\.metadata\./, "."))
-        .toString();
-      const [error, data] = await getStorySynopsis(story);
-      if (!error) {
-        indexData.summary = data.summarySentence1 + " " + data.summarySentence2;
-        indexData.storyCount = data.storyCount;
-        indexData.title = data.storyTitle;
-        indexData.location = data.mainLocation;
-      } else {
-        // if (error.message.toLowerCase().includes("rate limit")) {
-        console.log("pausing for rate limit");
-        await pause(60);
-      }
+        if (!indexData.summary) {
+            const story = fs
+                .readFileSync(indexFileName.replace(/\.metadata\./, "."))
+                .toString();
+            const [error, data] = await getStorySynopsis(story);
+            if (!error) {
+                indexData.summary =
+                    data.summarySentence1 + " " + data.summarySentence2;
+                indexData.storyCount = data.storyCount;
+                indexData.title = data.storyTitle;
+                indexData.location = data.mainLocation;
+            } else {
+                // if (error.message.toLowerCase().includes("rate limit")) {
+                console.log("pausing for rate limit");
+                await pause(60);
+            }
+        }
+
+        const directoryParts = directory.split("/");
+        const slugPrefix = directoryParts[directoryParts.length - 1];
+        const slug = `${slugPrefix}-l${fileNumber}`;
+
+        writeDataObjectFile(indexData, indexFileName);
+        await postprocessStoryMetadata(slug, indexData);
+        previousItemNumber = fileNumber;
     }
-
-    const directoryParts = directory.split("/");
-    const slugPrefix = directoryParts[directoryParts.length - 1];
-    const slug = `${slugPrefix}-l${fileNumber}`;
-
-    writeDataObjectFile(indexData, indexFileName);
-    await postprocessStoryMetadata(slug, indexData);
-    previousItemNumber = fileNumber;
-  }
 }
 
 function pause(seconds) {
-  return new Promise((resolve) => setTimeout(resolve, seconds * 1000));
+    return new Promise((resolve) => setTimeout(resolve, seconds * 1000));
 }
 
 async function go() {
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s16");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s14");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s18");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s17");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s16");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s14");
 
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s11");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s10");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s9");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s8");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s7");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s1");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s2");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s3");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s4");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s5");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s6");
-  await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s0");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s11");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s10");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s9");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s8");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s7");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s1");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s2");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s3");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s4");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s5");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s6");
+    await indexItemsIn("/Users/Shared/projects/antiqwiki/data/content/s0");
 }
 
 go();

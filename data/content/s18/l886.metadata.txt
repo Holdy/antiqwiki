@@ -1,0 +1,8 @@
+coordinates: 52.22872153470472, -0.2724239137736883
+location: St. Neot
+next: 964
+previous: 798
+storyCount: 1
+summary: St. Neot, a tiny saint, famously demonstrated his power over animals when wild stags helped plough the monks' fields after thieves stole their oxen. His miraculous intervention with the hunted doe also led a huntsman to forsake his path for a religious life, showcasing St. Neot's divine influence.
+tags: saint
+title: St. Neot, the Pigmy Saint

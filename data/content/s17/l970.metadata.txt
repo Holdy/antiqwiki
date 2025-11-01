@@ -1,0 +1,7 @@
+location: Fishguard Bay
+next: 1050
+previous: 890
+storyCount: 1
+summary: In Pembrokeshire during the Napoleonic wars, Welsh women in red cloaks and black hats successfully tricked a French invading army into believing they were British soldiers, leading to the invaders surrendering just days after landing. The invading force, largely composed of criminals, was eventually returned to France after the British government threatened to release them on the French coast if not retrieved.
+tags: none
+title: The Women Soldiers of Fishguard

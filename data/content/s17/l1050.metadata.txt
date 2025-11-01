@@ -1,0 +1,8 @@
+coordinates: 52.8706935033263, -3.6482675399092295
+location: Bala Lake
+next: 1133
+previous: 970
+storyCount: 1
+summary: A legend from the neighborhood of Bala Lake, Merionethshire, tells of the original town that once thrived where the lake is now, which was engulfed by water due to the unchecked overflow of a well after its guardian neglected to cover it. The lake, now five miles long, is believed to continue growing, eventually threatening to overtake the new Bala and the village of Llanfor, as the spirit of the well remains unappeased.
+tags: folklore
+title: How Bala Lake Began

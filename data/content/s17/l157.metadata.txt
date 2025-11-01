@@ -1,0 +1,7 @@
+location: Zennor
+next: 231
+previous: 115
+storyCount: 1
+summary: A mysterious, beautiful woman regularly attended the church in Zennor, captivating the village with her appearance and singing voice, before disappearing with local young man Mathey Trewella, who never returned. Years later, a ship's captain reported seeing a mermaid in the sea who asked him to move his anchor, revealing she was Mathey's wife, which led the Zennor villagers to create a carving commemorating the tale in their church.
+tags: none
+title: The Mermaid of Zennor
